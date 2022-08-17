@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+            "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slow_extraction_main_unit_excursion",
+                "query": "replace main unit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md"
+                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md"
               }
             }
           },
@@ -150,15 +151,15 @@
   },
   "active": "36b24f514f156b26",
   "lastOpenFiles": [
-    "Sticky Notes.md",
+    "Eliott/Stray Fields/Transfer matrix using tracking at injection.md",
+    "Eliott/Stray Fields/Gradient felt at East extraction.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
+    "Sticky Notes.md",
     "Eliott/Quadrupole scan/Super-cycle length.md",
     "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Eliott/Quadrupole scan/Attachments/initial_parameters_comparison.png",
-    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump.png",
-    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump (2).png",
-    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump 1.png"
+    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump.png"
   ]
 }
