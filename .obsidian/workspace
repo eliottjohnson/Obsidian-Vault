@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ded07f7dc9f7ed04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Eliott/Quadrupole scan/Super-cycle length.md",
             "mode": "source",
             "source": false
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Super-cycle length.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Super-cycle length.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Super-cycle length.md"
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md"
               }
             }
           },
@@ -129,24 +141,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "36b24f514f156b26",
   "lastOpenFiles": [
-    "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Sticky Notes.md",
+    "Eliott/Quadrupole scan/EDMS document East Dump.md",
+    "Eliott/Quadrupole scan/Super-cycle length.md",
     "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Eliott/Quadrupole scan/Attachments/initial_parameters_comparison.png",
     "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump.png",
     "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump (2).png",
-    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump 1.png",
-    "Eliott/Quadrupole scan/Attachments/quad_scan_focal_mwpc_no_screen_in.gif"
+    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump 1.png"
   ]
 }

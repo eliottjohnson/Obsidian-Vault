@@ -17,4 +17,4 @@ Mail from Marc Delrieux on 16.08.2022
 * In practice: 2 cycles EAST for every 10 BP for users
 * Consecutive to EAST should be avoided as the SMH57 might heat up too much
 
-Use case would be to have 1 or 2 60E+10 protons per SC for a SC of 24 BP
+**Use case would be to have 1 or 2 60E+10 protons per SC for a SC of 24 BP**

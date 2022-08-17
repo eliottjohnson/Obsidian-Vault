@@ -10,11 +10,13 @@ The East Dump line allows setting the beam up for the different lines in the Eas
 
 1) Protons per spill max which equates to the protons per cycle
 
-Minimum protons per pulse (ppp)  is 6E+11 during the shortest super-cycle which is 24 cycle. As one cycle is 1.2 s, the shortest supercycle is 28.8 s and thus the minimum protons per second is 2.1E+10 p/s.
+See [[Super-cycle length]] information.
 
-3) Minimum intensity required for the dump to be useful is 1 cycle per supercycle
-	* Specifiy protons per second (on average)
-	* What is the shortest supercycle length
+Minimum protons per pulse (ppp)  is 6E+11 during the shortest super-cycle which is 24 BP. As one BP 1.2 s, the shortest super cycle is 28.8 s and thus the minimum protons per second is 2.1E+10 p/s.
+
+3) Minimum intensity required for the dump to be useful is 1 cycle per super cycle
+	* Specify protons per second (on average)
+	* What is the shortest super cycle length
 4) T Energy (kinetic): 2 GeV -> 23 GeV
 	* In momentum converts to 2.8 to 24 GeV/c
 	* Beam momentum would range from 2.78 GeV/c to 23.92 GeV/c
@@ -32,4 +34,3 @@ Minimum protons per pulse (ppp)  is 6E+11 during the shortest super-cycle which 
 	* etc
 8) Add the BTV profiles from measurements [[BTV filters]].
 
-Conclusion
