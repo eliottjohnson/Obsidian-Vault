@@ -9,3 +9,6 @@ Here's the beam size I expect at the East dump wall. I show on the left plot the
 Optics of the East Dump line
 
 ![[east_dump_optics.png]]
+
+BTV profiles
+![[btv_profiles.png]]

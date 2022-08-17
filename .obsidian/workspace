@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Theory.md",
+            "file": "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Theory.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Theory.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Theory.md"
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md"
               }
             }
           },
@@ -157,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ded07f7dc9f7ed04",
+  "active": "36b24f514f156b26",
   "lastOpenFiles": [
-    "Eliott/Stray Fields/PS Stray field.md",
+    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Theory/Theory.md",
+    "Eliott/Stray Fields/PS Stray field.md",
     "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
     "Eliott/Stray Fields/Field map visualization.md",
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
     "Eliott/Quadrupole scan/Optics F61 T8.md",
     "Eliott/Quadrupole scan/Dispersion measurement.md",
-    "Eliott/Quadrupole scan/Initial parameter slider tool.md",
-    "Eliott/Quadrupole scan/Method to find initial parameters.md",
-    "Eliott/Quadrupole scan/Parallel beam.md"
+    "Eliott/Quadrupole scan/Initial parameter slider tool.md"
   ]
 }
