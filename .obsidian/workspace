@@ -19,11 +19,9 @@
         "id": "ded07f7dc9f7ed04",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Eliott/Quadrupole scan/BTV filters.md",
-            "mode": "source",
-            "source": false
+            "file": "Eliott/Quadrupole scan/Attachments/btv_profiles.png"
           }
         }
       }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/BTV filters.md",
+                "file": "Eliott/Quadrupole scan/Attachments/btv_profiles.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/BTV filters.md",
+                "file": "Eliott/Quadrupole scan/Attachments/btv_profiles.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/BTV filters.md"
+                "file": "Eliott/Quadrupole scan/Attachments/btv_profiles.png"
               }
             }
           },
@@ -157,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ded07f7dc9f7ed04",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
     "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/Quadrupole scan/Attachments/east_dump_optics.png",
+    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump (2).png",
+    "Eliott/Quadrupole scan/BTV filters.md",
     "Theory/Theory.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/Stray Fields/PS Stray field.md",
     "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
     "Eliott/Stray Fields/Field map visualization.md",
-    "Eliott/Quadrupole scan/East Area Initial parameters.md",
-    "Eliott/Quadrupole scan/Optics F61 T8.md",
-    "Eliott/Quadrupole scan/Dispersion measurement.md",
-    "Eliott/Quadrupole scan/Initial parameter slider tool.md"
+    "Eliott/Quadrupole scan/East Area Initial parameters.md"
   ]
 }

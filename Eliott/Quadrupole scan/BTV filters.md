@@ -2,7 +2,7 @@
 
 [PS logbook event](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3552466)
 
-BTV video on [](https://videos.cern.ch/record/1750709)
+[BTV video on the deployement of Beam observation TV](https://videos.cern.ch/record/1750709)
 
 **Filters setting:**
 * no_filter
