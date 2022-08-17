@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,7 +157,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ded07f7dc9f7ed04",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
     "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
