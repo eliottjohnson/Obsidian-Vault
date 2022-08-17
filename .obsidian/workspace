@@ -9,31 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+            "file": "Eliott/Quadrupole scan/Super-cycle length.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "b6f789420c985ea6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7bbafb09cc7069d0",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Sticky Notes.md"
           }
         }
       }
@@ -99,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Eliott/Quadrupole scan/Super-cycle length.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Eliott/Quadrupole scan/Super-cycle length.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md"
+                "file": "Eliott/Quadrupole scan/Super-cycle length.md"
               }
             }
           },
@@ -158,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58e5bfeb61f06e7d",
+  "active": "36b24f514f156b26",
   "lastOpenFiles": [
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
-    "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
+    "Sticky Notes.md",
     "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Eliott/Quadrupole scan/Attachments/initial_parameters_comparison.png",
     "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump.png",
     "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump (2).png",
     "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump 1.png",
-    "Eliott/Quadrupole scan/Attachments/quad_scan_focal_mwpc_no_screen_in.gif",
-    "Eliott/Quadrupole scan/Attachments/quad_scan_focal_mwpc_no_screen_in_with_beam_following.gif"
+    "Eliott/Quadrupole scan/Attachments/quad_scan_focal_mwpc_no_screen_in.gif"
   ]
 }
