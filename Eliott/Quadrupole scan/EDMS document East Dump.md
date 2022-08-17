@@ -28,6 +28,7 @@ Minimum protons per pulse (ppp)  is 6E+11 during the shortest super-cycle which 
 	* Approximate the beam as gaussian although not gaussian in the horizontal plane
 
 6) Specify the $\frac{\Delta p}{p}$ total
+	* 6.79e-4
 7) Plots of the optics
 	* $\sigma(s)$
 	* $\beta(x)$

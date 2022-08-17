@@ -7,3 +7,5 @@ Here's the beam size I expect at the East dump wall. I show on the left plot the
 ![[nominal_beam_size_at_east_dump (2).png]]
 
 Optics of the East Dump line
+
+![[east_dump_optics.png]]

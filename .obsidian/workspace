@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
+            "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
             "mode": "source",
             "source": false
           }
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Super-cycle length.md",
-            "mode": "source",
+            "file": "Eliott/Quadrupole scan/BTV filters.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "replace main unit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
+                "file": "Eliott/Quadrupole scan/BTV filters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
+                "file": "Eliott/Quadrupole scan/BTV filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md"
+                "file": "Eliott/Quadrupole scan/BTV filters.md"
               }
             }
           },
@@ -149,17 +148,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36b24f514f156b26",
+  "active": "ded07f7dc9f7ed04",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/Quadrupole scan/EDMS document East Dump.md",
+    "Eliott/Quadrupole scan/Super-cycle length.md",
+    "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
     "Eliott/Stray Fields/Transfer matrix using tracking at injection.md",
     "Eliott/Stray Fields/Gradient felt at East extraction.md",
-    "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Sticky Notes.md",
-    "Eliott/Quadrupole scan/Super-cycle length.md",
-    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
-    "Eliott/Quadrupole scan/Attachments/initial_parameters_comparison.png",
-    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump.png"
+    "Eliott/Quadrupole scan/Attachments/initial_parameters_comparison.png"
   ]
 }
