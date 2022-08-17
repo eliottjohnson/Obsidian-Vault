@@ -154,19 +154,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6a9504159492f0ef",
+  "active": "ded07f7dc9f7ed04",
   "lastOpenFiles": [
-    "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
     "Eliott/Stray Fields/PS Stray field.md",
+    "Theory/Theory.md",
+    "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
     "Eliott/Stray Fields/Field map visualization.md",
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
     "Eliott/Quadrupole scan/Optics F61 T8.md",
     "Eliott/Quadrupole scan/Dispersion measurement.md",
     "Eliott/Quadrupole scan/Initial parameter slider tool.md",
     "Eliott/Quadrupole scan/Method to find initial parameters.md",
-    "Eliott/Quadrupole scan/Parallel beam.md",
-    "Eliott/Quadrupole scan/Initial parameter validation.md"
+    "Eliott/Quadrupole scan/Parallel beam.md"
   ]
 }
