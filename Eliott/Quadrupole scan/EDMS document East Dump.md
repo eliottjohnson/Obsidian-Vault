@@ -22,7 +22,7 @@ Minimum protons per pulse (ppp)  is 6E+11 during the shortest super-cycle which 
 5) Beam size 1$\sigma$ at the dump wall using the [[Nominal beam size at East dump wall]] plots.
 	* H 2.13 [mm]
 	* V 2.89 [mm]
-	* Specify the frontface, roughly the size of the BTV screen for steering. The BTV screen is a square of -5 to +5 cm so this should be the region where beam could be steered.
+	* Specify the front face, roughly the size of the BTV screen for steering. The BTV screen is a square of -5 to +5 cm so this should be the region where beam could be steered.
 	* Approximate the beam as gaussian although not gaussian in the horizontal plane
 
 6) Specify the $\frac{\Delta p}{p}$ total

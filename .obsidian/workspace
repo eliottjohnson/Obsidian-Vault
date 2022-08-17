@@ -151,14 +151,14 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "bd5257699107acbb",
+  "active": "58e5bfeb61f06e7d",
   "lastOpenFiles": [
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
