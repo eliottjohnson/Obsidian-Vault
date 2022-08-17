@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
-            "mode": "preview",
+            "file": "Eliott/Quadrupole scan/BTV filters.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "replace matrix",
+                "query": "OD filter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
+                "file": "Eliott/Quadrupole scan/BTV filters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
+                "file": "Eliott/Quadrupole scan/BTV filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md"
+                "file": "Eliott/Quadrupole scan/BTV filters.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "ded07f7dc9f7ed04",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
     "Eliott/Stray Fields/PS Stray field.md",
     "Eliott/Stray Fields/Q74L.md",
     "Eliott/Stray Fields/Particle distributions.md",
@@ -167,8 +169,6 @@
     "Eliott/Stray Fields/Multipole component model from injection.md",
     "Eliott/Stray Fields/Magnetic measurement of SMH61.md",
     "Eliott/Stray Fields/Magnetic measurement of SMH57.md",
-    "Eliott/Stray Fields/Field map visualization.md",
-    "Eliott/Stray Fields/Tune and chromaticity measurements.md",
-    "Eliott/Stray Fields/Excursion in Main units during a slow extraction.md"
+    "Eliott/Stray Fields/Field map visualization.md"
   ]
 }
