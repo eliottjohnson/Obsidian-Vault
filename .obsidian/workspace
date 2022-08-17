@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sticky Notes.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sticky Notes.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,19 +139,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sticky Notes.md"
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md"
               }
+            }
+          },
+          {
+            "id": "bd5257699107acbb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "7bbafb09cc7069d0",
+  "active": "bd5257699107acbb",
   "lastOpenFiles": [
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
