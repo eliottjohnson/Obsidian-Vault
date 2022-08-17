@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/BTV filters.md",
+            "file": "Eliott/Quadrupole scan/East Area Initial parameters.md",
             "mode": "preview",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/BTV filters.md",
+                "file": "Eliott/Quadrupole scan/East Area Initial parameters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/BTV filters.md",
+                "file": "Eliott/Quadrupole scan/East Area Initial parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/BTV filters.md"
+                "file": "Eliott/Quadrupole scan/East Area Initial parameters.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "ded07f7dc9f7ed04",
   "lastOpenFiles": [
-    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Eliott/Quadrupole scan/EDMS document East Dump.md",
-    "Eliott/Quadrupole scan/Super-cycle length.md",
-    "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
-    "Eliott/Stray Fields/Transfer matrix using tracking at injection.md",
-    "Eliott/Stray Fields/Gradient felt at East extraction.md",
-    "Sticky Notes.md",
-    "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
+    "Eliott/Quadrupole scan/Optics F61 T8.md",
+    "Eliott/Quadrupole scan/Dispersion measurement.md",
+    "Eliott/Quadrupole scan/Initial parameter slider tool.md",
+    "Eliott/Quadrupole scan/Method to find initial parameters.md",
+    "Eliott/Quadrupole scan/Parallel beam.md",
+    "Eliott/Quadrupole scan/Initial parameter validation.md",
+    "Eliott/Quadrupole scan/Focal point MWPC.md",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
-    "Eliott/Quadrupole scan/Attachments/initial_parameters_comparison.png"
+    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/Quadrupole scan/Focal point BPM01.md"
   ]
 }
