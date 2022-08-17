@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Theory.md",
+            "file": "Eliott/Quadrupole scan/BTV filters.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Theory.md",
+                "file": "Eliott/Quadrupole scan/BTV filters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Theory.md",
+                "file": "Eliott/Quadrupole scan/BTV filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Theory.md"
+                "file": "Eliott/Quadrupole scan/BTV filters.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   "active": "ded07f7dc9f7ed04",
   "lastOpenFiles": [
     "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Theory/Theory.md",
+    "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/Stray Fields/PS Stray field.md",
     "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
     "Eliott/Stray Fields/Field map visualization.md",
