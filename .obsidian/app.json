@@ -1,0 +1,13 @@
+{
+  "fileSortOrder": "byCreatedTime",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "newFileLocation": "current",
+  "newFileFolderPath": "Attachments",
+  "attachmentFolderPath": "./Attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

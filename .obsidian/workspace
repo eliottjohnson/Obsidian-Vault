@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d26c315d802f05f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b24f514f156b26",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b6f789420c985ea6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7bbafb09cc7069d0",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Sticky Notes.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "955b8580e0323a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe0f219ed480008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17bb3ebef8e4e093",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9b9c9a0a49b20c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "slow_extraction_main_unit_excursion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5333d1b31f481479",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 452.5
+  },
+  "right": {
+    "id": "8fb34b043199d2f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6214e1e12c2a510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58e5bfeb61f06e7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sticky Notes.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dabc4e9ab647eb2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sticky Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4744f4970d422595",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99ca68fd82d55340",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sticky Notes.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7bbafb09cc7069d0",
+  "lastOpenFiles": [
+    "Eliott/Quadrupole scan/EDMS document East Dump.md",
+    "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
+    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/Quadrupole scan/Emittance blow-up.md",
+    "Eliott/Quadrupole scan/Attachments/initial_parameters_comparison.png",
+    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump.png",
+    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump (2).png",
+    "Eliott/Quadrupole scan/Attachments/nominal_beam_size_at_east_dump 1.png",
+    "Eliott/Quadrupole scan/Attachments/quad_scan_focal_mwpc_no_screen_in.gif",
+    "Eliott/Quadrupole scan/Attachments/quad_scan_focal_mwpc_no_screen_in_with_beam_following.gif"
+  ]
+}

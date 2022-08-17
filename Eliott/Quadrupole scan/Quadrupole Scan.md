@@ -1,0 +1,1096 @@
+# Quadrupole Scan
+
+## Previous measurements scripts
+
+* Yann has done a quadrupole scan in the TL toward the SPS and NTOF
+    * His [Gitlab for ntof](https://gitlab.cern.ch/ydutheil/ntof)
+    * In particular this code: [analysis.ipynb](https://gitlab.cern.ch/ydutheil/ntof/-/blob/master/analysis.ipynb)
+    * ![](https://codimd.web.cern.ch/uploads/upload_1cfa296f68c9ee3f7d08ffe669821b6a.png)
+
+    * Wrote a script that acquires data from 3 shots at each quad setting
+    * Also change beam energy to measure **Dispersion** at each setting
+        * Basically you **change** the **momentum** of the extracted beam for every measurement and thus the **beam position change**
+        * Doesn't change beam size
+    * Knob is a few quadrupoles together
+    * Beam size is **sigma**
+    * **Centroid** is center of beam
+    * Horizontal and vertical
+
+* Matthew has done a quadrupole scan for the BTY line that goes to ISOLDE
+    *  His [Gitlab for BTY](https://gitlab.cern.ch/mfraser/bty-optics-studies)
+    * In particular this code: [bty_gps_analysis_2021.ipynb](https://gitlab.cern.ch/mfraser/bty-optics-studies/-/blob/master/bty_gps_analysis_2021.ipynb)
+    * Where you **scan** a knob (K or current, same thing) and look at beam size at one or more BTVs. You then **match** the initial parameters to try to match the measurements. ![](https://codimd.web.cern.ch/uploads/upload_975e6deb964dc3fe22c8e7a5317e0e72.png)
+
+* Some thing to consider is to see **minimums** at the BTV
+    * On Matthew's measurement there is a minimum on BTY.BSF but **not** on GPS.BSF
+    * This can be done with MAD-X to get an idea what quadrupole to change to see minimums
+
+
+* To **match** you then use a scipy minimize function to try out different initial conditions (ex, ey, dpp) and fit the MAD-X model to the data.
+
+* [BTP Quad scan scripts](https://gitlab.cern.ch/mfraser/btp-quad-scan)
+
+    * The BTP script is coupled to the PS so it complicates the data acquisition: I have to subscribe to the PS device and grab the PSB data by changing the timing selector
+    * When coupled with the PS we change the beam energy slightly differently (check the frequency set variable)
+    * The BCT check is set to negative to all intensities pass
+    * I hardcode noSet = True so nothing is set to the machine right now
+    * I added a json read output and it seems to work OK… you need to pull the latest version of pybt for this to work as I found some bugs with data frames
+    * Need to check all the details of the code to make sure  it works OK, we can do that with beam soon, next week or the week after.
+    * I added also the BTM line (not coupled to the PS) here we can set up and test the scripts as the beam goes to a dump via three grids.
+
+### Additional scripts from Yann to Gaussian 2D
+
+Dans AFS:
+cd ~ydutheil/public
+
+in AD_BTV_optimisation/fit_btv.py
+
+![](https://codimd.web.cern.ch/uploads/upload_7a4de5cff49390c2844aa877a29e1e32.png)
+
+
+
+
+regarder fitter.py et 
+
+``` python
+    btv_data = japc.getParam('FTA.BTV.9064.DigiCam/PMData', timingSelectorOverride='')
+
+
+    x, y, x_grid, y_grid, dx, dy, extent = ft.BTV_process(btv_data)
+    ax_btv.cla()
+    cbar = ax_btv.imshow(btv_data['image2D'], extent=extent, origin='lower')
+
+    try :
+        fit, fit_err = ft.BTV_fit(btv_data)
+    except:
+        print('failed fit, skipping')
+        keep_waiting = True
+        continue
+
+    data_fitted = ft.twoD_Gaussian((x_grid, y_grid), *fit)
+
+    # contours at +- 1 and 2 sigmas
+    levels = np.sort(np.exp(-np.array((1, 2)) ** 2 / 2)) * fit[0] + fit[5]
+    ax_btv.contour(x_grid, y_grid,
+                        data_fitted.reshape(btv_data['image2D'].shape),
+                        levels, colors='w')
+```
+    
+## EAST Area
+
+* Start with BTV at the dump and use the two quadrupoles upstream
+* Dump can be use as a parallel MD
+* BTV12 and the Dump
+
+
+### Quadrupole strength is T8
+Wrote a small script to quickly adjust the strength of quadrupole with current
+[Source code: t8_interactive.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/d965034b9406742b7ba4dbaf5a1f4877df20691e/ps_extraction/east-fast-extraction/t8_interactive.ipynb)
+
+![](https://codimd.web.cern.ch/uploads/upload_d94f1233472ea035e4a3dad4deb901c7.gif)
+
+
+Some settings I'd like to try during the next run
+* Small beam size all through the line with optimizer
+![](https://codimd.web.cern.ch/uploads/upload_2bdd47591dde40bf660162bdbc7638c6.png)
+
+
+* Smallest beam size on all BTVs
+![](https://codimd.web.cern.ch/uploads/upload_58dc0841c81a63b6605d2ed2f57e640c.png)
+
+
+* Smallest beam size on BTV096
+![](https://codimd.web.cern.ch/uploads/upload_8bcbf8b33a0df74cea02c0701f24ebf1.png)
+
+## Quadrupole scan to the Dump
+
+![](https://codimd.web.cern.ch/uploads/upload_0b174a68c38791ba041dbee6ded726c8.png)
+
+We have **3 Quadrupoles** and **2 BTVs**
+
+![](https://codimd.web.cern.ch/uploads/upload_9348ea27a6adc90f35bf038cc4509ad1.png)
+
+Quadrupole current range (from the working set)
+
+QFN01 -733 to 733 [A]
+QDN02 -537 to 537 [A]
+QFN03 -421 to 421 [A]
+
+[Source code: quad_scan_east_dump.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/east-fast-extraction/quadrupole_scan/quad_scan_east_dump.ipynb)
+
+|  ![](https://codimd.web.cern.ch/uploads/upload_3bba2743c001113110cc7f81e7af9786.png)   |   ![](https://codimd.web.cern.ch/uploads/upload_5fd5a4b024c7236a894701130c5e3e77.png)  |
+| --- | --- |
+
+So with the first quadrupole we don't have enough strength to go trough the minimum.
+
+
+Plot with the aperture restrictions
+![](https://codimd.web.cern.ch/uploads/upload_d0b1c7ba7c03809cfb9414dc32806844.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_ffefbcef3a709211a5921a2cb4429969.png)
+
+Scanning the two last quadrupoles on the last btv
+
+| ![](https://codimd.web.cern.ch/uploads/upload_09c146b81252f1fc539ee7d63b09477f.png) | ![](https://codimd.web.cern.ch/uploads/upload_986f93088ccd522fba4dcabcb0f19207.png)
+| --- | --- |
+
+Here we see that if we scan with the last quadrupole we have a minimum in both planes
+
+![](https://codimd.web.cern.ch/uploads/upload_aeb52b83b9a340ac96fdf2720f53623c.gif)
+
+![](https://codimd.web.cern.ch/uploads/upload_821140169f1d64da5450a675ad63bcc3.png)
+
+
+
+Not sure we there is two angles after the quadrupole...
+
+If we scan all quadrupoles with the same increase in current
+![](https://codimd.web.cern.ch/uploads/upload_70c49d57d06637a051158ca5a9c0f931.png)
+
+## Find the centre of the Q74 quadrupole
+
+* Scan Q74 strength and measure beam movement on BTV012 or BTV dump
+
+* Follow up with bumper transfer function
+* 
+![](https://codimd.web.cern.ch/uploads/upload_37d0019ffb1ff9ef25ad115fea3e2e94.png)
+
+So if the beam is off center in the first Q74, it will be steered left or right.
+
+If you scan current/quad strength and the Q74 is misaligned (or beam misaligned) you'll also have a steering
+
+![](https://codimd.web.cern.ch/uploads/upload_109facc6304b43aa640710415a00be6b.png)
+
+The next graph tells us as we scan the Q74 current how much the beam center moves with respect to the Q74/beam misalignment.
+This means we can know if we are in the center of the Q74.
+
+![](https://codimd.web.cern.ch/uploads/upload_fbffcbbb6050f7618f13d79c188a8131.png)
+
+
+However, if the beam is centered in the Q74 and you scan for current, the beam centroid won't move
+
+![](https://codimd.web.cern.ch/uploads/upload_5571d28907d90a1c92d78200dc0b31b8.png)
+
+However, an error on the Q74 position doesn't change the beam size (all the points line up) ?
+
+![](https://codimd.web.cern.ch/uploads/upload_0e71c5bcc2c914f300a74e56866a2195.png)
+
+## Quad Scan East scripts
+
+https://gitlab.cern.ch/eljohnso/quad-scan-east
+
+![](https://codimd.web.cern.ch/uploads/upload_bd6b6d468ccd860216e8a5139d35c067.png)
+
+- [ ] Need to add MAD-X prediction and beam size calculation from fitting the gaussian
+- [ ] Once I have beam
+
+![](https://codimd.web.cern.ch/uploads/upload_b28e8fa7205130e60dd55a6ec2196797.gif)
+
+[Source code: quad_scan_east_dump_auto_scan_trigger.py](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/quad_scan_east_dump_auto_scan_trigger.py)
+
+![](https://codimd.web.cern.ch/uploads/upload_4175a6b7c9a6823e2a74938411c58d11.png)
+
+**Check Centered in Quad** is a script that scan three currents in a specific quadrupole and looks at the mean position of the gaussian fit on a BTV. It takes continuously the last three $\mu$ and you can then steer the beam by hand with a steerer.
+[Source code: check_centered_in_quad.py](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/check_centered_in_quad.py)
+![](https://codimd.web.cern.ch/uploads/upload_9aa21c04af4889d4713b248f69431fdf.png)
+
+add the venv /user/cpsop/EliottFolder/quad-scan-east/venv/bin/python
+
+## MD Quad Scan East Dump
+
+* [x] Quad scan to east dump
+    * [x] Request an MD for week 4 to 8 April (not needed, MD haven't started yet)
+    * [x] Use one of the latest acquisition (as in the beginning the spill has dynamic effects)
+    * [x] First center the beam by hand (if it isn't centered, the beam will move as you changed quad strength)
+    * [x] Look into a centering by script
+
+[PS logbook event: ](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3533876)
+![](https://codimd.web.cern.ch/uploads/upload_b5af861d20eed281ff9fca2d62e53479.png)
+
+
+Rematched initial parameters
+[Source code: initial_param_quad_scan.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/initial_param_quad_scan.ipynb)
+
+| $\beta_x$ [m] | $\beta_y$ [m] | $\alpha_x$ | $\alpha_y$ | $D_x$ [m] | $D_y$ [m] | $D'_x$ [mrad] | $D'_y$ |
+| - | - | - | - | - | -| - | - |
+| 81.278 | 3.024 | -19.03 | 1.889 | -7.708 | -1.981 | -1.938 | -0.01 |
+
+![](https://codimd.web.cern.ch/uploads/upload_6fcc6de3c574bcacd32c26991692d05e.png)
+
+
+[Source code: quad_scan_east_dump.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/east-fast-extraction/quadrupole_scan/quad_scan_east_dump.ipynb)
+![](https://codimd.web.cern.ch/uploads/upload_5f688899b179ef0135f4a41aca0d92d3.png)
+
+Beam size that exit is very large, probably an effect of the stray fields !
+
+![](https://codimd.web.cern.ch/uploads/upload_a41f426d63a9cc235cfa440d338360e9.png)
+
+
+Tool to visual the beam size on different BTVs
+[Source code: quad_scan_east_dump.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/east-fast-extraction/quadrupole_scan/quad_scan_east_dump.ipynb)
+![](https://codimd.web.cern.ch/uploads/upload_7d6d5985076c6180c743cff5f27ed6a7.png)
+
+## Second quadrupole scan to East Dump (multi-quad scan)
+
+Scan with QFN01 and then a combination of multiple quadrupoles
+
+[PS logbook entry: 3535982](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3535982)
+
+![](https://codimd.web.cern.ch/uploads/upload_4c988d2fda730c8cd4812de3ccb68cfc.png)
+
+Momentum spread (dp/p) measurement:
+[PS logbook entry: ](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3536215)
+![](https://codimd.web.cern.ch/uploads/upload_5a645718c690edb2c1d226ccdba333d5.png)
+
+### Emittance calculation of the extracted slow beam
+
+From the PROTON-ION MEDICAL MACHINE STUDY (PIMMS)PART I document:
+
+$$ E_{x, stack} \left(\frac{\Delta p}{p}\right)_{stack}T_{rev} = E_{x, spill} \left(\frac{\Delta p}{p}\right)_{spill}T_{spill}$$
+
+$$ E_{x, spill} = \frac{E_{x, stack} \left(\frac{\Delta p}{p}\right)_{stack}T_{rev}}{\left(\frac{\Delta p}{p}\right)_{spill}T_{spill}}$$
+
+* $T_{rev} = \frac{628}{3\cdot10^{8}} = 2.09\cdot10^{-6}  \text{[s]}$
+
+* $T_{spill} = 400\cdot10^{-3} \text{[s]}$
+
+* $\left(\frac{\Delta p}{p}\right)_{stack} \approx 1.71\cdot10^{-3}$
+
+* $E_{x, stack} \approx 16.18 \text{[mm mrad]}$
+https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3536208
+
+The momentum spread of the spill depends on the sextupole strength and the chromaticity:
+
+$$ \pi E_{x,stack} = \frac{48\sqrt{3}Q'^{2}\left(\frac{\Delta p}{p}\right)_{spill}^{2}\pi^{2}}{S^{2}}$$
+
+$$ \left(\frac{\Delta p}{p}\right)_{spill} = \sqrt{\frac{E_{x,stack}S^{2}}{48\sqrt{3}Q'^{2}\pi}}$$
+
+* $Q_{x}' \approx -1.25$
+https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3343113
+
+The sextupole strength is the sum of all sextupole in the machine called the virtual strength:
+$$S = S_{virtual} = \sum{S\cdot e^{2i\mu}}$$
+$$ S_{virtual} = \sum{\frac{1}{2}\beta_{x}^{\frac{3}{2}}\cdot l_{s}\cdot k'\cdot e^{2i\mu}} $$
+
+where $k'$ is the normalised sextupole gradient
+
+$$k' = \frac{1}{|B\rho|}\left(\frac{d^2B_{z}}{dx^{2}}\right)$$
+
+and $l_{s}$ is the effective magnetic length of a sextupole [m].
+
+* $S_{virtual} = 123.1 [m^{-3}]$
+https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3343113
+
+$$\left(\frac{\Delta p}{p}\right)_{spill} = \sqrt{\frac{16.18\cdot(123.1)^{2}}{48\sqrt{3}(-1.25)^{2}\pi}} \approx 24.5$$
+
+In the end:
+
+$$ E_{x, spill} = \frac{16.18\cdot1.71\cdot10^{-3}\cdot 2.09\cdot10^{-6}}{24.5\cdot 400\cdot10^{-3}} = 5.9\cdot10^{-9}$$
+
+## Using the initial rematched parameters
+
+We get pretty close results
+
+|     |     |
+| --- | --- |
+|  ![](https://codimd.web.cern.ch/uploads/upload_fbb9a393f7043cfbd71ec83f13e2fe84.png)   |  ![](https://codimd.web.cern.ch/uploads/upload_bee91589659f5ab3c4b2417ae1600a2d.png)   |
+|![](https://codimd.web.cern.ch/uploads/upload_94c6ecf6426f56d1ed24331703885e3c.png) | ![](https://codimd.web.cern.ch/uploads/upload_681daf94a808cb5010096472f4d3af20.png)|
+|![](https://codimd.web.cern.ch/uploads/upload_a1435077bad14b62ae828e135f2f20c0.png) |![](https://codimd.web.cern.ch/uploads/upload_2da51d18515525064d16398d3299c2e2.png) |
+|![](https://codimd.web.cern.ch/uploads/upload_53f92c4e7eb10155b5dc9a305511aa17.png) | |
+
+
+## Now we fit the initial parameters to the new measurements
+### New initial conditions East Area for first multi quad scan (fitted on acq 4)
+betx0 = 8.09843982e+01
+bety0 = 1.14828044e+00
+alfx0 = -1.02992437e+01
+alfy0 = 1.02810951e+00
+Dx0 = -6.29106942e+00
+Dy0 = -1.66369723e+00
+Dpx0 = -1.58957627e+00
+Dpy0 = 2.48083379e-01
+exn = 1.24808650e-07
+eyn = 1.50809414e-06
+sige = 7.51976960e-04
+![](https://codimd.web.cern.ch/uploads/upload_794f85f0dd2c52771bd53ad540886c08.png)
+
+### New initial conditions East Area
+betx0 = 7.88505738e+01
+bety0 = 9.12591855e+00
+alfx0 = -8.85113077e+00
+alfy0 = 3.89150284e-01
+Dx0 = -3.71596167e+00
+Dy0 = 1.06111529e+00
+Dpx0 = -1.09112445e+00
+Dpy0 = 2.22635623e-01
+exn = 1.94484764e-07
+eyn = 1.49385093e-06
+sige = 7.69017680e-04
+![](https://codimd.web.cern.ch/uploads/upload_f501f194d08d09ac6d15072ebb32c933.png)
+
+Now I want to fit all the measurement
+The idea is to create two dataframes: one in the horizontal and one in the vertical plane so that I can select different ranges of current.
+
+![](https://codimd.web.cern.ch/uploads/upload_265a136f36ffb2945dcb2543f798ccdf.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_80dccfd643c3becf53df28f870663a58.png)
+
+array([ 8.19920817e+01,  1.00345876e+00, -1.51278591e+01,  5.66687199e-01,
+       -4.44798154e+00, -1.46990789e+00, -1.17991258e+00, -1.63015018e-01,
+        1.49296881e-06,  4.23196016e-07,  7.58432482e-04])
+![](https://codimd.web.cern.ch/uploads/upload_872a6cb1035620b410c3460ffc62056a.png)
+
+
+This is a picture of the horizontal and vertical plane dataframe before matching.
+It's an append of two measurements that have had their range cut off.
+![](https://codimd.web.cern.ch/uploads/upload_869d2a1db9daef7c8487697095f79174.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_b512bb16c09beb4e3fc565ee104cf791.png)
+
+Now I add all 5 measurements:
+initial conditions:
+betx0 = 8.03942769e+01
+bety0 = 2.09833303e+00
+alfx0 = -1.25041716e+01
+alfy0 = -1.11553173e-01
+Dx0 = -5.20554087e+00
+Dy0 = -1.00223341e+00
+Dpx0 = -1.34656718e+00
+Dpy0 = -8.72632488e-02
+exn = 1.48924155e-06
+eyn = 1.51732434e-06
+sige = 7.47249503e-04
+![](https://codimd.web.cern.ch/uploads/upload_3fb1d79d4f561230e2940d8c953c98db.png)
+
+9.16529886e+01  1.59708544e+01 -1.31925106e+01  2.79200640e-01
+ -5.19511017e+00 -9.78341505e-02 -1.44903397e+00 -3.12519595e-01
+  5.07277045e-07  1.61376217e-06  6.94155852e-04
+![](https://codimd.web.cern.ch/uploads/upload_07553a46028f2d40712c54f92e3f1d68.png)
+
+array([ 9.16529882e+01,  1.59708543e+01, -1.31925112e+01,  2.79200512e-01,
+       -5.19511012e+00, -9.78329706e-02, -1.44903384e+00, -3.12518967e-01,
+        5.07277015e-07,  1.61376218e-06,  6.94155853e-04])
+![](https://codimd.web.cern.ch/uploads/upload_a35b06d54302caece669c3dd6566c9b0.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_57cf108579a8a07c2ee5b67bcf6b77fe.png)
+
+
+This is with using square of the difference instead of linear:
+![](https://codimd.web.cern.ch/uploads/upload_553a35a2d4797453ec460adff016326f.png)
+[Source code: optimise_on_big_dataframe.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/optimise_on_big_dataframe.ipynb)
+
+
+From the five measurements, I select acquisition 4 which is at a time where the beam is stabilised (after the F8L eddy currents) and split the data into Horizontal and Vertical planes. I then select a custom range for each measurements.
+
+![](https://codimd.web.cern.ch/uploads/upload_28b115bfe1a33e39422421893ff341ac.png)
+![](https://codimd.web.cern.ch/uploads/upload_9391727a59ee9691292effac5ceee025.png)
+![](https://codimd.web.cern.ch/uploads/upload_bbf1354ac9d47acd3dd138826fc20b52.png)
+![](https://codimd.web.cern.ch/uploads/upload_3df7f8a879a65314e53a4481ffb34ea1.png)
+![](https://codimd.web.cern.ch/uploads/upload_0a134ba111c2ee89e62105954bd3f374.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_8e4bb3b71bfe2415c4db96530fad7d2c.png)
+
+Multi-processing, 4x speed boost !
+[Source code: optimise_on_big_dataframe_with_multiprocessing.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/optimise_on_big_dataframe_with_multiprocessing.ipynb)
+
+[Source code: compare_measurements_with_MADX.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/compare_measurements_with_MADX.ipynb)
+![](https://codimd.web.cern.ch/uploads/upload_5797e4615b0acd52b6bf0a9aada15ace.png)
+
+Initial parameters where found: [[East Area Initial parameters]]
+
+## Quadrupole scan in BTP
+
+![](https://codimd.web.cern.ch/uploads/upload_998e3717bf317a1f2688549d132937c0.png)
+
+We have **7 Quadrupoles** and **1 SEM-Grid**
+
+* btp.qno10
+* btp.qno20
+* btp.qno30
+* btp.qno35
+* btp.qno50
+* btp.qno55
+* btp.qno60
+
+
+![](https://codimd.web.cern.ch/uploads/upload_ad067b2922cf3b8777e928a54aa3dd19.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_a456ef898aec80ffa243c70a4aee69cb.png)
+
+Quadrupole current range (from the working set)
+
+QN010 -440 to 440 [A]
+QN020 -330 to 330 [A]
+QN030 -368 to 368 [A]
+QN035 -450 to 450 [A]
+QN050 -202 to 202 [A]
+QN055 -243 to 243 [A]
+QN060 -255 to 255 [A]
+
+![](https://codimd.web.cern.ch/uploads/upload_19f33a48e81c93051c30221f8bdaf45b.png)
+
+[Magnet Transfer function btp.qno10](https://edms.cern.ch/ui/file/2138782/2/report_PXMQNCMNWC_docx_cpdf.pdf)
+
+| Current [A] | Integrated Gradient [T] |
+|-------------|-------------------------|
+| 0           | 0.0044                  |
+| 20          | 0.232                   |
+| 40          | 0.463                   |
+| 60          | 0.694                   |
+| 80          | 0.925                   |
+| 100         | 1.16                    |
+| 120         | 1.39                    |
+| 140         | 1.62                    |
+| 160         | 1.85                    |
+| 180         | 2.08                    |
+| 200         | 2.31                    |
+| 220         | 2.54                    |
+
+[Magnet Transfer function btp.qno20-60](https://edms.cern.ch/ui/file/2213106/2/2019_MagneticMeasurementReport_PXMQNCUNWP_EDMS_2213106.pdf)
+
+| Current [A] | Integrated Gradient [T] |
+|-------------|-------------------------|
+| 5           | 0.075                   |
+| 10          | 0.153                   |
+| 25          | 0.386                   |
+| 50          | 0.774                   |
+| 75          | 1.162                   |
+| 100         | 1.550                   |
+| 125         | 1.936                   |
+| 150         | 2.324                   |
+| 200         | 3.094                   |
+| 250         | 3.858                   |
+| 300         | 4.612                   |
+| 350         | 5.326                   |
+| 377         | 5.681                   |
+| 400         | 5.971                   |
+
+These are the same number used in LSA except for the first quadrupole in the line btp.qn010
+
+Initial values
+
+* kbtpqno10 = 0.0000000000e+00;
+* lm = 6.4000000000e-01;
+* kbtpqno20 = 6.9653295476e-01;
+* kbtpqno30 = -6.8247426697e-01;
+* kbtpqno35 = 7.7401592074e-01;
+* kbtpqno50 = 2.5075692540e-01;
+* kbtpqno55 = -4.4720119166e-01;
+* kbtpqno60 = 4.7146123748e-01;
+* anglesmh42 = -5.5000000000e-02;
+
+[Source code: quad_scan_btp.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_injection/bt3btp_lhcindiv/stitched/jmad/quad_scan_btp.ipynb)
+
+![](https://codimd.web.cern.ch/uploads/upload_5bc03b9128bcdc2c3a287cb2e8085a6e.png)
+
+## MD6543
+
+https://asm.cern.ch/md-planning/injectors-requests?mode=b&query=eliott
+
+Create an environment:
+
+* **Open a terminal**: Left click -> Xterm -> Local Xterm
+* **Go to a working folder**: cd /user/cpsop/EliottFolder
+* Here you can for example **git clone** a folder
+* Open pycharm at the location of the folder you want to work with
+* In the pycharm terminal **create a venv**:
+    * source /acc/local/share/python/acc-py/base/pro/setup.sh
+	* Click bottom right to select the environment (add interpreter)
+	    * Existing environment /user/cpsop/EliottFolder/btp_venv/bin/python/
+	* Create a venv:
+        * acc-py venv /tmp/f6x-t8-venv
+        * source /tmp/f6x-t8-venv/bin/activate
+
+	* (acc-py venv /user/cpsop/EliottFolder/btp_venv/bin/activate)
+
+Pip install the packages needed into the venv and then run the script in interactive mode:
+
+* pip install pybt
+
+
+acc-py is used to pip install cern libraries [acc-py](https://acc-py-repo.cern.ch/repository/vr-py-releases/simple/)
+
+[PS Logbook entry for MD6543](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3444178)
+
+[Emittance measurement on MD2 for Eliott Johnson](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3444294)
+|     |     | |
+| --- | --- | --- |
+|![](https://codimd.web.cern.ch/uploads/upload_b516310c9d4ed09a5df05095ced57b35.png)| ![](https://codimd.web.cern.ch/uploads/upload_6ba366be3bc0f510e285b66964ffcc1d.png) | ![](https://codimd.web.cern.ch/uploads/upload_ecbb3756f80069e1c22bdc4098d60fda.png) |
+
+
+Two measurements of 20 currents and 60 data points:
+
+* QNO60 **Horizontal** : scan_2022_03_09_13_13
+* QNO60 **Vertical** : scan_2022_03_09_14_37
+
+[Source code: analysis_MD6543.ipynb](https://gitlab.cern.ch/mfraser/btp-quad-scan/-/blob/debug/scanning-script/analysis_MD6543.ipynb)
+
+**Mean position**
+
+|     |     |
+| --- | --- |
+|  ![](https://codimd.web.cern.ch/uploads/upload_d25b45bd6e392cec43af7185507f905b.png)   |   ![](https://codimd.web.cern.ch/uploads/upload_65ab776dcac666d2a96beecfc7d0f483.png)  |
+
+**Sigma**
+
+|     |     |
+| --- | --- |
+|  ![](https://codimd.web.cern.ch/uploads/upload_18537042101b5fd6d3d4db3151f96725.png)   |  ![](https://codimd.web.cern.ch/uploads/upload_8bc2074c50a07fa5c197f131117086b1.png) |
+
+[Source code: quad_scan_btp.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_injection/bt3btp_lhcindiv/stitched/jmad/quad_scan_btp.ipynb)
+
+![](https://codimd.web.cern.ch/uploads/upload_ee340ba4806e67fe2a936d48fc1efc8d.png)
+
+Fit the 8 parameters, took 19 m
+
+![](https://codimd.web.cern.ch/uploads/upload_b7b49f88ee6015402e1afec6212f103b.png)
+
+
+![](https://codimd.web.cern.ch/uploads/upload_5c85a7d58cc3532b259edff5f3266d4d.png)
+
+
+Why does the beam with +500 Hz doesn't follow MADX ?
+The beam at this region isn't a gaussian anymore.
+
+Probably losses, need to check BLMs
+
+|     |     |
+| --- | --- |
+| ![](https://codimd.web.cern.ch/uploads/upload_a202fc856416ac9f5f8b963bf9c56732.png) |  ![](https://codimd.web.cern.ch/uploads/upload_e06748e963f6169e856823081253e098.png) |
+
+
+
+
+**Horizontal**
+|   -500 Hz  |  +0 Hz   |  +500 Hz   |
+| --- | --- | --- |
+| ![](https://codimd.web.cern.ch/uploads/upload_ff442148c36d80e66d2cd554c3bf0ba4.gif) | ![](https://codimd.web.cern.ch/uploads/upload_77adb4d56f21ce8d632b5fdf73429548.gif) |![](https://codimd.web.cern.ch/uploads/upload_b16ed5a8e33ee0ed7eab0cca639a4034.gif)
+ |
+
+
+**Vertical**
+|   -500 Hz  |  +0 Hz   |  +500 Hz   |
+| --- | --- | --- |
+| ![](https://codimd.web.cern.ch/uploads/upload_73aa179c7e6745ac80f66c8fe9dff70c.gif) | ![](https://codimd.web.cern.ch/uploads/upload_581e086e8962bf28143e66ce3e3b4374.gif)  | ![](https://codimd.web.cern.ch/uploads/upload_bf8d264e348c009ba59ea69c6cd77a79.gif)  |
+
+### QNO55 and QNO60 **Vertical**: scan_2022_03_09_15_28
+
+|     |     |
+| --- | --- |
+| ![](https://codimd.web.cern.ch/uploads/upload_54e997320b5f4f638ea751eee2beb165.png) |  ![](https://codimd.web.cern.ch/uploads/upload_f56f77171261fba99bb448786ccf9648.png)   |
+
+|     |     |     |
+| --- | --- | --- |
+|  ![](https://codimd.web.cern.ch/uploads/upload_610e82e03cdccc3782c7896ebec68d0e.gif)   | ![](https://codimd.web.cern.ch/uploads/upload_7a6f67395704f6eab9a55405845075f8.gif)   |  ![](https://codimd.web.cern.ch/uploads/upload_55eabbde1b98a049fde57cae13ac9588.gif)   |
+
+
+![](https://codimd.web.cern.ch/uploads/upload_ea2ad3ae3241ad95bb737a28c1d24323.png)
+
+
+### Initial beam parameters by fitting to data
+
+[Source code: quad_scan_btp_fit_data.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_injection/bt3btp_lhcindiv/stitched/jmad/quad_scan_btp_fit_data.ipynb)
+
+| betx0     | bety0      | alfx0      | alfy0       | dx0        | dy0 | dpx0       | dpy0 |
+|-----------|------------|------------|-------------|------------|-----|------------|------|
+| 5.6660354 | 4.24254748 | 0.09511546 | -0.08277992 | 0.04560857 | 0.0 | 0.09806506 | 0.0  |
+
+![](https://codimd.web.cern.ch/uploads/upload_290f17718e37d3f04bcffd99fac7101e.png)
+
+
+## Quadrupole transfer functions
+
+[Source code: quadrupole_transfer_function.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/east-fast-extraction/quadrupole_scan/quadrupole_transfer_function.ipynb)
+
+
+```
+y_new = np.interp(current,A_Q74,T_Q74)
+```
+
+![](https://codimd.web.cern.ch/uploads/upload_6d215266c37cc1dfdf86fb753dc66f7a.png)
+
+
+![](https://codimd.web.cern.ch/uploads/upload_86d69d5d39a8d55badcded0c6421f41a.png)
+
+
+![](https://codimd.web.cern.ch/uploads/upload_7022323a3547e2e18830a117f9611095.png)
+
+[Source code: functions.py](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/functions.py)
+![](https://codimd.web.cern.ch/uploads/upload_6398e82dd52dad991839fb1085259aa5.png)
+
+[Source code: plots_of_quadrupole_curves.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/east-fast-extraction/plots_of_quadrupole_curves.ipynb)
+![](https://codimd.web.cern.ch/uploads/upload_2773dc2dcafca74913c02a6a7bdb19ac.png)
+
+
+## Quadrupole scan with filters MD7505
+
+- QFN01 scan 400-730 [A] -> [0.317, 0.537]
+
+- QFN01 scan 100-730 [A]-> [0.08, 0.537]
+
+Multiple quad scan:
+
+QF01 [400,700] -> [0.317, 0.537]
+QD02 [0,480] -> [0, 0.2]
+QFN03 [0,420] -> [0, 0.21]
+
+QF01 [700,400] -> [0.537, 0.317]
+QD02 [0,480] -> [0, 0.2]
+QFN03 [0,420] -> [0, 0.21]
+
+
+QF01 [400,700] -> [0.317, 0.537]
+QD02 [480,200]  -> [0.2, 0.086]
+QFN03 [420,200] -> [0.21, 0.11]
+
+High resolution of a minimum in the vertical plane
+QF01 [500,400]-> [0.40, 0.32]
+QD02 [320,480] -> [0.14, 0.2]
+QFN03 [290,420] -> [0.15, 0.21]
+
+
+![](https://codimd.web.cern.ch/uploads/upload_b50add6510c680f03e51be9d50516a8f.png)
+![](https://codimd.web.cern.ch/uploads/upload_f79e74b3409ed1a9bc4467de623dfaca.png)
+![](https://codimd.web.cern.ch/uploads/upload_f716f330ea75498f1d980627011bc890.png)
+![](https://codimd.web.cern.ch/uploads/upload_df101ae23e21c331f56031a1cbf0d104.png)
+![](https://codimd.web.cern.ch/uploads/upload_dec5a113055997f79c314957ed108e88.png)
+![](https://codimd.web.cern.ch/uploads/upload_b37bcf1dfd1026b9f08b8216d65e61d5.png)
+![](https://codimd.web.cern.ch/uploads/upload_05002148226bee0946c07fd1466d8460.png)
+![](https://codimd.web.cern.ch/uploads/upload_4f8bfc03b23f99de2877fe9508e3027e.png)
+![](https://codimd.web.cern.ch/uploads/upload_385b84b561d7baa972a108156b66202b.png)
+![](https://codimd.web.cern.ch/uploads/upload_2e5dba9300c554dc9a5b06a38a3bf81f.png)
+![](https://codimd.web.cern.ch/uploads/upload_d17f28b78d98d3ec39a2abd38f086531.png)
+
+5th July 2022
+![](https://codimd.web.cern.ch/uploads/upload_49da1fc9b2d71062a85cf9db22b4fcca.png)
+![](https://codimd.web.cern.ch/uploads/upload_2ecfb37f035cb1dbbac2a07116d1b71a.png)
+![](https://codimd.web.cern.ch/uploads/upload_ee551941ed22f5bbb8c806c2c5f8c15e.png)
+
+## Optimisation with Pybobqa
+
+With all parameters free
+![](https://codimd.web.cern.ch/uploads/upload_3fdd22cac216ada87def635fcb5fa688.png)
+
+With Dispersion set constant and values taken from codilog
+![](https://codimd.web.cern.ch/uploads/upload_0666088528f37d2e6c6ad3184637dfd9.png)
+
+With optimising on H then V. The convergence is much faster.
+![](https://codimd.web.cern.ch/uploads/upload_bd9340d73cd545da84a5e7dc9fd35887.png)
+
+Optimising on more measurement
+![](https://codimd.web.cern.ch/uploads/upload_fc746644b4fba4937bb743fce0c73301.png)
+
+kfn01_list = np.linspace(0.317,0.537,25)
+kdn02_list = np.linspace(0,0.2,25)
+kfn03_list = np.linspace(0,0.21,25)
+![](https://codimd.web.cern.ch/uploads/upload_283f7ca4e565f72f7266953051fa3424.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_0b4bc0f90610eac99e254610703cc1f9.png)
+
+MWPC
+
+![](https://codimd.web.cern.ch/uploads/upload_3434e18ee004b2c700da8792c88196c3.png)
+
+
+![](https://codimd.web.cern.ch/uploads/upload_72324a73477c79b7d4933904db7569ea.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_db93fb102a52f42cbd2e61747f562f93.png)
+
+BPM01
+![](https://codimd.web.cern.ch/uploads/upload_1195a0640cadc1c849a4ab22da80a555.png)
+
+
+![](https://codimd.web.cern.ch/uploads/upload_0be186c2e28cc9e9b313ebb07259648c.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_dfe5dec72ebda4cdae8fba32f78d5242.png)
+
+
+
+
+## How Denis grabs the momentum to calculate the K1 for the quadrupoles
+
+For East he read the momentum of the ps at extraction ej2 which is the slow extraction
+
+1) Open LSA App suite click on Applications -> Settings Management
+
+![](https://codimd.web.cern.ch/uploads/upload_f84a47b94236eb2c9b609cb96f5bd987.png)
+
+
+-> All working set, Parameter type: type "momentum", Parameter is **PSBEAM/MOMENTUM**
+
+2) Select MD beams
+
+![](https://codimd.web.cern.ch/uploads/upload_8ec442c6463814c818fa6672eaf9611d.png)
+
+
+The whole momentum curve is **PSBEAM/MOMENTUM**
+![](https://codimd.web.cern.ch/uploads/upload_623c5a1647f766d96f7e804381681b76.png)
+
+
+For East, timings are **PSBEAM/MOMENTUMej2** for slow extraction which gives you a single momentum value around 24 GeV
+
+![](https://codimd.web.cern.ch/uploads/upload_bb7d404fc587ba3fe771ede151cac25c.png)
+
+
+For the Booster the parameter is called **BEBEAM/MOMENTUM** and is around 2.8
+
+![](https://codimd.web.cern.ch/uploads/upload_489c219c27ba0d9791297e10eb2e3cf9.png)
+
+
+When you calculated K1 with Brho, the B value is the momentum so for example at injection 2.8
+
+To see the change in current in the quadrupoles, open the working set and click on the graph on the bottom to create a **log viewer**
+
+**PA.EXTFREQPSB/Frequency#frequency** 7237936 Hz basically changes the momentum in the PSB working set
+
+# NXCALS IRRAD BPM
+
+[Timber](https://timber.cern.ch/)
+![](https://codimd.web.cern.ch/uploads/upload_af83b902fbfc3594b6055014386c16d2.png)
+
+
+[ccde](https://ccde.cern.ch/nxcals/device/2126025?subscriptionId=35908922)
+![](https://codimd.web.cern.ch/uploads/upload_bf6ca7357963385ecf7fe30738d446e3.png)
+
+Voici le nom des BPMS IRRAD :
+PS-LOG-BPM-IRRAD-UCAP_BPM_01
+PS-LOG-BPM-IRRAD-UCAP_BPM_02
+PS-LOG-BPM-IRRAD-UCAP_BPM_03
+PS-LOG-BPM-IRRAD-UCAP_BPM_04
+
+![](https://codimd.web.cern.ch/uploads/upload_792b7c7ed42deeb374a73d8df65e6a0a.png)
+
+
+![](https://codimd.web.cern.ch/uploads/upload_3408f4be6947de6b244c8d93e37c57c9.png)
+
+So you can either grab the data with pyjapc:
+``` python
+japc.getParam("PS-LOG-BPM-IRRAD-UCAP_BPM_01/Positions")
+```
+
+[Logbook entry where Federico explain the intensity](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3592280)
+
+* Even if no beam, the BPM will trigger every 2 min
+* The UCAP device does a different fit than the IRRAD Vistar (Irrad vistar fits only the center lines)
+
+# MWPC
+
+Horizontal: XBZT8.ZT8.BXMWPC103:PROFILE
+Vertical: XBZT8.ZT8.BXMWPC104:PROFILE
+
+[Timber: MWPC](https://timber.cern.ch/query?tab=Variables)
+![](https://codimd.web.cern.ch/uploads/upload_d4a65fbcd544f8f4eec3269fcfcda36f.png)
+
+Simple SWAN python script
+
+``` python
+import matplotlib.pyplot as plt
+import pandas as pd
+# source the nxcals python libs
+from nxcals.api.extraction.data.builders import *
+
+# build the query and load data into spark dataframe
+start = "2022-07-12 23:50:00.000"
+end = "2022-07-13 00:00:00.000"
+df = DevicePropertyDataQuery.builder(spark).system("CMW").startTime(start).endTime(end).entity().parameter("BXMWPC_2080/Acquisition").build()
+
+p_df = df.toPandas()
+```
+
+The array has two profiles. First half is with low gain, the other with the high gain.
+
+![](https://codimd.web.cern.ch/uploads/upload_da0cb498e0777a4344ae45977a305f35.png)
+
+``` python
+sc.stop()
+spark.stop()
+```
+
+# PYJAPC simple tutorial
+
+The simplest script is to grab a parameter in the East Area
+
+![](https://codimd.web.cern.ch/uploads/upload_7e7d5cf2392aa472e14e7febb3dc5f5c.png)
+
+
+``` python
+import numpy as np
+import pyjapc
+
+japc = pyjapc.PyJapc(noSet=True)
+japc.setSelector("CPS.USER.EAST3")
+print(japc.getParam("F61.QFN01/MEAS.PULSE#VALUE"))
+```
+
+Outputs: ``` 619.9862060546875 ```
+
+You can set a value (simulated because notSet=True):
+
+``` python
+japc.setParam("F61.QFN01/REF.PULSE.AMPLITUDE#VALUE",600) 
+```
+
+Subscription to a parameter. You need to run in interactive mode otherwise the terminal closes:
+
+```
+python -i script_name.py
+```
+
+``` python
+def myCallback(parameterName, newValue):
+	print(f"New value for {parameterName} is: {newValue}")
+
+japc.subscribeParam("F61.QFN01/MEAS.PULSE#VALUE", myCallback)
+japc.startSubscriptions()
+```
+
+![](https://codimd.web.cern.ch/uploads/upload_ebad2911833be0a5277d0f019db9d932.png)
+
+Setting the BTV number of acquisition
+
+```
+japc.setParam("F61D.BTV010/MultiplexedSetting#reqUserImageSelection", [True,True,True,True,True,True,True])
+```
+
+To know what settings you can play with, open in the TN ```FESA3 Navigator```
+Don't forget you can use regex and wildcards
+
+![](https://codimd.web.cern.ch/uploads/upload_ab685749bf83d989a3d929a57c9a67fd.png)
+
+Click on the device and ``` Launch ``` it.
+
+![](https://codimd.web.cern.ch/uploads/upload_d295bd959830d301737bae3ed36b3e15.png)
+
+Setting the the screen in of a BTV.
+Some parameters require no selectors as they are independant from timing.
+
+```
+japc.setSelector("") #Screen select requires no selector
+japc.setParam("F61D.BTV010/Setting#screenSelect", 'FIRST')
+```
+
+More info [wikis JAPC](https://wikis.cern.ch/display/JAPC/Basic+Actions#BasicActions-Selectors) and [pyjapc doc](https://acc-py.web.cern.ch/gitlab/scripting-tools/pyjapc/docs/stable/api_docs/pyjapc.PyJapc.setParam.html?highlight=enum)
+
+# BTV timing with Ana in the East Area
+
+Ana changed the **start timing** of the BTVs in EAST. **Before** it started at PE2X-**W**20 which is a **W**arning 20 ms before slow extraction (PE2X at 1030ms). Now it starts at **PE2X.F900-CT** which is a **F**orwarning 900 ms before extraction.
+
+You can see which is the start event in LTIM cfv-157-btv2.LTIM and PE2X.SACQ-EMTV2/**LoadEvent**
+
+![](https://codimd.web.cern.ch/uploads/upload_3c506987826dcb89bd6871c7d9f22b9b.png)
+
+
+**Two crates** of BTV:
+* cfv-157-btv1 that has PR57, F62, F61, F61D
+* cfv-157-btv2 that has all T8
+
+![](https://codimd.web.cern.ch/uploads/upload_14b23e2c591356b1c1297c53d69b7f4e.png)
+
+
+### **Three parameters** you can play with:
+
+![](https://codimd.web.cern.ch/uploads/upload_48d73ceded3a6f1ee75503202304b1bb.png)
+
+
+* PE2X.SACQ-EMTV2: **S**tart **ACQ**uisition
+
+You can change the **delay** of the start knowing that the first event is lost. Here we start at -900ms from 1030ms + **720 ms** delay = 850 ms.
+![](https://codimd.web.cern.ch/uploads/upload_256e4978cb4b8ccc1be1486ecb1e7ef7.png)
+
+First acquisition is at 850 + 100 ms = **950 ms** because first event is lost. Then every 100 ms
+
+![](https://codimd.web.cern.ch/uploads/upload_24a66e49a19f541a591d17a1632d7b02.png)
+
+* PE2X.ACQ-EMTV2
+**Delay between acquisition**. Is the time between each software acquisition. If you set this to zero and look at the acqTimeInCycle you can compute the time it took to make the acquisition.
+
+![](https://codimd.web.cern.ch/uploads/upload_781f6d42baa8add239b606356e355959.png)
+
+* PE2X.EACQ-EMTV2 - **E**nd of **ACQ**uisition
+The end of acquisition starts at PX.ELFT-CT which is the end (**E**) of flat top (**FT**) + 200 ms
+![](https://codimd.web.cern.ch/uploads/upload_c861ea51b7c59898351d9e5f208fdc2f.png)
+
+![](https://codimd.web.cern.ch/uploads/upload_7ba1b8c70b554ad8fd83687549630b9f.png)
+
+I think it's set so that we are never limited by the end of acquisition and we always have our 7 acquisitions. This is mainly to make sure that you stop in any case before the start of the next cycle (as this one is 2400 ms).
+
+
+### BTV jitter
+
+The BTV are asynchronous leading to a **20 ms jitter**. This is the time between each acquired frame. With the delay we put, we should always have an empty frame at the beginning (good for removing background noise). To test with beam.
+
+![](https://codimd.web.cern.ch/uploads/upload_5bcb6ed69571992d1b65df4a06c88a4b.png)
+
+Remarks:
+* There is a **20 ms jitter** between each frame from the BTVs and then an additional ~70-100 ms computation time from software.
+
+* The computation time can be **reduced** by changing the window size which leads to less data needed to be digitalized and transfered.
+
+* The acquisition is based on **PE2X** meaning that it is **NOT** linked to the **fast** extraction, only to the **slow** one. You could changed the delay of acquisition if you are doing fast or slow extraction.
+
+* Possibility to install a hardware trigger to remove the jitter, as it's done in other lines, but currently not installed in East.
+
+* Software trigger stack, so if you put 0 delay, it will acquire as fast as possible once is has completed the first acquisition.
+
+### BTV acquisition time
+
+Full spill should be less than 400 ms but depends on settings
+
+Looking at **acqTimeInCycle**:
+
+* delay to 100 ms -> 951.0, 1051.0, 1151.0, 1251.0, 1351.0, 1451.0, 1551.0
+* delay to 90 ms -> 941.0, 1031.0, 1121.0, 1211.0, 1301.0, 1391.0, 1481.0
+
+941.0, 1031.0, 1121.0, 1211.0, 1301.0, 1391.0, 1481.0
+941.0, 1031.0, 1121.0, 1211.0, 1301.0, 1391.0, 1481.0
+941.0, 1031.0, 1121.0, 1211.0, 1301.0, 1391.0, 1481.0
+941.0, 1031.0, 1121.0, 1211.0, 1301.0, 1391.0, 1481.0
+941.0, 1031.0, 1121.0, 1211.0, 1301.0, 1391.0, 1481.0
+941.0, 1031.0, 1121.0, 1211.0, 1301.0, 1391.0, 1481.0
+941.0, 1031.0, 1121.0, 1211.0, 1301.0, 1391.0, 1481.0
+
+**90 ms** seems to be the fastest acquisition at full resolution.
+
+* delay to 80 ms -> 931.0, 1011.0, 1091.0, 1171.0, 1251.0, 1331.0, 1491.0
+
+931.0, 1011.0, 1091.0, 1171.0, 1251.0, 1331.0, **1491.0**
+931.0, 1011.0, 1091.0, 1171.0, 1251.0, 1331.0, **1491.0**
+931.0, 1011.0, 1091.0, 1171.0, 1251.0, 1331.0, **1491.0**
+931.0, 1011.0, 1091.0, 1171.0, 1251.0, 1331.0, **1491.0**
+931.0, 1011.0, 1091.0, 1171.0, 1251.0, 1331.0, 1411.0
+931.0, 1011.0, 1091.0, 1171.0, 1251.0, 1331.0, 1411.0
+931.0, 1011.0, 1091.0, 1171.0, 1251.0, 1331.0, **1491.0**
+
+* delay to 70 ms -> 921.0, 991.0, 1061.0, 1131.0, 1201.0, 1341.0, 1481.0
+
+921.0, 991.0, 1061.0, 1131.0, 1201.0, 1271.0, **1481.0**
+921.0, 991.0, 1061.0, 1131.0, 1201.0, 1271.0, **1341.0**
+921.0, 991.0, 1061.0, 1131.0, 1201.0, **1341.0, 1481.0**
+921.0, 991.0, 1061.0, 1131.0, 1201.0, 1271.0, **1411.0**
+921.0, 991.0, 1061.0, 1131.0, 1201.0, 1271.0, **1411.0**
+921.0, 991.0, 1061.0, 1131.0, 1201.0, **1341.0, 1481.0**
+921.0, 991.0, 1061.0, 1131.0, 1201.0, **1341.0, 1481.0**
+
+* delay to 60 ms
+
+First 4 shots are ok but then skips a 2*60ms 
+
+911.0, 971.0, 1031.0, 1091.0, **1211.0, 1331.0, 1511.0**
+911.0, 971.0, 1031.0, 1091.0, **1211.0, 1331.0, 1511.0**
+911.0, 971.0, 1031.0, 1091.0, **1211.0, 1331.0, 1511.0**
+911.0, 971.0, 1031.0, 1091.0, **1211.0, 1331.0, 1451.0**
+911.0, 971.0, 1031.0, 1091.0, **1211.0**, 1271.0, **1391.0**
+911.0, 971.0, 1031.0, 1091.0, **1211.0, 1331.0, 1511.0**
+911.0, 971.0, 1031.0, 1091.0, **1211.0, 1331.0, 1511.0**
+
+Value under 50 ms don't update but if you GET you still get data.
+
+* delay to 50 ms -> 901.0, 951.0, 1001.0, 1151.0, 1251.0, 1351.0, 1451.0
+* delay to 40 ms -> 891.0, 931.0, 1051.0, 1131.0, 1251.0, 1371.0, 1571.0
+* delay to 30 ms -> 881.0, 911.0, 1031.0, 1151.0, 1241.0, 1361.0, 1481.0
+* delay to 0 ms -> 850.0
+![](https://codimd.web.cern.ch/uploads/upload_842094a364c06297753dc56b292d3b13.png)
+
+#### Increasing the acquisition speed
+
+Reducing the Size Y to half (40 mm instead of 90) of the data flow allows the acquisition to be set to 20 ms (time between each BTV frame) but there is still a **bottleneck**.
+
+|||
+:-:|:-:
+![](https://codimd.web.cern.ch/uploads/upload_7a7d3eb7f12f27f7f76e3fbb6a127bce.png)  |  ![](https://codimd.web.cern.ch/uploads/upload_48e94d178abd11c15dfde7b27fced5de.png)
+
+871.0, 891.0, **951.0, 1011.0, 1071.0, 1131.0, 1211.0**
+871.0, 891.0, **951.0, 1011.0, 1091.0, 1151.0, 1211.0**
+871.0, 891.0, **951.0, 1011.0, 1071.0, 1131.0, 1211.0**
+871.0, 891.0, **951.0, 1011.0, 1071.0, 1131.0, 1191.0**
+
+![](https://codimd.web.cern.ch/uploads/upload_5620bfb7853d00a2f49e5b94dca0bb4f.png)
+
+Setting the Window Size Y to the minimum value: 5.49 mm:
+871.0, 891.0, 911.0, **951.0, 991.0, 1031.0, 1071.0**
+871.0, 891.0, 911.0, **951.0**, 971.0, **1031.0, 1071.0**
+871.0, 891.0, 911.0, **951.0, 991.0, 1031.0, 1071.0**
+871.0, 891.0, 911.0, **951.0**, 971.0, **1031.0**, 1051.0
+
+
+**Conclusion**: you can get faster acquisition by lowering the resolution but you still get inconsistant timing. Might still be useful if you save the acquisition time in cycle.
+
+# Steering helper
+
+[Source code: blit.py](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/blit.py)
+
+![](https://codimd.web.cern.ch/uploads/upload_f6e684a04be9b4d66fd780317b877a95.png)
+
+You could build a minimizer for beam size the same way I built it for the MADX model but using pyjapc sets and measuring 
+
+# Slow extraction Quad Scan progress to the script
+
+* [ ] Find a way to characterize the spill
+* [x] Acquire the profile during the spill
+    * [x] Fit them
+        * [x] Start with Gaussian
+        * [x] Horizontal plane distribution isn't gaussian, maybe use a double gaussian
+        * [x] Calculate first moment: mean
+        * [x] Calculate second moment: RMS
+    * [ ] Average them
+    * [ ] This gives an average beam size throughout the spill
+* [x] See the dynamic effect during the spill
+    * [x] Beam size changes in time
+        * [x] Use the ctime
+    * [x] If beam size changes it mean we are not doing COSE
+    * [x] If the beam size changes it means the optics isn't constant and something in the machine isn't scaling with momentum
+    * [x] Plot a waterfall beam size as a function of time in each plane
+* [ ] If you don't average the beam size, it's like if you were doing x-number of quad scan (one per acquisition basically) with different optics at each time
+* [ ] Think about normalization, if the rate of extraction isn't constant, each acquisition will have a different height/intensity
+    * [ ] Normalize by the area under the projection
+    * [ ] Look in Google how to normalize a gaussian
+    * [ ] Look at the difference between the waterfall of normalized and unnormalized projections
+* [x] Remove the background
+* [x] UCAP, virtual device that does python
+    * [x] Beam position as a function of time
+    * [x] Average beam position
+    * [x] [Marcel's logbook entry](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3531699)
+* At low energy, it should be more COSE
+    * Machine is linear
+    * Optics is much more constant
+    * Quadrupolar component of the combined function machine follows the dipole component better
+
+![](https://codimd.web.cern.ch/uploads/upload_0ba5dafe081bc4eb9545a181c7dce4b2.png)
+
+[Source code permalink: blit.py](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/18bc2b71e2d9d15a675849e68311f04945c287c7/blit.py)
+
+![](https://codimd.web.cern.ch/uploads/upload_35ec1a923c608257f7bd94100557f05e.png)
+
+
+https://stackoverflow.com/questions/54851012/fitting-data-with-multiple-gaussian-profiles-in-python?rq=1
+
+![](https://codimd.web.cern.ch/uploads/upload_ccd512d7652404ecfebab70c7e0c0e4d.png)
+
+* [ ] Run the optimizer with the HE correctors
+    * [ ] Check the emittance in the PS with the wire scanner
+    * [ ] Also do a tune measurement
+    * [ ] Do some steering to cancel the oscillation and get a really small beam size
+* [ ] If there is still a sweep
+    * [ ] Optimizer with two correctors to cancel sweep
+        * [ ] cancel position
+        * [ ] cancel angle
+* [x] Overclock:
+    * [x] Try with a small width and/or length to get faster acquisitions
+* [ ] Kick response measurement through the stray field
+    * [ ] With KFA71 and SMH57 and SMH61
+
+
+# Radial steering for Dispersion measurement
+To untangle the dispersion from the optimiser, a dispersion measurement has been tried out: [[Dispersion measurement]].
+
+# Bunch rotation
+
+
+## VLC video stream
+
+[vlc_video.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/vlc_video.ipynb)
+
+
+
+![](https://codimd.web.cern.ch/uploads/upload_e5b2db8e38acec3816058b7a45502132.png)
+![](https://codimd.web.cern.ch/uploads/upload_8aff2d193feaf8ebb714f053810522f2.gif)
