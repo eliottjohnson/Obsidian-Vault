@@ -9,5 +9,6 @@
   "newFileFolderPath": "Attachments",
   "attachmentFolderPath": "./Attachments",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }

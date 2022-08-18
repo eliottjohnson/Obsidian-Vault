@@ -7,5 +7,23 @@ Notebook to create multipole field component model in the MU62 for the East extr
 
 Beam momentum 24 GeV/c
 
-The beam travels through the stray fields of [[MU62]].
+## Tracking
+We track a particle through the stray fields of [[MU62]].
 
+![[mfc_mu62.png]]
+
+Settings for the starting point of tracking
+
+extraction_offset = 0.132 m
+extraction_angle = 0.0139626 rad
+x_offset = + extraction_offset * np.cos(subtending_angle/2)
+z_offset = + extraction_offset * np.sin(subtending_angle/2)
+
+track_end_z_m = chord/2 
+
+ang_glob = (subtending_angle/2 + extraction_angle, 0.0)
+pos_glob = (-sagitta+x_offset,  0.0, -(chord/2+z_offset))
+
+## Probe the field transverly
+
+We probe the field transversely at different s-steps along the particle trajectory inside the vaccum pipe that has a width of
