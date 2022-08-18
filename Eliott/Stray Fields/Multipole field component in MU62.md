@@ -6,3 +6,5 @@ Notebook to create multipole field component model in the MU62 for the East extr
 [Source code: mfc_mu62.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/east-fast-extraction/mfc_mu62.ipynb)
 
 Beam momentum 24 GeV/c
+
+The beam travels through the stray fields of [[MU62]].
