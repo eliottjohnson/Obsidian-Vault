@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+            "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md"
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "36b24f514f156b26",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Attachments/east_dump_optics 1.png",
+    "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md",
@@ -166,8 +168,6 @@
     "Eliott/Stray Fields/Q74L.md",
     "Eliott/Stray Fields/Particle distributions.md",
     "Eliott/Stray Fields/GEODE points.md",
-    "Eliott/Stray Fields/Multipole component model from injection.md",
-    "Eliott/Stray Fields/Magnetic measurement of SMH61.md",
-    "Eliott/Stray Fields/Magnetic measurement of SMH57.md"
+    "Eliott/Stray Fields/Multipole component model from injection.md"
   ]
 }

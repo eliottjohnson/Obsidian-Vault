@@ -14,6 +14,12 @@ See [[Super-cycle length]] information.
 
 Minimum protons per pulse (ppp)  is 6E+11 during the shortest super-cycle which is 24 BP. As one BP 1.2 s, the shortest super cycle is 28.8 s and thus the minimum protons per second is 2.1E+10 p/s.
 
+RP limits for each EAST targets:
+
+ *   6.6e10 protons/second to T8-IRRAD/CHARM  
+ *   3.3e10 protons/second to T9 Target  
+ *   3.3e10 protons/second to T10/T11 Target
+
 For two cycles per SC, 4.2E+10 p/s
 
 3) Minimum intensity required for the dump to be useful is 1 cycle per super cycle
