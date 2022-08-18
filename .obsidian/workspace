@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/BTV filters.md",
+            "file": "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OD filter",
+                "query": "mu62",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole component model from injection.md",
+                "file": "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole component model from injection.md",
+                "file": "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole component model from injection.md"
+                "file": "Eliott/Stray Fields/Fast extraction tracking in MU62.md"
               }
             }
           },
@@ -157,8 +158,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36b24f514f156b26",
+  "active": "ded07f7dc9f7ed04",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/BTV filters.md",
+    "Eliott/Stray Fields/Multipole component model from injection.md",
     "Eliott/Stray Fields/Tune and chromaticity measurements.md",
     "Eliott/Stray Fields/Field map visualization.md",
     "Eliott/Stray Fields/Injection BTP.md",
@@ -166,8 +169,6 @@
     "Eliott/Stray Fields/Gradient felt at East extraction.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/Quadrupole scan/Attachments/east_dump_optics 1.png",
-    "Eliott/Quadrupole scan/Emittance blow-up.md",
-    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Eliott/Stray Fields/TT2 TT10 extraction stray field simulation.md"
+    "Eliott/Quadrupole scan/Emittance blow-up.md"
   ]
 }
