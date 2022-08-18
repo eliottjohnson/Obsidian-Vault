@@ -8,3 +8,4 @@ Notebook to create multipole field component model in the MU62 for the East extr
 Beam momentum 24 GeV/c
 
 The beam travels through the stray fields of [[MU62]].
+

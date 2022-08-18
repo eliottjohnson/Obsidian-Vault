@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Multipole component model from injection.md",
+            "file": "Eliott/Quadrupole scan/East Area Initial parameters.md",
             "mode": "source",
             "source": false
           }
@@ -159,15 +159,15 @@
   },
   "active": "ded07f7dc9f7ed04",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/East Area Initial parameters.md",
+    "Eliott/Quadrupole scan/Initial parameter validation.md",
     "Theory/Theory.md",
+    "Eliott/Stray Fields/Multipole component model from injection.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/MU62.md",
     "Eliott/Stray Fields/Gradient felt at East extraction.md",
     "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
     "Eliott/Quadrupole scan/BTV filters.md",
-    "Eliott/Stray Fields/Multipole component model from injection.md",
-    "Eliott/Stray Fields/Tune and chromaticity measurements.md",
-    "Eliott/Stray Fields/Field map visualization.md",
-    "Eliott/Stray Fields/Injection BTP.md"
+    "Eliott/Stray Fields/Tune and chromaticity measurements.md"
   ]
 }
