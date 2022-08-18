@@ -36,5 +36,3 @@ For two cycles per SC, 4.2E+10 p/s
 	* $\beta(x)$
 	* etc
 8) Add the BTV profiles from measurements [[BTV filters]].
-
-Hello
