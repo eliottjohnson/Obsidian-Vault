@@ -8,5 +8,12 @@
 4) Enter the doc number
 ![[Pasted image 20220818165723.png]]
 
+5) Download STP files
+![[Pasted image 20220818170204.png]]
+
+6) Open file with [Fusion 360 for personal use](https://www.autodesk.com/products/fusion-360/personal)
+
  List of interesting CAD documents:
-* MU62: ST0505931
+* MU62: ST0505931_01
+* MU63: ST0505941_01
+* SHIM63: ST1308384_01

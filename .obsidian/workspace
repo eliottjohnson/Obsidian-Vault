@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Find 3D models.md",
-            "mode": "source",
+            "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shims",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Find 3D models.md",
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Find 3D models.md",
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Find 3D models.md"
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md"
               }
             }
           },
@@ -147,11 +148,11 @@
   },
   "active": "606d3ea1d3c4a7b6",
   "lastOpenFiles": [
+    "Eliott/Find 3D models.md",
     "Sticky Notes.md",
     "[ ] Send step file.md",
     "Eliott/Stray Fields/PS Magnetic Shims.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/Find 3D models.md",
     "Eliott/Stray Fields/Q74L.md",
     "Eliott/Stray Fields/MU62.md",
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
