@@ -30,7 +30,7 @@ kanban-plugin: basic
 
 ## Stray field geometry with Miro
 
-- [ ] * [ ] Send step file<br>* [ ] Find the metal of the shim geometry (maybe ask Dominique)<br>* [ ]  Give type of MU63 magnet
+- [ ] * [x] Send step file<br>* [x] Find the metal of the shim geometry (maybe ask Dominique)<br>* [x]  Give type of MU63 magnet
 - [ ] * [ ] Set up a meeting with Alex to find the currents in the MUs<br>* There are 5 loops<br>* [ ] Find out the current in each loops<br>1) F8L<br>PFW<br>2) wide<br>3) narrow<br>4) focusing<br>5) defocusing
 - [ ] 4 Tasks for Miro<br>* PFW currents<br>* MU63 shims<br>* F16 shims<br>* BTP injection mu-metal
 

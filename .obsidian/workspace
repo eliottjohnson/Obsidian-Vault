@@ -7,9 +7,11 @@
         "id": "606d3ea1d3c4a7b6",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Eliott/Attachments/Pasted image 20220818165448.png"
+            "file": "Eliott/Stray Fields/MU63.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Attachments/Pasted image 20220818165448.png",
+                "file": "Eliott/Stray Fields/MU63.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Attachments/Pasted image 20220818165448.png",
+                "file": "Eliott/Stray Fields/MU63.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Attachments/Pasted image 20220818165448.png"
+                "file": "Eliott/Stray Fields/MU63.md"
               }
             }
           },
@@ -157,15 +159,15 @@
   },
   "active": "606d3ea1d3c4a7b6",
   "lastOpenFiles": [
+    "Sticky Notes.md",
+    "Eliott/Attachments/Pasted image 20220818165448.png",
     "Eliott/Attachments/Pasted image 20220818165636.png",
     "Eliott/Attachments/Pasted image 20220818165708.png",
     "Eliott/Attachments/Pasted image 20220818165723.png",
     "Eliott/Attachments/Pasted image 20220818170204.png",
     "Eliott/Find 3D models.md",
     "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "Sticky Notes.md",
     "[ ] Send step file.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/Stray Fields/Q74L.md"
+    "Eliott/Stray Fields/Multipole field component in MU62.md"
   ]
 }
