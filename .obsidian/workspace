@@ -7,10 +7,20 @@
         "id": "606d3ea1d3c4a7b6",
         "type": "leaf",
         "state": {
+          "type": "image",
+          "state": {
+            "file": "Eliott/Attachments/Pasted image 20220818165448.png"
+          }
+        }
+      },
+      {
+        "id": "2395afc043def76c",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
-            "mode": "preview",
+            "file": "Eliott/Find 3D models.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shims",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
+                "file": "Eliott/Attachments/Pasted image 20220818165448.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
+                "file": "Eliott/Attachments/Pasted image 20220818165448.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/PS Magnetic Shims.md"
+                "file": "Eliott/Attachments/Pasted image 20220818165448.png"
               }
             }
           },
@@ -148,15 +157,15 @@
   },
   "active": "606d3ea1d3c4a7b6",
   "lastOpenFiles": [
+    "Eliott/Attachments/Pasted image 20220818165636.png",
+    "Eliott/Attachments/Pasted image 20220818165708.png",
+    "Eliott/Attachments/Pasted image 20220818165723.png",
+    "Eliott/Attachments/Pasted image 20220818170204.png",
     "Eliott/Find 3D models.md",
+    "Eliott/Stray Fields/PS Magnetic Shims.md",
     "Sticky Notes.md",
     "[ ] Send step file.md",
-    "Eliott/Stray Fields/PS Magnetic Shims.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/Stray Fields/Q74L.md",
-    "Eliott/Stray Fields/MU62.md",
-    "Eliott/Quadrupole scan/East Area Initial parameters.md",
-    "Eliott/Quadrupole scan/Initial parameter validation.md",
-    "Theory/Theory.md"
+    "Eliott/Stray Fields/Q74L.md"
   ]
 }
