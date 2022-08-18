@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/MU62.md",
+            "file": "Eliott/Stray Fields/Find 3D models.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md",
+                "file": "Eliott/Stray Fields/Find 3D models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md",
+                "file": "Eliott/Stray Fields/Find 3D models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md"
+                "file": "Eliott/Stray Fields/Find 3D models.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "606d3ea1d3c4a7b6",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/Q74L.md",
+    "Eliott/Stray Fields/MU62.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
     "Eliott/Quadrupole scan/Initial parameter validation.md",
     "Theory/Theory.md",
     "Eliott/Stray Fields/Multipole component model from injection.md",
-    "Eliott/Stray Fields/MU62.md",
     "Eliott/Stray Fields/Gradient felt at East extraction.md",
     "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
-    "Eliott/Quadrupole scan/BTV filters.md",
-    "Eliott/Stray Fields/Tune and chromaticity measurements.md"
+    "Eliott/Quadrupole scan/BTV filters.md"
   ]
 }
