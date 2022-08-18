@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Gradient felt at East extraction.md",
-            "mode": "preview",
+            "file": "Theory/Theory.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradient felt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Gradient felt at East extraction.md",
+                "file": "Theory/Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Gradient felt at East extraction.md",
+                "file": "Theory/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Gradient felt at East extraction.md"
+                "file": "Theory/Theory.md"
               }
             }
           },
@@ -160,15 +159,15 @@
   },
   "active": "ded07f7dc9f7ed04",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/Multipole field component in MU62.md",
+    "Eliott/Stray Fields/Gradient felt at East extraction.md",
     "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
     "Eliott/Quadrupole scan/BTV filters.md",
     "Eliott/Stray Fields/Multipole component model from injection.md",
     "Eliott/Stray Fields/Tune and chromaticity measurements.md",
     "Eliott/Stray Fields/Field map visualization.md",
     "Eliott/Stray Fields/Injection BTP.md",
-    "Eliott/Stray Fields/Gradient felt at East extraction.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
-    "Eliott/Quadrupole scan/Attachments/east_dump_optics 1.png",
-    "Eliott/Quadrupole scan/Emittance blow-up.md"
+    "Eliott/Quadrupole scan/Attachments/east_dump_optics 1.png"
   ]
 }
