@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md"
+                "file": "Eliott/Stray Fields/MU current scaling with momentum.md"
               }
             }
           },
@@ -159,8 +159,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "606d3ea1d3c4a7b6",
+  "active": "cdb06c63b751f812",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/EAST slow extraction.md",
     "Eliott/Damper extraction.md",
     "Eliott/Quadrupole scan/BTV filters.md",
@@ -169,7 +170,6 @@
     "Eliott/Stray Fields/MU current scaling with momentum.md",
     "Eliott/Stray Fields/PS Magnetic Shims.md",
     "Eliott/Stray Fields/Gradient felt at East extraction.md",
-    "Sticky Notes.md",
-    "Eliott/Quadrupole scan/Quadrupole Scan.md"
+    "Sticky Notes.md"
   ]
 }

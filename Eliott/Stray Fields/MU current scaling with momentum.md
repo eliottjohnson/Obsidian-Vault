@@ -30,7 +30,7 @@ $B\rho \text{ [T m]} = \frac{1}{0.29979}\cdot p \text{ [GeV/c]}$
 use this to compute the integrated field needed in a main unit to deflect the nominal deflection angle $2*\pi/100$ at 14 GeV/c
 
 
-From [CERN note](https://cds.cern.ch/record/1233948/files/CERN%20TE%20Note%202010-003.pdf)
+From [CERN Note: The PS Booster, PS and SPS Magnets for the next 25 years](https://cds.cern.ch/record/1233948/files/CERN%20TE%20Note%202010-003.pdf)
 
 $B=3.33564 \cdot \frac{p [GeV/c]}{\rho [m]}$
 * $\rho = 70.0789$ m
