@@ -23,6 +23,8 @@ $R=B\rho=pc/q$
 * q charge
 
 if the particle momentum, p, is given in GeV/c, then the rigidity is in Tesla-metres $B\rho=3.3356pc/q$
+or
+$B\rho \text{ [T m]} = \frac{1}{0.29979}\cdot p \text{ [GeV/c]}$
 
 
 use this to compute the integrated field needed in a main unit to deflect the nominal deflection angle $2*\pi/100$ at 14 GeV/c
