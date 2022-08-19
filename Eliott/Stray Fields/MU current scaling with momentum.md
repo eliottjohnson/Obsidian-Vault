@@ -30,3 +30,16 @@ $B\rho \text{ [T m]} = \frac{1}{0.29979}\cdot p \text{ [GeV/c]}$
 use this to compute the integrated field needed in a main unit to deflect the nominal deflection angle $2*\pi/100$ at 14 GeV/c
 
 
+From [CERN note](https://cds.cern.ch/record/1233948/files/CERN%20TE%20Note%202010-003.pdf)
+
+$B=3.33564 \cdot \frac{p [GeV/c]}{\rho [m]}$
+* $\rho = 70.0789$ m
+* Total bending length = 440.3185
+* Number of MU = 100
+
+Example for a p=24 GeV/c momentum extraction
+
+$B=3.33564 \cdot \frac{24}{70.0789} = 1.14 \text{ [T]}$
+
+$B=3.33564 \cdot \frac{14}{70.0789} = 0.666 \text{ [T]}$
+$I=B/2.5E-4=2665 [A]$
