@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Day list
 
-- [ ] **Monday 15th**
+- [ ] * [ ] Write the note on MFC model in MU62 mfc_mu62.ipynb<br>* [ ] Send EDMS document to Alex and Bettina
 - [ ] * [ ] Beam size and parameters at East dump for RP issues
 - [ ] * [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
 - [ ] * [ ] Check BPM UCAP and logging if I get the same values

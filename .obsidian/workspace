@@ -7,23 +7,9 @@
         "id": "606d3ea1d3c4a7b6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/Stray Fields/MU63.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2395afc043def76c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Eliott/Find 3D models.md",
-            "mode": "source",
-            "source": false
+            "file": "Sticky Notes.md"
           }
         }
       }
@@ -89,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md",
+                "file": "Sticky Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md",
+                "file": "Sticky Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md"
+                "file": "Sticky Notes.md"
               }
             }
           },
@@ -159,15 +145,15 @@
   },
   "active": "606d3ea1d3c4a7b6",
   "lastOpenFiles": [
+    "Eliott/Find 3D models.md",
     "Sticky Notes.md",
+    "Eliott/Stray Fields/MU63.md",
     "Eliott/Attachments/Pasted image 20220818165448.png",
     "Eliott/Attachments/Pasted image 20220818165636.png",
     "Eliott/Attachments/Pasted image 20220818165708.png",
     "Eliott/Attachments/Pasted image 20220818165723.png",
     "Eliott/Attachments/Pasted image 20220818170204.png",
-    "Eliott/Find 3D models.md",
     "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "[ ] Send step file.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md"
+    "[ ] Send step file.md"
   ]
 }
