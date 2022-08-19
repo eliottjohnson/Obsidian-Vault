@@ -1,6 +1,6 @@
 # How to find 3D models
 
-1) Visit [cern.plm.ch](cern.plm.ch)
+1) Visit [plm.cern.ch](https://plm.cern.ch/)
 2) Open the navigation panel
 ![[Pasted image 20220818165448.png]]
 3) Click on SmarTeam and CAD Documents (ST Document)

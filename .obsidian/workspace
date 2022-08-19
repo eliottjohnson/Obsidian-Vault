@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
+            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
+            "file": "Eliott/Find 3D models.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ctime",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
-    "collapsed": true
+    "width": 452.5
   },
   "right": {
     "id": "8fb34b043199d2f4",
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
+                "file": "Eliott/Find 3D models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
+                "file": "Eliott/Find 3D models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md"
+                "file": "Eliott/Find 3D models.md"
               }
             }
           },
@@ -161,15 +159,15 @@
   },
   "active": "cdb06c63b751f812",
   "lastOpenFiles": [
+    "Eliott/Find 3D models.md",
+    "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
+    "Eliott/cern.plm.ch.md",
+    "cern.plm.ch.md",
+    "Eliott/Stray Fields/MU current scaling with momentum.md",
     "Eliott/EAST slow extraction.md",
     "Eliott/Damper extraction.md",
     "Eliott/Quadrupole scan/BTV filters.md",
-    "Eliott/Stray Fields/Field map with PFW and F8L.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/Stray Fields/MU current scaling with momentum.md",
-    "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "Eliott/Stray Fields/Gradient felt at East extraction.md",
-    "Sticky Notes.md"
+    "Eliott/Stray Fields/Field map with PFW and F8L.md"
   ]
 }
