@@ -26,4 +26,5 @@ pos_glob = (-sagitta+x_offset,  0.0, -(chord/2+z_offset))
 
 ## Probe the field transverly
 
-We probe the field transversely at different s-steps along the particle trajectory inside the vaccum pipe that has a width of
+We probe the field transversely at different s-steps along the particle trajectory inside the vaccum pipe that has a total width of 70 mm, see [[MU62#MU62 Beam pipe aperture]]
+
