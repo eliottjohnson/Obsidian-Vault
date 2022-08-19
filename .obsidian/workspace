@@ -7,9 +7,11 @@
         "id": "606d3ea1d3c4a7b6",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Sticky Notes.md"
+            "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ctime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sticky Notes.md",
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sticky Notes.md",
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sticky Notes.md"
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md"
               }
             }
           },
@@ -145,15 +148,15 @@
   },
   "active": "606d3ea1d3c4a7b6",
   "lastOpenFiles": [
-    "Eliott/Find 3D models.md",
+    "Field map with PFW and F8L.md",
     "Sticky Notes.md",
+    "Eliott/Find 3D models.md",
     "Eliott/Stray Fields/MU63.md",
     "Eliott/Attachments/Pasted image 20220818165448.png",
     "Eliott/Attachments/Pasted image 20220818165636.png",
     "Eliott/Attachments/Pasted image 20220818165708.png",
     "Eliott/Attachments/Pasted image 20220818165723.png",
     "Eliott/Attachments/Pasted image 20220818170204.png",
-    "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "[ ] Send step file.md"
+    "Eliott/Stray Fields/PS Magnetic Shims.md"
   ]
 }
