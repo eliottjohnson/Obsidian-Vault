@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
+            "file": "Eliott/Stray Fields/Field map with PFW and F8L.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
+                "file": "Eliott/Stray Fields/Field map with PFW and F8L.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
+                "file": "Eliott/Stray Fields/Field map with PFW and F8L.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md"
+                "file": "Eliott/Stray Fields/Field map with PFW and F8L.md"
               }
             }
           },
@@ -157,12 +157,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cdb06c63b751f812",
+  "active": "606d3ea1d3c4a7b6",
   "lastOpenFiles": [
-    "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "Eliott/Stray Fields/MU current scaling with momentum.md",
-    "Eliott/Stray Fields/Field map with PFW and F8L.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
+    "Eliott/Stray Fields/MU current scaling with momentum.md",
+    "Eliott/Stray Fields/PS Magnetic Shims.md",
+    "Eliott/Stray Fields/Field map with PFW and F8L.md",
     "Eliott/Stray Fields/Gradient felt at East extraction.md",
     "Sticky Notes.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
