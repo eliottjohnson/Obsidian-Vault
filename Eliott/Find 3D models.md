@@ -6,6 +6,9 @@
 3) Click on SmarTeam and CAD Documents (ST Document)
 ![[Pasted image 20220818165636.png]]
 4) Enter the doc number
+
+Perhaps you need to add an empty space after the query
+
 ![[Pasted image 20220818165723.png]]
 
 5) Download STP files
