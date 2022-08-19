@@ -28,3 +28,11 @@ pos_glob = (-sagitta+x_offset,  0.0, -(chord/2+z_offset))
 
 We probe the field transversely at different s-steps along the particle trajectory inside the vaccum pipe that has a total width of 70 mm, see [[MU62#MU62 Beam pipe aperture]]
 
+We run a loop for each point in the track we save the $B_{y}$ field perpendicularly to the track  and run a polyfit of third order on By as a function of $x_{\perp}$
+
+Each field component is then the polyfit constant divided by $B\rho$
+
+## Compute the s along the track
+
+We then use pythagoras to compute the s-length along the track
+
