@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Field map with PFW and F8L.md",
+            "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ctime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +69,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 452.5,
+    "collapsed": true
   },
   "right": {
     "id": "8fb34b043199d2f4",
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Field map with PFW and F8L.md",
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Field map with PFW and F8L.md",
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Field map with PFW and F8L.md"
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md"
               }
             }
           },
@@ -159,15 +161,15 @@
   },
   "active": "606d3ea1d3c4a7b6",
   "lastOpenFiles": [
+    "Eliott/EAST slow extraction.md",
+    "Eliott/Damper extraction.md",
+    "Eliott/Quadrupole scan/BTV filters.md",
+    "Eliott/Stray Fields/Field map with PFW and F8L.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/MU current scaling with momentum.md",
     "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "Eliott/Stray Fields/Field map with PFW and F8L.md",
     "Eliott/Stray Fields/Gradient felt at East extraction.md",
     "Sticky Notes.md",
-    "Eliott/Quadrupole scan/Quadrupole Scan.md",
-    "Eliott/Find 3D models.md",
-    "Eliott/Stray Fields/MU63.md",
-    "Eliott/Attachments/Pasted image 20220818165448.png"
+    "Eliott/Quadrupole scan/Quadrupole Scan.md"
   ]
 }
