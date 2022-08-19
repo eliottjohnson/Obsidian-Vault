@@ -32,7 +32,12 @@ We run a loop for each point in the track we save the $B_{y}$ field perpendicula
 
 Each field component is then the polyfit constant divided by $B\rho$
 
+![[mfc_mu62_polifit.png]]
+
+![[mfc_mu62_track_with_probing.png]]
+
 ## Compute the s along the track
 
-We then use pythagoras to compute the s-length along the track
+We then use Pythagoras to compute the s-length along the track (369 points)
 
+![[mfc_mu62_4_components.png]]
