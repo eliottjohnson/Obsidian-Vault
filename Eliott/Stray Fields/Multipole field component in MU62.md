@@ -41,3 +41,4 @@ Each field component is then the polyfit constant divided by $B\rho$
 We then use Pythagoras to compute the s-length along the track (369 points)
 
 ![[mfc_mu62_4_components.png]]
+![[mfc_mu62_track_with_probing 1.png]]
