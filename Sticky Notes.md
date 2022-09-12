@@ -56,6 +56,7 @@ kanban-plugin: basic
 
 - [ ] Following MD<br>Optics change during the spill: is the dynamic effect because we ramp the quads with momentum? MD ramp and don't ramp the quad and look at the beam size if it's still dynamic.<br>MD to CHARM on a Wednesday to test predictiveness of the model<br>Grap BPM data from Federico (published ?)<br>Quad scan measurements dedicated T8 at high intensity on IRRAD BPMs<br>VLC stream on the BTV PR57 to see if the spiral step changes. If it moves in the ring. Use a timing event to trigger the callback event.
 - [ ] Unplanned:<br>Fast extraction and kick response measurement with the model including new fringe fields and new lower beam loss. With Kicker and septum.<br>HE corrector optimisation with fast extraced beam<br>Ramping the transfer line with p to measure dispersion
+- [ ] 5 - 19th october cryostat (no dedicated MD in T8)
 
 
 ## CHIMERA
