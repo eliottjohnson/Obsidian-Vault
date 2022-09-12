@@ -7,11 +7,9 @@
         "id": "3277c0dc332048ac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/CHIMERA/SEC calibration EAST.md",
-            "mode": "source",
-            "source": false
+            "file": "Sticky Notes.md"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BCT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/CHIMERA/SEC calibration EAST.md",
+                "file": "Sticky Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/CHIMERA/SEC calibration EAST.md",
+                "file": "Sticky Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/CHIMERA/SEC calibration EAST.md"
+                "file": "Sticky Notes.md"
               }
             }
           },
@@ -148,8 +145,8 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
-    "Eliott/EAST slow extraction.md",
     "Eliott/CHIMERA/SEC calibration EAST.md",
+    "Eliott/EAST slow extraction.md",
     "Eliott/CHIMERA/Attachments/Pasted image 20220912104607.png",
     "Eliott/CHIMERA/Attachments/Pasted image 20220912104519.png",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
