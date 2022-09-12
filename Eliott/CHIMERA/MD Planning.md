@@ -34,7 +34,11 @@ What intensity do we want ?
 * 1e10, 6e10 charges, so to lower we need to change extraction technique = play with the tune sweep (PFW)
 * Look at spill with scintillator for spill as a function of time
 * How low can we go with intensity with tune sweep ?
-
+* BPM in IRRAD can measure time profile of the beam
 
 Optics measurements in parallel to dump (optics measurement) and to T8
 T8 PPM ? Will be done with Kostas.
+
+5 to 19th cryostat: MD dedicated to T8 can start 26th of October and one on 16th of November.
+Is 1 GeV/u (1 GeV per nucleon) low enough with FLUKA for transmission ? We need more than 50% transmission. 1 GeV is 20% transmission so we would need high intensity.
+
