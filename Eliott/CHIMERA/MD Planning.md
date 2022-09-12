@@ -39,6 +39,9 @@ What intensity do we want ?
 Optics measurements in parallel to dump (optics measurement) and to T8
 T8 PPM ? Will be done with Kostas.
 
-5 to 19th cryostat: MD dedicated to T8 can start 26th of October and one on 16th of November.
+5 to 19th cryostat: MD dedicated to T8 can start **26th of October and one on 16th of November**. Check with Salvatore in CHARM. Also if MONTRAC available.
 Is 1 GeV/u (1 GeV per nucleon) low enough with FLUKA for transmission ? We need more than 50% transmission. 1 GeV is 20% transmission so we would need high intensity.
 
+LINAC3 and LEIR team for operational support. Piquet.
+
+Encourage BI team to be there on the 26 and 16th. Connect picoscope on XSEC070 in IRRAD.
