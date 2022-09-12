@@ -36,6 +36,9 @@ kanban-plugin: basic
 ## Mid Term
 
 - [ ] T8 misalignment
+- [ ] Dipanwita would like to have beam size at the entrance and exit of F6x bends
+- [ ] Also beam size that includes the sweep
+- [ ] EDMS document on East dump<br>* [ ] Read comments<br>* [ ] Check with Matthew the final list of reviewers<br>* [ ] Start EDMS review procedure with Thomas Birtwistle
 
 
 ## Long Term plan
