@@ -45,3 +45,14 @@ Is 1 GeV/u (1 GeV per nucleon) low enough with FLUKA for transmission ? We need 
 LINAC3 and LEIR team for operational support. Piquet.
 
 Encourage BI team to be there on the 26 and 16th. Connect picoscope on XSEC070 in IRRAD.
+
+Federico's VISTAR BPM, pay attention to timings of DAQ.
+Change scale on website.
+
+Add YASP Jorg Marcel on MWPC (and BTVs but maybe won't see with ions) in the next few weeks.
+
+Shape of beam: gaussian
+200-300 ms spill
+Beam size,
+Beam energy: 100 - 400 MeV/n provides an interesting LET range of 15-35 MeVcm^2/mg. Work with 1GeV/n and degrade it with polyethylene
+Beam intensity
