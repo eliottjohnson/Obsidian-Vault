@@ -7,11 +7,9 @@
         "id": "3277c0dc332048ac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/Radioprotection.md",
-            "mode": "source",
-            "source": false
+            "file": "Sticky Notes.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Radioprotection.md",
+                "file": "Sticky Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Radioprotection.md",
+                "file": "Sticky Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Radioprotection.md"
+                "file": "Sticky Notes.md"
               }
             }
           },
@@ -147,6 +145,7 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
+    "Eliott/Radioprotection.md",
     "Sticky Notes.md",
     "Eliott/CHIMERA/SEC calibration EAST.md",
     "Eliott/EAST slow extraction.md",
@@ -155,7 +154,6 @@
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/MU62.md",
     "Eliott/Stray Fields/Field map with PFW and F8L.md",
-    "Eliott/Stray Fields/MU current scaling with momentum.md",
-    "Eliott/Stray Fields/Attachments/mfc_mu62_4_components.png"
+    "Eliott/Stray Fields/MU current scaling with momentum.md"
   ]
 }

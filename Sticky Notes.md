@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Day list
 
-- [ ] * [ ] Write the note on MFC model in MU62 mfc_mu62.ipynb<br>* [ ] Send EDMS document to Alex and Bettina
 - [ ] * [ ] Beam size and parameters at East dump for RP issues
 - [ ] * [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
 - [ ] * [ ] Check BPM UCAP and logging if I get the same values
@@ -32,6 +31,11 @@ kanban-plugin: basic
 
 - [ ] * [ ] Set up a meeting with Alex to find the currents in the MUs<br>* There are 5 loops<br>* [ ] Find out the current in each loops<br>1) F8L<br>PFW<br>2) wide<br>3) narrow<br>4) focusing<br>5) defocusing
 - [ ] 4 Tasks for Miro<br>* PFW currents<br>* MU63 shims<br>* F16 shims<br>* BTP injection mu-metal
+
+
+## Mid Term
+
+- [ ] T8 misalignment
 
 
 ## Long Term plan
