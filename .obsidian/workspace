@@ -9,18 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+            "file": "Eliott/CHIMERA/SEC calibration EAST.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "40f7be8e7ed00184",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -85,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+                "file": "Eliott/CHIMERA/SEC calibration EAST.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+                "file": "Eliott/CHIMERA/SEC calibration EAST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
+                "file": "Eliott/CHIMERA/SEC calibration EAST.md"
               }
             }
           },
