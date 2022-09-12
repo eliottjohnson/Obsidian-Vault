@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/CHIMERA/MD Planning.md",
+            "file": "Eliott/CHIMERA/Taskforce 1.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md",
+                "file": "Eliott/CHIMERA/Taskforce 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md",
+                "file": "Eliott/CHIMERA/Taskforce 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md"
+                "file": "Eliott/CHIMERA/Taskforce 1.md"
               }
             }
           },
@@ -147,10 +147,10 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
-    "Eliott/CHIMERA/Taskforce 1.md",
     "Eliott/CHIMERA/Run preparation meeting 1.md",
-    "Sticky Notes.md",
     "Eliott/CHIMERA/MD Planning.md",
+    "Eliott/CHIMERA/Taskforce 1.md",
+    "Sticky Notes.md",
     "Eliott/Radioprotection.md",
     "Eliott/CHIMERA/SEC calibration EAST.md",
     "Eliott/EAST slow extraction.md",
