@@ -15,5 +15,10 @@ Units:
 	* 1.4 mSv annual medical exposure
 	* 3 mSv annual aeroplane pilots
 	* 4 mSv annual natural background
-	* 20 mSv Max dose for a radiation worker
-	* 24
+	* 20 mSv annual Max dose for a radiation worker
+	* 146 mSv annual ISS
+	* 10 Sv Lethal dose
+* Dose rate = effective dose per time $\micro$Sv/h
+
+Stray radiation stops when the accelerator is off
+Residual radioactivity is still there when accelerator is off but decreases with time
