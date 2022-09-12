@@ -26,3 +26,15 @@
 
 Ion cycle setup in PS on the dump (by Marc) at nominal energy.
 Revived last years cycle to the east dump.
+
+Two beams: one bunch version, other version nominal with two bunches (higher intensity) the second one is working.
+What intensity do we want ?
+* Lower intensity range, maybe easier to have a higher intensity beam and change extraction with different extraction techniques (transverse damper, need to steer extraction with bump height)
+* 2e6 ions per spill last year.
+* 1e10, 6e10 charges, so to lower we need to change extraction technique = play with the tune sweep (PFW)
+* Look at spill with scintillator for spill as a function of time
+* How low can we go with intensity with tune sweep ?
+
+
+Optics measurements in parallel to dump (optics measurement) and to T8
+T8 PPM ? Will be done with Kostas.
