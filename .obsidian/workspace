@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/CHIMERA/Taskforce 1.md",
+            "file": "Eliott/CHIMERA/MD Planning.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/CHIMERA/Taskforce 1.md",
+                "file": "Eliott/CHIMERA/MD Planning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/CHIMERA/Taskforce 1.md",
+                "file": "Eliott/CHIMERA/MD Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/CHIMERA/Taskforce 1.md"
+                "file": "Eliott/CHIMERA/MD Planning.md"
               }
             }
           },
@@ -147,6 +147,8 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
+    "Eliott/CHIMERA/Taskforce 1.md",
+    "Eliott/CHIMERA/Run preparation meeting 1.md",
     "Sticky Notes.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/Radioprotection.md",
@@ -154,8 +156,6 @@
     "Eliott/EAST slow extraction.md",
     "Eliott/CHIMERA/Attachments/Pasted image 20220912104607.png",
     "Eliott/CHIMERA/Attachments/Pasted image 20220912104519.png",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/Stray Fields/MU62.md",
-    "Eliott/Stray Fields/Field map with PFW and F8L.md"
+    "Eliott/Stray Fields/Multipole field component in MU62.md"
   ]
 }

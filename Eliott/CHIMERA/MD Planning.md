@@ -20,3 +20,9 @@
 -   Formal request procedure & timeline,
 -   Actions distribution,
 -   AoB
+
+
+
+
+Ion cycle setup in PS on the dump (by Marc) at nominal energy.
+Revived last years cycle to the east dump.
