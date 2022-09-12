@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "fa794c38fb51584b",
+        "id": "40f7be8e7ed00184",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
+              }
             }
           },
           {
@@ -149,7 +153,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa794c38fb51584b",
+  "active": "4e5fb2c24480fc65",
   "lastOpenFiles": [
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Sticky Notes.md",
