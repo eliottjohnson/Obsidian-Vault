@@ -22,7 +22,7 @@ kanban-plugin: basic
 - [ ] * [ ] Add dipoles as correctors
 - [ ] * [ ] Add BTV as steerers
 - [ ] * [ ] Put Alex and Betina in copy
-- [ ] **East Dump Specification**
+- [ ] **East Dump Specification**<br><br>* [ ] Use pessimistic situations (2 cycles dumped consecutively)<br>* [ ] add margin to max. intensity<br>* [ ] Look at comments<br>* [ ] Check with Matt final list of reviewer<br>* [ ] Start EDMS review procedure with Thomas Birtwistle
 
 
 ## Stray field geometry with Miro
