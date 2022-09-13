@@ -7,9 +7,11 @@
         "id": "3277c0dc332048ac",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Sticky Notes.md"
+            "file": "Eliott/EAST transfer lines/YASP.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sticky Notes.md",
+                "file": "Eliott/EAST transfer lines/YASP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sticky Notes.md",
+                "file": "Eliott/EAST transfer lines/YASP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sticky Notes.md"
+                "file": "Eliott/EAST transfer lines/YASP.md"
               }
             }
           },
@@ -144,10 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "3277c0dc332048ac",
   "lastOpenFiles": [
-    "Eliott/EAST transfer lines/YASP.md",
     "Sticky Notes.md",
+    "Eliott/EAST transfer lines/YASP.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/Bumper BSW57.md",
     "Eliott/BPMs in T8.md",
