@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "air scatter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,7 +55,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3277c0dc332048ac",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
+    "Eliott/EAST transfer lines/YASP.md",
+    "Sticky Notes.md",
+    "Eliott/CHIMERA/MD Planning.md",
+    "Eliott/Bumper BSW57.md",
+    "Eliott/BPMs in T8.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/Injection BTP.md",
-    "Sticky Notes.md",
     "Eliott/EAST transfer lines/EAST Transfer Lines.md",
     "Eliott/CHIMERA/Run preparation meeting 1.md",
-    "Eliott/CHIMERA/SEC calibration EAST.md",
-    "Eliott/Quadrupole scan/EDMS document East Dump.md",
-    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
-    "Theory/Theory.md"
+    "Eliott/CHIMERA/SEC calibration EAST.md"
   ]
 }
