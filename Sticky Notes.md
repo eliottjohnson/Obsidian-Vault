@@ -20,7 +20,7 @@ kanban-plugin: basic
 - [ ] * [ ] upload custom twiss with different optics
 - [ ] * [ ] Add corrector strength to model and when you change optics, try to get back the same optics
 - [ ] * [ ] Add dipoles as correctors
-- [ ] * [ ] Add BTV as steerers
+- [ ] * [ ] Add BTV as steerers<br>* [ ] Talk with Denis and Jurg
 - [ ] **East Dump Specification**<br><br>* [x] Use pessimistic situations (2 cycles dumped consecutively)<br>* [x] add margin to max. intensity<br>* [x] Look at comments<br>* [x] Check with Matt final list of reviewer<br>* [ ] Start EDMS review procedure with Thomas Birtwistle
 
 
