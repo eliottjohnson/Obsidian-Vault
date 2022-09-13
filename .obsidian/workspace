@@ -7,11 +7,9 @@
         "id": "3277c0dc332048ac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Theory/Theory.md",
-            "mode": "source",
-            "source": false
+            "file": "Sticky Notes.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Theory.md",
+                "file": "Sticky Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Theory.md",
+                "file": "Sticky Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Theory.md"
+                "file": "Sticky Notes.md"
               }
             }
           },
@@ -147,6 +145,7 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
+    "Theory/Theory.md",
     "Sticky Notes.md",
     "Eliott/CHIMERA/SEC calibration EAST.md",
     "Eliott/CHIMERA/MD Planning.md",
@@ -155,7 +154,6 @@
     "Eliott/Radioprotection.md",
     "Eliott/EAST slow extraction.md",
     "Eliott/CHIMERA/Attachments/Pasted image 20220912104607.png",
-    "Eliott/CHIMERA/Attachments/Pasted image 20220912104519.png",
-    "Eliott/Stray Fields/Multipole field component in MU62.md"
+    "Eliott/CHIMERA/Attachments/Pasted image 20220912104519.png"
   ]
 }

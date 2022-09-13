@@ -22,6 +22,7 @@ kanban-plugin: basic
 - [ ] * [ ] Add dipoles as correctors
 - [ ] * [ ] Add BTV as steerers
 - [ ] * [ ] Put Alex and Betina in copy
+- [ ] **East Dump Specification**
 
 
 ## Stray field geometry with Miro
