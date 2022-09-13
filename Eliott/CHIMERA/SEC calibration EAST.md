@@ -35,7 +35,7 @@ Split signal from XSEC (in F61) and acquire raw signal on **picoscope**
 2nd test:
 * Move picoscope to IRRAD area and connect it to a computer with FESA
 
-**Futur:
+**Future:
 * Picoscope installed in IRRAD with UCAP at end of the year
 
 

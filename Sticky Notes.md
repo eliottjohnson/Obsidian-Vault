@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Day list
 
-- [ ] * [ ] Beam size and parameters at East dump for RP issues
 - [ ] * [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
 - [ ] * [ ] Check BPM UCAP and logging if I get the same values
 - [ ] * [ ] Continue to write the CHIMERA document
@@ -17,8 +16,6 @@ kanban-plugin: basic
 - [ ] * [ ] Calculate the new beta, beta1=bet0*pi/4
 - [ ] * [ ] The change in Beta is only if you want to rematch your beam to the scatterer.
 - [ ] * [ ] Maybe you could track distributions kick with a thin kick after the air, recalculate the distribution and continue tracking
-- [ ] **24 to 31st of August**
-- [ ] * [ ] Low intensity 3e9 to T8 for RP campaign
 - [ ] **YASP**
 - [ ] * [ ] upload custom twiss with different optics
 - [ ] * [ ] Add corrector strength to model and when you change optics, try to get back the same optics
