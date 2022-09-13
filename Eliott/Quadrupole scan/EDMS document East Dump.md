@@ -16,7 +16,7 @@ Minimum protons per pulse (ppp)  is 6E+11 during the shortest super-cycle which 
 
 With margin
 
-Minimum protons per pulse (ppp) is 6E+11 + 25% = 7.5E+11 ppp during the shortest super-cycle which is 24 BP. As one BP is 1.2s the shortest super cycle is 28.8 s and thus the minimum protons per second is 2.6E+10. If we have two east cycle then 2.6 x 2 = 
+Minimum protons per pulse (ppp) is 6E+11 + 25% = 7.5E+11 ppp during the shortest super-cycle which is 24 BP. As one BP is 1.2s the shortest super cycle is 28.8 s and thus the minimum protons per second is 2.6E+10. If we have two east cycle then 2.6 x 2 = 5.2E+10
 
 RP limits for each EAST targets:
 
