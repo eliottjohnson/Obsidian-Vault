@@ -7,11 +7,9 @@
         "id": "3277c0dc332048ac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/EAST transfer lines/YASP.md",
-            "mode": "source",
-            "source": false
+            "file": "Sticky Notes.md"
           }
         }
       }
@@ -57,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md",
+                "file": "Sticky Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md",
+                "file": "Sticky Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md"
+                "file": "Sticky Notes.md"
               }
             }
           },
@@ -148,6 +145,8 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
+    "Other/PS transfer functions.md",
+    "Other/Tutorial application development.md",
     "Sticky Notes.md",
     "Eliott/EAST transfer lines/YASP.md",
     "Eliott/CHIMERA/MD Planning.md",
@@ -155,8 +154,6 @@
     "Eliott/BPMs in T8.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/Injection BTP.md",
-    "Eliott/EAST transfer lines/EAST Transfer Lines.md",
-    "Eliott/CHIMERA/Run preparation meeting 1.md",
-    "Eliott/CHIMERA/SEC calibration EAST.md"
+    "Eliott/EAST transfer lines/EAST Transfer Lines.md"
   ]
 }

@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Day list
 
 - [ ] [[EAST Transfer Lines]]<br>Dipanwita would like to have beam size at the entrance and exit of F6x bends<br>* [ ] F61D bend<br>* [ ] T8 bend<br>* [ ] T9 bend<br>* [ ] T10 bend<br>* [ ] Check Aperture restriction<br>* [ ] 3D model in python of aperture ?
-- [ ] [[YASP]]<br><br>* [ ] upload custom twiss with different optics<br>* [ ] Add corrector strength to model and when you change optics, try to get back the same optics<br>* [ ] Add dipoles as correctors<br>* [ ] Add BTV as steerers<br>* [ ] Talk with Denis and Jurg<br>* [ ] Add corrector strength to model and when you change optics, try to get back the same optics
+- [ ] [[YASP]]<br><br>* [ ] upload custom twiss with different optics<br>* [ ] Add corrector strength to model and when you change optics, try to get back the same optics<br>* [ ] Add dipoles as correctors<br>* [ ] Add BTV as steerers<br>* [x] Talk with Denis<br>* [ ] Talk with Jurg<br>* [ ] Add corrector strength to model and when you change optics, try to get back the same optics
 - [ ] [[Multipole field component in MU62]]<br><br>* [ ] Plot ellipse of stray field model<br>* [ ] Check Aperture restriction
 - [ ] * [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
 - [ ] * [ ] Check BPM UCAP and logging if I get the same values
