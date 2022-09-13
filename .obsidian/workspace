@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
+            "file": "Eliott/CHIMERA/Run preparation meeting 1.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
+                "file": "Eliott/CHIMERA/Run preparation meeting 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
+                "file": "Eliott/CHIMERA/Run preparation meeting 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md"
+                "file": "Eliott/CHIMERA/Run preparation meeting 1.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
+    "Eliott/CHIMERA/SEC calibration EAST.md",
+    "Eliott/EAST transfer lines/EAST Transfer Lines.md",
     "Sticky Notes.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Eliott/Quadrupole scan/Attachments/emittance_blow_up.png",
     "Theory/Theory.md",
-    "Eliott/CHIMERA/SEC calibration EAST.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/CHIMERA/Run preparation meeting 1.md",
-    "Eliott/CHIMERA/Taskforce 1.md",
-    "Eliott/Radioprotection.md"
+    "Eliott/CHIMERA/Taskforce 1.md"
   ]
 }
