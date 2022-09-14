@@ -10,20 +10,22 @@
           {
             "id": "3277c0dc332048ac",
             "type": "leaf",
+            "dimension": 37.49077490774908,
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Short Term.md"
+                "file": "Day List.md"
               }
             }
           },
           {
             "id": "8202d6ee4e672f49",
             "type": "leaf",
+            "dimension": 62.50922509225092,
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Long term.md"
+                "file": "Mid-Long term.md"
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short Term.md",
+                "file": "Day List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short Term.md",
+                "file": "Day List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short Term.md"
+                "file": "Day List.md"
               }
             }
           },
@@ -162,10 +164,10 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
-    "Long term.md",
+    "Mid-Long term.md",
     "Untitled.md",
     "2022-09-14.md",
-    "Short Term.md",
+    "Day List.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/EAST transfer lines/YASP.md",
     "Other/PS transfer functions.md",
