@@ -61,13 +61,13 @@ Thomas Birtwistle takes care of the PS Complex primary lines (Booster, PS Ring, 
 
 ### List of UCAP devices
 
-BPMs:
+**BPMs:**
 PS-LOG-BPM-IRRAD-UCAP_BPM_01/Positions
 PS-LOG-BPM-IRRAD-UCAP_BPM_02/Positions
 PS-LOG-BPM-IRRAD-UCAP_BPM_03/Positions
 PS-LOG-BPM-IRRAD-UCAP_BPM_04/Positions
 
-BTVs:
+**BTVs:**
 PS-LOG-BTV-UCAP_PR_BTV57/Positions
 PS-LOG-BTV-UCAP_F61_BTV012/Positions
 PS-LOG-BTV-UCAP_F61D_BTV010/Positions
@@ -75,7 +75,7 @@ PS-LOG-BTV-UCAP_T8_BTV020/Positions
 PS-LOG-BTV-UCAP_T8_BTV035/Positions
 PS-LOG-BTV-UCAP_T8_BTV096/Positions
 
-MWPC:
+**MWPC:**
 * PS-LOG-MWPC-UCAP_IRRAD_2080/
 	* HighGainPositions
 	* HighGainProfilesAcquisition
