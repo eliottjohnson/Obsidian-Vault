@@ -2,3 +2,11 @@
 
 Q74L circle of radius 25 mm, see [[Q74L]]
 
+F61.BTV010 entry window is circle of radius 109.5 mm
+![[Pasted image 20220914165158.png]]
+
+F61.MCXE013 circle of radius 47.5 mm
+![[Pasted image 20220914164937.png]]
+
+F61.MQNEL014 circle of radius 47.5 mm
+![[Pasted image 20220914164730.png]]
