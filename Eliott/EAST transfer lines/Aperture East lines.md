@@ -18,5 +18,5 @@ Beam stoppers radius = 78 mm
 
 ![[Pasted image 20220914170232.png]]
 
-F61.M
+F61.MQNEF021 radius = 47.5 mm
 ![[Pasted image 20220914170416.png]]
