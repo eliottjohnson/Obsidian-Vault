@@ -59,3 +59,25 @@ They will attach the doc to the correct place in EDMS, assign relevant reference
 
 Thomas Birtwistle takes care of the PS Complex primary lines (Booster, PS Ring, etc...)
 
+### List of UCAP devices
+
+BPMs:
+PS-LOG-BPM-IRRAD-UCAP_BPM_01/Positions
+PS-LOG-BPM-IRRAD-UCAP_BPM_02/Positions
+PS-LOG-BPM-IRRAD-UCAP_BPM_03/Positions
+PS-LOG-BPM-IRRAD-UCAP_BPM_04/Positions
+
+BTVs:
+PS-LOG-BTV-UCAP_PR_BTV57/Positions
+PS-LOG-BTV-UCAP_F61_BTV012/Positions
+PS-LOG-BTV-UCAP_F61D_BTV010/Positions
+PS-LOG-BTV-UCAP_T8_BTV020/Positions
+PS-LOG-BTV-UCAP_T8_BTV035/Positions
+PS-LOG-BTV-UCAP_T8_BTV096/Positions
+
+MWPC:
+* PS-LOG-MWPC-UCAP_IRRAD_2080/
+	* HighGainPositions
+	* HighGainProfilesAcquisition
+	* **LowGainPositions** -> gives HCenter/HSigma, VCenter, VSigma
+	* LowGainProfilesAcquisition
