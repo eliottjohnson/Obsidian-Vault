@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+            "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md"
+                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "be4766ee414d53a1",
   "lastOpenFiles": [
-    "Eliott/EAST transfer lines/Aperture East lines.md",
+    "Eliott/EAST transfer lines/Attachments/Pasted image 20220914182804.png",
     "Eliott/EAST transfer lines/EAST Transfer Lines.md",
+    "Day List.md",
+    "Eliott/Quadrupole scan/Emittance blow-up.md",
+    "Eliott/EAST transfer lines/Aperture East lines.md",
     "Eliott/Stray Fields/Q74L.md",
     "Eliott/Find 3D models.md",
     "Eliott/Stray Fields/MU62.md",
     "Eliott/EAST slow extraction.md",
-    "Eliott/Stray Fields/Distribution of particles through MU62.md",
-    "Eliott/Stray Fields/MU63.md",
-    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Eliott/Quadrupole scan/EDMS document East Dump.md"
+    "Eliott/Stray Fields/Distribution of particles through MU62.md"
   ]
 }

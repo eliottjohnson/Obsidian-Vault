@@ -44,6 +44,7 @@ kanban-plugin: basic
 - [ ] Calculate the new beta, beta1=bet0*pi/4
 - [ ] The change in Beta is only if you want to rematch your beam to the scatterer.
 - [ ] Maybe you could track distributions kick with a thin kick after the air, recalculate the distribution and continue tracking
+- [ ] Meeting with Ruben, Andreas, Luigi and Matthew
 
 
 ## Other
