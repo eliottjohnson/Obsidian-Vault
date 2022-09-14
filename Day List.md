@@ -17,9 +17,9 @@ kanban-plugin: basic
 ## [[EAST Transfer Lines]]
 
 - [ ] Dipanwita would like to have beam size at the entrance and exit of F6x bends
+- [ ] Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005
 - [ ] MCB magnet aperture (quite large)
 - [ ] 3D model in python of aperture ?Check Aperture restriction
-- [ ] Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005
 
 
 ## [[YASP]]
