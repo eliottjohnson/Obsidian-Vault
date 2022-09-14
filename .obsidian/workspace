@@ -7,11 +7,9 @@
         "id": "3277c0dc332048ac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
-            "mode": "source",
-            "source": false
+            "file": "Day List.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Day List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Day List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md"
+                "file": "Day List.md"
               }
             }
           },
@@ -147,15 +145,15 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
+    "Eliott/EAST transfer lines/Untitled.md",
+    "Eliott/EAST transfer lines/YASP.md",
+    "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Day List.md",
     "Mid-Long term.md",
     "Untitled.md",
     "2022-09-14.md",
-    "Eliott/Quadrupole scan/EDMS document East Dump.md",
-    "Eliott/EAST transfer lines/YASP.md",
     "Other/PS transfer functions.md",
     "Other/Tutorial application development.md",
-    "Eliott/CHIMERA/MD Planning.md",
-    "Eliott/Bumper BSW57.md"
+    "Eliott/CHIMERA/MD Planning.md"
   ]
 }
