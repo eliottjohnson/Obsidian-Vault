@@ -46,3 +46,10 @@ For two cycles per SC, 4.2E+10 p/s
 	* $\beta(x)$
 	* etc
 8) Add the BTV profiles from measurements [[BTV filters]].
+   
+   
+### Publishing on EDMS
+
+[EDMS: East Dump Specification](https://edms.cern.ch/document/2779463)
+
+Giulia Romagnoli will add the dumps in the lines and position them in Layout.
