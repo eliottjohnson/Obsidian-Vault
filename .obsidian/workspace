@@ -4,33 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "003a7dabf54094dc",
-        "type": "split",
-        "children": [
-          {
-            "id": "3277c0dc332048ac",
-            "type": "leaf",
-            "dimension": 37.49077490774908,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Day List.md"
-              }
-            }
-          },
-          {
-            "id": "8202d6ee4e672f49",
-            "type": "leaf",
-            "dimension": 62.50922509225092,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Mid-Long term.md"
-              }
-            }
+        "id": "3277c0dc332048ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -94,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day List.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day List.md",
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day List.md"
+                "file": "Eliott/Quadrupole scan/EDMS document East Dump.md"
               }
             }
           },
@@ -164,10 +147,10 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
+    "Day List.md",
     "Mid-Long term.md",
     "Untitled.md",
     "2022-09-14.md",
-    "Day List.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/EAST transfer lines/YASP.md",
     "Other/PS transfer functions.md",
