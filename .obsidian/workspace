@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/MU63.md",
+            "file": "Eliott/Stray Fields/Q74L.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Find 3D models.md",
+            "file": "Eliott/EAST transfer lines/Aperture East lines.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "q74 new",
+                "query": "aperture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md",
+                "file": "Eliott/Stray Fields/Q74L.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md",
+                "file": "Eliott/Stray Fields/Q74L.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md"
+                "file": "Eliott/Stray Fields/Q74L.md"
               }
             }
           },
@@ -160,15 +159,15 @@
   },
   "active": "3277c0dc332048ac",
   "lastOpenFiles": [
-    "Eliott/Find 3D models.md",
-    "Eliott/Stray Fields/MU62.md",
-    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Eliott/Quadrupole scan/EDMS document East Dump.md",
+    "Eliott/EAST transfer lines/Aperture East lines.md",
     "Eliott/EAST transfer lines/EAST Transfer Lines.md",
-    "Day List.md",
-    "Eliott/EAST transfer lines/Untitled.md",
-    "Eliott/EAST transfer lines/YASP.md",
-    "Mid-Long term.md",
-    "Untitled.md"
+    "Eliott/Find 3D models.md",
+    "Eliott/Stray Fields/Q74L.md",
+    "Eliott/Stray Fields/MU62.md",
+    "Eliott/EAST slow extraction.md",
+    "Eliott/Stray Fields/Distribution of particles through MU62.md",
+    "Eliott/Stray Fields/MU63.md",
+    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/Quadrupole scan/EDMS document East Dump.md"
   ]
 }
