@@ -49,9 +49,16 @@ F61.MBXHD025: ST1074395_01 no vacuum pipe
 F61.MBXHD033: ST1079008_01
 T08.MBXHD005: ST1079013_01
 T8.MBXHD044: ST1100413_01
-T8.MBXHD044: ST1100415_01
+T8.MBXHD047: ST1100415_01
 
 ![[Pasted image 20220915105458.png]]
+
+BTV20: ST1125767_01
+![[Pasted image 20220915134445.png]]
+
+MQNEF21 and MQNEF23: ST1118289_01 circle radius 47.5 mm
+![[Pasted image 20220915134946.png]]
+
 
 [Layout T8newea13](https://edms.cern.ch/ui/#!master/navigator/document?D:100543453:100543453:subDocs)
 ![[Pasted image 20220915133427.png]]
