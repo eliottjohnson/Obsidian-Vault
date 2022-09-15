@@ -69,6 +69,10 @@ BTV035
 ST0743254_01
 ![[Pasted image 20220915135923.png]]
 
+Collimator ST0681725_01
+![[Pasted image 20220915140619.png]]
+
+
 [Layout T8newea13](https://edms.cern.ch/ui/#!master/navigator/document?D:100543453:100543453:subDocs)
 ![[Pasted image 20220915133427.png]]
 
