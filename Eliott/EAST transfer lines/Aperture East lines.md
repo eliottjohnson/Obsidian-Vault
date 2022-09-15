@@ -75,6 +75,18 @@ ST1073544_01
 Q200L_T08.MQNFK061-066 radius = 96.5 mm
 ![[Pasted image 20220915141315.png]]
 
+SEC MSC-F61S + support radius = 60 mm
+ST1246240_01
+![[Pasted image 20220915142135.png]]
+
+Ens. T08.XION071 + T08.BCTF072
+ST1327320_01
+![[Pasted image 20220915142630.png]]
+
+ST1318718_01
+Ens. XION_T08.XION094
+![[Pasted image 20220915142913.png]]
+
 [Layout T8newea13](https://edms.cern.ch/ui/#!master/navigator/document?D:100543453:100543453:subDocs)
 ![[Pasted image 20220915133427.png]]
 
