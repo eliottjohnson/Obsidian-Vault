@@ -41,3 +41,6 @@ PS-LOG-BTV-UCAP_T8_BTV096/Positions
 	* HighGainProfilesAcquisition
 	* **LowGainPositions** -> gives HCenter/HSigma, VCenter, VSigma
 	* LowGainProfilesAcquisition
+
+Jorg is missing a field with an official machine sequence name to identify each element.
+MWPC doesn't work yet ?

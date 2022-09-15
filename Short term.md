@@ -29,6 +29,8 @@ kanban-plugin: basic
 - [ ] upload custom twiss with different optics
 - [ ] Add dipoles as correctors
 - [ ] Add BTV as steerers
+- [ ] Add the MWPC in the working set
+- [ ] Add device name as an additional field
 - [ ] Add corrector strength to model and when you change optics, try to get back the same optics
 
 
