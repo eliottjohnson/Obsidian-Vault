@@ -33,5 +33,11 @@ https://norma-db.web.cern.ch/magnet/idcard/5832/
 F61.BCTF022 radius = 47.5 mm
 ![[Pasted image 20220915094519.png]]
 
+F61.XSEC023 radius = 60 mm
+ST1082864_01
+![[Pasted image 20220915103134.png]]
+
+
+
 F61.MBXHD025 rectangle width = 160 mm, height = 40
 https://norma-db.web.cern.ch/magnet/idcard/7048/
