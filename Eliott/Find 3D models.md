@@ -21,3 +21,5 @@ Perhaps you need to add an empty space after the query
 * MU63: ST0505941_01
 * SHIM63: ST1308384_01
 * SHIMS16: ST0327517_01
+* Q74: ST1083466
+* Layout F61newea10: ST1087633_01
