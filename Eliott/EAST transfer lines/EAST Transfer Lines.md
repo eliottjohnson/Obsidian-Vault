@@ -17,6 +17,8 @@ Look at size at MBXHD025
 
 # T8 line
 
+[Source code: T8_beam_size.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/f61t8/T8_beam_size.ipynb)
+
 ![[east_t8_optics.png]]
 
 ![[nominal_beam_size_at_exit_f61_mbxhd025 1.png]]
@@ -30,7 +32,7 @@ Look at size at MBXHD025
 ![[nominal_beam_size_at_exit_t08_mbxhd047.png]]
 
 # F62 and F63
-
+[Source code: F616263_beam_size.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/f61f62f63/F616263_beam_size.ipynb)
 ![[nominal_beam_size_at_exit_f61_mbxhd025 2.png]]
 
 ![[nominal_beam_size_at_exit_f61_mbxhd033 1.png]]
