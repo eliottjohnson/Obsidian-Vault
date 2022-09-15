@@ -52,3 +52,9 @@ T8.MBXHD044: ST1100413_01
 T8.MBXHD044: ST1100415_01
 
 ![[Pasted image 20220915105458.png]]
+
+[Layout T8newea13](https://edms.cern.ch/ui/#!master/navigator/document?D:100543453:100543453:subDocs)
+![[Pasted image 20220915133427.png]]
+
+[Layout T8newea13](https://edms.cern.ch/ui/#!master/navigator/document?D:100543451:100543451:subDocs)
+![[Pasted image 20220915133505.png]]
