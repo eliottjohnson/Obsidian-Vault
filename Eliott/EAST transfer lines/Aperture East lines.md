@@ -59,6 +59,15 @@ BTV20: ST1125767_01
 MQNEF21 and MQNEF23: ST1118289_01 circle radius 47.5 mm
 ![[Pasted image 20220915134946.png]]
 
+T08.MCXCF025_026
+ST1166424_01
+They use two vacuum pipes with a 148 mm diameter => 74 mm radius
+
+![[Pasted image 20220915135640.png]]
+
+BTV035
+ST0743254_01
+![[Pasted image 20220915135923.png]]
 
 [Layout T8newea13](https://edms.cern.ch/ui/#!master/navigator/document?D:100543453:100543453:subDocs)
 ![[Pasted image 20220915133427.png]]
