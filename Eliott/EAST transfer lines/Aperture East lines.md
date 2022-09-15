@@ -30,6 +30,8 @@ Beam stoppers radius = 78 mm
 F61.MQNEF021 radius = 47.5 mm
 https://norma-db.web.cern.ch/magnet/idcard/5832/
 ![[Pasted image 20220914170416.png]]
+F61.BCTF022 radius = 47.5 mm
+![[Pasted image 20220915094519.png]]
 
 F61.MBXHD025 rectangle width = 160 mm, height = 40
 https://norma-db.web.cern.ch/magnet/idcard/7048/
