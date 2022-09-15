@@ -42,6 +42,10 @@ F61.MBXHD025 rectangle width = 160 mm, height = 40
 https://norma-db.web.cern.ch/magnet/idcard/7048/
 
 ## T8
+F61.MBXHD025: ST1074395_01 (no vacuum pipe ?)
+F61.MBXHD033: ST1079008_01
+T08.MBXHD005: ST1079013_01
+T8.MBXHD044: ST1100413_01
+T8.MBXHD044: ST1100415_01
 
-T8.MBXHD044
 ![[Pasted image 20220915105458.png]]
