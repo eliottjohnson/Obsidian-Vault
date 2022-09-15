@@ -7,9 +7,11 @@
         "id": "be4766ee414d53a1",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Eliott/EAST transfer lines/Attachments/Pasted image 20220915132059.png"
+            "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/EAST transfer lines/Attachments/Pasted image 20220915132059.png",
+                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/EAST transfer lines/Attachments/Pasted image 20220915132059.png",
+                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/EAST transfer lines/Attachments/Pasted image 20220915132059.png"
+                "file": "Eliott/EAST transfer lines/EAST Transfer Lines.md"
               }
             }
           },
@@ -157,6 +159,7 @@
   },
   "active": "be4766ee414d53a1",
   "lastOpenFiles": [
+    "Eliott/EAST transfer lines/Attachments/Pasted image 20220915132059.png",
     "Eliott/EAST transfer lines/Attachments/Pasted image 20220915105458.png",
     "Eliott/EAST transfer lines/Attachments/Pasted image 20220915105155.png",
     "Eliott/EAST transfer lines/Attachments/Pasted image 20220915105131.png",
@@ -165,7 +168,6 @@
     "Eliott/EAST transfer lines/Attachments/Pasted image 20220914170416.png",
     "Eliott/EAST transfer lines/Attachments/Pasted image 20220914170057.png",
     "Eliott/EAST transfer lines/Attachments/Pasted image 20220914165158.png",
-    "Eliott/EAST transfer lines/Attachments/Pasted image 20220914164937.png",
-    "Eliott/EAST transfer lines/Attachments/Pasted image 20220914164730.png"
+    "Eliott/EAST transfer lines/Attachments/Pasted image 20220914164937.png"
   ]
 }

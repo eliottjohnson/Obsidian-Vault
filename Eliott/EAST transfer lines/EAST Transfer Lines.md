@@ -17,7 +17,17 @@ Look at size at MBXHD025
 
 # 2nd T8 line
 
-Look at size at MBXHD033
+![[east_t8_optics.png]]
+
+![[nominal_beam_size_at_exit_f61_mbxhd025 1.png]]
+
+![[nominal_beam_size_at_exit_f61_mbxhd033.png]]
+
+![[nominal_beam_size_at_exit_t08_mbxhd005.png]]
+
+![[nominal_beam_size_at_exit_t08_mbxhd044.png]]
+
+![[nominal_beam_size_at_exit_t08_mbxhd047.png]]
 
 # F62
 
