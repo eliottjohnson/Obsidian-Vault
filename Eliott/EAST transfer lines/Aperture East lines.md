@@ -71,7 +71,9 @@ ST0743254_01
 
 Collimator ST0681725_01
 ![[Pasted image 20220915140619.png]]
-
+ST1073544_01
+Q200L_T08.MQNFK061-066 radius = 96.5 mm
+![[Pasted image 20220915141315.png]]
 
 [Layout T8newea13](https://edms.cern.ch/ui/#!master/navigator/document?D:100543453:100543453:subDocs)
 ![[Pasted image 20220915133427.png]]
