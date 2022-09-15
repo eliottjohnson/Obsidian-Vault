@@ -38,6 +38,10 @@ ST1082864_01
 ![[Pasted image 20220915103134.png]]
 
 
-
 F61.MBXHD025 rectangle width = 160 mm, height = 40
 https://norma-db.web.cern.ch/magnet/idcard/7048/
+
+## T8
+
+T8.MBXHD044
+![[Pasted image 20220915105458.png]]
