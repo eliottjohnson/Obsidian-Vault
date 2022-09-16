@@ -14,11 +14,6 @@ kanban-plugin: basic
 - [ ] Add Reference from Giulia for the Dump
 
 
-## [[EAST Transfer Lines]]
-
-- [ ] - [x] Dipanwita would like to have beam size at the entrance and exit of F6x bends<br>- [x] Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005<br>- [x] MCB magnet aperture (quite large)<br>- [x] Check Aperture restriction
-
-
 ## [[YASP]]
 
 - [x] Talk with Denis
@@ -57,11 +52,14 @@ kanban-plugin: basic
 - [ ] First moment, second moment
 
 
+***
+
 ## Archive
 
-
-
-
+- [x] - Dipanwita would like to have beam size at the entrance and exit of F6x bends
+- [x] - Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005
+- [x] - MCB magnet aperture (quite large)
+- [x] - Check Aperture restriction
 
 %% kanban:settings
 ```
