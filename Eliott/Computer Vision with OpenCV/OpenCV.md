@@ -21,3 +21,16 @@ img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 img_flip = np.flip(img_rgb, axis=0)
 img_flip = cv2.flip(new_img, 0)
 ```
+
+#### Draw an empty red rectangle on an image
+```python
+cv2.rectangle(img_rgb,pt1=(200,380),pt2=(600,700),color=(255,0,0),thickness=10)
+```
+
+#### Draw an polyline
+```python
+vertices = np.array([[250,700],[425,400],[600,700]])
+pts = vertices.reshape((-1,1,2))
+cv2.polylines(img_rgb,[pts], isClosed=True, color=(0,0,255), thickness=20)
+```
+
