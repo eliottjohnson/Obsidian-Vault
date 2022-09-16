@@ -27,10 +27,16 @@ img_flip = cv2.flip(new_img, 0)
 cv2.rectangle(img_rgb,pt1=(200,380),pt2=(600,700),color=(255,0,0),thickness=10)
 ```
 
-#### Draw an polyline
+#### Draw a polyline
 ```python
 vertices = np.array([[250,700],[425,400],[600,700]])
 pts = vertices.reshape((-1,1,2))
 cv2.polylines(img_rgb,[pts], isClosed=True, color=(0,0,255), thickness=20)
 ```
 
+#### Fill a polygon
+```python
+vertices = np.array([[250,700],[425,400],[600,700]])
+pts = vertices.reshape((-1,1,2))
+cv2.fillPoly(img_rgb,[pts], color=(0,0,255))
+```
