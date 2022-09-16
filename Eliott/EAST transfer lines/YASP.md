@@ -52,4 +52,4 @@ MWPC doesn't work yet ? (Not in the working set)
 
 Envoyer le nom de correcteurs
 
-Deux lignes
+On va faire que la ligne T8 car c'est plus simple.
