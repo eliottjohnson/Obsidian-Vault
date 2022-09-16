@@ -50,3 +50,6 @@ MWPC doesn't work yet ? (Not in the working set)
 * How to add BTVs an MWPC in T8 ?
 * When could we try out YASP in the dump line ?
 
+Envoyer le nom de correcteurs
+
+Deux lignes
