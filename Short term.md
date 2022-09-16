@@ -30,7 +30,8 @@ kanban-plugin: basic
 - [ ] Add dipoles as correctors
 - [ ] Add BTV as steerers
 - [ ] Add the MWPC in the working set
-- [ ] Add device name as an additional field
+- [x] Add device name as an additional field
+- [ ] Check if device name is correct
 - [ ] Map device name to optics sequence name
 - [ ] Add corrector strength to model and when you change optics, try to get back the same optics
 
