@@ -33,16 +33,19 @@ plt.imshow(img)
 $pixel_{new}=\alpha\cdot pixel_{1} + \beta pixel_{2} + \gamma$
 
 ``` python
-import cv2
-import matplotlib.pyplot as plt
-%matplotlib inline
+img1 = cv2.resize(img1,(1200,1200))
+img2 = cv2.resize(img2,(1200,1200))
 
-# Two images
-img1 = cv2.imread('../DATA/dog_backpack.png')
-img2 = cv2.imread('../DATA/watermark_no_copy.png')
+blended = cv2.addWeighted(src1=img1,alpha=0.8,src2=img2,beta=0.1, gamma=0.0) # Needs to be same size
+```
+
+## Overlay small image on top of larger image
+
+``` python
 
 
 
 ```
+
 
 If images of different sizes you need masking
