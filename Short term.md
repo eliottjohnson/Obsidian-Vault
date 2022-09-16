@@ -16,10 +16,7 @@ kanban-plugin: basic
 
 ## [[EAST Transfer Lines]]
 
-- [x] Dipanwita would like to have beam size at the entrance and exit of F6x bends
-- [x] Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005
-- [x] MCB magnet aperture (quite large)
-- [ ] 3D model in python of aperture ?Check Aperture restriction
+- [ ] - [x] Dipanwita would like to have beam size at the entrance and exit of F6x bends<br>- [x] Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005<br>- [x] MCB magnet aperture (quite large)<br>- [x] Check Aperture restriction
 
 
 ## [[YASP]]
@@ -58,6 +55,10 @@ kanban-plugin: basic
 - [ ] Check BPM UCAP and logging if I get the same values
 - [ ] Continue to write the CHIMERA document
 - [ ] First moment, second moment
+
+
+## Archive
+
 
 
 

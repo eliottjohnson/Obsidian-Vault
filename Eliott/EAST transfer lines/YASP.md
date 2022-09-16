@@ -43,13 +43,4 @@ Marc has added a field called Positions/DeviceName
 
 MWPC doesn't work yet ? (Not in the working set)
 
-### Discussion point with Jorg
-
-* What naming scheme should we use for the UCAP device ?
-* How to add BTVs in the dump line ?
-* How to add BTVs an MWPC in T8 ?
-* When could we try out YASP in the dump line ?
-
-Envoyer le nom de correcteurs
-
-On va faire que la ligne T8 car c'est plus simple.
+We will only do the T8 line as it is the easiest one to do.
