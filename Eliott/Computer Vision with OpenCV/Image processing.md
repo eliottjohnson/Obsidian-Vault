@@ -42,10 +42,18 @@ blended = cv2.addWeighted(src1=img1,alpha=0.8,src2=img2,beta=0.1, gamma=0.0) # N
 ## Overlay small image on top of larger image
 
 ``` python
+x_offset = 0
+y_offset = 0
 
+x_end = x_offset + small_img.shape[1]
+y_end = y_offset + small_img.shape[0]
 
+large_img[y_offset:y_end, x_offset:x_end] = small_img
+```
+
+## Blend images of different sizes with mask
+
+``` python
 
 ```
 
-
-If images of different sizes you need masking
