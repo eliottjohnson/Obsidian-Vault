@@ -55,5 +55,12 @@ large_img[y_offset:y_end, x_offset:x_end] = small_img
 
 ``` python
 
+img2gray = cv2.cvtColor(img2, cv2.COLOR_RGB2GRAY) # Convert to grayscale
+mask_inv = cv2.bitwise_not(img2gray) # Inverse the grayscale image
+
+white_background = np.full(img2.shape,255,dtype=np.uint8)
+
+bk = cv2.bitwise_or(white_background,white_background, mask=mask_inv)
+
 ```
 
