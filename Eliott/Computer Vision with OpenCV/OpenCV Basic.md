@@ -1,4 +1,4 @@
-# OpenCV
+# OpenCV Basic
 
 #### Opening an image
 ``` python
