@@ -27,3 +27,22 @@ img = cv2.cvtColor(img,cv2.COLOR_BGR2HSL) # Convert to HSL
 
 plt.imshow(img)
 ```
+
+## Blending and Pasting Images
+
+$pixel_{new}=\alpha\cdot pixel_{1} + \beta pixel_{2} + \gamma$
+
+``` python
+import cv2
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+# Two images
+img1 = cv2.imread('../DATA/dog_backpack.png')
+img2 = cv2.imread('../DATA/watermark_no_copy.png')
+
+
+
+```
+
+If images of different sizes you need masking
