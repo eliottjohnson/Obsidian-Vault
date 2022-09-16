@@ -43,4 +43,7 @@ PS-LOG-BTV-UCAP_T8_BTV096/Positions
 	* LowGainProfilesAcquisition
 
 Jorg is missing a field with an official machine sequence name to identify each element.
+
+Marc has added a field called Positions/DeviceName
+
 MWPC doesn't work yet ?

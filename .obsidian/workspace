@@ -7,9 +7,11 @@
         "id": "28f84fb30fd7820e",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Short term.md"
+            "file": "Eliott/EAST transfer lines/YASP.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/EAST transfer lines/YASP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/EAST transfer lines/YASP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Eliott/EAST transfer lines/YASP.md"
               }
             }
           },
@@ -145,8 +147,8 @@
   },
   "active": "28f84fb30fd7820e",
   "lastOpenFiles": [
-    "Eliott/EAST transfer lines/Aperture East lines.md",
     "Short term.md",
+    "Eliott/EAST transfer lines/Aperture East lines.md",
     "Eliott/EAST transfer lines/YASP.md",
     "Eliott/EAST transfer lines/EAST Transfer Lines.md",
     "Eliott/Find 3D models.md",
