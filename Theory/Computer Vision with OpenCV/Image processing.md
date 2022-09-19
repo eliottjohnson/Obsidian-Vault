@@ -154,3 +154,8 @@ dst = cv2.filter2D(img, -1, kernel) # Destination image
 display_img(dst)
 
 ```
+
+Built-in blur:
+``` python
+blurred = cv2.blur(img,ksize=(10,10))
+```
