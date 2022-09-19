@@ -138,7 +138,7 @@ result = np.power(img, gamma)
 display_img(result)
 ```
 
-## Low-pass filter with 2D convolution
+## Low-pass filter with 2D convolution - Blurring
 
 Write text on image:
 ``` python
@@ -157,5 +157,6 @@ display_img(dst)
 
 Built-in blur:
 ``` python
-blurred = cv2.blur(img,ksize=(10,10))
+blurred_img = cv2.blur(img,ksize=(10,10))
+blurred_img = cv2.GaussianBlur(img, (5,5), 10)
 ```
