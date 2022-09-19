@@ -70,7 +70,6 @@ bk = cv2.bitwise_or(white_background,white_background, mask=mask_inv) # Create m
 fg = cv2.bitwise_or(img2,img2,mask=mask_inv) # Shines original image through the mask
 
 final_roi = cv2.bitwise_or(roi,fg)
-
 ```
 
 ### Image Thresholding
@@ -228,9 +227,9 @@ sobely = cv2.Sobel(img, cv2.CV_64F, 0,1, ksize=5) # Derivative in V, shows horiz
 laplacian = cv2.Laplacian(img, cv2.CV_64F) # Double derivative in both direction
 ```
 
-# Color histogram
+# Colour histogram
 
-We can display the frequency of values for colors with three histograms.
+We can display the frequency of values for colours with three histograms.
 
 We have to use BGR for histograms on OPENCV but RGB for displaying.
 
@@ -248,5 +247,16 @@ for i, col in enumerate(color):
 plt.title("Histogram for blue bricks")
 ```
 
-### Histogram equalisation
+### Histogram equalization
 
+Reduce the number of colours for a higher contrast. Takes the cumulative histogram and makes it more linear.
+![[Pasted image 20220919145707.png]]
+
+``` python
+img = rainbow
+img.shape
+mask = np.zeros(img.shape[:2], np.uint8)
+mask[300:400, 100:400] = 255
+plt.imshow(mask,cmap="gray")
+```
+![[Pasted image 20220919150235.png]]
