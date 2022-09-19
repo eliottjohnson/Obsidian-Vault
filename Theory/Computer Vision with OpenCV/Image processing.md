@@ -73,3 +73,14 @@ final_roi = cv2.bitwise_or(roi,fg)
 
 ```
 
+### Image Thresholding
+
+Segmenting an image into different parts. Binary threshold
+
+Read an image as grayscale
+
+```python
+img = cv2.imread("../DATA/rainbow.jpg", 0) # The 0 variable loads the image as a grayscale
+plt.imshow(img, cmap="gray")
+```
+
