@@ -210,4 +210,14 @@ closing = cv2.morphologyEx(noise_img, cv2.MORPH_CLOSE, kernel)
 ```
 ![[Pasted image 20220919140920.png]]
 
-Morphological gr
+# Gradient
+
+Directional change in the intensity or color in an image.
+
+Morphological gradient (takes the difference of the dilation and erosion of an image)
+Crude form of edge detection.
+![[Pasted image 20220919141305.png]]
+
+### Sobel-Feldman Operators
+
+Operator uses 2 - 3x3 kernels to approximate the derivates in H and V.
