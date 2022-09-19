@@ -268,3 +268,11 @@ display_img(show_masked_img)
 ```
 ![[Pasted image 20220919150305.png]]
 
+### Equalize
+
+```python
+eq_gorilla = cv2.equalizeHist(gorilla)
+```
+
+Better to convert to HSV for color images and take the value channel
+
