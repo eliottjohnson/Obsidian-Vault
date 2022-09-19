@@ -138,7 +138,7 @@ result = np.power(img, gamma)
 display_img(result)
 ```
 
-## Low-pass filter with 2D convolution - Blurring
+## Low-pass filter with 2D convolution - Blurring -  Reducing noise
 
 Write text on image:
 ``` python
@@ -156,7 +156,15 @@ display_img(dst)
 ```
 
 Built-in blur:
+* Median blur is quite good for noise removal
 ``` python
 blurred_img = cv2.blur(img,ksize=(10,10))
 blurred_img = cv2.GaussianBlur(img, (5,5), 10)
+blurred_img = cv2.medianBlur(img, 5) # Square kernel, takes 1D
+blurred_img = cv2.bilateralFilter(img, 9, 75, 75)
 ```
+
+## Morphological operators
+
+Can also reduce noise. Reduce white points on black background or vice-verse.
+Erosion or dilation effect.
