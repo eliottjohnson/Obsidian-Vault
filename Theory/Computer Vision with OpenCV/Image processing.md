@@ -102,3 +102,15 @@ def show_pic(img):
     ax = fig.add_subplot(111)
     ax.imshow(img, cmap="gray")
 ```
+
+### Adaptive threshold
+
+```python
+th2 = cv2.adaptiveThreshold(img, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, blockSize=11, C=8)
+show_pic(th2)
+```
+
+## Blurring and smoothing
+
+Blurring or smoothing is combined with edge detection algorithms.
+
