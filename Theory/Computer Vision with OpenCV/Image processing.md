@@ -77,10 +77,28 @@ final_roi = cv2.bitwise_or(roi,fg)
 
 Segmenting an image into different parts. Binary threshold
 
-Read an image as grayscale
-
+Read an image as grayscale:
 ```python
 img = cv2.imread("../DATA/rainbow.jpg", 0) # The 0 variable loads the image as a grayscale
 plt.imshow(img, cmap="gray")
 ```
 
+Threshold an image:
+```python
+ret, thresh1 = cv2.threshold(img, 127, 255, cv2.THRESH_BINARY)
+plt.imshow(thresh1, cmap="gray")
+```
+
+Other options of threshold:
+* THRESH_BINARY_INV
+* THRESH_TRUNC
+* THRESH_TOZERO
+* THRESH_TOZERO_INV
+
+Function to show images with increased size:
+``` python
+def show_pic(img):
+    fig = plt.figure(figsize=(15,15))
+    ax = fig.add_subplot(111)
+    ax.imshow(img, cmap="gray")
+```
