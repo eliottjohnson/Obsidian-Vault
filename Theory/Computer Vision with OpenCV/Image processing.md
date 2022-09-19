@@ -222,8 +222,14 @@ Crude form of edge detection.
 
 Operator uses 2 - 3x3 kernels to approximate the derivates in H and V.
 
-````python
+```python
 sobelx = cv2.Sobel(img, cv2.CV_64F, 1,0, ksize=5) # Derivative in H, shows vertical lines
 sobely = cv2.Sobel(img, cv2.CV_64F, 0,1, ksize=5) # Derivative in V, shows horizontal lines
 laplacian = cv2.Laplacian(img, cv2.CV_64F) # Double derivative in both direction
 ```
+
+# Color histogram
+
+We can display the frequency of values for colors with three histograms.
+
+We have to use BGR for histograms on OPENCV but RGB for displaying.
