@@ -114,3 +114,26 @@ show_pic(th2)
 
 Blurring or smoothing is combined with edge detection algorithms.
 
+Image kernel visualization: https://setosa.io/ev/image-kernels/
+![[Pasted image 20220919111053.png]]
+
+## Gamma correction - brightness
+
+$\gamma<1$ will show brighter image
+
+``` python
+
+def load_img():
+    img = cv2.imread("../DATA/bricks.jpg").astype(np.float32) / 255
+    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+    return img
+def display_img(img):
+    fig = plt.figure(figsize=(12,10))
+    ax = fig.add_subplot(111)
+    ax.imshow(img)
+    
+img = load_img()
+gamma = 1/4
+result = np.power(img, gamma)
+display_img(result)
+```
