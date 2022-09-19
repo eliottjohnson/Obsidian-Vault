@@ -137,3 +137,20 @@ gamma = 1/4
 result = np.power(img, gamma)
 display_img(result)
 ```
+
+## Low-pass filter with 2D convolution
+
+Write text on image:
+``` python
+font = cv2.FONT_HERSHEY_COMPLEX
+cv2.putText(img, text="bricks",org=(10,600), fontFace=font, fontScale=10, color=(255,0,0), thickness=4)
+```
+
+You manually pass a kernel to an image
+
+``` python
+kernel = np.ones(shape=(5,5), dtype=np.float32)/25
+dst = cv2.filter2D(img, -1, kernel) # Destination image
+display_img(dst)
+
+```
