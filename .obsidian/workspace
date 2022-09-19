@@ -147,15 +147,15 @@
   },
   "active": "6cf6d7e7659db896",
   "lastOpenFiles": [
-    "Theory/Computer Vision with OpenCV/Image processing.md",
     "Theory/Computer Vision with OpenCV/OpenCV Basic.md",
+    "Theory/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
+    "Theory/Computer Vision with OpenCV/Image processing.md",
     "Eliott/CHIMERA/Ions.md",
     "Theory/Radioprotection.md",
     "Theory/Accelerator Physics Theory.md",
     "Short term.md",
     "FAST.md",
     "Eliott/EAST transfer lines/YASP.md",
-    "Eliott/Quadrupole scan/Quadrupole Scan.md",
-    "Eliott/EAST transfer lines/Aperture East lines.md"
+    "Eliott/Quadrupole scan/Quadrupole Scan.md"
   ]
 }
