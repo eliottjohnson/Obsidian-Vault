@@ -168,3 +168,28 @@ blurred_img = cv2.bilateralFilter(img, 9, 75, 75)
 
 Can also reduce noise. Reduce white points on black background or vice-verse.
 Erosion or dilation effect.
+
+Erosion, erodes boundaries of foreground objects.
+
+``` python
+kernel = np.ones((5,5),dtype=np.uint8)
+result = cv2.erode(img, kernel, iterations=4)
+```
+
+### Opening
+
+Adding white noise
+```python
+white_noise = np.random.randint(low=0,high=2,size=(600,600))*255
+noise_img = white_noise + img
+```
+
+![[Pasted image 20220919140229.png]]
+
+Opening is erosion + dilation (useful for removing background noise)
+![[Pasted image 20220919140234.png]]
+
+```python
+kernel = np.ones((5,5),dtype=np.uint8)
+opening = cv2.morphologyEx(noise_img, cv2.MORPH_OPEN, kernel)
+```
