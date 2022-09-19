@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
+            "file": "Theory/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
+                "file": "Theory/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
+                "file": "Theory/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md"
+                "file": "Theory/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md"
               }
             }
           },
@@ -147,8 +147,8 @@
   },
   "active": "6cf6d7e7659db896",
   "lastOpenFiles": [
-    "Theory/Computer Vision with OpenCV/OpenCV Basic.md",
     "Theory/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
+    "Theory/Computer Vision with OpenCV/OpenCV Basic.md",
     "Theory/Computer Vision with OpenCV/Image processing.md",
     "Eliott/CHIMERA/Ions.md",
     "Theory/Radioprotection.md",
