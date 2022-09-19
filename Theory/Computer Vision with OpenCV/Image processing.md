@@ -260,3 +260,11 @@ mask[300:400, 100:400] = 255
 plt.imshow(mask,cmap="gray")
 ```
 ![[Pasted image 20220919150235.png]]
+
+```python
+masked_img = cv2.bitwise_and(img,img,mask=mask)
+show_masked_img = cv2.bitwise_and(show_rainbow,show_rainbow,mask=mask)
+display_img(show_masked_img)
+```
+![[Pasted image 20220919150305.png]]
+
