@@ -233,3 +233,20 @@ laplacian = cv2.Laplacian(img, cv2.CV_64F) # Double derivative in both direction
 We can display the frequency of values for colors with three histograms.
 
 We have to use BGR for histograms on OPENCV but RGB for displaying.
+
+```python
+blue_hist = cv2.calcHist([blue_bricks], channels=[0], mask=None, histSize=[256], ranges=[0,256]) # BGR=[0,1,2]
+```
+
+```python
+img = blue_bricks
+color = ("b","g","r")
+for i, col in enumerate(color):
+    histr = cv2.calcHist([img],channels=[i], mask=None, histSize=[256], ranges=[0,256])
+    plt.plot(histr, color=col)
+    plt.xlim(0,256)
+plt.title("Histogram for blue bricks")
+```
+
+### Histogram equalisation
+
