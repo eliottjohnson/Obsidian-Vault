@@ -176,7 +176,7 @@ kernel = np.ones((5,5),dtype=np.uint8)
 result = cv2.erode(img, kernel, iterations=4)
 ```
 
-### Opening
+### Opening (removes background noise)
 
 Adding white noise
 ```python
@@ -187,9 +187,27 @@ noise_img = white_noise + img
 ![[Pasted image 20220919140229.png]]
 
 Opening is erosion + dilation (useful for removing background noise)
-![[Pasted image 20220919140234.png]]
 
 ```python
 kernel = np.ones((5,5),dtype=np.uint8)
 opening = cv2.morphologyEx(noise_img, cv2.MORPH_OPEN, kernel)
 ```
+
+![[Pasted image 20220919140241.png]]
+### Closing (removes foreground)
+
+Black noise
+```python
+black_noise = np.random.randint(low=0, high=2, size=(600,600))*-255
+noise_img = black_noise + img
+noise_img[noise_img==-255]=0
+```
+![[Pasted image 20220919140927.png]]
+
+Closing
+```python
+closing = cv2.morphologyEx(noise_img, cv2.MORPH_CLOSE, kernel)
+```
+![[Pasted image 20220919140920.png]]
+
+Morphological gr
