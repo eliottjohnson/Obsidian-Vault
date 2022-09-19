@@ -1,4 +1,4 @@
-# Theory
+# Accelerator Physics Theory
 
 [THE Chao's et. al Handbook of accelerator physics](https://cernbox.cern.ch/index.php/s/OpUxzONY4hCQEHB)
 
