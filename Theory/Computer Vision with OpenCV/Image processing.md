@@ -276,3 +276,8 @@ eq_gorilla = cv2.equalizeHist(gorilla)
 
 Better to convert to HSV for color images and take the value channel
 
+``` python
+hsv = cv2.cvtColor(color_gorilla, cv2.COLOR_BGR2HSV)
+hsv[:,:,2] = cv2.equalizeHist(hsv[:,:,2])
+eq_color_gorilla = cv2.cvtColor(hsv, cv2.COLOR_HSV2RGB)
+```
