@@ -19,11 +19,9 @@
         "id": "3182a8da7f13451b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
-            "mode": "source",
-            "source": false
+            "file": "Short term.md"
           }
         }
       }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+                "file": "Short term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+                "file": "Short term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
+                "file": "Short term.md"
               }
             }
           },

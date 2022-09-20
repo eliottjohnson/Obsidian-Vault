@@ -63,3 +63,5 @@ stray1, at = 29.93606067;
 stray2, at = 29.95606067;
 stray3, at = 29.97606067;
 ```
+
+now that we have the two files we can integrate them in MAD-X
