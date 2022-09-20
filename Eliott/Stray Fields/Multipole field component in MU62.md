@@ -71,3 +71,5 @@ Modify the F61D transfer line sequence to add the MFC before the Q74L quad
 Length between end of MU62 and Q74 is ~ 0.45 m
 
 ![[Pasted image 20220920102038.png]]
+
+![[east_dump_optics_with_stray.png]]
