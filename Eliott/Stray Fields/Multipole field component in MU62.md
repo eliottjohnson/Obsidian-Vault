@@ -64,4 +64,10 @@ stray2, at = 29.95606067;
 stray3, at = 29.97606067;
 ```
 
-now that we have the two files we can integrate them in MAD-X
+### Integration in MAD-X
+
+Modify the F61D transfer line sequence to add the MFC before the Q74L quad
+
+Length between end of MU62 and Q74 is ~ 0.45 m
+
+![[Pasted image 20220920102038.png]]

@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "1c7988f4f1bc6cea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -57,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/East Area Initial parameters.md",
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/East Area Initial parameters.md",
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/East Area Initial parameters.md"
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
               }
             }
           },
@@ -146,8 +157,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3182a8da7f13451b",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/East Area Initial parameters.md",
     "Eliott/Quadrupole scan/BTV filters.md",
     "Eliott/EAST transfer lines/Aperture East lines.md",
     "Eliott/Stray Fields/Comparing with old BTP model.md",
@@ -156,7 +168,6 @@
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/Multipole component model from injection.md",
     "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "Eliott/Stray Fields/Magnetic measurement of SMH61.md",
-    "Eliott/Stray Fields/Magnetic measurement of SMH57.md"
+    "Eliott/Stray Fields/Magnetic measurement of SMH61.md"
   ]
 }
