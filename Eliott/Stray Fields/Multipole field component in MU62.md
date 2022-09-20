@@ -49,10 +49,17 @@ We then use Pythagoras to compute the s-length along the track (369 points)
 
 the BTP stray element MFC model can be found here [[Comparing with old BTP model#BTP Stray element]]
 
-The format is as follows:
+The format for the .ele file is as follows:
 ``` python
 stray1 : multipole,knl:={2.11E-07,-3.11E-06,5.25E-05,-0.001056026};
 stray2 : multipole,knl:={2.78E-07,-4.03E-06,6.74E-05,-0.001303161};
 stray3 : multipole,knl:={3.54E-07,-5.09E-06,8.47E-05,-0.001548501};
 ```
 
+The format for the .seq file is a follows:
+
+``` python
+stray1, at = 29.93606067;
+stray2, at = 29.95606067;
+stray3, at = 29.97606067;
+```
