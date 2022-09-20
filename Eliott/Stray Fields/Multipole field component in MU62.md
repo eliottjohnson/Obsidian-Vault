@@ -74,9 +74,17 @@ Length between end of MU62 and Q74 is ~ 0.45 m
 
 ![[Pasted image 20220920102038.png]]
 
-![[east_dump_optics_with_stray 1.png]]
-
-
 ## Initial conditions in the PS Ring at the last turn
 
-I used the twiss parameters upstream of MU62 from the slow extraction twiss in the PS Ring from the code in [[East Slow Extraction Eliott]] but mainly this code
+I used the twiss parameters upstream of MU62 from the slow extraction twiss in the PS Ring from the code in [[East Slow Extraction Eliott]] but mainly this code: [slow_extraction_trajectory_maptrack_inital_conditions.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/east-fast-extraction/Check%20scripts/slow_extraction_trajectory_maptrack_inital_conditions.ipynb)
+![[Pasted image 20220920170255.png]]
+And then feed these parameter at the entrance of the transfer line
+
+
+![[east_dump_optics_with_stray 1.png]]
+
+However, I don't the same initial parameter that I had measured.
+
+You can also track using [[PTC_TRACK]]. For now just a random distribution.
+
+![[east_dump_optics_with_stray_ptc_track.png]]
