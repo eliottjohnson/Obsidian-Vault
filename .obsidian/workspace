@@ -7,11 +7,9 @@
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/Stray Fields/Particle distributions.md",
-            "mode": "source",
-            "source": false
+            "file": "Short term.md"
           }
         }
       }
@@ -57,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Particle distributions.md",
+                "file": "Short term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Particle distributions.md",
+                "file": "Short term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Particle distributions.md"
+                "file": "Short term.md"
               }
             }
           },
@@ -148,6 +145,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/Particle distributions.md",
     "Eliott/Stray Fields/Beam size through tracking.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/BTV filters.md",
@@ -156,7 +154,6 @@
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/Multipole component model from injection.md",
     "Eliott/East Slow Extraction Eliott.md",
-    "Eliott/EAST slow extraction.md",
-    "Eliott/Stray Fields/Comparing with old BTP model.md"
+    "Eliott/EAST slow extraction.md"
   ]
 }
