@@ -19,9 +19,11 @@
         "id": "3182a8da7f13451b",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Short term.md"
+            "file": "Eliott/Linux + Technical.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/Linux + Technical.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/Linux + Technical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Eliott/Linux + Technical.md"
               }
             }
           },
@@ -157,6 +159,7 @@
   },
   "active": "3182a8da7f13451b",
   "lastOpenFiles": [
+    "Short term.md",
     "Eliott/Stray Fields/Comparing with old BTP model.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/Multipole component model from injection.md",
@@ -165,7 +168,6 @@
     "Eliott/Stray Fields/Magnetic measurement of SMH57.md",
     "Eliott/Stray Fields/Tune and chromaticity measurements.md",
     "Eliott/Stray Fields/Distribution of particles through MU62.md",
-    "Eliott/Stray Fields/Excursion in Main units during a slow extraction.md",
-    "Eliott/Stray Fields/MU63.md"
+    "Eliott/Stray Fields/Excursion in Main units during a slow extraction.md"
   ]
 }
