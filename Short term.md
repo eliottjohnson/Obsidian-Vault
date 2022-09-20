@@ -31,7 +31,7 @@ kanban-plugin: basic
 ## [[Multipole field component in MU62]]
 
 - [x] Export MFC to seq and ele files
-- [ ] Add MFC to transfer line sequence
+- [x] Add MFC to transfer line sequence
 - [ ] Plot ellipse of stray field model
 - [ ] Check Aperture restriction
 
