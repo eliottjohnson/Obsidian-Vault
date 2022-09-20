@@ -14,6 +14,7 @@ We track a particle through the stray fields of [[MU62]].
 
 Settings for the starting point of tracking
 
+```python
 extraction_offset = 0.132 m
 extraction_angle = 0.0139626 rad
 x_offset = + extraction_offset * np.cos(subtending_angle/2)
@@ -23,14 +24,15 @@ track_end_z_m = chord/2
 
 ang_glob = (subtending_angle/2 + extraction_angle, 0.0)
 pos_glob = (-sagitta+x_offset,  0.0, -(chord/2+z_offset))
+```
 
-## Probe the field transverly
+## Probe the field transversely
 
-We probe the field transversely at different s-steps along the particle trajectory inside the vaccum pipe that has a total width of 70 mm, see [[MU62#MU62 Beam pipe aperture]]
+We probe the field transversely at different s-steps along the particle trajectory inside the vacuum pipe that has a total width of 70 mm, see [[MU62#MU62 Beam pipe aperture]]
 
-We run a loop for each point in the track we save the $B_{y}$ field perpendicularly to the track  and run a polyfit of third order on By as a function of $x_{\perp}$
+We run a loop for each point in the track we save the $B_{y}$ field perpendicularly to the track  and run a polynomial fit of third order on By as a function of $x_{\perp}$
 
-Each field component is then the polyfit constant divided by $B\rho$
+Each field component is then the polynomial fit constant divided by $B\rho$
 
 ![[mfc_mu62_polifit.png]]
 
@@ -42,4 +44,15 @@ We then use Pythagoras to compute the s-length along the track (369 points)
 
 ![[mfc_mu62_4_components.png]]
 ![[mfc_mu62_track_with_probing 1.png]]
+
+## Export the MFC to a file
+
+the BTP stray element MFC model can be found here [[Comparing with old BTP model#BTP Stray element]]
+
+The format is as follows:
+``` python
+stray1 : multipole,knl:={2.11E-07,-3.11E-06,5.25E-05,-0.001056026};
+stray2 : multipole,knl:={2.78E-07,-4.03E-06,6.74E-05,-0.001303161};
+stray3 : multipole,knl:={3.54E-07,-5.09E-06,8.47E-05,-0.001548501};
+```
 

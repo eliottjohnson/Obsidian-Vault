@@ -1,8 +1,8 @@
-##  Comparing with old BTP model
+# Comparing with old BTP model
 
 The better way of computing the multipole field component can be found here: [[Multipole component model from injection]]
 
-BTP Stray element
+## BTP Stray element
 https://gitlab.cern.ch/acc-models/acc-models-tls/-/blob/2021/psb_extraction/btp/BTP.ele
 
 https://gitlab.cern.ch/acc-models/acc-models-tls/-/blob/2021/psb_extraction/btp/BTP.seq
