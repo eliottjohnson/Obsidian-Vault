@@ -7,9 +7,23 @@
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Short term.md"
+            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cf8ebb9735a6e69d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eliott/East Slow Extraction Eliott.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
               }
             }
           },
@@ -145,15 +159,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/East Slow Extraction Eliott.md",
+    "Eliott/Stray Fields/Multipole field component in MU62.md",
+    "Short term.md",
     "Eliott/Stray Fields/Particle distributions.md",
     "Eliott/Stray Fields/Beam size through tracking.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/BTV filters.md",
     "Eliott/Linux + Technical.md",
-    "Short term.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/Multipole component model from injection.md",
-    "Eliott/East Slow Extraction Eliott.md",
     "Eliott/EAST slow extraction.md"
   ]
 }

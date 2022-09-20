@@ -76,5 +76,7 @@ Length between end of MU62 and Q74 is ~ 0.45 m
 
 ![[east_dump_optics_with_stray 1.png]]
 
+
 ## Initial conditions in the PS Ring at the last turn
 
+I used the twiss parameters upstream of MU62 from the slow extraction twiss in the PS Ring from the code in [[East Slow Extraction Eliott]] but mainly this code
