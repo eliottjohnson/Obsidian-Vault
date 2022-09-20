@@ -56,6 +56,8 @@ stray2 : multipole,knl:={2.78E-07,-4.03E-06,6.74E-05,-0.001303161};
 stray3 : multipole,knl:={3.54E-07,-5.09E-06,8.47E-05,-0.001548501};
 ```
 
+When you export the multipole component you need to multiply by the length of the multipole element i.e.:  $$\frac{L_{Total}}{l_{element}}$$
+
 The format for the .seq file is a follows:
 
 ``` python
@@ -72,4 +74,7 @@ Length between end of MU62 and Q74 is ~ 0.45 m
 
 ![[Pasted image 20220920102038.png]]
 
-![[east_dump_optics_with_stray.png]]
+![[east_dump_optics_with_stray 1.png]]
+
+## Initial conditions in the PS Ring at the last turn
+

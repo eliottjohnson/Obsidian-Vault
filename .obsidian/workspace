@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3182a8da7f13451b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Eliott/Stray Fields/Multipole component model from injection.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+            "file": "Eliott/East Slow Extraction Eliott.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dump",
+                "query": "initial condition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 324.5
   },
   "right": {
     "id": "8fb34b043199d2f4",
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole component model from injection.md",
+                "file": "Eliott/East Slow Extraction Eliott.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole component model from injection.md",
+                "file": "Eliott/East Slow Extraction Eliott.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole component model from injection.md"
+                "file": "Eliott/East Slow Extraction Eliott.md"
               }
             }
           },
@@ -157,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3182a8da7f13451b",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/EAST slow extraction.md",
+    "Eliott/Stray Fields/Multipole field component in MU62.md",
+    "Eliott/Stray Fields/Multipole component model from injection.md",
     "Eliott/Stray Fields/Comparing with old BTP model.md",
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Quadrupole scan/BTV filters.md",
     "Eliott/EAST transfer lines/Aperture East lines.md",
     "Eliott/Linux + Technical.md",
     "Short term.md",
-    "Eliott/Stray Fields/Multipole component model from injection.md",
-    "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "Eliott/Stray Fields/Magnetic measurement of SMH61.md"
+    "Eliott/Stray Fields/PS Magnetic Shims.md"
   ]
 }
