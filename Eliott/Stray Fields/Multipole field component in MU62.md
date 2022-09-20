@@ -80,6 +80,7 @@ I used the twiss parameters upstream of MU62 from the slow extraction twiss in t
 ![[Pasted image 20220920170255.png]]
 And then feed these parameter at the entrance of the transfer line
 
+[Source code: F61D_with_stray.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/c6cbcafacca274000d2bfc501f39cf711375de90/ps_extraction/east-fast-extraction/f61d_with_stray/F61D_with_stray.ipynb)
 
 ![[east_dump_optics_with_stray 1.png]]
 
