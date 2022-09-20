@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c7988f4f1bc6cea",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
     "Eliott/EAST slow extraction.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
