@@ -4,14 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1c7988f4f1bc6cea",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Short term.md"
+        "id": "1ad20185a55880da",
+        "type": "split",
+        "children": [
+          {
+            "id": "1c7988f4f1bc6cea",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Short term.md"
+              }
+            }
+          },
+          {
+            "id": "ed5ec3c1d2f8b54d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Mid-Long term.md"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -143,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "17bb3ebef8e4e093",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Mid-Long term.md",
+    "Short term.md",
     "Eliott/Find 3D models.md",
     "Eliott/Stray Fields/MU62.md",
     "Eliott/PTC_TRACK.md",
     "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
     "Eliott/EAST slow extraction.md",
     "Eliott/Stray Fields/Distribution of particles through MU62.md",
-    "Short term.md",
     "Eliott/CHIMERA/Picoscope.md",
-    "Eliott/Stray Fields/GEODE points.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md"
+    "Eliott/Stray Fields/GEODE points.md"
   ]
 }

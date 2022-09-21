@@ -32,14 +32,10 @@ kanban-plugin: basic
 - [ ] Check Aperture restriction
 
 
-## [[EDMS document East Dump]]
+## CHIMERA
 
-- [x] Use pessimistic situations (2 cycles dumped consecutively)
-- [x] add margin to max. intensity
-- [x] Look at comments
-- [x] Check with Matt final list of reviewer
-- [x] Start EDMS review procedure with Thomas Birtwistle
-- [ ] Add Reference from Giulia for the Dump
+- [ ] Wednesday 28 MD with ions
+- [ ] Prepare the excel sheet I had to convert to ions
 
 
 ## [[Emittance blow-up]]
@@ -57,6 +53,16 @@ kanban-plugin: basic
 - [ ] Check BPM UCAP and logging if I get the same values
 - [ ] Continue to write the CHIMERA document
 - [ ] First moment, second moment
+
+
+## [[EDMS document East Dump]]
+
+- [x] Use pessimistic situations (2 cycles dumped consecutively)
+- [x] add margin to max. intensity
+- [x] Look at comments
+- [x] Check with Matt final list of reviewer
+- [x] Start EDMS review procedure with Thomas Birtwistle
+- [ ] Add Reference from Giulia for the Dump
 
 
 ***
