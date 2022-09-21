@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad20185a55880da",
-        "type": "split",
-        "children": [
-          {
-            "id": "1c7988f4f1bc6cea",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Short term.md"
-              }
-            }
-          },
-          {
-            "id": "ed5ec3c1d2f8b54d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Mid-Long term.md"
-              }
-            }
+        "id": "1c7988f4f1bc6cea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interesting",
+                "query": "mu63",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md"
               }
             }
           },
@@ -162,15 +148,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/MU63.md",
+    "Eliott/Find 3D models.md",
     "Mid-Long term.md",
     "Short term.md",
-    "Eliott/Find 3D models.md",
     "Eliott/Stray Fields/MU62.md",
     "Eliott/PTC_TRACK.md",
     "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
     "Eliott/EAST slow extraction.md",
     "Eliott/Stray Fields/Distribution of particles through MU62.md",
-    "Eliott/CHIMERA/Picoscope.md",
-    "Eliott/Stray Fields/GEODE points.md"
+    "Eliott/CHIMERA/Picoscope.md"
   ]
 }
