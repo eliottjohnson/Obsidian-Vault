@@ -71,4 +71,4 @@ See if scaling is done with LSA, use YASP or other steering tools.
 If trouble, switch to protons for YASP.
 Federico with a picoscope in IRRAD.
 
-Quad scan on dump at another date.
+Quad scan on dump at another date at lower energy.
