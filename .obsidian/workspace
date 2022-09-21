@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/PTC_TRACK.md",
+            "file": "Eliott/Stray Fields/GEODE points.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distribution",
+                "query": "survey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/PTC_TRACK.md",
+                "file": "Eliott/Stray Fields/GEODE points.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/PTC_TRACK.md",
+                "file": "Eliott/Stray Fields/GEODE points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/PTC_TRACK.md"
+                "file": "Eliott/Stray Fields/GEODE points.md"
               }
             }
           },
@@ -147,15 +148,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
+    "Eliott/EAST slow extraction.md",
     "Eliott/PTC_TRACK.md",
+    "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/East Slow Extraction Eliott.md",
     "Short term.md",
     "Eliott/Stray Fields/Particle distributions.md",
     "Eliott/Stray Fields/Beam size through tracking.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/BTV filters.md",
-    "Eliott/Linux + Technical.md",
-    "Eliott/Stray Fields/Multipole component model from injection.md"
+    "Eliott/Linux + Technical.md"
   ]
 }
