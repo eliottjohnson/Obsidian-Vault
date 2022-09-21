@@ -36,6 +36,7 @@ kanban-plugin: basic
 
 - [ ] Wednesday 28 MD with ions
 - [ ] Prepare the excel sheet I had to convert to ions
+- [ ] Quad scan for initial parameters with ions
 
 
 ## [[Emittance blow-up]]
