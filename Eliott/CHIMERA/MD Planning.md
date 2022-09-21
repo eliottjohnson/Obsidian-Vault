@@ -21,9 +21,6 @@
 -   Actions distribution,
 -   AoB
 
-
-
-
 Ion cycle setup in PS on the dump (by Marc) at nominal energy.
 Revived last years cycle to the east dump.
 
@@ -56,8 +53,11 @@ Shape of beam: gaussian
 200-300 ms spill
 Beam size: Small beam, big beam
 	small: FWHM 3 cm 2e4 - 2e7 ions/spill
-	big: FWHM 10 cm 1.75ee5 - 1.75e8 ions/spill
+	big: FWHM 10 cm 1.75e5 - 1.75e8 ions/spill
 	at target which is the MWPC/MONTRAC
 	last year was 
 Beam energy: 100 - 400 MeV/n provides an interesting LET range of 15-35 MeVcm^2/mg. Work with 1GeV/n and degrade it with polyethylene
 Beam intensity: discuss with LEIR for lower intensity in LEIR to PS. Simon and Reyes suggested to make a test. Problem will be the RF loops. Maybe one high intensity bunch and one low intensity bunch.
+
+### MD plan for 28th sept
+
