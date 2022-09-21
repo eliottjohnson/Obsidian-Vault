@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/MU62.md",
+            "file": "Eliott/PTC_TRACK.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md",
+                "file": "Eliott/PTC_TRACK.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md",
+                "file": "Eliott/PTC_TRACK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md"
+                "file": "Eliott/PTC_TRACK.md"
               }
             }
           },
@@ -148,6 +147,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/MU62.md",
     "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
     "Eliott/EAST slow extraction.md",
     "Eliott/Stray Fields/Distribution of particles through MU62.md",
@@ -156,7 +156,6 @@
     "Eliott/Stray Fields/GEODE points.md",
     "Eliott/PTC_TRACK.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/East Slow Extraction Eliott.md",
-    "Eliott/Stray Fields/Particle distributions.md"
+    "Eliott/East Slow Extraction Eliott.md"
   ]
 }
