@@ -4,16 +4,6 @@ kanban-plugin: basic
 
 ---
 
-## [[EDMS document East Dump]]
-
-- [x] Use pessimistic situations (2 cycles dumped consecutively)
-- [x] add margin to max. intensity
-- [x] Look at comments
-- [x] Check with Matt final list of reviewer
-- [x] Start EDMS review procedure with Thomas Birtwistle
-- [ ] Add Reference from Giulia for the Dump
-
-
 ## [[YASP]]
 
 - [x] Talk with Denis
@@ -28,12 +18,28 @@ kanban-plugin: basic
 - [ ] Add corrector strength to model and when you change optics, try to get back the same optics
 
 
+## [[Picoscope]]
+
+- [x] Discuss with Andreas and Natalia
+- [ ] Picoscope test
+
+
 ## [[Multipole field component in MU62]]
 
 - [x] Export MFC to seq and ele files
 - [x] Add MFC to transfer line sequence
 - [ ] Plot ellipse of stray field model
 - [ ] Check Aperture restriction
+
+
+## [[EDMS document East Dump]]
+
+- [x] Use pessimistic situations (2 cycles dumped consecutively)
+- [x] add margin to max. intensity
+- [x] Look at comments
+- [x] Check with Matt final list of reviewer
+- [x] Start EDMS review procedure with Thomas Birtwistle
+- [ ] Add Reference from Giulia for the Dump
 
 
 ## [[Emittance blow-up]]
@@ -51,11 +57,6 @@ kanban-plugin: basic
 - [ ] Check BPM UCAP and logging if I get the same values
 - [ ] Continue to write the CHIMERA document
 - [ ] First moment, second moment
-
-
-## [[Picoscope]]
-
-- [ ] Picoscope test
 
 
 ***
