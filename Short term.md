@@ -53,6 +53,11 @@ kanban-plugin: basic
 - [ ] First moment, second moment
 
 
+## [[Picoscope]]
+
+- [ ] Picoscope test
+
+
 ***
 
 ## Archive
