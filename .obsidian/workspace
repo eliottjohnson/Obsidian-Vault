@@ -7,11 +7,9 @@
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/Stray Fields/MU62.md",
-            "mode": "source",
-            "source": false
+            "file": "Short term.md"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mu62",
+                "query": "interesting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md",
+                "file": "Short term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md",
+                "file": "Short term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU62.md"
+                "file": "Short term.md"
               }
             }
           },
@@ -146,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c7988f4f1bc6cea",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
-    "Eliott/PTC_TRACK.md",
+    "Eliott/Find 3D models.md",
     "Eliott/Stray Fields/MU62.md",
+    "Eliott/PTC_TRACK.md",
     "Eliott/Stray Fields/Fast extraction tracking in MU62.md",
     "Eliott/EAST slow extraction.md",
     "Eliott/Stray Fields/Distribution of particles through MU62.md",
     "Short term.md",
-    "Picoscope.md",
+    "Eliott/CHIMERA/Picoscope.md",
     "Eliott/Stray Fields/GEODE points.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/East Slow Extraction Eliott.md"
+    "Eliott/Stray Fields/Multipole field component in MU62.md"
   ]
 }
