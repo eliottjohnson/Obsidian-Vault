@@ -61,3 +61,14 @@ Beam intensity: discuss with LEIR for lower intensity in LEIR to PS. Simon and R
 
 ### MD plan for 28th sept
 
+Start beam at 11h and give back at 19pm.
+
+Intensity scaling ?
+Lower energy ?
+
+Slow spill at nominal rigidity 24 GeV to have references on BTV. Then 2 GeV slow extraction.
+See if scaling is done with LSA, use YASP or other steering tools.
+If trouble, switch to protons for YASP.
+Federico with a picoscope in IRRAD.
+
+Quad scan on dump at another date.
