@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "75ddf792f3263238",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Theory/Accelerator Physics Theory.md",
             "mode": "source",
             "source": false
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theory",
+                "query": "bending radius",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md"
+                "file": "Eliott/Stray Fields/MU current scaling with momentum.md"
               }
             }
           },
@@ -147,15 +159,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Theory/Accelerator Physics Theory.md",
+    "Eliott/Stray Fields/MU current scaling with momentum.md",
+    "Eliott/Stray Fields/GEODE points.md",
     "Theory/Computer Vision with OpenCV/Image processing.md",
     "Theory/Computer Vision with OpenCV/OpenCV Basic.md",
     "Theory/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
     "Eliott/Stray Fields/Comparing with old BTP model.md",
     "Eliott/CHIMERA/Ions.md",
     "Eliott/EAST slow extraction.md",
-    "Other/PS transfer functions.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Theory/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
-    "Eliott/EAST transfer lines/Untitled.md"
+    "Other/PS transfer functions.md"
   ]
 }
