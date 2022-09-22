@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/MU63.md",
+            "file": "Eliott/CHIMERA/MD Planning.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md",
+                "file": "Eliott/CHIMERA/MD Planning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md",
+                "file": "Eliott/CHIMERA/MD Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU63.md"
+                "file": "Eliott/CHIMERA/MD Planning.md"
               }
             }
           },
@@ -148,13 +147,13 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/MU63.md",
     "Eliott/East Slow Extraction Eliott.md",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Eliott/EAST slow extraction.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Short term.md",
     "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "Eliott/Stray Fields/MU63.md",
     "Eliott/Find 3D models.md",
     "Mid-Long term.md",
     "Eliott/Stray Fields/MU62.md"
