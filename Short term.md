@@ -28,8 +28,9 @@ kanban-plugin: basic
 
 - [x] Export MFC to seq and ele files
 - [x] Add MFC to transfer line sequence
-- [ ] Plot ellipse of stray field model
-- [ ] Check Aperture restriction
+- [x] Plot ellipse of stray field model
+- [x] Check Aperture restriction
+- [ ] Connect PS Ring to Transfer line
 
 
 ## CHIMERA
@@ -37,6 +38,16 @@ kanban-plugin: basic
 - [ ] Wednesday 28 MD with ions
 - [ ] Prepare the excel sheet I had to convert to ions
 - [ ] Quad scan for initial parameters with ions
+
+
+## [[EDMS document East Dump]]
+
+- [x] Use pessimistic situations (2 cycles dumped consecutively)
+- [x] add margin to max. intensity
+- [x] Look at comments
+- [x] Check with Matt final list of reviewer
+- [x] Start EDMS review procedure with Thomas Birtwistle
+- [ ] Add Reference from Giulia for the Dump
 
 
 ## [[Emittance blow-up]]
@@ -54,16 +65,6 @@ kanban-plugin: basic
 - [ ] Check BPM UCAP and logging if I get the same values
 - [ ] Continue to write the CHIMERA document
 - [ ] First moment, second moment
-
-
-## [[EDMS document East Dump]]
-
-- [x] Use pessimistic situations (2 cycles dumped consecutively)
-- [x] add margin to max. intensity
-- [x] Look at comments
-- [x] Check with Matt final list of reviewer
-- [x] Start EDMS review procedure with Thomas Birtwistle
-- [ ] Add Reference from Giulia for the Dump
 
 
 ***
