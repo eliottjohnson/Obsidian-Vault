@@ -46,3 +46,6 @@ $p=23.92 \text{ GeV/c}$
 Mass has unity of $\frac{eV}{c^{2}}$
 Momentum has unity of $\frac{eV}{c}$
 Energy has unity of $eV$
+
+Find 
+![](file:///C:/Users/ELIOTT~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)

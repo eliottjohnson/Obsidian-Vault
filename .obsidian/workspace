@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/CHIMERA/Ions.md",
+            "file": "Theory/Accelerator Physics Theory.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lead",
+                "query": "theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/CHIMERA/Ions.md",
+                "file": "Theory/Accelerator Physics Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/CHIMERA/Ions.md",
+                "file": "Theory/Accelerator Physics Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/CHIMERA/Ions.md"
+                "file": "Theory/Accelerator Physics Theory.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "17bb3ebef8e4e093",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Theory/Computer Vision with OpenCV/Image processing.md",
+    "Theory/Computer Vision with OpenCV/OpenCV Basic.md",
+    "Theory/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
+    "Eliott/Stray Fields/Comparing with old BTP model.md",
+    "Eliott/CHIMERA/Ions.md",
     "Eliott/EAST slow extraction.md",
     "Other/PS transfer functions.md",
     "Theory/Accelerator Physics Theory.md",
-    "Theory/Computer Vision with OpenCV/Image processing.md",
-    "Theory/Computer Vision with OpenCV/OpenCV Basic.md",
     "Theory/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
-    "Theory/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
-    "Eliott/EAST transfer lines/Untitled.md",
-    "Eliott/EAST transfer lines/YASP.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md"
+    "Eliott/EAST transfer lines/Untitled.md"
   ]
 }
