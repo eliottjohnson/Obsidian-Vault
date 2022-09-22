@@ -10,3 +10,5 @@ Pb 80+ ions MD on Wednesday
 Pb 54 for CHIMERA (28 $e^{-}$ left)
 
 Stripping happens after the Q74L quadrupole
+
+* Increasing the charge state reduces the rigidity of the beam:
