@@ -44,3 +44,12 @@ Some other things to try:
 
 Maybe look again into these two formulas for analytical results
 ![[Pasted image 20220816143143.png]]
+
+
+### Dipole kicks
+You can also use dipole kick as a montecarlo
+
+pycollimate has this function
+$p.randn()\cdot\theta_{rms} = \theta_{i}$
+
+$\sigma=\sqrt{\beta\epsilon}$

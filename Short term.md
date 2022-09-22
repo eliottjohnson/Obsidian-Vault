@@ -31,6 +31,8 @@ kanban-plugin: basic
 - [x] Plot ellipse of stray field model
 - [x] Check Aperture restriction
 - [ ] Connect PS Ring to Transfer line
+- [ ] Track single particles from Matt's distribution (non-linear can't do twiss)
+- [ ] Track twiss from fast extraction and compare with measurement
 
 
 ## CHIMERA
@@ -38,6 +40,7 @@ kanban-plugin: basic
 - [ ] Wednesday 28 MD with ions
 - [ ] Prepare the excel sheet I had to convert to ions
 - [ ] Quad scan for initial parameters with ions
+- [ ] Look at the 2GeV/n beam and how the momentum scales in LSA, also the B-field. The rigidity will be lower because we gain charges
 
 
 ## [[EDMS document East Dump]]
@@ -56,6 +59,7 @@ kanban-plugin: basic
 - [ ] The change in Beta is only if you want to rematch your beam to the scatterer.
 - [ ] Maybe you could track distributions kick with a thin kick after the air, recalculate the distribution and continue tracking
 - [ ] Meeting with Ruben, Andreas, Luigi and Matthew
+- [ ] Calculate a monte carlo dipole kicks (c.f. pycollimate)
 
 
 ## Other
