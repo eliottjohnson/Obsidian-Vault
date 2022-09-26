@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/MU current scaling with momentum.md",
+            "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scattering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md",
+                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md",
+                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md"
+                "file": "Eliott/Quadrupole scan/Emittance blow-up.md"
               }
             }
           },
@@ -145,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "17bb3ebef8e4e093",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/EAST slow extraction.md",
+    "Theory/MU current scaling with momentum.md",
     "Theory/Current scaling for Ions.md",
     "Theory/Fast extraction tracking in MU62.md",
-    "Theory/MU current scaling with momentum.md",
     "Eliott/BPMs in T8.md",
     "Eliott/East Area optics measurements.md",
     "Eliott/East Slow Extraction Eliott.md",
     "Eliott/Damper extraction.md",
     "Other/Linux + Technical.md",
-    "Eliott/Find 3D models.md",
-    "Eliott/PTC_TRACK.md"
+    "Eliott/Find 3D models.md"
   ]
 }
