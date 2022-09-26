@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Accelerator Physics Theory.md",
+            "file": "Other/PS transfer functions.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "Other/PS transfer functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "Other/PS transfer functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md"
+                "file": "Other/PS transfer functions.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Find 3D models.md",
+    "Eliott/Damper extraction.md",
+    "Eliott/Linux + Technical.md",
+    "Eliott/Quadrupole scan/Emittance blow-up.md",
+    "Eliott/Quadrupole scan/EDMS document East Dump.md",
+    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md",
+    "Eliott/EAST transfer lines/EAST Transfer Lines.md",
+    "Theory/Accelerator Physics Theory.md",
     "Eliott/CHIMERA/MD Planning.md",
-    "Eliott/EAST slow extraction.md",
-    "Eliott/CHIMERA/Run preparation meeting 1.md",
-    "Eliott/Quadrupole scan/Quadrupole Scan.md",
-    "Eliott/Quadrupole scan/Method to find initial parameters.md",
-    "Eliott/Quadrupole scan/East Area Initial parameters.md",
-    "Eliott/Quadrupole scan/Focal point MWPC.md",
-    "Eliott/Quadrupole scan/Parallel beam.md",
-    "Eliott/Quadrupole scan/Focal point BPM01.md",
-    "Eliott/Quadrupole scan/Time dependant optics.md"
+    "Eliott/EAST slow extraction.md"
   ]
 }
