@@ -4,18 +4,10 @@ kanban-plugin: basic
 
 ---
 
-## [[YASP]]
+## Monday
 
-- [x] Talk with Denis
-- [x] Talk with Jurg
-- [ ] upload custom twiss with different optics
-- [ ] Add dipoles as correctors
-- [ ] Add BTV as steerers
-- [ ] Add the MWPC in the working set
-- [x] Add device name as an additional field
-- [x] Check if device name is correct
-- [ ] Map device name to optics sequence name
-- [ ] Add corrector strength to model and when you change optics, try to get back the same optics
+- [ ] Continue understand rigidity for ions with the [[MU current scaling with momentum]] note and Andreas overleaf table
+- [ ] Prepare the script for quadrupole scan to east dump on Monday afternoon
 
 
 ## [[Picoscope]]
@@ -60,6 +52,20 @@ kanban-plugin: basic
 - [ ] Maybe you could track distributions kick with a thin kick after the air, recalculate the distribution and continue tracking
 - [ ] Meeting with Ruben, Andreas, Luigi and Matthew
 - [ ] Calculate a monte carlo dipole kicks (c.f. pycollimate)
+
+
+## [[YASP]]
+
+- [x] Talk with Denis
+- [x] Talk with Jurg
+- [ ] upload custom twiss with different optics
+- [ ] Add dipoles as correctors
+- [ ] Add BTV as steerers
+- [ ] Add the MWPC in the working set
+- [x] Add device name as an additional field
+- [x] Check if device name is correct
+- [ ] Map device name to optics sequence name
+- [ ] Add corrector strength to model and when you change optics, try to get back the same optics
 
 
 ## Other

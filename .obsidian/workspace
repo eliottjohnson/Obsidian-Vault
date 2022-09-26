@@ -7,23 +7,9 @@
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "75ddf792f3263238",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Theory/Accelerator Physics Theory.md",
-            "mode": "source",
-            "source": false
+            "file": "Short term.md"
           }
         }
       }
@@ -89,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
+                "file": "Short term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md",
+                "file": "Short term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/MU current scaling with momentum.md"
+                "file": "Short term.md"
               }
             }
           },
@@ -160,6 +146,7 @@
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
     "Theory/Accelerator Physics Theory.md",
+    "Short term.md",
     "Eliott/Stray Fields/MU current scaling with momentum.md",
     "Eliott/Stray Fields/GEODE points.md",
     "Theory/Computer Vision with OpenCV/Image processing.md",
@@ -167,7 +154,6 @@
     "Theory/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
     "Eliott/Stray Fields/Comparing with old BTP model.md",
     "Eliott/CHIMERA/Ions.md",
-    "Eliott/EAST slow extraction.md",
-    "Other/PS transfer functions.md"
+    "Eliott/EAST slow extraction.md"
   ]
 }
