@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xsec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,6 +148,8 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/EAST slow extraction.md",
+    "Eliott/CHIMERA/MD Planning.md",
     "Eliott/CHIMERA/Run preparation meeting 1.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/Method to find initial parameters.md",
@@ -154,8 +157,6 @@
     "Eliott/Quadrupole scan/Focal point MWPC.md",
     "Eliott/Quadrupole scan/Parallel beam.md",
     "Eliott/Quadrupole scan/Focal point BPM01.md",
-    "Eliott/Quadrupole scan/Time dependant optics.md",
-    "Eliott/Quadrupole scan/Initial parameter validation.md",
-    "Eliott/Quadrupole scan/Nominal beam size at East dump wall.md"
+    "Eliott/Quadrupole scan/Time dependant optics.md"
   ]
 }

@@ -87,3 +87,7 @@ Quad scan on dump at another date at lower energy.
 -   Repeat the steps above, with ~2 GeV/n energy
 
 Try to further push down the energy, to experimentally determine the lower energy limit for “clean” beam transport
+
+**BCT is logged ?**
+SEC signal and picoscope
+**Duration of the spill** would be an important metric
