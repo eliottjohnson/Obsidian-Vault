@@ -90,4 +90,7 @@ Try to further push down the energy, to experimentally determine the lower energ
 
 **BCT is logged ?**
 SEC signal and picoscope
-**Duration of the spill** would be an important metric
+**Duration of the spill** would be an important metric.
+
+Does the MWPC need a special setting for low energy ions.
+Ionization chambers move in an out of the beam.
