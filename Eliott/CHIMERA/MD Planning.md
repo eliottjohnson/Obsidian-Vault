@@ -72,3 +72,18 @@ Lower energy ?
 * Federico with a picoscope in IRRAD.
 
 Quad scan on dump at another date at lower energy.
+
+
+## 28.09 MD plan:
+-   Recovering the high intensity, nominal energy beam we had last year
+
+-   Performing fast extraction for SEC calibration (especially if we progress with the pico-scope solution)
+
+-   Reducing the intensity, if possible to at least ~1e6 ions/spill (again, similarly to what we did last year)
+
+-   Special attention to be devoted to impact of intensity reduction on spill duration
+-   Repetition of fast extraction to have another calibration point at lower intensity
+
+-   Repeat the steps above, with ~2 GeV/n energy
+
+Try to further push down the energy, to experimentally determine the lower energy limit for “clean” beam transport

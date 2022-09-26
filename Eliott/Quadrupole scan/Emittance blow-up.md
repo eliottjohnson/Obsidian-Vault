@@ -53,3 +53,12 @@ pycollimate has this function
 $p.randn()\cdot\theta_{rms} = \theta_{i}$
 
 $\sigma=\sqrt{\beta\epsilon}$
+
+
+### Look at this code found in the gitlab
+https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/5c41750652d4e7f0782838fc4a6a010a2662eae5/ps_extraction/tt2tt10_pb82_q26/line/fe_pb_strip_match.madx
+```python
+ thetascatt_rms = 13.6 * ZSCAT/((beam->beta)*(beam->pc)*1000) * sqrt(L/csi0) * (1+0.038*log(L/csi0));
+ value, thetascatt_rms;! Scattering angle, caused by the stripper
+ value, beam->beta, beam->pc, sqrt(L/csi0);
+```
