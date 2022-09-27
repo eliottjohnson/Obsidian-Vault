@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/EAST transfer lines/YASP.md",
+            "file": "Theory/MU current scaling with momentum.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "YASP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md"
+                "file": "Theory/MU current scaling with momentum.md"
               }
             }
           },
@@ -148,6 +147,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/EAST transfer lines/YASP.md",
     "Short term.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
@@ -156,7 +156,6 @@
     "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Eliott/EAST slow extraction.md",
     "Theory/MU current scaling with momentum.md",
-    "Theory/Current scaling for Ions.md",
-    "Theory/Fast extraction tracking in MU62.md"
+    "Theory/Current scaling for Ions.md"
   ]
 }
