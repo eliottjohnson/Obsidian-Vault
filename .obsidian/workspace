@@ -7,9 +7,11 @@
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Short term.md"
+            "file": "Eliott/EAST transfer lines/YASP.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scattering",
+                "query": "YASP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -75,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/EAST transfer lines/YASP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Eliott/EAST transfer lines/YASP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Eliott/EAST transfer lines/YASP.md"
               }
             }
           },
@@ -145,6 +148,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Short term.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
@@ -153,7 +157,6 @@
     "Eliott/EAST slow extraction.md",
     "Theory/MU current scaling with momentum.md",
     "Theory/Current scaling for Ions.md",
-    "Theory/Fast extraction tracking in MU62.md",
-    "Eliott/BPMs in T8.md"
+    "Theory/Fast extraction tracking in MU62.md"
   ]
 }

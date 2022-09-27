@@ -44,3 +44,6 @@ Marc has added a field called Positions/DeviceName
 MWPC doesn't work yet ? (Not in the working set)
 
 We will only do the T8 line as it is the easiest one to do.
+
+## How to operate YASP
+
