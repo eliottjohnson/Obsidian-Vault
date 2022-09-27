@@ -7,11 +7,9 @@
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/CHIMERA/MD Planning.md",
-            "mode": "source",
-            "source": false
+            "file": "Short term.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md",
+                "file": "Short term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md",
+                "file": "Short term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md"
+                "file": "Short term.md"
               }
             }
           },
@@ -147,6 +145,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/CHIMERA/MD Planning.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
@@ -155,7 +154,6 @@
     "Theory/MU current scaling with momentum.md",
     "Theory/Current scaling for Ions.md",
     "Theory/Fast extraction tracking in MU62.md",
-    "Eliott/BPMs in T8.md",
-    "Eliott/East Area optics measurements.md"
+    "Eliott/BPMs in T8.md"
   ]
 }

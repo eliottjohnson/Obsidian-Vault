@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] Continue understand rigidity for ions with the [[MU current scaling with momentum]] note and Andreas overleaf table
 - [ ] Prepare the script for quadrupole scan to east dump on Monday afternoon
+- [ ] Ask Denis how to upload twiss to YASP
 
 
 ## [[Picoscope]]
