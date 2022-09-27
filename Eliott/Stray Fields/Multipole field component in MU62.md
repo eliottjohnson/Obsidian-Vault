@@ -107,3 +107,5 @@ select, flag = twiss, clear;
         flatten;
     endedit;
 ```
+
+also look at the code of slow_extraction_east_simple.ipynb 
