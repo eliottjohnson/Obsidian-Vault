@@ -70,8 +70,16 @@ _ = madx.twiss(**beta0, file='/tmp/twiss.tfs').dframe()
 ![[Pasted image 20220927101715.png]]
 
 
-Kick response measurement
+### Automatic Kick response measurement with YASP
 
 
-
+Optics & models
 Response matrix measurement
+
+Status control
+Edit corrector status
+
+
+## Bugs with config
+* Trim break the correctors (pulse too long)
+* H and V points do not move even if YASP publishes
