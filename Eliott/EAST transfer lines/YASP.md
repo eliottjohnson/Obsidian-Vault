@@ -47,3 +47,24 @@ We will only do the T8 line as it is the easiest one to do.
 
 ## How to operate YASP
 
+1) Control
+2) YASP PS
+3) LOWENERGY
+4) File
+5) Online Context Selection
+6) Cycle -> East_T8_22 and Particle Transfer -> T08Transfer
+7) Sub-configuration selection -> T8-EXTENDED
+
+
+### Custom twiss import to YASP
+[https://mattermost.web.cern.ch/abt/pl/jzzuqfdchp81dnhdt79k7g4zxo](https://mattermost.web.cern.ch/abt/pl/jzzuqfdchp81dnhdt79k7g4zxo)
+
+YASP accepts the import of custom twiss by going to `Optics & Model` then `Optics Config & Details` and Expert tab.
+
+The Twiss needs to use specific column. For instance generated in the following way
+```python
+madx.select(flag='twiss', clear=True)
+madx.select(flag='twiss', column=['name', 's', 'betx', 'mux', 'alfx', 'dx', 'bety', 'muy', 'alfy', 'dy', 'l',  'angle', 'k1l', 'k2l'])
+_ = madx.twiss(**beta0, file='/tmp/twiss.tfs').dframe()
+```
+![[Pasted image 20220927101715.png]]
