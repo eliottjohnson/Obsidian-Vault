@@ -95,6 +95,13 @@ Quad scan on dump at another date at lower energy.
 
 -   5) Repeat the steps above, with ~2 GeV/n energy
 
+* Bonus, machine far more linear at lower energy
+
+### Kick response with YASP
+must be done to T8 pick up sign inversion, etc
+maybe be to be done with protons
+automatic routine for kick response
+
 Try to further push down the energy, to experimentally determine the lower energy limit for “clean” beam transport
 
 **BCT is logged ?**
