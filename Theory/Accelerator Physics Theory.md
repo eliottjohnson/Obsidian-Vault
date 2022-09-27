@@ -46,3 +46,7 @@ $p=23.92 \text{ GeV/c}$
 Mass has unity of $\frac{eV}{c^{2}}$
 Momentum has unity of $\frac{eV}{c}$
 Energy has unity of $eV$
+
+### Chromaticity 
+
+$$Q'=$$

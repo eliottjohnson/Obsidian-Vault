@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/EAST transfer lines/YASP.md",
+            "file": "Other/Slow extraction spill duration.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "67bb772692d8e273",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Theory/Accelerator Physics Theory.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "YASP",
+                "query": "chromaticity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md",
+                "file": "Theory/Accelerator Physics Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md",
+                "file": "Theory/Accelerator Physics Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/EAST transfer lines/YASP.md"
+                "file": "Theory/Accelerator Physics Theory.md"
               }
             }
           },
@@ -146,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c7988f4f1bc6cea",
+  "active": "67bb772692d8e273",
   "lastOpenFiles": [
-    "Theory/MU current scaling with momentum.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Eliott/EAST transfer lines/YASP.md",
-    "Short term.md",
-    "Eliott/CHIMERA/MD Planning.md",
+    "Other/EAST slow extraction.md",
+    "Eliott/Stray Fields/PS Magnetic Shims.md",
+    "Eliott/Stray Fields/PS Stray field.md",
+    "Eliott/Stray Fields/Tune and chromaticity measurements.md",
+    "Other/Slow extraction spill duration.md",
+    "Other/PTC_TRACK.md",
+    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
-    "Eliott/Quadrupole scan/East Area Initial parameters.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
-    "Eliott/Quadrupole scan/Emittance blow-up.md",
-    "Eliott/EAST slow extraction.md"
+    "Eliott/Quadrupole scan/Emittance blow-up.md"
   ]
 }
