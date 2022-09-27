@@ -8,10 +8,28 @@ For measurement we use the code from [[Quadrupole Scan#Quadrupole scan with filt
 ## High energy
 [Logbook link](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3623232)
 
-
+1)  
+``` python
+current1 = np.linspace(0.45, 0.47969, number_of_k_to_scan)  # init 0.47969  
+current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149  
+current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
+```
+  
+2)  
+``` python
+current1 = np.linspace(0.47969, 0.47969, number_of_k_to_scan)  # init 0.47969  
+current2 = np.linspace(-0.08, -0.13, number_of_k_to_scan)  # init -0.1149  
+current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
+```
+  
+3)  
+``` python
+current1 = np.linspace(0.47969, 0.47969, number_of_k_to_scan)  # init 0.47969  
+current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149  
+current3 = np.linspace(0.10, 0.16, number_of_k_to_scan)  # init 0.134
+```
 
 ## Low energy
-
 [Logbook link](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3623828)
 
 1)  

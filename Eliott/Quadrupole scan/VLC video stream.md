@@ -1,5 +1,7 @@
 # VLC video stream
 
+[Script to grab VLC stream](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/vlc.py)
+
 [vlc_video.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/vlc_video.ipynb)
 
 
