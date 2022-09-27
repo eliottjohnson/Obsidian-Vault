@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/Slow extraction spill duration.md",
+            "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Accelerator Physics Theory.md",
+            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md"
+                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md"
               }
             }
           },
@@ -157,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67bb772692d8e273",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Emittance calculation of the extracted slow beam.md",
+    "Eliott/Quadrupole scan/Quadrupole Scan.md",
+    "Other/Slow extraction spill duration.md",
+    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+    "Theory/Accelerator Physics Theory.md",
     "Other/EAST slow extraction.md",
     "Eliott/Stray Fields/PS Magnetic Shims.md",
     "Eliott/Stray Fields/PS Stray field.md",
     "Eliott/Stray Fields/Tune and chromaticity measurements.md",
-    "Other/Slow extraction spill duration.md",
-    "Other/PTC_TRACK.md",
-    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
-    "Eliott/Quadrupole scan/Quadrupole Scan.md",
-    "Eliott/Quadrupole scan/EDMS document East Dump.md",
-    "Eliott/Quadrupole scan/Emittance blow-up.md"
+    "Other/PTC_TRACK.md"
   ]
 }

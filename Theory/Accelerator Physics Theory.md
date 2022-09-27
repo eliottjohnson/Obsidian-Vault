@@ -49,4 +49,6 @@ Energy has unity of $eV$
 
 ### Chromaticity 
 
-$$Q'=$$
+The chromaticity is the variation of the betatron tune $Q$ with the relative momentum deviation $\Delta p/p$.
+
+$$Q'=\frac{dQ}{d\Delta p/p}$$
