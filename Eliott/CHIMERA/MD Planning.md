@@ -81,13 +81,19 @@ Quad scan on dump at another date at lower energy.
 
 -   3) Reducing the intensity, if possible to at least ~1e6 ions/spill (again, similarly to what we did last year).  Special attention to be devoted to impact of intensity reduction on spill duration.
 
--   Repetition of fast extraction to have another calibration point at lower intensity (Not possible for Marc).
+-   4) Repetition of fast extraction to have another calibration point at lower intensity (Not possible for Marc).
 	- Early or Nominal intensity in LEIR to have two points
 	- Can't trust signal from XSEC in fast mode (lot of noise from Federico) - ringing of the signal.
 		- checking if impedance is matched
-		- 
+		- struggle to get absolute measurement of intensity
+		- calibration done by clean transmission from the ring
+	- XSEC in slow mode
+		- Full of systematic errors
+		- unreliable
+	- XION can be trusted
+		- can count single events
 
--   Repeat the steps above, with ~2 GeV/n energy
+-   5) Repeat the steps above, with ~2 GeV/n energy
 
 Try to further push down the energy, to experimentally determine the lower energy limit for “clean” beam transport
 
