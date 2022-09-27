@@ -147,6 +147,8 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Theory/Accelerator Physics Theory.md",
+    "Theory/MU current scaling with momentum.md",
     "Eliott/EAST transfer lines/YASP.md",
     "Short term.md",
     "Eliott/CHIMERA/MD Planning.md",
@@ -154,8 +156,6 @@
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
     "Eliott/Quadrupole scan/EDMS document East Dump.md",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
-    "Eliott/EAST slow extraction.md",
-    "Theory/MU current scaling with momentum.md",
-    "Theory/Current scaling for Ions.md"
+    "Eliott/EAST slow extraction.md"
   ]
 }

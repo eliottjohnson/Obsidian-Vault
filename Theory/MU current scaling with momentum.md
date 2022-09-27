@@ -54,4 +54,5 @@ Kinetic energy per nucleon should be ~2 GeV/n
 
 
 
+
 ![[Pasted image 20220922171234.png]]
