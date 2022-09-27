@@ -75,14 +75,17 @@ Quad scan on dump at another date at lower energy.
 
 
 ## 28.09 MD plan:
--   Recovering the high intensity, nominal energy beam we had last year
+-   1) Recovering the high intensity, nominal energy beam we had last year.
 
--   Performing fast extraction for SEC calibration (especially if we progress with the pico-scope solution)
+-   2) Performing fast extraction for SEC calibration (especially if we progress with the pico-scope solution).
 
--   Reducing the intensity, if possible to at least ~1e6 ions/spill (again, similarly to what we did last year)
+-   3) Reducing the intensity, if possible to at least ~1e6 ions/spill (again, similarly to what we did last year).  Special attention to be devoted to impact of intensity reduction on spill duration.
 
--   Special attention to be devoted to impact of intensity reduction on spill duration
--   Repetition of fast extraction to have another calibration point at lower intensity
+-   Repetition of fast extraction to have another calibration point at lower intensity (Not possible for Marc).
+	- Early or Nominal intensity in LEIR to have two points
+	- Can't trust signal from XSEC in fast mode (lot of noise from Federico) - ringing of the signal.
+		- checking if impedance is matched
+		- 
 
 -   Repeat the steps above, with ~2 GeV/n energy
 
