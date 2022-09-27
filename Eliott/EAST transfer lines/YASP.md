@@ -68,3 +68,10 @@ madx.select(flag='twiss', column=['name', 's', 'betx', 'mux', 'alfx', 'dx', 'bet
 _ = madx.twiss(**beta0, file='/tmp/twiss.tfs').dframe()
 ```
 ![[Pasted image 20220927101715.png]]
+
+
+Kick response measurement
+
+
+
+Response matrix measurement
