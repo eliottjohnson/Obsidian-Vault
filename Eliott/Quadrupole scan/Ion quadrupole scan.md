@@ -18,6 +18,8 @@ current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149
 current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
 ```
 
+![[Pasted image 20220927172608.png]]
+
 
 SWAN_projects/quad-scan-east/ion_quad_scan/create_df_from_filter_quad_scan_ions2.ipynb
 2)  
@@ -26,13 +28,14 @@ current1 = np.linspace(0.47969, 0.47969, number_of_k_to_scan)  # init 0.47969
 current2 = np.linspace(-0.08, -0.13, number_of_k_to_scan)  # init -0.1149  
 current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
 ```
-  
+  ![[phase_advance_check['quad_scan_east_slow_ions_high_energy_2022_09_26_16h00m25s'].png]]
 3)  
 ``` python
 current1 = np.linspace(0.47969, 0.47969, number_of_k_to_scan)  # init 0.47969  
 current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149  
 current3 = np.linspace(0.10, 0.16, number_of_k_to_scan)  # init 0.134
 ```
+![[phase_advance_check['quad_scan_east_slow_ions_high_energy_2022_09_26_16h50m24s'].png]]
 
 ## Low energy
 [Logbook link](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3623828)
