@@ -108,4 +108,5 @@ select, flag = twiss, clear;
     endedit;
 ```
 
-also look at the code of slow_extraction_east_simple.ipynb 
+also look at the code of [slow_extraction_east_simple.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/937e7097d7ffba14bd9e5537e39ee7d8a2357668/ps_extraction/east-fast-extraction/slow_extraction_east_simple.ipynb)
+

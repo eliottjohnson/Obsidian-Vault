@@ -92,3 +92,9 @@ dipole k
 216 MCB :  0.022444564829506044
 216 MCB :  0.022444564829506044
 ```
+
+Script for ion scaling
+[T8_ion_scaling.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/f61t8/T8_ion_scaling.ipynb)
+
+Some info [here](https://gitlab.cern.ch/search?search=+PARTICLE%3Dlead&nav_source=navbar&project_id=126483&search_code=true&repository_ref=2021) on how to change beam parameter for ion: `Beam, particle=lead, pc=0.08856*A, ex=2.5E-6, ey=2.5E-6, charge=54, mass=A*0.9315, BUNCHED;`
+

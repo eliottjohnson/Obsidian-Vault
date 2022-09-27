@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+            "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chromaticity",
-                "matchingCase": false,
+                "query": "scattering",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
+                "file": "Eliott/Quadrupole scan/Emittance blow-up.md"
               }
             }
           },
@@ -147,15 +148,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Other/EAST slow extraction.md",
+    "Theory/Current scaling for Ions.md",
+    "Eliott/CHIMERA/Ions.md",
+    "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Quadrupole scan/VLC video stream.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/Quadrupole transfer functions for python.md",
     "Eliott/Quadrupole scan/How Denis grabs the momentum to calculate the K1 for the quadrupoles.md",
-    "Eliott/Quadrupole scan/NXCALS IRRAD BPM.md",
-    "Eliott/Quadrupole scan/MWPC.md",
-    "Eliott/Quadrupole scan/BTV timing with Ana in the East Area.md",
-    "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
-    "Eliott/Quadrupole scan/Steering helper.md"
+    "Eliott/Quadrupole scan/NXCALS IRRAD BPM.md"
   ]
 }

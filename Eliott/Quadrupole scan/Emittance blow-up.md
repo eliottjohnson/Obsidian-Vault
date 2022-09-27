@@ -62,3 +62,4 @@ https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/5c41750652d4e7
  value, thetascatt_rms;! Scattering angle, caused by the stripper
  value, beam->beta, beam->pc, sqrt(L/csi0);
 ```
+https://gitlab.cern.ch/search?search=scattering&nav_source=navbar&project_id=126483&search_code=true&repository_ref=EliottBranch
