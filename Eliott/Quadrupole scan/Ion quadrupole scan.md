@@ -2,9 +2,13 @@
 
 Two quadrupole scans were performed with Ions at high and low energy.
 
-For measurement we use the code from: 
+For measurement we use the code from [[Quadrupole Scan#Quadrupole scan with filters MD7505]]: 
+[Source code: quad_scan_east_dump_multiple_with_filters.py](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/quad_scan_east_dump_multiple_with_filters.py)
 
 ## High energy
+[Logbook link](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3623232)
+
+
 
 ## Low energy
 

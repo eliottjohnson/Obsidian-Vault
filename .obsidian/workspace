@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Quadrupole Scan.md"
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
               }
             }
           },
@@ -157,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c7988f4f1bc6cea",
+  "active": "67bb772692d8e273",
   "lastOpenFiles": [
-    "Eliott/Quadrupole scan/Emittance calculation of the extracted slow beam.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
-    "Other/Slow extraction spill duration.md",
-    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Other/EAST slow extraction.md",
-    "Eliott/Stray Fields/PS Magnetic Shims.md",
-    "Eliott/Stray Fields/PS Stray field.md",
-    "Eliott/Stray Fields/Tune and chromaticity measurements.md",
-    "Other/PTC_TRACK.md"
+    "Eliott/Quadrupole scan/Quadrupole transfer functions for python.md",
+    "Eliott/Quadrupole scan/How Denis grabs the momentum to calculate the K1 for the quadrupoles.md",
+    "Eliott/Quadrupole scan/NXCALS IRRAD BPM.md",
+    "Eliott/Quadrupole scan/MWPC.md",
+    "Eliott/Quadrupole scan/BTV timing with Ana in the East Area.md",
+    "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
+    "Eliott/Quadrupole scan/Steering helper.md",
+    "Eliott/Quadrupole scan/Slow extraction Quad Scan progress to the script.md",
+    "Eliott/Quadrupole scan/Dispersion measurement.md"
   ]
 }
