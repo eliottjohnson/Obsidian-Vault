@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md"
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
               }
             }
           },
@@ -148,6 +147,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Other/EAST slow extraction.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/CHIMERA/Ions.md",
@@ -156,7 +156,6 @@
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/Quadrupole transfer functions for python.md",
-    "Eliott/Quadrupole scan/How Denis grabs the momentum to calculate the K1 for the quadrupoles.md",
-    "Eliott/Quadrupole scan/NXCALS IRRAD BPM.md"
+    "Eliott/Quadrupole scan/How Denis grabs the momentum to calculate the K1 for the quadrupoles.md"
   ]
 }
