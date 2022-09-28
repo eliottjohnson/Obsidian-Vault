@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/Bumper BSW57.md",
+            "file": "Eliott/CHIMERA/MD Planning.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Bumper BSW57.md",
+                "file": "Eliott/CHIMERA/MD Planning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Bumper BSW57.md",
+                "file": "Eliott/CHIMERA/MD Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Bumper BSW57.md"
+                "file": "Eliott/CHIMERA/MD Planning.md"
               }
             }
           },
@@ -148,6 +147,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Other/Bumper BSW57.md",
     "Eliott/Quadrupole scan/BTV timing with Ana in the East Area.md",
     "Other/East Slow Extraction Eliott.md",
     "Eliott/CHIMERA/MD Planning.md",
@@ -156,7 +156,6 @@
     "Other/EAST slow extraction.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/CHIMERA/Ions.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/Quadrupole scan/VLC video stream.md"
+    "Eliott/Stray Fields/Multipole field component in MU62.md"
   ]
 }
