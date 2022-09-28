@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+            "file": "Eliott/CHIMERA/MD Planning.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Eliott/CHIMERA/MD Planning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Eliott/CHIMERA/MD Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
+                "file": "Eliott/CHIMERA/MD Planning.md"
               }
             }
           },
@@ -146,15 +145,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Other/EAST slow extraction.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/CHIMERA/Ions.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Quadrupole scan/VLC video stream.md",
-    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Eliott/Quadrupole scan/Quadrupole transfer functions for python.md",
     "Eliott/Quadrupole scan/How Denis grabs the momentum to calculate the K1 for the quadrupoles.md"

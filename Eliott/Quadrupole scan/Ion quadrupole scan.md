@@ -61,3 +61,5 @@ current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149
 current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
 ```
   
+Perhaps the stray field will change at 2 GeV which would change the beta and alpha. That would be bad if we can't scale by 54/82 with energy.
+It will be interesting to see the difference at low energy for a few different reasons: (I) different QSE strength? (II) different stray field effect of MU in saturation?
