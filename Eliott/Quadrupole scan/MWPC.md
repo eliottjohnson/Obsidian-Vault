@@ -32,3 +32,4 @@ spark.stop()
 ```
 
 
+Change gain on SEC70 channel 8
