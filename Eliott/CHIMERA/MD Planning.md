@@ -120,4 +120,4 @@ Working set -> PS-Sampler -> CPS
 
 LEIR down -> contacting Rheyes
 
-800 ms spill
+800 ms spill would be possible - tbd with Ruben
