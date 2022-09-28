@@ -116,4 +116,4 @@ Ionization chambers move in an out of the beam.
 ### Dedicated MD Wednesday 28.09.22
 
 scintillator BCCGA
-Working set -> PS-Sampler -> CPS. 
+Working set -> PS-Sampler -> CPS 
