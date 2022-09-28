@@ -119,3 +119,5 @@ scintillator BCCGA
 Working set -> PS-Sampler -> CPS 
 
 LEIR down -> contacting Rheyes
+
+800 ms spill
