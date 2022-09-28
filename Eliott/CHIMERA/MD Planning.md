@@ -117,3 +117,5 @@ Ionization chambers move in an out of the beam.
 
 scintillator BCCGA
 Working set -> PS-Sampler -> CPS 
+
+LEIR down -> contacting Rheyes
