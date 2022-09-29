@@ -4,12 +4,6 @@ kanban-plugin: basic
 
 ---
 
-## Monday
-
-- [x] Continue understand rigidity for ions with the [[MU current scaling with momentum]] note and Andreas overleaf table
-- [x] Marc's code to ion energy to equivalent proton energy
-
-
 ## [[Picoscope]]
 
 - [x] Discuss with Andreas and Natalia
@@ -29,20 +23,7 @@ kanban-plugin: basic
 
 ## CHIMERA
 
-- [ ] Wednesday 28 MD with ions
-- [ ] Prepare the excel sheet I had to convert to ions
-- [ ] Quad scan for initial parameters with ions
-- [ ] Look at the 2GeV/n beam and how the momentum scales in LSA, also the B-field. The rigidity will be lower because we gain charges
-
-
-## [[EDMS document East Dump]]
-
-- [x] Use pessimistic situations (2 cycles dumped consecutively)
-- [x] add margin to max. intensity
-- [x] Look at comments
-- [x] Check with Matt final list of reviewer
-- [x] Start EDMS review procedure with Thomas Birtwistle
-- [ ] Add Reference from Giulia for the Dump
+- [ ] Finish the CHIMERA doc
 
 
 ## [[Emittance blow-up]]
@@ -73,14 +54,29 @@ kanban-plugin: basic
 - [ ] UDEMY: Python for Computer Vision
 - [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
 - [ ] Check BPM UCAP and logging if I get the same values
-- [ ] Continue to write the CHIMERA document
 - [ ] First moment, second moment
+
+
+## [[EDMS document East Dump]]
+
+- [x] Use pessimistic situations (2 cycles dumped consecutively)
+- [x] add margin to max. intensity
+- [x] Look at comments
+- [x] Check with Matt final list of reviewer
+- [x] Start EDMS review procedure with Thomas Birtwistle
+- [ ] Add Reference from Giulia for the Dump
 
 
 ***
 
 ## Archive
 
+- [x] Wednesday 28 MD with ions
+- [x] Prepare the excel sheet I had to convert to ions
+- [x] Quad scan for initial parameters with ions
+- [x] Look at the 2GeV/n beam and how the momentum scales in LSA, also the B-field. The rigidity will be lower because we gain charges
+- [x] Continue understand rigidity for ions with the [[MU current scaling with momentum]] note and Andreas overleaf table
+- [x] Marc's code to ion energy to equivalent proton energy
 - [x] - Dipanwita would like to have beam size at the entrance and exit of F6x bends
 - [x] - Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005
 - [x] - MCB magnet aperture (quite large)
