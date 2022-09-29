@@ -75,3 +75,11 @@ Perhaps the stray field will change at 2 GeV which would change the beta and alp
 It will be interesting to see the difference at low energy for a few different reasons: (I) different QSE strength? (II) different stray field effect of MU in saturation?
 
 Same in the vertical plane but not in the horizontal plane.
+
+## Comparison of the measurements
+
+![[quadrupole_scan_Pb_ions_qfn01.png]]
+
+![[quadrupole_scan_Pb_ions_qdn02.png]]
+
+![[quadrupole_scan_Pb_ions_qfn03.png]]
