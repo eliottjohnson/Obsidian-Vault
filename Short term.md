@@ -83,6 +83,11 @@ kanban-plugin: basic
 - [x] add margin to max. intensity
 - [x] Look at comments
 - [x] Check with Matt final list of reviewer
+- [x] Optics on Slow ions 24 GeV (will be used on wednesday), then slow ions at 2 GeV
+- [x] MAD-X use proton beam and then scale current by 54/82
+- [x] Prepare a table with the old currents in the line when we had ions
+- [x] Check LSA for how it computes the momentum and energy
+- [x] How do you scale with energy ?
 
 %% kanban:settings
 ```
