@@ -83,3 +83,6 @@ Same in the vertical plane but not in the horizontal plane.
 ![[quadrupole_scan_Pb_ions_qdn02.png]]
 
 ![[quadrupole_scan_Pb_ions_qfn03.png]]
+
+Big difference in the QSE
+![[Pasted image 20220929161005.png]]
