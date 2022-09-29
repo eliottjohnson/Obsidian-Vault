@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+            "file": "Eliott/Quadrupole scan/MWPC.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blow up",
+                "query": "timber",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Eliott/Quadrupole scan/MWPC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Eliott/Quadrupole scan/MWPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
+                "file": "Eliott/Quadrupole scan/MWPC.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
-    "Eliott/Quadrupole scan/Emittance blow-up.md",
+    "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
+    "Eliott/Quadrupole scan/NXCALS IRRAD BPM.md",
+    "Eliott/Quadrupole scan/Quadrupole Scan.md",
+    "Other/Tutorial application development.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+    "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Other/Linux + Technical.md",
     "Short term.md",
     "Theory/Ion kinetic energy.md",
-    "Eliott/Quadrupole scan/MWPC.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Theory/MU current scaling with momentum.md",
-    "Theory/Current scaling for Ions.md",
-    "Other/Conversation with Matthew 22.09.2022.md"
+    "Eliott/Quadrupole scan/MWPC.md"
   ]
 }
