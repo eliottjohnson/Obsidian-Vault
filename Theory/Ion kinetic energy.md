@@ -16,5 +16,12 @@ Example: if you want a lead ion beam Pb54+ (which means it has 54 charges and 28
 $$pc = E_{0}\sqrt{\left [ \left( \frac{2\text{ [GeV]}\cdot 208}{E_{0}}+1\right )^{2}-1\right ]}$$
 where the rest mass $E_{0}$ of Pb54+ is:
 
-$$m_{Pb54+}= 82\cdot m_{proton} + 126\cdot m_{neutron} + 28\cdot m_{e^{-}} - m_{defect} = 193.74 \text{GeV/c^{2}}$$
+$$m_{Pb54+}= 82\cdot m_{proton} + 126\cdot m_{neutron} + 28\cdot m_{e^{-}} - m_{defect} = 193.74 \frac{GeV}{c^{2}}$$
 The mass defect is $m_{defect}=82\cdot m_{proton} + 126\cdot m_{neutron} + 28\cdot m_{e^{-}} - 208\cdot m_{u}$
+
+with:
+$$
+m_proton_GeV = 0.93828
+m_neutron_GeV = 0.93957
+m_electron_GeV = 0.000511
+m_u_GeV = 0.9315$$
