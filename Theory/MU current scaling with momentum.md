@@ -52,7 +52,4 @@ $p = \frac{0.515\cdot70.0789}{3.33564} = 10.82 [GeV/c]$ equivalent proton
 Kinetic energy per nucleon should be ~2 GeV/n
 
 
-
-
-
 ![[Pasted image 20220922171234.png]]

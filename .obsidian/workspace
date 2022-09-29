@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Accelerator Physics Theory.md",
+            "file": "Theory/MU current scaling with momentum.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md"
+                "file": "Theory/MU current scaling with momentum.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Theory/Accelerator Physics Theory.md",
     "Theory/MU current scaling with momentum.md",
     "Short term.md",
     "Other/Conversation with Matthew 22.09.2022.md",
@@ -155,7 +156,6 @@
     "Eliott/EAST transfer lines/YASP.md",
     "Eliott/Quadrupole scan/Initial parameter validation.md",
     "Eliott/Quadrupole scan/East Area Initial parameters.md",
-    "Eliott/CHIMERA/MD Planning.md",
-    "Other/Bumper BSW57.md"
+    "Eliott/CHIMERA/MD Planning.md"
   ]
 }
