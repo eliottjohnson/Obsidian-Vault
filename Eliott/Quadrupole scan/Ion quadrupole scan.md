@@ -59,7 +59,7 @@ current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
 ```
   
 3)  
-```
+``` python
 current1 = np.linspace(0.42, 0.49, number_of_k_to_scan)  # init 0.47969
 current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149
 current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134

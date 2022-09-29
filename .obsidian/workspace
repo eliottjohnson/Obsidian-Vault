@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/Linux + Technical.md",
+            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Linux + Technical.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Linux + Technical.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Linux + Technical.md"
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
               }
             }
           },
@@ -148,6 +147,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Other/Linux + Technical.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Short term.md",
     "Theory/Ion kinetic energy.md",
@@ -156,7 +156,6 @@
     "Theory/MU current scaling with momentum.md",
     "Theory/Current scaling for Ions.md",
     "Other/Conversation with Matthew 22.09.2022.md",
-    "Eliott/Quadrupole scan/BTV timing with Ana in the East Area.md",
-    "Eliott/EAST transfer lines/YASP.md"
+    "Eliott/Quadrupole scan/BTV timing with Ana in the East Area.md"
   ]
 }
