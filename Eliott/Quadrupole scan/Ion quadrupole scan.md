@@ -8,8 +8,10 @@ For measurement we use the code from [[Quadrupole Scan#Quadrupole scan with filt
 ## High energy
 [Logbook link](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3623232)
 
-SWAN_projects/acc-models-tls-eliott-fork/ps_extraction/f61d/F61D_beam_size_ion_quadrupole_scan.ipynb
+IEAST_LI_Pb_22
+LEIR: PB54_2BP_2021_06_09_EARLY_2400ms_V1
 
+SWAN_projects/acc-models-tls-eliott-fork/ps_extraction/f61d/F61D_beam_size_ion_quadrupole_scan.ipynb
 SWAN_projects/quad-scan-east/ion_quad_scan/create_df_from_filter_quad_scan_ions1.ipynb
 1)  
 ``` python
@@ -39,6 +41,8 @@ current3 = np.linspace(0.10, 0.16, number_of_k_to_scan)  # init 0.134
 
 ## Low energy
 [Logbook link](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3623828)
+
+IEAST_Pb:10.7_ZGeV_22
 
 1)  
 ``` python

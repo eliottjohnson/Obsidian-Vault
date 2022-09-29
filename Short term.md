@@ -4,6 +4,13 @@ kanban-plugin: basic
 
 ---
 
+## CHIMERA
+
+- [ ] Finish the CHIMERA doc
+- [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
+- [ ] Look at the quad scan at low energy
+
+
 ## [[Picoscope]]
 
 - [x] Discuss with Andreas and Natalia
@@ -12,18 +19,10 @@ kanban-plugin: basic
 
 ## [[Multipole field component in MU62]]
 
-- [x] Export MFC to seq and ele files
-- [x] Add MFC to transfer line sequence
 - [x] Plot ellipse of stray field model
-- [x] Check Aperture restriction
 - [ ] Connect PS Ring to Transfer line
 - [ ] Track single particles from Matt's distribution (non-linear can't do twiss)
 - [ ] Track twiss from fast extraction and compare with measurement
-
-
-## CHIMERA
-
-- [ ] Finish the CHIMERA doc
 
 
 ## [[Emittance blow-up]]
@@ -37,15 +36,8 @@ kanban-plugin: basic
 
 ## [[YASP]]
 
-- [x] Talk with Denis
-- [x] Talk with Jurg
-- [ ] upload custom twiss with different optics
-- [ ] Add dipoles as correctors
-- [ ] Add BTV as steerers
+- [x] upload custom twiss with different optics
 - [ ] Add the MWPC in the working set
-- [x] Add device name as an additional field
-- [x] Check if device name is correct
-- [ ] Map device name to optics sequence name
 - [ ] Add corrector strength to model and when you change optics, try to get back the same optics
 
 
@@ -59,10 +51,6 @@ kanban-plugin: basic
 
 ## [[EDMS document East Dump]]
 
-- [x] Use pessimistic situations (2 cycles dumped consecutively)
-- [x] add margin to max. intensity
-- [x] Look at comments
-- [x] Check with Matt final list of reviewer
 - [x] Start EDMS review procedure with Thomas Birtwistle
 - [ ] Add Reference from Giulia for the Dump
 
@@ -81,6 +69,20 @@ kanban-plugin: basic
 - [x] - Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005
 - [x] - MCB magnet aperture (quite large)
 - [x] - Check Aperture restriction
+- [x] Talk with Denis
+- [x] Talk with Jurg
+- [x] Add dipoles as correctors
+- [x] Add BTV as steerers
+- [x] Add device name as an additional field
+- [x] Check if device name is correct
+- [x] Map device name to optics sequence name
+- [x] Export MFC to seq and ele files
+- [x] Add MFC to transfer line sequence
+- [x] Check Aperture restriction
+- [x] Use pessimistic situations (2 cycles dumped consecutively)
+- [x] add margin to max. intensity
+- [x] Look at comments
+- [x] Check with Matt final list of reviewer
 
 %% kanban:settings
 ```
