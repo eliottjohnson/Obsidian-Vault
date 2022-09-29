@@ -25,3 +25,6 @@ $$m_{p} = 0.93828 \text{ } GeV/c^{2}$$
 $$m_{n} = 0.93957 \text{ } GeV/c^{2}$$
 $$m_{e^{-}} = 0.000511 \text{ } GeV/c^{2}$$
 $$m_{u} = 0.9315 \text{ } GeV/c^{2}$$
+
+Simple python script to calculate B-field in Amps for a specific Kinetic energy per nucleon: https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/ion_kinetic_energy.ipynb
+
