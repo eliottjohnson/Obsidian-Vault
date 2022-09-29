@@ -7,8 +7,7 @@ kanban-plugin: basic
 ## Monday
 
 - [ ] Continue understand rigidity for ions with the [[MU current scaling with momentum]] note and Andreas overleaf table
-- [ ] Prepare the script for quadrupole scan to east dump on Monday afternoon
-- [ ] Ask Denis how to upload twiss to YASP
+- [ ] Marc's code to ion energy to equivalent proton energy
 
 
 ## [[Picoscope]]
