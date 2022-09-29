@@ -51,5 +51,6 @@ $B=2060\cdot 2.5E-4=0.515 [T]$
 $p = \frac{0.515\cdot70.0789}{3.33564} = 10.82 [GeV/c]$ equivalent proton
 Kinetic energy per nucleon should be ~2 GeV/n
 
+see [[Ion kinetic energy]] for detailled calculation
 
 ![[Pasted image 20220922171234.png]]
