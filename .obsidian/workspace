@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,8 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Short term.md",
+    "Eliott/Quadrupole scan/MWPC.md",
     "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
     "Eliott/Quadrupole scan/NXCALS IRRAD BPM.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
@@ -155,8 +156,6 @@
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Other/Linux + Technical.md",
-    "Short term.md",
-    "Theory/Ion kinetic energy.md",
-    "Eliott/Quadrupole scan/MWPC.md"
+    "Theory/Ion kinetic energy.md"
   ]
 }

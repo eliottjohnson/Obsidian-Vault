@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] Finish the CHIMERA doc
 - [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
 - [ ] Look at the quad scan at low energy
+- [ ] Try to see the BTV acquisition from the dedicated MD
 
 
 ## [[Picoscope]]

@@ -9,17 +9,21 @@ Vertical: XBZT8.ZT8.BXMWPC104:PROFILE
 Simple SWAN python script
 
 ``` python
+import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 # source the nxcals python libs
 from nxcals.api.extraction.data.builders import *
+from scipy.optimize import curve_fit
+from datetime import datetime
 
-# build the query and load data into spark dataframe
-start = "2022-07-12 23:50:00.000"
-end = "2022-07-13 00:00:00.000"
-df = DevicePropertyDataQuery.builder(spark).system("CMW").startTime(start).endTime(end).entity().parameter("BXMWPC_2080/Acquisition").build()
-
-p_df = df.toPandas()
+# build the query and load data into spark dataframe UTC Time
+start = "2022-07-13 12:59:30.000"
+end = "2022-07-13 13:10:30.000"
+df = DevicePropertyDataQuery.builder(spark).system("CMW").startTime(start).endTime(end).entity().parameter("BXMWPC_2080/Acquisition").build().toPandas()
+df_qfn01 = DevicePropertyDataQuery.builder(spark).system("CMW").startTime(start).endTime(end).entity().parameter("RPAEK.251.F61.RQNCL007/MEAS.PULSE").build().toPandas()
+df_qdn02 = DevicePropertyDataQuery.builder(spark).system("CMW").startTime(start).endTime(end).entity().parameter("RPAEK.251.F61.RQNEL014/MEAS.PULSE").build().toPandas()
+df_qfn03 = DevicePropertyDataQuery.builder(spark).system("CMW").startTime(start).endTime(end).entity().parameter("RPAEK.251.F61.RQNEF021/MEAS.PULSE").build().toPandas()
 ```
 
 The array has two profiles. First half is with low gain, the other with the high gain.
