@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Current scaling for Ions.md",
+            "file": "Theory/MU current scaling with momentum.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Theory/MU current scaling with momentum.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "2d6eb6bb40b71639",
   "lastOpenFiles": [
-    "Theory/MU current scaling with momentum.md",
     "Theory/Accelerator Physics Theory.md",
+    "Theory/MU current scaling with momentum.md",
     "Theory/Ion kinetic energy.md",
+    "Theory/Current scaling for Ions.md",
     "Short term.md",
     "Other/Conversation with Matthew 22.09.2022.md",
     "Eliott/Quadrupole scan/MWPC.md",
     "Eliott/Quadrupole scan/BTV timing with Ana in the East Area.md",
     "Eliott/EAST transfer lines/YASP.md",
-    "Eliott/Quadrupole scan/Initial parameter validation.md",
-    "Eliott/Quadrupole scan/East Area Initial parameters.md"
+    "Eliott/Quadrupole scan/Initial parameter validation.md"
   ]
 }
