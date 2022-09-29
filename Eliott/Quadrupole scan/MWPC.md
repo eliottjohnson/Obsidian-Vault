@@ -6,7 +6,8 @@ Vertical: XBZT8.ZT8.BXMWPC104:PROFILE
 [Timber: MWPC](https://timber.cern.ch/query?tab=Variables)
 ![](https://codimd.web.cern.ch/uploads/upload_d4a65fbcd544f8f4eec3269fcfcda36f.png)
 
-Simple SWAN python script
+### Simple SWAN python script for NXCALS
+![[Pasted image 20220929171954.png]]
 
 ``` python
 import numpy as np
