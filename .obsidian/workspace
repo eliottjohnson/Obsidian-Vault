@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "2d6eb6bb40b71639",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Theory/Accelerator Physics Theory.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -159,11 +147,11 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Short term.md",
+    "Theory/Ion kinetic energy.md",
     "Theory/Accelerator Physics Theory.md",
     "Theory/MU current scaling with momentum.md",
-    "Theory/Ion kinetic energy.md",
     "Theory/Current scaling for Ions.md",
-    "Short term.md",
     "Other/Conversation with Matthew 22.09.2022.md",
     "Eliott/Quadrupole scan/MWPC.md",
     "Eliott/Quadrupole scan/BTV timing with Ana in the East Area.md",

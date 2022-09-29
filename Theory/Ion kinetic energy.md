@@ -20,7 +20,7 @@ where the rest mass $E_{0}$ of Pb54+ is:
 $$m_{Pb54+}= 82\cdot m_{proton} + 126\cdot m_{neutron} + 28\cdot m_{e^{-}} - m_{defect} = 193.74 \frac{GeV}{c^{2}}$$
 with the mass defect: $m_{defect}=82\cdot m_{proton} + 126\cdot m_{neutron} + 28\cdot m_{e^{-}} - 208\cdot m_{u}$
 
-with:
+with masses from [this source](http://physics.bu.edu/~duffy/sc546_notes10/mass_defect.html):
 $$m_{p} = 0.93828 \text{ } GeV/c^{2}$$
 $$m_{n} = 0.93957 \text{ } GeV/c^{2}$$
 $$m_{e^{-}} = 0.000511 \text{ } GeV/c^{2}$$

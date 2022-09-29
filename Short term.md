@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## Monday
 
-- [ ] Continue understand rigidity for ions with the [[MU current scaling with momentum]] note and Andreas overleaf table
-- [ ] Marc's code to ion energy to equivalent proton energy
+- [x] Continue understand rigidity for ions with the [[MU current scaling with momentum]] note and Andreas overleaf table
+- [x] Marc's code to ion energy to equivalent proton energy
 
 
 ## [[Picoscope]]
