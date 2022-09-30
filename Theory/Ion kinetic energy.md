@@ -30,4 +30,4 @@ Simple python script to calculate B-field in Amps for a specific Kinetic energy 
 
 The other way around
 
-$$E_{cin} = \sqrt{\left[ \left (\frac{qB\rho}{E_{0}}\right )^{2} - 1\right] +}$$
+$$E_{cin} = \frac{E_{0}}{208}\sqrt{\left[ \left (\frac{qB\rho}{E_{0}}\right )^{2} - 1\right] +1}$$
