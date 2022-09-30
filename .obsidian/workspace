@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
-    "Other/EAST slow extraction.md",
     "Eliott/Quadrupole scan/MWPC.md",
+    "Eliott/EAST transfer lines/YASP.md",
+    "Other/EAST slow extraction.md",
     "Short term.md",
     "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
     "Eliott/Quadrupole scan/NXCALS IRRAD BPM.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Other/Tutorial application development.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
-    "Eliott/Quadrupole scan/Emittance blow-up.md",
-    "Other/Linux + Technical.md"
+    "Eliott/Quadrupole scan/Emittance blow-up.md"
   ]
 }
