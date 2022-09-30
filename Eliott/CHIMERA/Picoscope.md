@@ -15,6 +15,11 @@ F61.XSEC023-I1_Cal
 F61.XSEC023-I2
 F61.XSEC023-I2_Cal
 
+Change the gain on the XSEC
+
+cfv-157-biea3
+T08.XSEC094-I -> GainSetting -> ampGain -> HIGH/MED/LOW
+
 ### BLM
 F61.BLM008
 F61.BLM027
