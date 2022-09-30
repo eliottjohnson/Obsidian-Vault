@@ -28,3 +28,6 @@ $$m_{u} = 0.9315 \text{ } GeV/c^{2}$$
 
 Simple python script to calculate B-field in Amps for a specific Kinetic energy per nucleon: https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/ion_kinetic_energy.ipynb
 
+The other way around
+
+$$E_{cin} = \sqrt{\left[ \left (\frac{qB\rho}{E_{0}}\right )^{2} - 1\right] +}$$
