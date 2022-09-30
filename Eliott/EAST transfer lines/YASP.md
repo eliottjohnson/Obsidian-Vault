@@ -83,5 +83,5 @@ Edit corrector status
 ## Bugs with config
 * Trim break the correctors (pulse too long)
 * H and V points do not move even if YASP publishes
-
+* Green play button doesn't subscribe on the extended version
 
