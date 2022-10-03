@@ -26,3 +26,5 @@ NXcals is slow, be patient…
 Cheers,
 Enrico
  ```
+
+![[Pasted image 20221003153642.png]]
