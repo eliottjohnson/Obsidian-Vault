@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
               }
             }
           },
@@ -159,11 +159,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c7988f4f1bc6cea",
+  "active": "cf1f94da6c223eb1",
   "lastOpenFiles": [
+    "Theory/Current scaling for Ions.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Attachments/Pasted image 20220929161005.png",
-    "Theory/Current scaling for Ions.md",
     "Eliott/Quadrupole scan/MWPC.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/CHIMERA/Picoscope.md",
