@@ -103,3 +103,7 @@ Some info [here](https://gitlab.cern.ch/search?search=+PARTICLE%3Dlead&nav_sourc
 [Source code: ion_kinetic_energy](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/ion_kinetic_energy.ipynb)
 
 ![[kinetic_energy_lookup_table.png]]
+
+Other version
+
+![[kinetic_energy_lookup_table_v3.png]]

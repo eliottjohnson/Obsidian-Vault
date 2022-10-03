@@ -6,7 +6,7 @@
       {
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
-        "dimension": 53.7109375,
+        "dimension": 56.934865900383144,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,11 +19,11 @@
       {
         "id": "cf1f94da6c223eb1",
         "type": "leaf",
-        "dimension": 46.2890625,
+        "dimension": 43.065134099616856,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Current scaling for Ions.md",
+            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
             "mode": "source",
             "source": false
           }
@@ -159,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf1f94da6c223eb1",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+    "Eliott/Quadrupole scan/Attachments/Pasted image 20220929161005.png",
+    "Theory/Current scaling for Ions.md",
+    "Eliott/Quadrupole scan/MWPC.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/CHIMERA/Picoscope.md",
     "Eliott/CHIMERA/Ions theory.md",
     "Theory/MU current scaling with momentum.md",
     "Theory/Ion kinetic energy.md",
-    "Theory/Current scaling for Ions.md",
-    "Eliott/EAST transfer lines/Read BTV images from NXCALS.md",
-    "Eliott/CHIMERA/Run preparation meeting 1.md",
-    "Eliott/CHIMERA/SEC calibration EAST.md",
-    "Other/Conversation with Matthew 22.09.2022.md"
+    "Eliott/EAST transfer lines/Read BTV images from NXCALS.md"
   ]
 }
