@@ -7,11 +7,9 @@
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
-            "mode": "source",
-            "source": false
+            "file": "Short term.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Short term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Short term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
+                "file": "Short term.md"
               }
             }
           },
@@ -147,6 +145,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/EAST transfer lines/Read BTV images from NXCALS.md",
     "Eliott/EAST transfer lines/YASP.md",
     "Theory/MU current scaling with momentum.md",
@@ -155,7 +154,6 @@
     "Other/Slow extraction spill duration.md",
     "Theory/Accelerator Physics Theory.md",
     "Eliott/CHIMERA/Picoscope.md",
-    "Eliott/Quadrupole scan/MWPC.md",
-    "Other/EAST slow extraction.md"
+    "Eliott/Quadrupole scan/MWPC.md"
   ]
 }
