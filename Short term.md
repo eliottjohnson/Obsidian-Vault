@@ -12,10 +12,9 @@ kanban-plugin: basic
 - [ ] Try to see the BTV acquisition from the dedicated MD
 
 
-## [[Picoscope]]
+## Stray Field
 
-- [x] Discuss with Andreas and Natalia
-- [ ] Picoscope test
+- [ ] Magnetic measurement of a spare MU being performed, create slides for Carlo to measure stray fields
 
 
 ## [[Multipole field component in MU62]]
@@ -40,6 +39,12 @@ kanban-plugin: basic
 - [x] upload custom twiss with different optics
 - [ ] Add the MWPC in the working set
 - [ ] Add corrector strength to model and when you change optics, try to get back the same optics
+
+
+## [[Picoscope]]
+
+- [x] Discuss with Andreas and Natalia
+- [ ] Picoscope test
 
 
 ## Other
