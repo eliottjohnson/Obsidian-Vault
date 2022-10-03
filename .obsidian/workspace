@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/CHIMERA/MD Planning.md",
+            "file": "Eliott/EAST transfer lines/Read BTV images from NXCALS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md",
+                "file": "Eliott/EAST transfer lines/Read BTV images from NXCALS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md",
+                "file": "Eliott/EAST transfer lines/Read BTV images from NXCALS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/CHIMERA/MD Planning.md"
+                "file": "Eliott/EAST transfer lines/Read BTV images from NXCALS.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/CHIMERA/Run preparation meeting 1.md",
+    "Eliott/CHIMERA/SEC calibration EAST.md",
+    "Eliott/CHIMERA/Ions theory.md",
+    "Eliott/CHIMERA/Picoscope.md",
+    "Other/Conversation with Matthew 22.09.2022.md",
+    "Eliott/CHIMERA/MD Planning.md",
     "Theory/MU current scaling with momentum.md",
     "Theory/Ion kinetic energy.md",
     "Theory/Current scaling for Ions.md",
-    "Other/PS Beam momentum.md",
-    "Eliott/EAST transfer lines/Read BTV images from NXCALS.md",
-    "Eliott/Quadrupole scan/Emittance blow-up.md",
-    "Short term.md",
-    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
-    "Eliott/EAST transfer lines/YASP.md",
-    "Other/Linux + Technical.md"
+    "Other/PS Beam momentum.md"
   ]
 }
