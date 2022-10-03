@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Retrieve",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c7988f4f1bc6cea",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
     "Theory/Ion kinetic energy.md",
     "Other/Linux + Technical.md",
