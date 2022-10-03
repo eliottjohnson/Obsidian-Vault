@@ -98,3 +98,8 @@ Script for ion scaling
 
 Some info [here](https://gitlab.cern.ch/search?search=+PARTICLE%3Dlead&nav_source=navbar&project_id=126483&search_code=true&repository_ref=2021) on how to change beam parameter for ion: `Beam, particle=lead, pc=0.08856*A, ex=2.5E-6, ey=2.5E-6, charge=54, mass=A*0.9315, BUNCHED;`
 
+# Pb ion lookup table
+
+[Source code: ion_kinetic_energy](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/ion_kinetic_energy.ipynb)
+
+![[kinetic_energy_lookup_table.png]]

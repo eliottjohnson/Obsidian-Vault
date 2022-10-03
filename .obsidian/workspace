@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+            "file": "Other/PS Beam momentum.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+                "file": "Other/PS Beam momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md",
+                "file": "Other/PS Beam momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Emittance blow-up.md"
+                "file": "Other/PS Beam momentum.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Theory/Current scaling for Ions.md",
+    "Eliott/EAST transfer lines/Read BTV images from NXCALS.md",
+    "Eliott/Quadrupole scan/Emittance blow-up.md",
     "Short term.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
-    "Eliott/EAST transfer lines/Read BTV images from NXCALS.md",
     "Eliott/EAST transfer lines/YASP.md",
     "Theory/MU current scaling with momentum.md",
     "Theory/Ion kinetic energy.md",
     "Other/Linux + Technical.md",
-    "Other/Slow extraction spill duration.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Eliott/CHIMERA/Picoscope.md"
+    "Other/Slow extraction spill duration.md"
   ]
 }
