@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
+            "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
+                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
+                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/PS stray field initial note from Matthew.md"
+                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
@@ -169,7 +170,6 @@
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/CHIMERA/Picoscope.md",
     "Eliott/CHIMERA/Ions theory.md",
-    "Theory/MU current scaling with momentum.md",
-    "Theory/Ion kinetic energy.md"
+    "Theory/MU current scaling with momentum.md"
   ]
 }
