@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Current scaling for Ions.md",
+            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
               }
             }
           },
@@ -159,7 +159,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf1f94da6c223eb1",
+  "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
     "Theory/Current scaling for Ions.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
