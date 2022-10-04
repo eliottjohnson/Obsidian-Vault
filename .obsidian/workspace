@@ -6,24 +6,10 @@
       {
         "id": "1c7988f4f1bc6cea",
         "type": "leaf",
-        "dimension": 56.934865900383144,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cf1f94da6c223eb1",
-        "type": "leaf",
-        "dimension": 43.065134099616856,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
             "mode": "source",
             "source": false
           }
@@ -71,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,15 +147,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+    "Eliott/Stray Fields/Multipole field component in MU62.md",
+    "Theory/Accelerator Physics Theory.md",
     "Eliott/Stray Fields/Kick response attempts through tracking.md",
     "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Theory/Current scaling for Ions.md",
-    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Attachments/Pasted image 20220929161005.png",
     "Eliott/Quadrupole scan/MWPC.md",
     "Eliott/CHIMERA/MD Planning.md",
-    "Eliott/CHIMERA/Picoscope.md",
-    "Eliott/CHIMERA/Ions theory.md"
+    "Eliott/CHIMERA/Picoscope.md"
   ]
 }
