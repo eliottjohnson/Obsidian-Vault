@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+            "file": "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+                "file": "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
+                "file": "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
+                "file": "Eliott/Stray Fields/PS stray field initial note from Matthew.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Quadrupole scan/Attachments/Pasted image 20220929161005.png",
@@ -169,7 +170,6 @@
     "Eliott/CHIMERA/Picoscope.md",
     "Eliott/CHIMERA/Ions theory.md",
     "Theory/MU current scaling with momentum.md",
-    "Theory/Ion kinetic energy.md",
-    "Eliott/EAST transfer lines/Read BTV images from NXCALS.md"
+    "Theory/Ion kinetic energy.md"
   ]
 }
