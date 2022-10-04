@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
 - [ ] Look at the quad scan at low energy
 - [ ] Try to see the BTV acquisition from the dedicated MD
+- [ ] Ask Jean-Michel how to log BLM-ST for MD3 and MD4 as well
 
 
 ## Stray Field
