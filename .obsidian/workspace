@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
+            "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integral quadrupole",
+                "query": "savebeta",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md"
+                "file": "Eliott/Stray Fields/Multipole field component in MU62.md"
               }
             }
           },
@@ -161,6 +162,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/Kick response attempts through tracking.md",
     "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Theory/Current scaling for Ions.md",
@@ -169,7 +171,6 @@
     "Eliott/Quadrupole scan/MWPC.md",
     "Eliott/CHIMERA/MD Planning.md",
     "Eliott/CHIMERA/Picoscope.md",
-    "Eliott/CHIMERA/Ions theory.md",
-    "Theory/MU current scaling with momentum.md"
+    "Eliott/CHIMERA/Ions theory.md"
   ]
 }
