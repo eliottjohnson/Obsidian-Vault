@@ -62,4 +62,11 @@ PTC uses thick lens Hamiltonian and is very fast.
 The caveat is that it can't be used with matrices so the solution is to split the tracking in two.
 
 ![[sitched_sequence_track_ptc.png]]
+In this code: SWAN_projects/acc-models-tls-eliott-fork/ps_extraction/east-fast-extraction/stitched_slow_extraction_east_PTC_single_turn.ipynb
 
+I take the extracted distribution from maptrack
+![[Pasted image 20221005170314.png]]
+I track it with PTC in the PS and I save the distribution at the end
+![[Pasted image 20221005170355.png]]
+
+I remove the median of the x and px coordinate to have it centered in the transfer line

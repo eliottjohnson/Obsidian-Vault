@@ -1,0 +1,5 @@
+# Slow extraction theory
+
+## Spiral step
+
+Particles which are on one arm of the separatrix in one turn will be on the counter clockwise rotated arm in the next turn. Particles return to the same arm every three turns, but always a little further from the middle than earlier. If we track the phase space position of one unstable particle it seems like if it were “walking” outwards with increasing steps. The so-called spiral step is an important parameter of the slow extraction. Assume a particle which is just barely on the circulating side of the wires in one turn, then three turns later it is the extracted particle which is furthest away from the origin. The difference between the particle’s x coordinates in this turn and 3 turns later is called the spiral step. In other words, this is the length of the section on which particles are extracted or lost
