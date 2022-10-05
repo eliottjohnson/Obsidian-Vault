@@ -1,4 +1,4 @@
-# Kick response attemps through tracking
+# Kick response attempts through tracking
 
 PE.SMH57 - f61.btv010
 Source code: https://gitlab.cern.ch/acc-models/acc-models-tls/-/blob/9d5ca6f84fb4f2484c666953b3be84df418c4337/ps_extraction/east-fast-extraction/replace_MU62_PS_ring_Drift_loop_kick_response.ipynb
