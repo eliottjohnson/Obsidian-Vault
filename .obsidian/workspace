@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/East Area optics measurements.md",
+            "file": "Eliott/Stray Fields/Stitching two sequences together.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kick response",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/East Area optics measurements.md",
+                "file": "Eliott/Stray Fields/Stitching two sequences together.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/East Area optics measurements.md",
+                "file": "Eliott/Stray Fields/Stitching two sequences together.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/East Area optics measurements.md"
+                "file": "Eliott/Stray Fields/Stitching two sequences together.md"
               }
             }
           },
@@ -148,15 +147,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/Kick response attempts through tracking.md",
+    "Other/EAST slow extraction.md",
+    "Theory/Current scaling for Ions.md",
+    "Eliott/Stray Fields/Comparing with old BTP model.md",
+    "Other/Bumper BSW57.md",
+    "Other/East Area optics measurements.md",
     "Eliott/Stray Fields/Stitching two sequences together.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Other/PTC_TRACK.md",
-    "Short term.md",
-    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Eliott/Stray Fields/Kick response attempts through tracking.md",
-    "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
-    "Theory/Current scaling for Ions.md",
-    "Eliott/Quadrupole scan/Attachments/Pasted image 20220929161005.png"
+    "Short term.md"
   ]
 }

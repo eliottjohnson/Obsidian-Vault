@@ -59,7 +59,7 @@ Thin Track slicing takes several minutes and is very far from the original twiss
 see [[PTC_TRACK#PTC_TRACK simple example]]
 
 PTC uses thick lens Hamiltonian and is very fast.
-The caveat is that it can't be used with matrices.
+The caveat is that it can't be used with matrices so the solution is to split the tracking in two.
 
 ![[sitched_sequence_track_ptc.png]]
 
