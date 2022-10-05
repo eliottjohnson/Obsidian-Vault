@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Stitching two sequences together.md",
+            "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Stitching two sequences together.md",
+                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Stitching two sequences together.md",
+                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Stitching two sequences together.md"
+                "file": "Eliott/Stray Fields/Kick response attempts through tracking.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
-    "Eliott/Stray Fields/Kick response attempts through tracking.md",
-    "Other/EAST slow extraction.md",
-    "Theory/Current scaling for Ions.md",
+    "Eliott/Stray Fields/PS stray field initial note from Matthew.md",
+    "Eliott/Stray Fields/Three turns extraction.md",
+    "Eliott/Stray Fields/Gradient felt at East extraction.md",
+    "Eliott/Stray Fields/PS Stray field.md",
+    "Eliott/Stray Fields/Injection BTP.md",
+    "Eliott/Stray Fields/Field map with PFW and F8L.md",
     "Eliott/Stray Fields/Comparing with old BTP model.md",
-    "Other/Bumper BSW57.md",
-    "Other/East Area optics measurements.md",
     "Eliott/Stray Fields/Stitching two sequences together.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Other/PTC_TRACK.md",
-    "Short term.md"
+    "Eliott/Stray Fields/Kick response attempts through tracking.md",
+    "Other/EAST slow extraction.md"
   ]
 }
