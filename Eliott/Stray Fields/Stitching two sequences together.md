@@ -70,3 +70,9 @@ I track it with PTC in the PS and I save the distribution at the end
 ![[Pasted image 20221005170355.png]]
 
 I remove the median of the x and px coordinate to have it centered in the transfer line
+
+![[Pasted image 20221005170814.png]]
+
+I track this distribution in F61D
+
+![[Pasted image 20221005170855.png]]
