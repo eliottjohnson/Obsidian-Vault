@@ -44,16 +44,19 @@ madx.input('FLATTEN;')
 madx.input('ENDEDIT;')
 madx.use(sequence="ps_f61d")
 madx.input("SELECT, FLAG=makethin, SLICE=5;")
-madx.input("MAKETHIN, SEQUENCE=ps_f61d, style=SIMPLE")
+madx.input("MAKETHIN, SEQUENCE=ps_f61d, style=TEAPOT")
 madx.use(sequence="ps_f61d")
 twiss_ps_f61d = madx.twiss(beta0 = "after_third_turn").dframe()
 ```
 
 
-Thin Track slicing is bad
+Thin Track slicing takes several minutes and is very far from the original twiss.
+
+![[sitched_sequence_track_slice_20_style_TEAPOT.png]]
 
 ### PTC Track
 
 see [[PTC_TRACK#PTC_TRACK simple example]]
 
-PTC uses hamiltonian
+PTC uses thick lens Hamiltonian.
+
