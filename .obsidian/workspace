@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/EAST slow extraction.md",
+            "file": "Eliott/Stray Fields/Stitching two sequences together.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/EAST slow extraction.md",
+                "file": "Eliott/Stray Fields/Stitching two sequences together.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/EAST slow extraction.md",
+                "file": "Eliott/Stray Fields/Stitching two sequences together.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/EAST slow extraction.md"
+                "file": "Eliott/Stray Fields/Stitching two sequences together.md"
               }
             }
           },
@@ -148,15 +147,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
-    "Theory/Ion kinetic energy.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+    "Theory/Slow extraction theory.md",
+    "Theory/Ion kinetic energy.md",
+    "Theory/Current scaling for Ions.md",
+    "Other/EAST slow extraction.md",
     "Eliott/Quadrupole scan/Attachments/quadrupole_scan_Pb_ions_qfn01.png",
     "Eliott/Quadrupole scan/MWPC.md",
     "Theory/Accelerator Physics Theory.md",
-    "Other/EAST slow extraction.md",
-    "Theory/Current scaling for Ions.md",
     "Eliott/CHIMERA/Ions theory.md",
-    "Eliott/Stray Fields/Stitching two sequences together.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md"
+    "Eliott/Stray Fields/Stitching two sequences together.md"
   ]
 }
