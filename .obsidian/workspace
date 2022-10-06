@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Ion kinetic energy.md",
+            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isotope",
+                "query": "qse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Ion kinetic energy.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Ion kinetic energy.md",
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Ion kinetic energy.md"
+                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
               }
             }
           },
@@ -148,6 +148,8 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Other/EAST slow extraction.md",
+    "Theory/Ion kinetic energy.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/CHIMERA/Ions theory.md",
     "Eliott/Stray Fields/Stitching two sequences together.md",
@@ -155,8 +157,6 @@
     "Eliott/Stray Fields/Kick response attempts through tracking.md",
     "Theory/Slow extraction theory.md",
     "Theory/Accelerator Physics Theory.md",
-    "Other/Python codes and hacks.md",
-    "Other/East Slow Extraction Eliott.md",
-    "Other/Linux + Technical.md"
+    "Other/Python codes and hacks.md"
   ]
 }
