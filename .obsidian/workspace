@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+            "file": "Theory/Ion kinetic energy.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chromaticity",
-                "matchingCase": false,
+                "query": "Pb",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Theory/Ion kinetic energy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Theory/Ion kinetic energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
+                "file": "Theory/Ion kinetic energy.md"
               }
             }
           },
@@ -147,8 +148,8 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
-    "Eliott/Quadrupole scan/Attachments/quadrupole_scan_Pb_ions_qfn01.png",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+    "Eliott/Quadrupole scan/Attachments/quadrupole_scan_Pb_ions_qfn01.png",
     "Eliott/Quadrupole scan/MWPC.md",
     "Theory/Accelerator Physics Theory.md",
     "Other/EAST slow extraction.md",
