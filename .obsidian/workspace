@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qse",
+                "query": "chromaticity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,15 +147,15 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Attachments/quadrupole_scan_Pb_ions_qfn01.png",
+    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+    "Eliott/Quadrupole scan/MWPC.md",
+    "Theory/Accelerator Physics Theory.md",
     "Other/EAST slow extraction.md",
     "Theory/Ion kinetic energy.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/CHIMERA/Ions theory.md",
     "Eliott/Stray Fields/Stitching two sequences together.md",
-    "Eliott/Stray Fields/Multipole field component in MU62.md",
-    "Eliott/Stray Fields/Kick response attempts through tracking.md",
-    "Theory/Slow extraction theory.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Other/Python codes and hacks.md"
+    "Eliott/Stray Fields/Multipole field component in MU62.md"
   ]
 }
