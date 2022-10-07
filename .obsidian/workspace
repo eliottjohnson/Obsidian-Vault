@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Current scaling for Ions.md",
+            "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gif",
+                "query": "pole face winding",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Eliott/Stray Fields/PS Magnetic Shims.md"
               }
             }
           },
@@ -147,8 +148,8 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
-    "Theory/Ion kinetic energy.md",
     "Theory/Current scaling for Ions.md",
+    "Theory/Ion kinetic energy.md",
     "Eliott/CHIMERA/Ions theory.md",
     "Theory/Accelerator Physics Theory.md",
     "Eliott/Stray Fields/Stitching two sequences together.md",
