@@ -76,3 +76,5 @@ I remove the median of the x and px coordinate to have it centered in the transf
 I track this distribution in F61D
 
 ![[Pasted image 20221005170855.png]]
+
+![[Pasted image 20221006173232.png]]
