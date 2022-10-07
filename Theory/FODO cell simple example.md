@@ -2,7 +2,7 @@
 
 Increase the quadrupole strength increase the tune.
 
-Use the https://github.com/cerncas/hands-on-lattice-exercises/blob/master/Exercises_Solutions.ipynb
+Use the CAS hands on lattice exercises. https://github.com/cerncas/hands-on-lattice-exercises/blob/master/Exercises_Solutions.ipynb
 ![[FODO_cell.png]]
 ![[beamline.png]]
 
