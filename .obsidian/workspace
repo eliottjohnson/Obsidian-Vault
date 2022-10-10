@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Current scaling for Ions.md",
+            "file": "Theory/Ion kinetic energy.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/Ion kinetic energy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/Ion kinetic energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Theory/Ion kinetic energy.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "283f0562a960f47a",
   "lastOpenFiles": [
-    "Theory/Ion kinetic energy.md",
     "Theory/Current scaling for Ions.md",
+    "Theory/Ion kinetic energy.md",
     "Eliott/CHIMERA/Ions theory.md",
     "Theory/Slow extraction theory.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
