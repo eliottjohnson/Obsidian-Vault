@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Ion kinetic energy.md",
+            "file": "Theory/Slow extraction theory.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Ion kinetic energy.md",
+                "file": "Theory/Slow extraction theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Ion kinetic energy.md",
+                "file": "Theory/Slow extraction theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Ion kinetic energy.md"
+                "file": "Theory/Slow extraction theory.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "283f0562a960f47a",
   "lastOpenFiles": [
-    "Theory/Current scaling for Ions.md",
+    "Theory/MU current scaling with momentum.md",
     "Theory/Ion kinetic energy.md",
+    "Theory/Current scaling for Ions.md",
     "Eliott/CHIMERA/Ions theory.md",
     "Theory/Slow extraction theory.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/Kick response attempts through tracking.md",
     "Eliott/Stray Fields/Field map visualization.md",
     "Other/East Slow Extraction Eliott.md",
-    "Other/East Area optics measurements.md",
-    "Eliott/Stray Fields/Beam size through tracking.md"
+    "Other/East Area optics measurements.md"
   ]
 }
