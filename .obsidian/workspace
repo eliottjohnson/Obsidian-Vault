@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Slow extraction theory.md",
+            "file": "Theory/Current scaling for Ions.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Focal point MWPC.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Focal point MWPC.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Focal point MWPC.md"
+                "file": "Theory/Current scaling for Ions.md"
               }
             }
           },
@@ -158,8 +157,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c7988f4f1bc6cea",
+  "active": "283f0562a960f47a",
   "lastOpenFiles": [
+    "Theory/Slow extraction theory.md",
+    "Eliott/Quadrupole scan/Focal point MWPC.md",
     "Eliott/Quadrupole scan/Optics F61 T8.md",
     "Eliott/Quadrupole scan/Quadrupole Scan.md",
     "Short term.md",
@@ -167,8 +168,6 @@
     "Eliott/Quadrupole scan/MWPC.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/Quadrupole scan/Ion quadrupole scan.md",
-    "Eliott/Stray Fields/Kick response attempts through tracking.md",
-    "Theory/Slow extraction theory.md",
-    "Theory/MU current scaling with momentum.md"
+    "Eliott/Stray Fields/Kick response attempts through tracking.md"
   ]
 }
