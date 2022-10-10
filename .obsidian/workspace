@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+            "file": "Theory/Current scaling for Ions.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/Ion quadrupole scan.md"
+                "file": "Theory/Current scaling for Ions.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "1c7988f4f1bc6cea",
   "lastOpenFiles": [
+    "Eliott/Quadrupole scan/Ion quadrupole scan.md",
     "Eliott/Stray Fields/Kick response attempts through tracking.md",
     "Theory/Slow extraction theory.md",
     "Theory/MU current scaling with momentum.md",
@@ -167,7 +168,6 @@
     "Eliott/CHIMERA/Ions theory.md",
     "Eliott/Stray Fields/Multipole field component in MU62.md",
     "Eliott/Stray Fields/Field map visualization.md",
-    "Other/East Slow Extraction Eliott.md",
-    "Other/East Area optics measurements.md"
+    "Other/East Slow Extraction Eliott.md"
   ]
 }
