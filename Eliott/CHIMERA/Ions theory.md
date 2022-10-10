@@ -17,3 +17,5 @@ Stripping happens after the Q74L quadrupole
 
 * Highly charged ions will be bent to the inside of the machine
 $$\frac{(B\rho)_1}{(B\rho)_0} = \frac{\Delta(B\rho) + (B\rho)_0}{(B\rho)_0} = \frac{p_1}{p_0}\frac{q_0}{q_1}=\frac{q_0}{q_1}=\frac{54}{82}$$ where $p_1=p_0$ across the foils
+
+See [[Current scaling for Ions]] for a graph of kinetic energy in the PS

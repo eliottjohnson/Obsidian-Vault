@@ -100,6 +100,10 @@ Some info [here](https://gitlab.cern.ch/search?search=+PARTICLE%3Dlead&nav_sourc
 
 # Pb ion lookup table
 
+See [[Ions theory]] for some info on number of electrons, etc.
+
+See [[Ion kinetic energy]] for the theory behind the Pb ion lookup table
+
 [Source code: ion_kinetic_energy](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/ion_kinetic_energy.ipynb)
 
 ![[kinetic_energy_lookup_table.png]]
