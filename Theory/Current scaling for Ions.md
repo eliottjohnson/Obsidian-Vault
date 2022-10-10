@@ -112,3 +112,4 @@ Other version
 
 ![[kinetic_energy_lookup_table_v3.png]]
 
+![[kinetic_energy_lookup_table_zoom.png]]
