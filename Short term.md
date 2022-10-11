@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] Try to see the BTV acquisition from the dedicated MD
 - [ ] Ask Jean-Michel how to log BLM-ST for MD3 and MD4 as well
 - [ ] Do an FFT on the BLM008-ST samples by first converting the integral to a time series and then doing an FFT
+- [ ] Look at the BPM readout and MWPC readout at different energies
 
 
 ## Stray Field

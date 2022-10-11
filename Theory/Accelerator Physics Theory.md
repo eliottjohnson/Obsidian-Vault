@@ -52,3 +52,7 @@ Energy has unity of $eV$
 The chromaticity is the variation of the betatron tune $Q$ with the relative momentum deviation $\Delta p/p$.
 
 $$Q'=\frac{dQ}{d\Delta p/p}$$
+
+## Beam size
+$$ \sigma = \sqrt{\epsilon \beta + \left(\frac{dp}{p}\cdot D\right)^{2}} $$
+With $\epsilon$ the emitance, $\beta$ the beta-function, $\frac{dp}{p}$ the momentum spread and $D$ the dispersion
