@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Theory/Accelerator Physics Theory.md",
+            "file": "BLM008.md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MWPC",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "BLM008.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
+                "file": "BLM008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Accelerator Physics Theory.md"
+                "file": "BLM008.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "283f0562a960f47a",
   "lastOpenFiles": [
-    "Theory/Ion kinetic energy.md",
     "Short term.md",
+    "Other/EAST slow extraction.md",
+    "Other/East Slow Extraction Eliott.md",
+    "Theory/Accelerator Physics Theory.md",
+    "Theory/Ion kinetic energy.md",
     "Eliott/Quadrupole scan/Focal point MWPC.md",
     "Theory/Current scaling for Ions.md",
     "Theory/Slow extraction theory.md",
     "Eliott/Quadrupole scan/Optics F61 T8.md",
-    "Eliott/Quadrupole scan/Quadrupole Scan.md",
-    "Eliott/EAST transfer lines/YASP.md",
-    "Eliott/Quadrupole scan/MWPC.md",
-    "Eliott/Quadrupole scan/Ion quadrupole scan.md"
+    "Eliott/Quadrupole scan/Quadrupole Scan.md"
   ]
 }
