@@ -8,11 +8,9 @@ kanban-plugin: basic
 
 - [ ] Finish the CHIMERA doc
 - [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
-- [ ] Look at the quad scan at low energy
-- [ ] Try to see the BTV acquisition from the dedicated MD
-- [ ] Ask Jean-Michel how to log BLM-ST for MD3 and MD4 as well
-- [ ] Do an FFT on the BLM008-ST samples by first converting the integral to a time series and then doing an FFT
+- [x] Do an FFT on the BLM008-ST samples by first converting the integral to a time series and then doing an FFT
 - [ ] Look at the BPM readout and MWPC readout at different energies
+- [ ] Perform quadrupole scans at 750 and 400 MeV/u
 
 
 ## Stray Field
@@ -24,7 +22,7 @@ kanban-plugin: basic
 
 - [x] Plot ellipse of stray field model
 - [ ] Connect PS Ring to Transfer line
-- [ ] Track single particles from Matt's distribution (non-linear can't do twiss)
+- [x] Track single particles from Matt's distribution (non-linear can't do twiss)
 - [ ] Track twiss from fast extraction and compare with measurement
 
 
@@ -97,6 +95,9 @@ kanban-plugin: basic
 - [x] Prepare a table with the old currents in the line when we had ions
 - [x] Check LSA for how it computes the momentum and energy
 - [x] How do you scale with energy ?
+- [x] Look at the quad scan at low energy
+- [x] Ask Jean-Michel how to log BLM-ST for MD3 and MD4 as well
+- [x] Try to see the BTV acquisition from the dedicated MD
 
 %% kanban:settings
 ```

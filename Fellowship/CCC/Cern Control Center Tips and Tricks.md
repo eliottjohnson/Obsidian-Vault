@@ -9,3 +9,16 @@ Many elements, dipole, quadrupole have calibration curves from current in A to T
 3) File -> HW Devices -> Logical HW Devices
 
 ![[Pasted image 20221012095616.png]]
+
+## SSH into one of the CCC computer
+```bash
+ssh -Y eljohnso@cwx-xxx-xxx
+```
+
+## Copy data from CCC computer to TN
+
+``` bash
+ssh -Y eljohnso@cwe-513-vpl305
+
+cp -r /user/cpsop/EliottFolder/quad-scan-east /afs/cern.ch/user/e/eljohnso
+```

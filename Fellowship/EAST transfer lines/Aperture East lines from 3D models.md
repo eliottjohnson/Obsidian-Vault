@@ -1,4 +1,4 @@
-# Aperture East lines
+# Aperture East lines from 3D models
 
 
 Layout F61newea10: ST1087633_01

@@ -1,4 +1,4 @@
-# EAST Transfer Lines
+# EAST Transfer Lines beam sizes
 
 Dipanwita would like twiss files using the measured initial conditions for each line
 
