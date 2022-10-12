@@ -38,7 +38,16 @@ df2 = pd.DataFrame(data=d)
 df = pd.concat([df1,df2])
 ```
 
-# Heatmaps
+## Plotting
+
+## Save a figure
+
+```python
+plt.savefig("filename.png", facecolor='white', transparent=False, dpi = 150, bbox_inches='tight')
+```
+
+
+### Heatmaps
 
 Using scatter
 ```python
@@ -58,7 +67,7 @@ ax.tricontourf(df.number_of_particle, df.number_of_turns, df.time, cmap="magma")
 ![[Pasted image 20221012152504.png]]
 
 
-## How to make a gif
+### How to make a gif
 
 ```python
 from matplotlib.animation import FuncAnimation, PillowWriter

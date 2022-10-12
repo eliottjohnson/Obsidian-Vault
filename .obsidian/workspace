@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/EAST slow extraction.md",
+            "file": "Programming/MAD-X codes and hacks.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsd",
+                "query": "ptc track",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/EAST slow extraction.md",
+                "file": "Programming/MAD-X codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/EAST slow extraction.md",
+                "file": "Programming/MAD-X codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/EAST slow extraction.md"
+                "file": "Programming/MAD-X codes and hacks.md"
               }
             }
           },
@@ -146,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "572e2203be6c88b5",
   "lastOpenFiles": [
+    "Programming/Linux + Technical.md",
+    "Programming/MAD-X codes and hacks.md",
     "Programming/Python codes and hacks.md",
+    "Other/PTC_TRACK.md",
     "Other/EAST slow extraction.md",
     "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
-    "Other/PTC_TRACK.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Theory/MU current scaling with momentum.md",
     "Fellowship/Stray Fields/Kick response attempts through tracking.md",
-    "Fellowship/Stray Fields/Multipole field component in MU62.md",
-    "Fellowship/EAST transfer lines/YASP.md",
-    "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md"
+    "Fellowship/Stray Fields/Multipole field component in MU62.md"
   ]
 }

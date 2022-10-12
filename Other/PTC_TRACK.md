@@ -1,4 +1,4 @@
-# PTC_TRACK simple example
+# PTC TRACK simple example
 
 ``` python
 init_dist = [[3e-3,0,3e-3,0],
@@ -27,3 +27,4 @@ except RuntimeError or IndexError:  # If magnets overlap or twiss incomputable
 
 ## Tracking time as a number of particles
 
+![[heatmap_computation_time_ptc_tracking.png]]
