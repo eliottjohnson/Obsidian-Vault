@@ -71,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,7 +159,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "283f0562a960f47a",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
     "Other/EAST slow extraction.md",
     "Theory/Current scaling for Ions.md",
