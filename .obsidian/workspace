@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fellowship/CCC/Request change in calibration curves.md",
+            "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8caf56315062ee0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fellowship/Stray Fields/Magnetic measurement of SMH57.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CCC/Request change in calibration curves.md",
+                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CCC/Request change in calibration curves.md",
+                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CCC/Request change in calibration curves.md"
+                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md"
               }
             }
           },
@@ -145,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "283f0562a960f47a",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
+    "Fellowship/Stray Fields/Magnetic measurement of SMH57.md",
+    "Fellowship/Stray Fields/PS Stray field.md",
+    "Other/EAST slow extraction.md",
+    "Other/East Area optics measurements.md",
+    "Other/SMH57.md",
+    "Fellowship/EAST transfer lines/Request change in calibration curves.md",
+    "Other/East Slow Extraction Eliott.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Short term.md",
-    "Programming/Python codes and hacks.md",
-    "Programming/Tutorial application development.md",
-    "Programming/Linux + Technical.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
-    "Fellowship/Stray Fields/Injection BTP.md",
-    "Other/EAST slow extraction.md",
-    "Theory/Current scaling for Ions.md"
+    "Programming/Python codes and hacks.md"
   ]
 }
