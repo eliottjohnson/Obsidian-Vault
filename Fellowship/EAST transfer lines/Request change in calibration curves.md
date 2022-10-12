@@ -13,9 +13,12 @@ https://edms.cern.ch/ui/file/2438425/1/report_PXMQNCAAWP_docx_cpdf.pdf
 ![[Pasted image 20221012095916.png]]
 
 https://edms.cern.ch/ui/file/2438427/1/report_PXMXNBAFWP_docx_cpdf.pdf
-
 Measurement from 1973
 
+![[Pasted image 20221012111103.png]]
+
+[EDMS 1161510](https://edms.cern.ch/ui/#!master/navigator/document?D:1688855740:1688855740:subDocs)
+![[Pasted image 20221012110913.png]]
 
 # SMH57
 

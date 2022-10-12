@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Other/EAST slow extraction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ff4a5841ad80a8f1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Other/PS transfer functions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "572e2203be6c88b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pr.xse",
+                "query": "xse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/PS transfer functions.md",
+                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/PS transfer functions.md",
+                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/PS transfer functions.md"
+                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md"
               }
             }
           },
@@ -146,8 +169,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "283f0562a960f47a",
+  "active": "572e2203be6c88b5",
   "lastOpenFiles": [
+    "Other/PS transfer functions.md",
     "Other/EAST slow extraction.md",
     "Fellowship/CHIMERA/MD Planning.md",
     "Other/East Slow Extraction Eliott.md",
@@ -156,7 +180,6 @@
     "Fellowship/Stray Fields/Magnetic measurement of SMH57.md",
     "Fellowship/Stray Fields/PS Stray field.md",
     "Other/East Area optics measurements.md",
-    "Other/SMH57.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+    "Other/SMH57.md"
   ]
 }
