@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/EAST slow extraction.md",
+            "file": "Theory/MU current scaling with momentum.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Request change in calibration curves.md"
+                "file": "Theory/MU current scaling with momentum.md"
               }
             }
           },
@@ -169,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "572e2203be6c88b5",
+  "active": "283f0562a960f47a",
   "lastOpenFiles": [
-    "Other/PS transfer functions.md",
+    "Theory/Ion kinetic energy.md",
+    "Theory/Slow extraction theory.md",
+    "Theory/Current scaling for Ions.md",
+    "Theory/Accelerator Physics Theory.md",
     "Other/EAST slow extraction.md",
-    "Fellowship/CHIMERA/MD Planning.md",
-    "Other/East Slow Extraction Eliott.md",
+    "Other/PS transfer functions.md",
     "Fellowship/EAST transfer lines/Request change in calibration curves.md",
-    "Fellowship/Stray Fields/Magnetic measurement of SMH61.md",
     "Fellowship/Stray Fields/Magnetic measurement of SMH57.md",
-    "Fellowship/Stray Fields/PS Stray field.md",
-    "Other/East Area optics measurements.md",
-    "Other/SMH57.md"
+    "Fellowship/CHIMERA/MD Planning.md",
+    "Other/East Slow Extraction Eliott.md"
   ]
 }
