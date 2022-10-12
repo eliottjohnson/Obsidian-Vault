@@ -16,3 +16,43 @@ iy, ix = np.where(mat1 > 2)
 print(mat1[iy,ix])
 print(mat2[iy,ix])
 ```
+
+## Pandas Dataframe
+
+### Create a dataframe
+
+```python
+d = {'number_of_particle': [], 'number_of_turns': [], 'time': []}
+df = pd.DataFrame(data=d)
+```
+
+## Concatenate two dataframes
+
+```python
+d = {'number_of_particle': [1], 'number_of_turns': [2], 'time': [3]}
+df1 = pd.DataFrame(data=d)
+
+d = {'number_of_particle': [4], 'number_of_turns': [5], 'time': [6]}
+df2 = pd.DataFrame(data=d)
+
+df = pd.concat([df1,df2])
+```
+
+# Heatmaps
+
+Using scatter
+```python
+ax.scatter(df.number_of_particle, df.number_of_turns, c=df.time, cmap="magma", s=30)
+```
+![[Pasted image 20221012152451.png]]
+Using tripcolor
+```python
+ax.tripcolor(df.number_of_particle, df.number_of_turns, df.time, cmap="magma")
+```
+![[Pasted image 20221012152459.png]]
+Using tricontourf
+```python
+ax.tricontourf(df.number_of_particle, df.number_of_turns, df.time, cmap="magma")
+```
+
+![[Pasted image 20221012152504.png]]
