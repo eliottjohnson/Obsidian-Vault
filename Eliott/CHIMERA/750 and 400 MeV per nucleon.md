@@ -12,4 +12,4 @@ ccde
 
 eeEvent 
 
-F61X.ESPILL-EA2-N8 change to delay 900 ms
+Acquisition F61X.ESPILL-EA2-N8 change to delay 900 ms
