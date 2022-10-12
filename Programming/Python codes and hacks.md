@@ -56,3 +56,25 @@ ax.tricontourf(df.number_of_particle, df.number_of_turns, df.time, cmap="magma")
 ```
 
 ![[Pasted image 20221012152504.png]]
+
+
+## How to make a gif
+
+```python
+from matplotlib.animation import FuncAnimation, PillowWriter
+%matplotlib notebook
+fig, ax  = plt.subplots(figsize=(10,5), tight_layout=True)
+
+def animate(i):
+    ax.clear()
+    ax.set_aspect("equal")
+    try:
+        ax.scatter(df.iloc[i].x, df.iloc[i].y)
+    except:
+        print("fail")
+        pass
+    return
+    
+ani = FuncAnimation(fig, animate, interval=1, blit=True, repeat=False, frames=len(df))
+ani.save("gif/ptc_tracking_f61d.gif", dpi=300, writer=PillowWriter(fps=10))
+```
