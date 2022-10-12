@@ -24,3 +24,6 @@ except RuntimeError or IndexError:  # If magnets overlap or twiss incomputable
     print('MAD-X Error occurred, re-spawning MAD-X process')
     ptc_output = {}
 ```
+
+## Tracking time as a number of particles
+
