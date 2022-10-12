@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Stray Fields/Injection BTP.md",
+            "file": "Eliott/CHIMERA/750 and 400 MeV per nucleon.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Stray Fields/Injection BTP.md",
+                "file": "Eliott/CHIMERA/750 and 400 MeV per nucleon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Stray Fields/Injection BTP.md",
+                "file": "Eliott/CHIMERA/750 and 400 MeV per nucleon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Stray Fields/Injection BTP.md"
+                "file": "Eliott/CHIMERA/750 and 400 MeV per nucleon.md"
               }
             }
           },
@@ -159,8 +159,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "17bb3ebef8e4e093",
+  "active": "283f0562a960f47a",
   "lastOpenFiles": [
+    "Eliott/Stray Fields/Injection BTP.md",
     "Other/EAST slow extraction.md",
     "Theory/Current scaling for Ions.md",
     "Eliott/Stray Fields/Comparing with old BTP model.md",
@@ -169,7 +170,6 @@
     "Eliott/CHIMERA/750 and 400 MeV per nucleon.md",
     "Eliott/CHIMERA/Ions theory.md",
     "BLM008.md",
-    "Short term.md",
-    "Other/East Slow Extraction Eliott.md"
+    "Short term.md"
   ]
 }
