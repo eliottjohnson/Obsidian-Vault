@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
+            "file": "Eliott/Stray Fields/Injection BTP.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pyjapc",
+                "query": "transfer function",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
+                "file": "Eliott/Stray Fields/Injection BTP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
+                "file": "Eliott/Stray Fields/Injection BTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliott/Quadrupole scan/PYJAPC simple tutorial.md"
+                "file": "Eliott/Stray Fields/Injection BTP.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "283f0562a960f47a",
   "lastOpenFiles": [
-    "Eliott/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Other/EAST slow extraction.md",
     "Theory/Current scaling for Ions.md",
+    "Eliott/Stray Fields/Comparing with old BTP model.md",
+    "Other/Bumper BSW57.md",
+    "Eliott/Quadrupole scan/PYJAPC simple tutorial.md",
+    "Eliott/CHIMERA/750 and 400 MeV per nucleon.md",
     "Eliott/CHIMERA/Ions theory.md",
     "BLM008.md",
     "Short term.md",
-    "Other/EAST slow extraction.md",
-    "Other/East Slow Extraction Eliott.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Theory/Ion kinetic energy.md",
-    "Eliott/Quadrupole scan/Focal point MWPC.md"
+    "Other/East Slow Extraction Eliott.md"
   ]
 }
