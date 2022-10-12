@@ -13,15 +13,21 @@ https://edms.cern.ch/ui/file/2438425/1/report_PXMQNCAAWP_docx_cpdf.pdf
 ![[Pasted image 20221012095916.png]]
 
 https://edms.cern.ch/ui/file/2438427/1/report_PXMXNBAFWP_docx_cpdf.pdf
-![[Pasted image 20221012104715.png]]
+
+Measurement from 1973
+
 
 # SMH57
 
 ![[Pasted image 20221012104954.png]]
 
 See [[Magnetic measurement of SMH57]]
+
+They match ok !
 # SMH61
 
 ![[Pasted image 20221012105010.png]]
 
 See [[Magnetic measurement of SMH61]]
+
+They match ok !
