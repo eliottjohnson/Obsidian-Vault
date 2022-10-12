@@ -12,6 +12,8 @@ https://edms.cern.ch/ui/file/2438425/1/report_PXMQNCAAWP_docx_cpdf.pdf
 
 ![[Pasted image 20221012095916.png]]
 
+Norma: 720 A -> 50 T/m
+
 https://edms.cern.ch/ui/file/2438427/1/report_PXMXNBAFWP_docx_cpdf.pdf
 Measurement from 1973
 
