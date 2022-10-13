@@ -122,14 +122,6 @@
             }
           },
           {
-            "id": "bd5257699107acbb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "6a9504159492f0ef",
             "type": "leaf",
             "state": {
@@ -138,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,6 +140,7 @@
   "active": "572e2203be6c88b5",
   "lastOpenFiles": [
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Theory/FODO cell simple example.md",
     "Theory/Accelerator Physics Theory.md",
@@ -155,7 +148,6 @@
     "Programming/Python codes and hacks.md",
     "Programming/Spill monitor.md",
     "Other/Find 3D models.md",
-    "Other/Slow extraction spill duration.md",
-    "Other/Conversation with Matthew 22.09.2022.md"
+    "Other/Slow extraction spill duration.md"
   ]
 }

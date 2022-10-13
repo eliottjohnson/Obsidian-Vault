@@ -10,7 +10,7 @@ Beam momentum 24 GeV/c
 ## Tracking
 We track a particle through the stray fields of [[MU62]].
 
-![[mfc_mu62.png]]
+![[mfc_mu62.png|800]]
 
 Settings for the starting point of tracking
 
@@ -26,6 +26,8 @@ ang_glob = (subtending_angle/2 + extraction_angle, 0.0)
 pos_glob = (-sagitta+x_offset,  0.0, -(chord/2+z_offset))
 ```
 
+
+
 ## Probe the field transversely
 
 We probe the field transversely at different s-steps along the particle trajectory inside the vacuum pipe that has a total width of 70 mm, see [[MU62#MU62 Beam pipe aperture]]
@@ -34,16 +36,16 @@ We run a loop for each point in the track we save the $B_{y}$ field perpendicula
 
 Each field component is then the polynomial fit constant divided by $B\rho$
 
-![[mfc_mu62_polifit.png]]
+![[mfc_mu62_polifit.png|800]]
 
-![[mfc_mu62_track_with_probing.png]]
+![[mfc_mu62_track_with_probing.png|1025]]
 
 ## Compute the s along the track
 
 We then use Pythagoras to compute the s-length along the track (369 points)
 
-![[mfc_mu62_4_components.png]]
-![[mfc_mu62_track_with_probing 1.png]]
+![[mfc_mu62_4_components.png|725]]
+![[mfc_mu62_track_with_probing 1.png|900]]
 
 ## Export the MFC to a file
 
@@ -72,20 +74,20 @@ Modify the F61D transfer line sequence to add the MFC before the Q74L quad
 
 Length between end of MU62 and Q74 is ~ 0.45 m
 
-![[Pasted image 20220920102038.png]]
+![[Pasted image 20220920102038.png|425]]
 
 ## Initial conditions in the PS Ring at the last turn
 
 I used the twiss parameters upstream of MU62 from the slow extraction twiss in the PS Ring from the code in [[East Slow Extraction Eliott]] but mainly this code: [slow_extraction_trajectory_maptrack_inital_conditions.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/east-fast-extraction/Check%20scripts/slow_extraction_trajectory_maptrack_inital_conditions.ipynb)
-![[Pasted image 20220920170255.png]]
+![[Pasted image 20220920170255.png|925]]
 And then feed these parameter at the entrance of the transfer line
 
 [Source code: F61D_with_stray.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/c6cbcafacca274000d2bfc501f39cf711375de90/ps_extraction/east-fast-extraction/f61d_with_stray/F61D_with_stray.ipynb)
 
-![[east_dump_optics_with_stray 1.png]]
+![[east_dump_optics_with_stray 1.png|900]]
 
 However, I don't the same initial parameter that I had measured.
 
 You can also track using [[PTC_TRACK]]. For now just a random distribution.
 
-![[east_dump_optics_with_stray_ptc_track.png]]
+![[east_dump_optics_with_stray_ptc_track.png|875]]
