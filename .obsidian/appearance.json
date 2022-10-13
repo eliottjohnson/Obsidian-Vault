@@ -1,6 +1,6 @@
 {
-  "theme": "obsidian",
+  "theme": "system",
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "Things",
   "baseFontSize": 14
 }

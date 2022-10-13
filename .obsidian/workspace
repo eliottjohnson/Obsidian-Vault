@@ -7,11 +7,9 @@
         "id": "572e2203be6c88b5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "BLM008.md",
-            "mode": "source",
-            "source": false
+            "file": "Mid-Long term.md"
           }
         }
       }
@@ -57,8 +55,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BLM008.md",
+                "file": "Mid-Long term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BLM008.md",
+                "file": "Mid-Long term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BLM008.md"
+                "file": "Mid-Long term.md"
               }
             }
           },
@@ -140,6 +137,8 @@
   },
   "active": "572e2203be6c88b5",
   "lastOpenFiles": [
+    "Short term.md",
+    "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Other/PTC_TRACK.md",
     "Other/BPMs in T8.md",
@@ -147,8 +146,6 @@
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/EAST transfer lines/YASP.md",
-    "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md",
-    "Fellowship/EAST transfer lines/Request change in calibration curves.md",
-    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
+    "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md"
   ]
 }
