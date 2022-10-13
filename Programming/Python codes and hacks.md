@@ -38,6 +38,18 @@ df2 = pd.DataFrame(data=d)
 df = pd.concat([df1,df2])
 ```
 
+### Fourier transform
+``` python
+yf = rfft(signal)
+xf = rfftfreq(len(blm_signal), time_between_acquisition_in_seconds)
+
+fig, ax = plt.subplots(figsize=(15,7))
+ax.plot(xf, np.abs(yf))
+ax.set_xlabel("freq [Hz]")
+ax.set_ylabel("Amplitude [arb.]")
+```
+
+
 ## Plotting
 
 ## Save a figure
