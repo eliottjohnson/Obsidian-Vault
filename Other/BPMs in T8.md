@@ -7,7 +7,7 @@ The class PS.BPM.IRRAD.UCAP publishes:
 - ProfilesAcquisition/HRawProfile->Horizontal projection from the Raw Data
 - ProfilesAcquisition/VRawProfile->Vertical projection from the Raw Data
 - ProfilesAcquisition/HFitProfiles -> Horizontal Projection from the Fit on 50 points
-- ProfilesAcquisition/VFitProfiles -> Verical Projection from the Fit on 50 points
+- ProfilesAcquisition/VFitProfiles -> Vertical Projection from the Fit on 50 points
 - Positions/HCenter -> Horizontal position
 - Positions/VCenter -> Vertical position
 - Positions/HSigma -> Horizontal width
