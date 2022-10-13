@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] Finish the CHIMERA doc
 - [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
-- [x] Do an FFT on the BLM008-ST samples by first converting the integral to a time series and then doing an FFT
 - [ ] Look at the BPM readout and MWPC readout at different energies
 - [ ] Perform quadrupole scans at 750 and 400 MeV/u
 
@@ -20,9 +19,7 @@ kanban-plugin: basic
 
 ## [[Multipole field component in MU62]]
 
-- [x] Plot ellipse of stray field model
 - [ ] Connect PS Ring to Transfer line
-- [x] Track single particles from Matt's distribution (non-linear can't do twiss)
 - [ ] Track twiss from fast extraction and compare with measurement
 
 
@@ -44,7 +41,6 @@ kanban-plugin: basic
 
 ## [[Picoscope]]
 
-- [x] Discuss with Andreas and Natalia
 - [ ] Picoscope test
 
 
@@ -58,7 +54,6 @@ kanban-plugin: basic
 
 ## [[EDMS document East Dump]]
 
-- [x] Start EDMS review procedure with Thomas Birtwistle
 - [ ] Add Reference from Giulia for the Dump
 
 
@@ -98,6 +93,11 @@ kanban-plugin: basic
 - [x] Look at the quad scan at low energy
 - [x] Ask Jean-Michel how to log BLM-ST for MD3 and MD4 as well
 - [x] Try to see the BTV acquisition from the dedicated MD
+- [x] Do an FFT on the BLM008-ST samples by first converting the integral to a time series and then doing an FFT
+- [x] Discuss with Andreas and Natalia
+- [x] Start EDMS review procedure with Thomas Birtwistle
+- [x] Plot ellipse of stray field model
+- [x] Track single particles from Matt's distribution (non-linear can't do twiss)
 
 %% kanban:settings
 ```
