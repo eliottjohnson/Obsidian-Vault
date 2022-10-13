@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Other/PTC_TRACK.md",
+            "file": "Fellowship/Quadrupole scan/PYJAPC simple tutorial.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ptc track",
+                "query": "pyjapc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/PTC_TRACK.md",
+                "file": "Fellowship/Quadrupole scan/PYJAPC simple tutorial.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/PTC_TRACK.md",
+                "file": "Fellowship/Quadrupole scan/PYJAPC simple tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/PTC_TRACK.md"
+                "file": "Fellowship/Quadrupole scan/PYJAPC simple tutorial.md"
               }
             }
           },
@@ -148,10 +148,10 @@
   },
   "active": "572e2203be6c88b5",
   "lastOpenFiles": [
+    "Other/PTC_TRACK.md",
     "Programming/MAD-X codes and hacks.md",
     "Programming/Linux + Technical.md",
     "Programming/Python codes and hacks.md",
-    "Other/PTC_TRACK.md",
     "Other/EAST slow extraction.md",
     "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
