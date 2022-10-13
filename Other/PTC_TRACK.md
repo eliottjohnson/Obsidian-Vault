@@ -28,3 +28,5 @@ except RuntimeError or IndexError:  # If magnets overlap or twiss incomputable
 ## Tracking time as a number of particles
 
 ![[heatmap_computation_time_ptc_tracking.png]]
+
+![[heatmap_computation_time_ptc_tracking (1).png]]
