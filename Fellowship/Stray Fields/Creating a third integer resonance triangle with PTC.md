@@ -4,5 +4,5 @@
 
 ## Gif
 
-First we need to 
+This gif follows a single particle during several turns in the PS
 ![[ptc_tracking_third_integer_resonance.gif|450]]

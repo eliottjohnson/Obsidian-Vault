@@ -6,23 +6,13 @@
       {
         "id": "572e2203be6c88b5",
         "type": "leaf",
-        "dimension": 73.29963235294117,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+            "file": "BLM008.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "0761cbfe9eca0826",
-        "type": "leaf",
-        "dimension": 26.700367647058826,
-        "state": {
-          "type": "mindmap",
-          "state": {}
         }
       }
     ],
@@ -50,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tune",
+                "query": "blm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+                "file": "BLM008.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+                "file": "BLM008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
+                "file": "BLM008.md"
               }
             }
           },
@@ -149,11 +140,11 @@
   },
   "active": "572e2203be6c88b5",
   "lastOpenFiles": [
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Other/PTC_TRACK.md",
     "Other/BPMs in T8.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/EAST transfer lines/YASP.md",
     "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md",
