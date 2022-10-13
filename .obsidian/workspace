@@ -6,6 +6,7 @@
       {
         "id": "572e2203be6c88b5",
         "type": "leaf",
+        "dimension": 73.29963235294117,
         "state": {
           "type": "markdown",
           "state": {
@@ -13,6 +14,15 @@
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "0761cbfe9eca0826",
+        "type": "leaf",
+        "dimension": 26.700367647058826,
+        "state": {
+          "type": "mindmap",
+          "state": {}
         }
       }
     ],
@@ -139,15 +149,15 @@
   },
   "active": "572e2203be6c88b5",
   "lastOpenFiles": [
+    "Other/PTC_TRACK.md",
+    "Other/BPMs in T8.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Theory/FODO cell simple example.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Programming/MAD-X codes and hacks.md",
-    "Programming/Python codes and hacks.md",
-    "Programming/Spill monitor.md",
-    "Other/Find 3D models.md",
-    "Other/Slow extraction spill duration.md"
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/EAST transfer lines/YASP.md",
+    "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md",
+    "Fellowship/EAST transfer lines/Request change in calibration curves.md",
+    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
   ]
 }
