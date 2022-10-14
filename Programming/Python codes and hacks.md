@@ -58,6 +58,15 @@ ax.set_ylabel("Amplitude [arb.]")
 plt.savefig("filename.png", facecolor='white', transparent=False, dpi = 150, bbox_inches='tight')
 ```
 
+### Plot a line with different colors
+
+```python
+T=np.linspace(0,1,np.size(x))
+        s = 1 # Segment length
+        for i in range(0,len(x)-s,s):
+            ax.plot(x[i:i+s+1],px[i:i+s+1],color=(T[i],0.0,1-T[i]), alpha=T[i], lw=2, marker="o", ms = 6*T[i])
+            
+```
 
 ### Heatmaps
 
