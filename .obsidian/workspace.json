@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d59d249056fefdb",
+        "id": "8fdffe8a619b4ce1",
         "type": "tabs",
         "children": [
           {
-            "id": "572e2203be6c88b5",
+            "id": "10098858aa5179d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "572e2203be6c88b5",
+  "active": "10098858aa5179d2",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Untitled.md",
+    "Aviation/Air Law/Untitled.md",
+    "Aviation/Untitled.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+    "Fellowship/CHIMERA/Ions theory.md",
+    "Fellowship/CHIMERA/Picoscope.md",
     "Theory/Current scaling for Ions.md",
     "Theory/Slow extraction theory.md",
-    "Theory/PS Tune control explanation.md",
-    "Theory/Attachments/kinetic_energy_lookup_table_zoom.png",
-    "Fellowship/EAST transfer lines/EAST Flux limit.md",
-    "Fellowship/CHIMERA/Run preparation meeting 1.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/CHIMERA/Weekly beam reports.md",
-    "2022-10-14.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
+    "Theory/PS Tune control explanation.md"
   ]
 }

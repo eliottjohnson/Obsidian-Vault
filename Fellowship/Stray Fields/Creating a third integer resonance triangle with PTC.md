@@ -9,6 +9,7 @@ This gif follows a single particle during several turns in the PS
 
 ```ad-example
 collapse: closed
+title: Code
 
 
 
@@ -49,9 +50,4 @@ frames = int(ptc_output[(ptc_output.s == my_loc) & (ptc_output.number == particl
 # frames = 10
 ani = FuncAnimation(fig, animate, interval=1, blit=True, repeat=False, frames=frames)
 ani.save("gif/ptc_tracking_third_integer_resonance.gif", dpi=300, writer=PillowWriter(fps=7))
-```
-```ad-example
-title: Code
-
-
 ```
