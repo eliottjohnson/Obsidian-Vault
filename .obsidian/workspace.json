@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md"
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "da1a0c1ea2eff6c0",
   "lastOpenFiles": [
-    "Fellowship/Stray Fields/Attachments/Pasted image 20220920170255.png",
+    "Fellowship/EAST transfer lines/EAST Flux limit.md",
+    "Programming/Python codes and hacks.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
+    "Fellowship/Stray Fields/Attachments/Pasted image 20220920170255.png",
     "Fellowship/Stray Fields/Attachments/east_dump_optics_with_stray 1.png",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Programming/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
     "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
-    "Fellowship/CHIMERA/Ions theory.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/EAST transfer lines/BLM008.md"
+    "Fellowship/CHIMERA/Ions theory.md"
   ]
 }

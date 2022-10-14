@@ -1,5 +1,4 @@
-
-**EAST Flux limits**  
+[Logbook entry](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3633048)
   
 The maximum values accepted for the complete EAST hall is :   
 **6.6e10p/s  
@@ -32,3 +31,7 @@ Supercycle length = 28.8s
 **Total EAST = 6.67e10p/s**  
   
 If there is room, it's possible to remove one East T8 in order to give 2xEAST_T9 and 2xEAST_N
+
+***
+
+See [[EDMS document East Dump]] for additional information
