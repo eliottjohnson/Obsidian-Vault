@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/Slow extraction theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50d6566b17c406b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/PS Tune control explanation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lookup table",
+                "query": "born in 1959",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/PS Tune control explanation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/PS Tune control explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Theory/PS Tune control explanation.md"
               }
             }
           },
@@ -148,8 +161,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "17bb3ebef8e4e093",
+  "active": "50d6566b17c406b4",
   "lastOpenFiles": [
+    "Theory/Slow extraction theory.md",
+    "Theory/Current scaling for Ions.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/EDMS document East Dump.md",
     "Fellowship/EAST transfer lines/EAST Flux limit.md",
@@ -157,8 +172,6 @@
     "Fellowship/Stray Fields/Attachments/Pasted image 20220920170255.png",
     "Fellowship/Stray Fields/Attachments/east_dump_optics_with_stray 1.png",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Programming/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
-    "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md"
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
   ]
 }
