@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63500c6f1a66efdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Weekly beam reports.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/PS Tune control explanation.md",
+                "file": "Fellowship/CHIMERA/Weekly beam reports.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/PS Tune control explanation.md",
+                "file": "Fellowship/CHIMERA/Weekly beam reports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/PS Tune control explanation.md"
+                "file": "Fellowship/CHIMERA/Weekly beam reports.md"
               }
             }
           },
@@ -161,8 +173,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "50d6566b17c406b4",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
+    "Theory/PS Tune control explanation.md",
     "Theory/Slow extraction theory.md",
     "Theory/Current scaling for Ions.md",
     "Programming/Python codes and hacks.md",
@@ -171,7 +184,6 @@
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
     "Fellowship/Stray Fields/Attachments/Pasted image 20220920170255.png",
     "Fellowship/Stray Fields/Attachments/east_dump_optics_with_stray 1.png",
-    "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
+    "Fellowship/Stray Fields/Stitching two sequences together.md"
   ]
 }
