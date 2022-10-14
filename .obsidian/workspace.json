@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da1a0c1ea2eff6c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blm",
+                "query": "lookup table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md"
+                "file": "Theory/Current scaling for Ions.md"
               }
             }
           },
@@ -161,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "da1a0c1ea2eff6c0",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
-    "Fellowship/EAST transfer lines/EAST Flux limit.md",
     "Programming/Python codes and hacks.md",
+    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+    "Fellowship/EAST transfer lines/EAST Flux limit.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
     "Fellowship/Stray Fields/Attachments/Pasted image 20220920170255.png",
     "Fellowship/Stray Fields/Attachments/east_dump_optics_with_stray 1.png",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Programming/Computer Vision with OpenCV/Video Basics with Python and OpenCv.md",
-    "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
-    "Fellowship/CHIMERA/Ions theory.md"
+    "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md"
   ]
 }

@@ -24,6 +24,8 @@ RP limits for each EAST targets:
  *   3.3e10 protons/second to T9 Target  
  *   3.3e10 protons/second to T10/T11 Target
 
+See also [[EAST Flux limit]]
+
 For two cycles per SC, 4.2E+10 p/s
 
 3) Minimum intensity required for the dump to be useful is 1 cycle per super cycle

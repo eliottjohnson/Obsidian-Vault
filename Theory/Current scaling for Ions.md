@@ -106,10 +106,12 @@ See [[Ion kinetic energy]] for the theory behind the Pb ion lookup table
 
 [Source code: ion_kinetic_energy](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/ion_kinetic_energy.ipynb)
 
-![[kinetic_energy_lookup_table.png]]
+![[kinetic_energy_lookup_table.png|700]]
 
 Other version
 
-![[kinetic_energy_lookup_table_v3.png]]
+![[kinetic_energy_lookup_table_v3.png|1075]]
 
-![[kinetic_energy_lookup_table_zoom.png]]
+Low energy
+
+![[kinetic_energy_lookup_table_zoom.png|1075]]
