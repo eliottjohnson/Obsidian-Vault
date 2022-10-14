@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "541fc61965657159",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,8 +148,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "541fc61965657159",
+  "active": "572e2203be6c88b5",
   "lastOpenFiles": [
+    "Programming/Python codes and hacks.md",
     "Programming/Spill monitor.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Short term.md",
@@ -169,7 +159,6 @@
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Other/PTC_TRACK.md",
     "Other/BPMs in T8.md",
-    "Fellowship/Stray Fields/Multipole field component in MU62.md",
-    "Fellowship/Stray Fields/Stitching two sequences together.md"
+    "Fellowship/Stray Fields/Multipole field component in MU62.md"
   ]
 }
