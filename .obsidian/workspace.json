@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Theory/Slow extraction theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pb ion",
+                "query": "LEQ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/Slow extraction theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Theory/Slow extraction theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Theory/Slow extraction theory.md"
               }
             }
           },
@@ -232,17 +232,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2f4757cd16095f04",
+  "active": "31748cd1f70aeb2f",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Ions theory.md",
-    "Theory/Current scaling for Ions.md",
+    "Theory/PS Tune control explanation.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/CHIMERA/Weekly beam reports.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
-    "Short term.md",
     "Fellowship/EAST transfer lines/Spill monitor F61.md",
+    "Theory/Current scaling for Ions.md",
+    "Fellowship/CHIMERA/Ions theory.md",
+    "Short term.md",
     "Other/East Slow Extraction Eliott.md",
-    "Other/EAST slow extraction.md",
-    "Other/East Area optics measurements.md",
-    "Other/Bumper BSW57.md",
-    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md"
+    "Other/EAST slow extraction.md"
   ]
 }

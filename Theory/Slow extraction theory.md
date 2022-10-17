@@ -13,3 +13,5 @@ The tune can be controlled with different quadrupolar elements such as:
 * LEQ (Low energy quadrupoles)
 
 [[PS Tune control explanation]] from Marc Delrieux
+
+WorkingSets -> Ring -> Normal quadrupoles -> PSBEAM BSW42 POS INJ1 -> Small function editor -> PSBEAM/QX_LEW

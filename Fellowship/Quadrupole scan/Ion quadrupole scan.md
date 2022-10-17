@@ -92,7 +92,11 @@ Big difference in the QSE
 Measurement on the Monday 17.10.2022
 
 ![[Pasted image 20221017141011.png]]
-	
+
+Inaki increased Voltage on spill monitor
+
+![[Pasted image 20221017162558.png]]
+
 1) 
 ``` python
 current1 = np.linspace(0.42, 0.49, number_of_k_to_scan)  # init 0.47969
