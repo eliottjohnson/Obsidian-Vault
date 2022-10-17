@@ -66,9 +66,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf922e5a66997056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Change B-field in PS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fc626e666d5bb3d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "madx.ptc_observe(",
+                "query": "cpsop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,17 +214,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0f8663544f3588ef",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
-    "Other/PTC_TRACK.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+    "Change B-field in PS.md",
+    "Theory/Current scaling for Ions.md",
+    "Fellowship/Quadrupole scan/Emittance blow-up.md",
+    "Other/PTC_TRACK.md",
     "Fellowship/Quadrupole scan/Time dependant optics.md",
     "Fellowship/Quadrupole scan/EDMS document East Dump.md",
-    "Fellowship/Quadrupole scan/Emittance blow-up.md",
-    "Theory/Current scaling for Ions.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Other/EAST slow extraction.md",
-    "Fellowship/Stray Fields/Stitching two sequences together.md"
+    "Other/EAST slow extraction.md"
   ]
 }
