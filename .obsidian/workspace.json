@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Fellowship/CHIMERA/Weekly beam reports.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Fellowship/CHIMERA/Weekly beam reports.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Fellowship/CHIMERA/Weekly beam reports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md"
+                "file": "Fellowship/CHIMERA/Weekly beam reports.md"
               }
             }
           },
@@ -211,12 +211,12 @@
   },
   "active": "aa1280057f9efb7e",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
     "Fellowship/EAST transfer lines/Spill monitor F61.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/Quadrupole scan/Parallel beam.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/Quadrupole scan/Emittance blow-up.md",
-    "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Change B-field in PS.md",
     "Other/PTC_TRACK.md",
