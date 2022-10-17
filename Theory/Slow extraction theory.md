@@ -14,4 +14,9 @@ The tune can be controlled with different quadrupolar elements such as:
 
 [[PS Tune control explanation]] from Marc Delrieux
 
+## Two ways to trim the tune function
+
 WorkingSets -> Ring -> Normal quadrupoles -> PSBEAM BSW42 POS INJ1 -> Small function editor -> PSBEAM/QX_LEW
+
+LSA App Suite -> Applications -> Settings Management -> Select MD user cycle -> Working Set Select All -> Property Select All -> Device/Property = PSBEAM/QX_LEQ
+
