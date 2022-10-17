@@ -87,5 +87,13 @@ Same in the vertical plane but not in the horizontal plane.
 Big difference in the QSE
 ![[Pasted image 20220929161005.png]]
 
-## 750 MeV/u and 460 MeV/u
+## 750 MeV/u
 
+Measurement on the Monday 17.10.2022
+
+1) 
+``` python
+current1 = np.linspace(0.42, 0.49, number_of_k_to_scan)  # init 0.47969
+current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149
+current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
+```

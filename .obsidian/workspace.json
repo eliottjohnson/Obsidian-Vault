@@ -78,17 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4fc626e666d5bb3d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpsop",
+                "query": "activate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md"
+              }
             }
           },
           {
@@ -214,17 +210,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "aa1280057f9efb7e",
   "lastOpenFiles": [
+    "Change B-field in PS.md",
+    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Change B-field in PS.md",
     "Theory/Current scaling for Ions.md",
     "Fellowship/Quadrupole scan/Emittance blow-up.md",
     "Other/PTC_TRACK.md",
     "Fellowship/Quadrupole scan/Time dependant optics.md",
     "Fellowship/Quadrupole scan/EDMS document East Dump.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Other/EAST slow extraction.md"
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
   ]
 }
