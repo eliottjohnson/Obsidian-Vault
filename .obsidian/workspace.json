@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smh61",
+                "query": "smh57",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,14 +213,14 @@
   "active": "aa1280057f9efb7e",
   "lastOpenFiles": [
     "Other/EAST slow extraction.md",
+    "Other/East Area optics measurements.md",
     "Other/Bumper BSW57.md",
+    "Other/East Slow Extraction Eliott.md",
     "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
     "Fellowship/Stray Fields/PS Stray field.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
     "Fellowship/CHIMERA/Weekly beam reports.md",
     "Theory/Current scaling for Ions.md",
-    "Fellowship/Quadrupole scan/Emittance blow-up.md",
-    "Fellowship/EAST transfer lines/Spill monitor F61.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md"
+    "Fellowship/Quadrupole scan/Emittance blow-up.md"
   ]
 }
