@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10098858aa5179d2",
+            "id": "93cc19867761f604",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor F61.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "born in 1959",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor F61.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor F61.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+                "file": "Fellowship/EAST transfer lines/Spill monitor F61.md"
               }
             }
           },
@@ -148,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "10098858aa5179d2",
+  "active": "17bb3ebef8e4e093",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Weekly beam reports.md",
     "Fellowship/EAST transfer lines/EAST Flux limit.md",
+    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
+    "Fellowship/EAST transfer lines/BLM008.md",
+    "Fellowship/CHIMERA/Ions theory.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/CHIMERA/Weekly beam reports.md",
     "Short term.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/CHIMERA/Untitled.md",
-    "Aviation/Air Law/Untitled.md",
-    "Aviation/Untitled.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/CHIMERA/Ions theory.md",
-    "Fellowship/CHIMERA/Picoscope.md"
+    "Aviation/Air Law/Untitled.md"
   ]
 }
