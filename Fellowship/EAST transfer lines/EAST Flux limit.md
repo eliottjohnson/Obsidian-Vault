@@ -13,8 +13,7 @@ Some other convention are :
 1xT9/20s  
 1XT10/20s  
   
-_The transmission in the line are considered to be around 80%  
-if we consider the transmission_  
+The transmission in the line are considered to be around 80% if we consider the transmission
   
 For a **36Bp** SC for example a good distribution would be :   
 Supercycle length = 43.2s  
@@ -35,3 +34,5 @@ If there is room, it's possible to remove one East T8 in order to give 2xEAS
 ***
 
 See [[EDMS document East Dump]] for additional information
+
+![[Pasted image 20221017092541.png]]
