@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Parallel beam.md",
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parallel optics",
+                "query": "source venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Parallel beam.md",
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Parallel beam.md",
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Parallel beam.md"
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "67051c6e0e9fcfcc",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/Parallel beam.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/Quadrupole scan/Emittance blow-up.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
@@ -220,7 +221,6 @@
     "Other/PTC_TRACK.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Theory/Current scaling for Ions.md",
-    "Fellowship/Quadrupole scan/Time dependant optics.md",
-    "Fellowship/Quadrupole scan/EDMS document East Dump.md"
+    "Fellowship/Quadrupole scan/Time dependant optics.md"
   ]
 }
