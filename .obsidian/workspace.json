@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c38d2b4812d8adf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/PTC_TRACK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ptc",
+                "query": "madx.ptc_observe(",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+                "file": "Other/PTC_TRACK.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+                "file": "Other/PTC_TRACK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
+                "file": "Other/PTC_TRACK.md"
               }
             }
           },
@@ -186,8 +198,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "38d48363e933eafd",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Other/PTC_TRACK.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
     "Fellowship/Quadrupole scan/Time dependant optics.md",
@@ -196,7 +209,6 @@
     "Theory/Current scaling for Ions.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Other/EAST slow extraction.md",
-    "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Fellowship/Stray Fields/Multipole field component in MU62.md"
+    "Fellowship/Stray Fields/Stitching two sequences together.md"
   ]
 }
