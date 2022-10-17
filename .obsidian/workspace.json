@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md"
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md"
               }
             }
           },
@@ -234,9 +233,9 @@
   },
   "active": "cfd91d242c2ef537",
   "lastOpenFiles": [
+    "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Theory/Current scaling for Ions.md",
     "Fellowship/EAST transfer lines/Spill monitor F61.md",
-    "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Fellowship/Stray Fields/MU62.md",
     "Other/Find 3D models.md",
     "Fellowship/Stray Fields/PS Stray field.md",
