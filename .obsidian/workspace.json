@@ -76,9 +76,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31748cd1f70aeb2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f4757cd16095f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Current scaling for Ions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smh57",
+                "query": "pb ion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Theory/Current scaling for Ions.md"
               }
             }
           },
@@ -207,17 +232,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "aa1280057f9efb7e",
+  "active": "2f4757cd16095f04",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Ions theory.md",
+    "Theory/Current scaling for Ions.md",
+    "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+    "Short term.md",
+    "Fellowship/EAST transfer lines/Spill monitor F61.md",
     "Other/East Slow Extraction Eliott.md",
     "Other/EAST slow extraction.md",
     "Other/East Area optics measurements.md",
     "Other/Bumper BSW57.md",
-    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
-    "Fellowship/Stray Fields/PS Stray field.md",
-    "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
-    "Fellowship/CHIMERA/Weekly beam reports.md",
-    "Theory/Current scaling for Ions.md",
-    "Fellowship/Quadrupole scan/Emittance blow-up.md"
+    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md"
   ]
 }
