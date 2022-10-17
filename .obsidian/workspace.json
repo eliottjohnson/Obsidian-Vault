@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Flux limit.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f8663544f3588ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Current scaling for Ions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Flux limit.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Flux limit.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Flux limit.md"
+                "file": "Theory/Current scaling for Ions.md"
               }
             }
           },
@@ -148,17 +162,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "93cc19867761f604",
+  "active": "0f8663544f3588ef",
   "lastOpenFiles": [
-    "Fellowship/EAST transfer lines/Spill monitor F61.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/Stray Fields/Stitching two sequences together.md",
+    "Fellowship/Stray Fields/Multipole field component in MU62.md",
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/EAST transfer lines/EAST Flux limit.md",
+    "Fellowship/EAST transfer lines/Spill monitor F61.md",
     "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/CHIMERA/Ions theory.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/CHIMERA/Weekly beam reports.md",
-    "Short term.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Fellowship/CHIMERA/Untitled.md"
+    "Fellowship/CHIMERA/Weekly beam reports.md"
   ]
 }
