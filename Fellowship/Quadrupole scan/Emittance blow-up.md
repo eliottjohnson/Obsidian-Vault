@@ -63,3 +63,23 @@ https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/5c41750652d4e7
  value, beam->beta, beam->pc, sqrt(L/csi0);
 ```
 https://gitlab.cern.ch/search?search=scattering&nav_source=navbar&project_id=126483&search_code=true&repository_ref=EliottBranch
+
+## Andreas FLUKA Simulation
+
+Good progress from Andreas on FLUKA simulation
+
+[Mattermost link](https://mattermost.web.cern.ch/chimera/pl/9yfebgba8prxtkuas1rcbpx3ea)
+
+![[Pasted image 20221017105124.png]]
+
+![[Pasted image 20221017105156.png|550]]
+
+Non gaussian distribution with nominal optics as seen on the IRAD Vistar.
+
+![[Pasted image 20221017105210.png|550]]
+
+![[Pasted image 20221017105222.png]]
+
+![[Pasted image 20221017105257.png]]
+
+![[Pasted image 20221017105303.png]]

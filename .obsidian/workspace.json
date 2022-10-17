@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ion",
+                "query": "scattering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md"
               }
             }
           },
@@ -164,6 +164,8 @@
   },
   "active": "0f8663544f3588ef",
   "lastOpenFiles": [
+    "Other/EAST slow extraction.md",
+    "Theory/Current scaling for Ions.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
@@ -171,8 +173,6 @@
     "Fellowship/EAST transfer lines/EAST Flux limit.md",
     "Fellowship/EAST transfer lines/Spill monitor F61.md",
     "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
-    "Fellowship/EAST transfer lines/BLM008.md",
-    "Fellowship/CHIMERA/Ions theory.md",
-    "Fellowship/CHIMERA/Weekly beam reports.md"
+    "Fellowship/EAST transfer lines/BLM008.md"
   ]
 }
