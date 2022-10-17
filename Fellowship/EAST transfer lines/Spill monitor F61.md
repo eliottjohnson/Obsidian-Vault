@@ -16,3 +16,5 @@ F61.SPILL-DS -> F61.SPILL-SD -> BXSCINT_1000
 ![[Pasted image 20221017084812.png|375]]
 
 ![[Pasted image 20221017084827.png|375]]
+
+![[Pasted image 20221017090743.png|575]]
