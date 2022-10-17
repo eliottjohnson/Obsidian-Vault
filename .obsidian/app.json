@@ -10,6 +10,7 @@
   "attachmentFolderPath": "./Attachments",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
+  "accentColor": "",
   "readableLineLength": false,
   "pdfExportSettings": {
     "includeName": true,

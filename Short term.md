@@ -10,6 +10,8 @@ kanban-plugin: basic
 - [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
 - [ ] Look at the BPM readout and MWPC readout at different energies
 - [ ] Perform quadrupole scans at 750 and 400 MeV/u
+- [ ] Save data from spill monitor and XSEC
+- [ ] Create a savedata script
 
 
 ## Stray Field
