@@ -86,3 +86,6 @@ Same in the vertical plane but not in the horizontal plane.
 
 Big difference in the QSE
 ![[Pasted image 20220929161005.png]]
+
+## 750 MeV/u and 460 MeV/u
+

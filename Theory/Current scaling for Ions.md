@@ -118,3 +118,4 @@ Low energy
 
 ## 1900 Gauss
 
+![[kinetic_energy_lookup_table_zoom_B_field.png|1075]]
