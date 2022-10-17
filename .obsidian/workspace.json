@@ -83,19 +83,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Slow extraction theory.md",
+                "file": "Fellowship/Stray Fields/MU62.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f4757cd16095f04",
+            "id": "cfd91d242c2ef537",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LEQ",
+                "query": "shims",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
+                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan.md"
+                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md"
               }
             }
           },
@@ -231,17 +232,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2f4757cd16095f04",
+  "active": "cfd91d242c2ef537",
   "lastOpenFiles": [
-    "Fellowship/Quadrupole scan/Emittance blow-up.md",
-    "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
-    "Theory/Current scaling for Ions.md",
+    "Fellowship/Stray Fields/MU62.md",
+    "Other/Find 3D models.md",
+    "Fellowship/Stray Fields/PS Stray field.md",
+    "Fellowship/Stray Fields/Gradient felt at East extraction.md",
     "Theory/Slow extraction theory.md",
-    "Theory/PS Tune control explanation.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/CHIMERA/Weekly beam reports.md",
-    "Fellowship/EAST transfer lines/Spill monitor F61.md",
-    "Fellowship/CHIMERA/Ions theory.md",
-    "Short term.md"
+    "Fellowship/Stray Fields/Field map visualization.md",
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+    "Fellowship/Stray Fields/Multipole field component in MU62.md",
+    "Fellowship/Stray Fields/Stitching two sequences together.md",
+    "Fellowship/Stray Fields/Comparing with old BTP model.md"
   ]
 }
