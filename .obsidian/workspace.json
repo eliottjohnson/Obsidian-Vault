@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shims",
+                "query": "lookup table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md"
+                "file": "Theory/Current scaling for Ions.md"
               }
             }
           },
@@ -233,6 +234,7 @@
   },
   "active": "0f8663544f3588ef",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/Emittance blow-up.md",
     "Fellowship/EAST transfer lines/Spill monitor F61.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
@@ -241,7 +243,6 @@
     "Other/Find 3D models.md",
     "Fellowship/Stray Fields/PS Stray field.md",
     "Fellowship/Stray Fields/Gradient felt at East extraction.md",
-    "Theory/Slow extraction theory.md",
-    "Fellowship/Stray Fields/Field map visualization.md"
+    "Theory/Slow extraction theory.md"
   ]
 }
