@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] Perform quadrupole scans at 750 and 400 MeV/u
 - [ ] Save data from spill monitor and XSEC
 - [ ] Create a savedata script
+- [ ] Picoscope test
 
 
 ## Stray Field
@@ -41,9 +42,9 @@ kanban-plugin: basic
 - [ ] Add corrector strength to model and when you change optics, try to get back the same optics
 
 
-## [[Picoscope]]
+## [[EDMS document East Dump]]
 
-- [ ] Picoscope test
+- [ ] Add Reference from Giulia for the Dump
 
 
 ## Other
@@ -52,11 +53,6 @@ kanban-plugin: basic
 - [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
 - [ ] Check BPM UCAP and logging if I get the same values
 - [ ] First moment, second moment
-
-
-## [[EDMS document East Dump]]
-
-- [ ] Add Reference from Giulia for the Dump
 
 
 ***

@@ -24,7 +24,7 @@ Supercycle length = 43.2s
 **Total EAST = 6.67e10p/s**  
   
 For a 24Bp :   
-Supercycle length = 28.8s  
+Super cycle length = 28.8s  
 **3xEAST_T8** = 5e10p/s  
 **1xEAST_T9** = 0.8e10p/s  
 **1xEAST_N** = 0.8e10p/s   

@@ -11,9 +11,11 @@
             "id": "10098858aa5179d2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Short term.md"
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
               }
             }
           },
@@ -148,15 +150,15 @@
   },
   "active": "10098858aa5179d2",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Weekly beam reports.md",
+    "Fellowship/EAST transfer lines/EAST Flux limit.md",
+    "Short term.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/CHIMERA/Untitled.md",
     "Aviation/Air Law/Untitled.md",
     "Aviation/Untitled.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/Ions theory.md",
-    "Fellowship/CHIMERA/Picoscope.md",
-    "Theory/Current scaling for Ions.md",
-    "Theory/Slow extraction theory.md",
-    "Theory/PS Tune control explanation.md"
+    "Fellowship/CHIMERA/Picoscope.md"
   ]
 }
