@@ -21,3 +21,5 @@ Reduced the intensity by using the bump 23 in the opposite direction. Kicking aw
 Think about the ramp on POPS and the radial position of the beam during the ramping of POPS
 
 PyLSA to grab BSW23 flat top values
+
+We have to lower SMH57 because the beam crashes back on the septum blade. This is because with ions we bypass SEH23 (it has foils which would strip the beam) and so the bump is much closer to the blade.
