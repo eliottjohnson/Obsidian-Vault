@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ABTEF on CHIMERA.md",
+                "file": "Programming/Linux + Technical.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ABTEF on CHIMERA.md",
+                "file": "Programming/Linux + Technical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ABTEF on CHIMERA.md"
+                "file": "Programming/Linux + Technical.md"
               }
             }
           },
@@ -210,8 +210,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2c2c90dde01da26f",
+  "active": "3d1e19568cfc2081",
   "lastOpenFiles": [
+    "ABTEF on CHIMERA.md",
     "Programming/Linux + Technical.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Programming/Python codes and hacks.md",
@@ -220,7 +221,6 @@
     "Fellowship/Quadrupole scan/Emittance blow-up.md",
     "Other/PTC_TRACK.md",
     "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
-    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
-    "Fellowship/CHIMERA/SEC calibration EAST.md"
+    "Fellowship/EAST transfer lines/Spill monitor XSEC.md"
   ]
 }
