@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d1e19568cfc2081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Linux + Technical.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Programming/Linux + Technical.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Programming/Linux + Technical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+                "file": "Programming/Linux + Technical.md"
               }
             }
           },
@@ -186,8 +198,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c8becf9628a68010",
+  "active": "3d1e19568cfc2081",
   "lastOpenFiles": [
+    "Programming/Python codes and hacks.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Theory/Current scaling for Ions.md",
     "IPAC 2023.md",
     "Fellowship/Quadrupole scan/Emittance blow-up.md",
@@ -195,8 +209,6 @@
     "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "ABTEF on CHIMERA.md"
+    "Fellowship/Quadrupole scan/East Area Initial parameters.md"
   ]
 }

@@ -10,7 +10,7 @@ We see two peaks and those can be corrected with LEQ
 
 ![[Pasted image 20221017162750.png]]
 
-## Tuesday 18.10.22
+## Spill optimisation (intensity reduction and length increase) Tuesday 18.10.22
 
 * [ ] try to reduce XSE strength
 * [ ] try to do a local bump on TPS15
