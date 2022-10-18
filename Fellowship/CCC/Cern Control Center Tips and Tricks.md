@@ -22,3 +22,13 @@ ssh -Y eljohnso@cwe-513-vpl305
 
 cp -r /user/cpsop/EliottFolder/quad-scan-east /afs/cern.ch/user/e/eljohnso
 ```
+
+## Change the B-field of the PS
+
+Useful for different ion energy, see [[Current scaling for Ions#Pb ion lookup table]]
+
+CycleEditor (POPS)
+
+![[Pasted image 20221018083941.png]]
+
+![[Pasted image 20221018084059.png|850]]

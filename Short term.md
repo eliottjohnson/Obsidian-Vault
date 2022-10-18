@@ -9,7 +9,8 @@ kanban-plugin: basic
 - [ ] Finish the CHIMERA doc
 - [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
 - [ ] Look at the BPM readout and MWPC readout at different energies
-- [ ] Perform quadrupole scans at 750 and 400 MeV/u
+- [x] Perform quadrupole scans at 750 and 400 MeV/u
+- [ ] Analysis quadrupole scan data
 - [ ] Save data from spill monitor and XSEC
 - [ ] Create a savedata script
 - [ ] Picoscope test
@@ -18,6 +19,11 @@ kanban-plugin: basic
 ## Stray Field
 
 - [ ] Magnetic measurement of a spare MU being performed, create slides for Carlo to measure stray fields
+
+
+## IPAC 2023
+
+- [ ] Think of an Abtract<br>* Stray fields<br>* East Area ion beams
 
 
 ## [[Multipole field component in MU62]]
@@ -47,17 +53,17 @@ kanban-plugin: basic
 - [ ] Add Reference from Giulia for the Dump
 
 
+## MWPC Timing issue
+
+- [ ] Contact Stephen Jackson in charge of the BI-SW section
+
+
 ## Other
 
 - [ ] UDEMY: Python for Computer Vision
 - [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
 - [ ] Check BPM UCAP and logging if I get the same values
 - [ ] First moment, second moment
-
-
-## MWPC Timing issue
-
-- [ ] Contact Stephen Jackson in charge of the BI-SW section
 
 
 ***
