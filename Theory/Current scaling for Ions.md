@@ -119,3 +119,7 @@ Low energy
 ## 1900 Gauss
 
 ![[kinetic_energy_lookup_table_zoom_B_field.png|1075]]
+
+The ramp on POPS [[Cern Control Center Tips and Tricks#Change the B-field of the PS]] changes the energy of the ions
+
+![[Pasted image 20221018111720.png]]
