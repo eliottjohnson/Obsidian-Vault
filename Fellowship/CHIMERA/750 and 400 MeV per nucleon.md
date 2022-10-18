@@ -17,4 +17,4 @@ We see two peaks and those can be corrected with LEQ
 * [ ] try to reduce extracted intensity by changing QX_LEQ  (degraded extraction, tune kept a bit further from the resonance)
 
 
-Reduced the intensity with the bump 23
+Reduced the intensity by using the bump 23 in the opposite direction. Kicking away from the septum.
