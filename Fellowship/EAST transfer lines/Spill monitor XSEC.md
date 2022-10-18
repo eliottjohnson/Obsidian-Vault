@@ -3,3 +3,5 @@ Some info and image of the XSEC that has six layers of foil: [[SEC calibration E
 The XSEC can also be used as a spill monitor like [[Spill monitor BXSCINT]]
 
 ![[Pasted image 20221018085500.png|625]]
+
+![[Pasted image 20221018101728.png]]
