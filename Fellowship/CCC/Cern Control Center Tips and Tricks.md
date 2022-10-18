@@ -34,3 +34,9 @@ CycleEditor (POPS)
 ![[Pasted image 20221018084059.png|850]]
 
 Good tip is that it trims the momentum and all the makerules associated with it (such as all the magnets in T8) so it might take a while to propagate.
+
+## TMS to see beam orbit
+
+1) Select USER cycle
+2) Do a GET each time
+3) Trajectory or Orbit
