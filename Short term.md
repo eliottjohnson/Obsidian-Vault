@@ -68,6 +68,11 @@ kanban-plugin: basic
 - [ ] First moment, second moment
 
 
+## [[ABTEF on CHIMERA]]
+
+- [ ] Prepare presentation for ABTEF
+
+
 ***
 
 ## Archive
