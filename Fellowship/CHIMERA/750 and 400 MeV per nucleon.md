@@ -18,3 +18,4 @@ We see two peaks and those can be corrected with LEQ
 
 
 Reduced the intensity by using the bump 23 in the opposite direction. Kicking away from the septum.
+Think about the ramp on POPS and the radial position of the beam during the ramping of POPS
