@@ -11,9 +11,11 @@
             "id": "50a8340639d73558",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Short term.md"
+                "file": "IPAC 2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -101,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
+                "file": "IPAC 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
+                "file": "IPAC 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/SEC calibration EAST.md"
+                "file": "IPAC 2023.md"
               }
             }
           },
@@ -232,17 +233,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "aebf802d43cecabb",
+  "active": "50a8340639d73558",
   "lastOpenFiles": [
-    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
+    "Short term.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
+    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
     "Fellowship/Stray Fields/MU62.md",
     "Fellowship/CHIMERA/Picoscope.md",
     "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
     "Other/EAST slow extraction.md",
     "Other/PTC_TRACK.md",
-    "Fellowship/Quadrupole scan/Emittance blow-up.md",
-    "Theory/Current scaling for Ions.md"
+    "Fellowship/Quadrupole scan/Emittance blow-up.md"
   ]
 }

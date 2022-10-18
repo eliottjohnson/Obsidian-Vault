@@ -23,7 +23,7 @@ kanban-plugin: basic
 - [ ] Magnetic measurement of a spare MU being performed, create slides for Carlo to measure stray fields
 
 
-## IPAC 2023
+## [[IPAC 2023]]
 
 - [ ] Think of an Abtract<br>* Stray fields<br>* East Area ion beams
 
