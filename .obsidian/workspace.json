@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50a8340639d73558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPAC 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "93cc19867761f604",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Theory/Current scaling for Ions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f8663544f3588ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/Emittance blow-up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c38d2b4812d8adf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/PTC_TRACK.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,55 +44,19 @@
             }
           },
           {
-            "id": "aebf802d43cecabb",
+            "id": "c8becf9628a68010",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd91d242c2ef537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7c7c9d0c6debbd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "742d8435883a8fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ABTEF on CHIMERA.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ABTEF on CHIMERA.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ABTEF on CHIMERA.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ABTEF on CHIMERA.md"
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
               }
             }
           },
@@ -258,17 +186,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "742d8435883a8fa4",
+  "active": "c8becf9628a68010",
   "lastOpenFiles": [
-    "Short term.md",
-    "IPAC 2023.md",
     "Theory/Current scaling for Ions.md",
+    "IPAC 2023.md",
+    "Fellowship/Quadrupole scan/Emittance blow-up.md",
+    "Other/PTC_TRACK.md",
+    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
+    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
-    "Fellowship/Stray Fields/Kick response with old model.md",
-    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
-    "Fellowship/Stray Fields/MU62.md",
-    "Fellowship/CHIMERA/Picoscope.md"
+    "ABTEF on CHIMERA.md"
   ]
 }
