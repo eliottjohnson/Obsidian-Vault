@@ -15,4 +15,4 @@ Septums are the only elements that need a little hand correction (can't use elec
 
 Air scattering effects, (Andreas slides)
 
-
+Instrumentation and beam monitoring
