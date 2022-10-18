@@ -32,3 +32,5 @@ CycleEditor (POPS)
 ![[Pasted image 20221018083941.png]]
 
 ![[Pasted image 20221018084059.png|850]]
+
+Good tip is that it trims the momentum and all the makerules associated with it (such as all the magnets in T8) so it might take a while to propagate.
