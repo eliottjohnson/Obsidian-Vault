@@ -2,7 +2,7 @@
 
 Otherwise you can take the currents for protons, convert to k with the non-linear magnetic curve, scale down the k by a factor 54/82 and then recompute the current which gives very close results to what Marc and Matthew found.
 
-![](https://codimd.web.cern.ch/uploads/upload_5619938e20ef9b23cde7a035f030ba02.png)
+![|1100](https://codimd.web.cern.ch/uploads/upload_5619938e20ef9b23cde7a035f030ba02.png)
 
 [Cernbox link: ion_scaling_east.xlsx](https://cernbox.cern.ch/index.php/s/iIHyDnR9Aeovgnr)
 

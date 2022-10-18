@@ -14,6 +14,8 @@ kanban-plugin: basic
 - [ ] Save data from spill monitor and XSEC
 - [ ] Create a savedata script
 - [ ] Picoscope test
+- [ ] Send Andreas BPM values from NXCALS for the parallel optics and follow up with his FLUKA simulation.
+- [ ] Check Dispersion at BPM1
 
 
 ## Stray Field

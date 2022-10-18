@@ -1,9 +1,15 @@
 Interesting how the spill shape changes depending on the composition of the super cycle. This shows the three EAST3 protons cycles in a time series. 
 
+The second spill monitor in F61 is the XSEC [[Spill monitor XSEC]]
+
 [Source code: spill monitor with heatmap](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/spill_monitor_with_heatmap.py](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/spill_monitor_with_heatmap.py)
 
 
 ![[Pasted image 20221017084546.png|450]]
+
+This takes data from the BXSCINT_1000 and BXSCINT_1001
+![[Pasted image 20221018085140.png|625]]
+
 
 ## Jean-Michel implemented a similar observation with the sample
 
