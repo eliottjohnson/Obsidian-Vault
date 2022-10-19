@@ -7,12 +7,12 @@
 
 ## High priority
 
-* Nominal slow extracted beam we will use on the 23-28 november run
+* Nominal slow extracted beam we will use on the 23-28 November run
 	* Low energy
 	* Low intensity
 * Several minutes with fixed beam settings
-	* Perform characterization with solid-state detector
-	* One beam configuration will be broken down with *degrader*
+	* Perform characterization with **solid-state detector**
+	* One beam configuration will be broken down with **degrader**
 
 ### Low priority
 * Fast extraction and SEC calibration, see [[XSECs in East Area#Matthew]]
