@@ -9,6 +9,11 @@
       "type": "file",
       "title": "Multipole component model from injection",
       "path": "Fellowship/Stray Fields/Multipole component model from injection.md"
+    },
+    {
+      "type": "file",
+      "title": "Python codes and hacks",
+      "path": "Programming/Python codes and hacks.md"
     }
   ]
 }
