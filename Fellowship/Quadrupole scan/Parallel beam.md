@@ -10,6 +10,6 @@ We tried to construct a parallel beam in IRRAD
 
 
 Parallel beam gif
-![[quad_scan_parallel_beam.gif|850]]
+![[quad_scan_parallel_beam.gif|1400]]
 Linear increase in beam size leads to believe additional physics in involved such as [[Emittance blow-up]].
 ![[beam_size_evolution_quad_scan_t8_bpms_2022_07_27_17h40m18s 1.png|550]]
