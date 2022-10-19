@@ -108,3 +108,16 @@ def animate(i):
 ani = FuncAnimation(fig, animate, interval=1, blit=True, repeat=False, frames=len(df))
 ani.save("gif/ptc_tracking_f61d.gif", dpi=300, writer=PillowWriter(fps=10))
 ```
+
+## How to read a pickle file
+
+``` python
+import jpype
+jpype.startJVM(jpype.getDefaultJVMPath())
+
+import pickle
+
+with open('filename.p', 'rb') as f:
+    data = pickle.load(f)
+```
+
