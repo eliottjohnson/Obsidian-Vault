@@ -36,4 +36,8 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 
 * Ruben wants to install a scintillator in IRRAD during MD 26th of october
 	* Cannot be exposed to protons
-	* 
+
+## Miguel
+
+* Will install the scope in the rack on Tuesday morning
+* Only need passive dosimeter because it's not directly next to the beam lines
