@@ -64,5 +64,9 @@ Can be found the in data folder
 
 ![[heatmap_example.png|750]]
 
-750 MeV/u spill history
+### 750 MeV/u spill history
 ![[xsec_spill_history_750_MeV 1.png|400]]
+
+### 500 MeV/u spill history
+
+![[xsec_spill_history_500_MeV.png|400]]
