@@ -6,4 +6,5 @@
 
 
 ### Low priority
+* Fast extraction and SEC calibration, see [[XSECs in East Area#Matthew]]
 * 
