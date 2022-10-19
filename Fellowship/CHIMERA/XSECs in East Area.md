@@ -1,6 +1,6 @@
 Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread from Maarten Van Dijk from 17th October 2022
 
-## Marteen
+## Maarten
 * There is a **activation foil measurement** that Maarten is doing in the North Area
 * Fast mode of the XSEC (BSI) electronics does not work properly
 	* We need to measure the charge collected on the XSEC (BSI) in the fast mode in a way that we can calibrate with the fBCT.
@@ -21,7 +21,8 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 	* Measure fBCT and XSEC **connected to scope**
 		* Ruben says: very noisy on fBCT with 1e11 protons, perhaps below detection limit with ions.
 * Low priority: repeat comparison between fBCT in **T8** and dowstream XSEC also with **scope** (we'll need to move it)
-	* This requires to open **EA1 zone** and **EA2** 
+	* This requires to open **EA1 zone** and IRRAD/CHARM **EA2** 
+	* Activities being prepared by different teams (OP , BI Beam Instrument, STI Sources, Targets and Interactions) for the 26th of October
 
 ## Federico Ravotti
 
@@ -36,8 +37,17 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 
 * Ruben wants to install a scintillator in IRRAD during MD 26th of october
 	* Cannot be exposed to protons
+	* This would **not be compatible** with the scope connected to XSEC as we will be using protons
+* Minimize extra-parallel MD not to reduce intensity delivered to T8.
 
 ## Miguel
 
 * Will install the scope in the rack on Tuesday morning
 * Only need passive dosimeter because it's not directly next to the beam lines
+
+# Plan for Tuesday 25th of October
+
+1) Miguel to install scope on the XSEC23 in F61
+2) Send Fast protons and ions to East Dump
+* MD8823
+* 
