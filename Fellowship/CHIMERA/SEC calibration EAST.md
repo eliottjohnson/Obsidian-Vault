@@ -10,7 +10,7 @@ SEC70 needs **firmware change** for fast extraction
 
 ![[Pasted image 20220912105302.png|850]]
 
-XSEC070
+## XSEC070
 ![[Pasted image 20220912104519.png|900]]
 
 XSEC094
