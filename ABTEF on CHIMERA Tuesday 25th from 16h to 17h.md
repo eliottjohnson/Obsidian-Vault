@@ -1,3 +1,5 @@
+https://indico.cern.ch/event/1208317/
+
 15 minute presentation on progress of EAST beam for CHIMERA
 
 2-3 Slides on irradiation of satellites and purpose of CHIMERA

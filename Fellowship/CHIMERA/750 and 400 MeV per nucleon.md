@@ -24,6 +24,8 @@ PyLSA to grab BSW23 flat top values
 
 We have to lower SMH57 because the beam crashes back on the septum blade. This is because with ions we bypass SEH23 (it has foils which would strip the beam) and so the bump is much closer to the blade.
 
+[Logbook entry](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3635888)
+
 ### Summary of spill improvement
 A quick update on the work we’ve done yesterday with Marc on the 750 and 500 MeV beams.  
   

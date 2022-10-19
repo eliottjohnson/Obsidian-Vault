@@ -2,7 +2,7 @@
 
 We use the initial parameters from [[East Area Initial parameters]]
 
-![[initial_parameters_comparison.png]]
+![[initial_parameters_comparison.png|975]]
 [[Focal point MWPC]]
 [[Focal point BPM01]]
 [[Parallel beam]]

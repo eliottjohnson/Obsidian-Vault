@@ -68,7 +68,7 @@ kanban-plugin: basic
 - [ ] First moment, second moment
 
 
-## [[ABTEF on CHIMERA]]
+## [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 
 - [ ] Prepare presentation for ABTEF
 

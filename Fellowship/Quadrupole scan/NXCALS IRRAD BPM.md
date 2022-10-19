@@ -1,4 +1,3 @@
-# NXCALS IRRAD BPM
 
 [Timber](https://timber.cern.ch/)
 ![](https://codimd.web.cern.ch/uploads/upload_af83b902fbfc3594b6055014386c16d2.png)
