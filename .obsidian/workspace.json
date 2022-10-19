@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "3efa4917056a590d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "021df144a126546e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d6b98d94a1173ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "67051c6e0e9fcfcc",
             "type": "leaf",
             "state": {
@@ -49,67 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Linux + Technical.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d1e19568cfc2081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Linux + Technical.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c2c90dde01da26f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90d39614aeecfb9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Ion kinetic energy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bbff1135c893c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/MU current scaling with momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d542a5d0f6713b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Linux + Technical.md"
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md"
               }
             }
           },
@@ -246,17 +222,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c8becf9628a68010",
+  "active": "6d6b98d94a1173ae",
   "lastOpenFiles": [
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Theory/Current scaling for Ions.md",
-    "Theory/Ion kinetic energy.md",
+    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
+    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
+    "Fellowship/CHIMERA/SEC calibration EAST.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Theory/MU current scaling with momentum.md",
-    "Theory/Accelerator Physics Theory.md",
-    "ABTEF on CHIMERA.md",
-    "Programming/Linux + Technical.md",
-    "Programming/Python codes and hacks.md",
-    "IPAC 2023.md"
+    "Theory/Ion kinetic energy.md",
+    "Programming/Linux + Technical.md"
   ]
 }

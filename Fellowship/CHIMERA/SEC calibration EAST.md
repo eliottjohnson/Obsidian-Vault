@@ -1,4 +1,3 @@
-# SEC calibration EAST
 
 Kacper, Natalia, Andreas, Ruben.
 
@@ -6,16 +5,16 @@ December: Fast and Slow runs at different energies
 
 SEC70 needs **firmware change** for fast extraction
 
-XSEC023
-![[Pasted image 20220912104607.png]]
+## XSEC023
+![[Pasted image 20220912104607.png|1000]]
 
-![[Pasted image 20220912105302.png]]
+![[Pasted image 20220912105302.png|850]]
 
 XSEC070
-![[Pasted image 20220912104519.png]]
+![[Pasted image 20220912104519.png|900]]
 
 XSEC094
-![[Pasted image 20220912104739.png]]
+![[Pasted image 20220912104739.png|725]]
 
 ### Goal:
 * calibrate SECs (mainly SEC71) with ions and protons as a function of fast extraction with the T8.fBCT.
