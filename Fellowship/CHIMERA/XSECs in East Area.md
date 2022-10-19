@@ -40,14 +40,15 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 	* This would **not be compatible** with the scope connected to XSEC as we will be using protons
 * Minimize extra-parallel MD not to reduce intensity delivered to T8.
 
-## Miguel
+## Miguel Nieto 64890
 
 * Will install the scope in the rack on Tuesday morning
 * Only need passive dosimeter because it's not directly next to the beam lines
 
-# Plan for Tuesday 25th of October
+# Plan for MD8823 - XSEC Calibration - Tuesday 25th of October
 
 1) Miguel to install scope on the XSEC23 in F61
+	* Scope is in Prevessin, needs to come to the office to grab it
 2) Send Fast protons and ions to East Dump
-* MD8823
-* 
+3) Record 100 shots ~ 1h with protons and 100 shots with ions
+* Data saved onboard scope
