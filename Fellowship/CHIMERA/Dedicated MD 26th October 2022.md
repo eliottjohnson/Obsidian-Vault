@@ -23,6 +23,9 @@
 		* solid-state sillicon detector
 		* SRAMs
 
+* **MWPC Quad scan**
+	* in IRRAD/CHARM
+
 ## Medium priority
 
 

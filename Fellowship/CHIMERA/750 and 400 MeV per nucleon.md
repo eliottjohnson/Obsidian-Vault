@@ -38,6 +38,7 @@ A quick update on the work we’ve done yesterday with Marc on the 750 and 500 M
 
 -   Marc and Matthew had the clever idea of creating a bump in 23 (a zone used for proton extraction but not for ion extraction) and increase its height until the beam scrapes the aperture. This loses particles without changing the overall parameters of the beam as the emittance in H (controlled by the slow extraction scheme) and V are unaffected. The extraction can be kept the same.
 -   The Intensity can be controlled by increasing or decreasing the bump height. If there is no bump, then the full intensity is transmitted, whereas increasing the bump height increases the number of particles that are shaven by the side walls which reduces the intensity.
+	- **Improvement idea**: for the scraping technique it would be even better to **bump** to a **fixed amplitude** close to the aperture and use the **TFB excitation** to waste the beam on the aperture. In this way we will reduce the beam intensity but at the same time maintain the emittance. We would only need to adjust the excitation amplitude or frequency of the TFB.
 -   A slight change in the tune function (QX_LEQ) is needed to keep a rectangular spill but this is easy to correct.
 -   From the XSEC measurement we observed a decrease in amplitude of the signal (whatever this correlate to) from 10’000 to 1’000
 
