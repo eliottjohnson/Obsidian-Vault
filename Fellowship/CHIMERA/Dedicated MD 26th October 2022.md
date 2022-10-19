@@ -5,6 +5,15 @@
 	* Doesn't want to be "at the limit" but rather keep some **margin** to have better visibility on the instruments
 
 
+## High priority
+
+* Nominal slow extracted beam we will use on the 23-28 november run
+	* Low energy
+	* Low intensity
+* Several minutes with fixed beam settings
+	* Perform characterization with solid-state detector
+	* One beam configuration will be broken down with *degrader*
+
 ### Low priority
 * Fast extraction and SEC calibration, see [[XSECs in East Area#Matthew]]
 * 
