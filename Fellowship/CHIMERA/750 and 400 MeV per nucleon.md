@@ -57,3 +57,12 @@ Perhaps we could discuss on Friday the order of beams and the access to install 
 
   
 This would already be packed schedule and doesn’t account for POPS trips or other beam downtime.
+
+## Analysis of the saved data
+
+Can be found the in data folder
+
+![[heatmap_example.png|750]]
+
+750 MeV/u spill history
+![[xsec_spill_history_750_MeV 1.png|400]]

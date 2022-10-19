@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
               }
             }
           },
@@ -234,17 +234,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "79ee6bd2d6323341",
+  "active": "67051c6e0e9fcfcc",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Attachments/xsec_spill_history_750_MeV.png",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
-    "Fellowship/Quadrupole scan/Parallel beam.md",
     "Programming/Python codes and hacks.md",
+    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
+    "Fellowship/Quadrupole scan/Parallel beam.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/Stray Fields/Multipole component model from injection.md",
-    "Fellowship/Stray Fields/PS Stray field.md",
-    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md"
+    "Fellowship/Stray Fields/PS Stray field.md"
   ]
 }

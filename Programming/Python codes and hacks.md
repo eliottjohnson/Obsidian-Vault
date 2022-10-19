@@ -68,6 +68,17 @@ T=np.linspace(0,1,np.size(x))
             
 ```
 
+## Change fontsize of all plots
+
+```python
+import matplotlib
+font = {'family' : 'DejaVu Sans',
+        'weight' : 'normal',
+        'size'   : 16}
+
+matplotlib.rc('font', **font)
+```
+
 ### Heatmaps
 
 Using scatter
