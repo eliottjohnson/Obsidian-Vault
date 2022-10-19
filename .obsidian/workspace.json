@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Programming/Linux + Technical.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Programming/Linux + Technical.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Programming/Linux + Technical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+                "file": "Programming/Linux + Technical.md"
               }
             }
           },
@@ -247,10 +248,10 @@
   },
   "active": "c8becf9628a68010",
   "lastOpenFiles": [
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Theory/Current scaling for Ions.md",
     "Theory/Ion kinetic energy.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Theory/MU current scaling with momentum.md",
     "Theory/Accelerator Physics Theory.md",
     "ABTEF on CHIMERA.md",
