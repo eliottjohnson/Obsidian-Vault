@@ -13,7 +13,15 @@
 * Several minutes with fixed beam settings
 	* Perform characterization with **solid-state detector**
 	* One beam configuration will be broken down with **degrader**
+* Instruments:
+	* SECs
+	* XIONs
+	* MWPC
+	* Gas scintillator spill monitor
+	* R2E
+		* counting scintillator
+		* solid-state sillicon detector
+		* SRAMs
 
 ### Low priority
 * Fast extraction and SEC calibration, see [[XSECs in East Area#Matthew]]
-* 

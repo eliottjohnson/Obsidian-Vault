@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -222,17 +222,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "021df144a126546e",
+  "active": "3efa4917056a590d",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
     "Theory/Current scaling for Ions.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Theory/MU current scaling with momentum.md",
-    "Theory/Ion kinetic energy.md",
-    "Programming/Linux + Technical.md"
+    "Theory/Ion kinetic energy.md"
   ]
 }
