@@ -8,7 +8,7 @@
 ## High priority
 
 * Simulated **nominal slow extracted beam** we will use on the 23-28 November run
-	* Low energy
+	* Low energy **750 MeV/u**
 	* Low intensity
 * Several minutes with fixed beam settings
 	* Perform characterization with **solid-state detector**
@@ -22,6 +22,10 @@
 		* counting scintillator
 		* solid-state sillicon detector
 		* SRAMs
+
+## Medium priority
+
+
 
 ### Low priority
 * Fast extraction and SEC calibration, see [[XSECs in East Area#Matthew]]
