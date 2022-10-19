@@ -45,6 +45,11 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 * Will install the scope in the rack on Tuesday morning
 * Only need passive dosimeter because it's not directly next to the beam lines
 
+## Ruben
+
+* BCT signal is at its detection limit for 1e11 protons (i.e. charges). If there are less charges than this, it will not detect.
+* This means that for ions, it won't detect either as they are not enough charges.
+
 # Plan for MD8823 - XSEC Calibration - Tuesday 25th of October
 
 1) Miguel to install scope on the XSEC23 in F61

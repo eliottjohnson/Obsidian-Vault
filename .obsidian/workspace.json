@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
               }
             }
           },
@@ -222,14 +222,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3efa4917056a590d",
+  "active": "021df144a126546e",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
     "Theory/Current scaling for Ions.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Theory/MU current scaling with momentum.md",

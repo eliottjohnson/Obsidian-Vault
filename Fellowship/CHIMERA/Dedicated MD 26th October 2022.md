@@ -7,7 +7,7 @@
 
 ## High priority
 
-* Nominal slow extracted beam we will use on the 23-28 November run
+* Simulated **nominal slow extracted beam** we will use on the 23-28 November run
 	* Low energy
 	* Low intensity
 * Several minutes with fixed beam settings
