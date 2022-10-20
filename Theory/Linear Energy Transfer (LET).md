@@ -31,6 +31,18 @@ Variation is known as **straggling**
 	* type (proton, electron, ligh ion, heavy ion, etc...)
 	  material through which particle is travelling
 
+* Heavy ions
+	* Have a high Z (larger number of protons)
+	* Larger positive charge
+		* Creates more ionization
+	* > Carbon (or iron)
+
+* The heavier, higher Z (more highly charged) the particle, the higher the LET
+* At the same energy and in the same material, lighter/lower charge particles will have lower LET
+* Lighter particles will have a larger range than heavier particles
+* The LET of particles traversing denser materials will usually be higher than the LET of ions in less-dense materials
+* The range of ions will be shorter in denser materials
+
 Simulation of 1,000 50-MeV iron ions incident (from left) on a silicon target.
 Each ion has a unique path defined by random multiple interactions with target nuclei and electrons.
 Each interaction reduces the ion energy by a small amount and can change its trajectory.
