@@ -11,4 +11,16 @@
 * Blue line is the range an ion travels in the material and thus the amount of material required to stop an ion at a particular kinetic energy.
 	* i.e. with zero kinetic energy, an ion needs zero material to be stopped and does not an issue for device reliability
 
+LET and range are **statistical in nature**
+Variation is known as **straggling**
+
 ![[Pasted image 20221020144418.png]]
+
+* If shielding is not thick enough to completely stop a particle it will reduce t
+
+
+Simulation of 1,000 50-MeV iron ions incident (from left) on a silicon target.
+Each ion has a unique path defined by random multiple interactions with target nuclei and electrons.
+Each interaction reduces the ion energy by a small amount and can change its trajectory.
+Ultimately, all of the ions were “stopped” or absorbed.
+![[Pasted image 20221020145907.png]]
