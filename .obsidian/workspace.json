@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "73bf632e37c189b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/TPS15 Dummy septum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d6b98d94a1173ae",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/CHIMERA/TPS15 Dummy septum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/CHIMERA/TPS15 Dummy septum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+                "file": "Fellowship/CHIMERA/TPS15 Dummy septum.md"
               }
             }
           },
@@ -246,17 +258,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3efa4917056a590d",
+  "active": "73bf632e37c189b7",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/TPS15 Dummy septum.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Other/East Slow Extraction Eliott.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Other/Conversation with Matthew 22.09.2022.md",
     "Other/Slow extraction spill duration.md",
-    "Other/PS Beam momentum.md",
-    "Fellowship/CHIMERA/Run preparation meeting 1.md"
+    "Other/PS Beam momentum.md"
   ]
 }
