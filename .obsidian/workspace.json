@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdf1aa8bec543f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPAC 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "7c3cb09112cc30fd",
@@ -117,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
+                "query": "ipac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +156,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "IPAC 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "IPAC 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
+                "file": "IPAC 2023.md"
               }
             }
           },
@@ -228,17 +239,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c8becf9628a68010",
+  "active": "bdf1aa8bec543f05",
   "lastOpenFiles": [
+    "Short term.md",
+    "Untitled.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
     "Programming/Python codes and hacks.md",
     "Other/East Slow Extraction Eliott.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/Quadrupole scan/Parallel beam.md",
-    "Fellowship/CHIMERA/TPS15 Dummy septum.md",
-    "Untitled.md",
-    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+    "Fellowship/CHIMERA/TPS15 Dummy septum.md"
   ]
 }

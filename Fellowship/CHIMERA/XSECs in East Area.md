@@ -54,6 +54,8 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 
 1) Miguel to install scope on the XSEC23 in F61
 	* Scope is in Prevessin, needs to come to the office to grab it
-2) Send first Fast protons and Fast ions to East Dump
+2) Send a few concurrent shots to East Dump of:
+	1) Fast protons
+	2) Fast ions (the fBCT signal might be low with ions)
 3) Record 100 shots ~ 1h with protons and 100 shots with ions
 * Data saved onboard scope
