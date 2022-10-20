@@ -31,6 +31,16 @@ No protons on Wednesday (such as a spare EAST in old super cycle)
 * **MWPC Quad scan**
 	* in IRRAD/CHARM
 
+## Access
+
+* Access person from RP
+	* Arnaud Devienne
+	* Jean-François Gruber
+* One access at 16:15
+	* To install the degrader in the Montrac
+* One access at 18:30
+	* Remove the scintillator (IRRAD)
+	* Remove the diode and SRAM (CHARM)
 
 ## Low priority
 * Fast extraction and SEC calibration, see [[XSECs in East Area#Matthew]]
