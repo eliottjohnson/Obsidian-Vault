@@ -9,13 +9,22 @@ kanban-plugin: basic
 - [ ] Finish the CHIMERA doc
 - [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
 - [ ] Look at the BPM readout and MWPC readout at different energies
-- [x] Perform quadrupole scans at 750 and 400 MeV/u
-- [ ] Analysis quadrupole scan data
+- [ ] Analysis quadrupole scan data at 750 and 500 MeV/u
 - [ ] Save data from spill monitor and XSEC
-- [ ] Create a savedata script
+- [x] Create a savedata script
 - [ ] Picoscope test
-- [ ] Send Andreas BPM values from NXCALS for the parallel optics and follow up with his FLUKA simulation.
+- [x] Send Andreas BPM values from NXCALS for the parallel optics and follow up with his FLUKA simulation.
 - [ ] Check Dispersion at BPM1
+
+
+## [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
+
+- [ ] Prepare presentation for ABTEF
+
+
+## [[IPAC 2023]]
+
+- [ ] Write an Abtract<br>* Stray fields<br>* East Area ion beams
 
 
 ## Stray Field
@@ -23,15 +32,15 @@ kanban-plugin: basic
 - [ ] Magnetic measurement of a spare MU being performed, create slides for Carlo to measure stray fields
 
 
-## [[IPAC 2023]]
-
-- [ ] Think of an Abtract<br>* Stray fields<br>* East Area ion beams
-
-
 ## [[Multipole field component in MU62]]
 
 - [ ] Connect PS Ring to Transfer line
 - [ ] Track twiss from fast extraction and compare with measurement
+
+
+## MWPC Timing issue
+
+- [ ] Contact Stephen Jackson in charge of the BI-SW section
 
 
 ## [[Emittance blow-up]]
@@ -41,6 +50,15 @@ kanban-plugin: basic
 - [ ] Maybe you could track distributions kick with a thin kick after the air, recalculate the distribution and continue tracking
 - [ ] Meeting with Ruben, Andreas, Luigi and Matthew
 - [ ] Calculate a monte carlo dipole kicks (c.f. pycollimate)
+
+
+## Other
+
+- [ ] UDEMY: Python for Computer Vision
+- [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
+- [ ] Check BPM UCAP and logging if I get the same values
+- [ ] First moment, second moment
+- [ ] Fill out Topics for 2023 before next section meeting
 
 
 ## [[YASP]]
@@ -53,24 +71,6 @@ kanban-plugin: basic
 ## [[EDMS document East Dump]]
 
 - [ ] Add Reference from Giulia for the Dump
-
-
-## MWPC Timing issue
-
-- [ ] Contact Stephen Jackson in charge of the BI-SW section
-
-
-## Other
-
-- [ ] UDEMY: Python for Computer Vision
-- [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
-- [ ] Check BPM UCAP and logging if I get the same values
-- [ ] First moment, second moment
-
-
-## [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
-
-- [ ] Prepare presentation for ABTEF
 
 
 ***
@@ -114,6 +114,7 @@ kanban-plugin: basic
 - [x] Start EDMS review procedure with Thomas Birtwistle
 - [x] Plot ellipse of stray field model
 - [x] Track single particles from Matt's distribution (non-linear can't do twiss)
+- [x] Perform quadrupole scans at 750 and 400 MeV/u
 
 %% kanban:settings
 ```
