@@ -16,8 +16,20 @@ Variation is known as **straggling**
 
 ![[Pasted image 20221020144418.png]]
 
-* If shielding is not thick enough to completely stop a particle it will reduce t
-
+* If shielding is not thick enough to completely stop a particle it will reduce the particle energy
+	* This will increase the LET => more radiation induced charge
+* For microelectronics LET is a direct measure of an event's ability to upset these device
+* SEE are largely dependent on the LET
+	* microelectronics have areas extremely sensitive to charge injection
+* For heavy ions: Stopping power = LET
+	* Stopping power considers all energy-loss mechanism:
+		* radiative energy (Bremsstrahlung)
+		* delta rays production (secondary electrons)
+		* creation of atomic defects
+* LET varies as a function of particle:
+	* energy
+	* type (proton, electron, ligh ion, heavy ion, etc...)
+	  material through which particle is travelling
 
 Simulation of 1,000 50-MeV iron ions incident (from left) on a silicon target.
 Each ion has a unique path defined by random multiple interactions with target nuclei and electrons.
