@@ -26,7 +26,7 @@ No protons on Wednesday (such as a spare EAST in old super cycle)
 	* R2E
 		* counting scintillator (plastic scintillator) - only use ions because protons would damage it
 		* solid-state silicon detector
-		* SRAMs
+		* [[SRAM]]s
 
 * **MWPC Quad scan**
 	* in IRRAD/CHARM
@@ -37,7 +37,7 @@ No protons on Wednesday (such as a spare EAST in old super cycle)
 	* Arnaud Devienne
 	* Jean-François Gruber
 * One access at 16:15
-	* To install the degrader in the Montrac
+	* To install the degrader in the MONTRAC
 * One access at 18:30
 	* Remove the scintillator (IRRAD)
 	* Remove the diode and SRAM (CHARM)

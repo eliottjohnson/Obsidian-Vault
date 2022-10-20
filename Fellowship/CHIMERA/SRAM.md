@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Static_random-access_memory
+
+**Static random-access memory** (**static RAM** or **SRAM**) is a type of [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory "Random-access memory") (RAM) that uses [latching circuitry (flip-flop)](https://en.wikipedia.org/wiki/Flip-flop_(electronics) "Flip-flop (electronics)") to store each bit. SRAM is [volatile memory](https://en.wikipedia.org/wiki/Volatile_memory "Volatile memory"); data is lost when power is removed.
