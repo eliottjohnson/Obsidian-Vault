@@ -5,6 +5,11 @@
 	* Doesn't want to be "at the limit" but rather keep some **margin** to have better visibility on the instruments
 
 
+```ad-warning
+No protons on Wednesday (such as a spare EAST in old super cycle)
+```
+
+
 ## High priority
 
 * Simulated **nominal slow extracted beam** we will use on the 23-28 November run
@@ -26,13 +31,11 @@
 * **MWPC Quad scan**
 	* in IRRAD/CHARM
 
-## Medium priority
 
-
-
-### Low priority
+## Low priority
 * Fast extraction and SEC calibration, see [[XSECs in East Area#Matthew]]
 
 ## Intensity degradation
 
-Marc wants to try on the 20.11.22 to degrade the intensity with a bump on [[TPS15 Dummy septum]] with bumpers 12-20 at the start of flat top
+* Bump technique on 23
+* Marc wants to try on the 20.11.22 to degrade the intensity with a bump on [[TPS15 Dummy septum]] with bumpers 12-20 at the start of flat top
