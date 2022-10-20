@@ -32,3 +32,7 @@
 
 ### Low priority
 * Fast extraction and SEC calibration, see [[XSECs in East Area#Matthew]]
+
+## Intensity degradation
+
+Marc wants to try on the 20.11.22 to degrade the intensity with a bump on TPS15 (dummy septum) with bumpers 12-20 at the start of flat top
