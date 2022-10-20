@@ -19,8 +19,8 @@
 	* MWPC
 	* Gas scintillator spill monitor
 	* R2E
-		* counting scintillator
-		* solid-state sillicon detector
+		* counting scintillator (plastic scintillator) - only use ions because protons would damage it
+		* solid-state silicon detector
 		* SRAMs
 
 * **MWPC Quad scan**
