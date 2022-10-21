@@ -18,7 +18,7 @@ Low energy
 
 ## 1900 Gauss
 
-![[kinetic_energy_lookup_table_zoom_B_field.png|825]]
+![[kinetic_energy_lookup_table_zoom_B_field.png|800]]
 
 ![[Fellowship/CHIMERA/Attachments/kinetic_energy_lookup_table_zoom_B_field.png]]
 
