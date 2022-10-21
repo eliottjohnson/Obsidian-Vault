@@ -70,3 +70,9 @@ Can be found the in data folder
 ### 500 MeV/u spill history
 
 ![[xsec_spill_history_500_MeV.png|400]]
+
+
+## Scraping via TFB BLU
+
+[Logbook entry from Marc](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3637249)
+
