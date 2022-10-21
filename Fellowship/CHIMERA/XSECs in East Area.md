@@ -50,7 +50,7 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 * BCT signal is at its detection limit for 1e11 protons (i.e. charges). If there are less charges than this, it will not detect.
 * This means that for ions, it won't detect either as they are not enough charges.
 
-# Plan for MD8823 - XSEC Calibration - Tuesday 25th of October
+# XSEC Calibration - Plan for MD8823 - Tuesday 25th of October
 
 1) Miguel to install scope on the XSEC23 in F61
 	* Scope is in Prevessin, needs to come to the office to grab it
@@ -58,6 +58,7 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 	1) Fast protons
 		* Several intensities
 		* ![[xsec_intensity.png|500]]
+		* `PR.BCT/HotspotIntensity#dcBefEje2`
 	2) Fast ions (the fBCT signal might be low with ions)
 3) Record 100 shots ~ 1h with protons and 100 shots with ions
 * Data saved onboard scope
