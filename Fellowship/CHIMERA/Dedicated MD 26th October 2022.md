@@ -28,11 +28,20 @@ No protons on Wednesday (such as a spare EAST in old super cycle)
 		* solid-state silicon detector
 		* [[SRAM]]s
 
-* **MWPC Quad scan**
+* **MWPC Quadrupole scan**, (30-60 min)
 	* in IRRAD/CHARM
 	* two last quads
-	* minimum
-	* 
+	* find minimum
+	* before degrader installation
+	* high intensity
+	* (would actually be best at 2 GeV/u to have less air scattering)
+
+* **Intensity scan**, test three techniques (1 h):
+	* LEQ strength and function shape
+	* Bump23 strength
+	* Bump23 + Feedback that shakes the beam
+All the intensity would be at SE flat-top
+Test spill length
 
 ## Access
 
