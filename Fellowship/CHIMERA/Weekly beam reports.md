@@ -7,3 +7,4 @@ Ruben would like weekly beam reports during heavy MD and beam improvement.
 
 ![](file:///C:/Users/ELIOTT~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
 
+![[Pasted image 20221021111903.png]]

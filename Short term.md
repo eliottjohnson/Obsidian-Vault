@@ -30,6 +30,9 @@ kanban-plugin: basic
 ## Stray Field
 
 - [ ] Magnetic measurement of a spare MU being performed, create slides for Carlo to measure stray fields
+- [ ] Continue with code ps_extraction/east-fast-extraction/stitched_slow_extraction_east_PTC_single_turn.ipynb
+- [ ] Continue with code ps_extraction/east-fast-extraction/stitched_slow_extraction_east-PTC.ipynb
+- [ ] Continue with code east-fast-extraction/ptc_track_in_ps.ipynb
 
 
 ## [[Multipole field component in MU62]]
