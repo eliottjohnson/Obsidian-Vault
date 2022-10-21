@@ -135,8 +135,7 @@
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FLUKA.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FLUKA.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FLUKA.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -266,8 +265,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9b5188e6b9a7a6dd",
+  "active": "3efa4917056a590d",
   "lastOpenFiles": [
+    "FLUKA.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Short term.md",
     "Fellowship/CHIMERA/Weekly beam reports.md",
@@ -276,7 +276,6 @@
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Other/EAST slow extraction.md",
-    "Other/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
-    "Other/East Slow Extraction Eliott.md"
+    "Other/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md"
   ]
 }
