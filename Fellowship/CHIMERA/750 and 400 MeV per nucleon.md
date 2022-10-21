@@ -13,9 +13,8 @@ We see two peaks and those can be corrected with LEQ
 ## Spill optimisation (intensity reduction and length increase) Tuesday 18.10.22
 
 * [ ] try to reduce XSE strength
-* [ ] try to do a local bump on TPS15
+* [ ] try to do a local bump on [[TPS15 Dummy septum]]
 * [ ] try to reduce extracted intensity by changing QX_LEQ  (degraded extraction, tune kept a bit further from the resonance)
-
 
 Reduced the intensity by using the bump 23 in the opposite direction. Kicking away from the septum.
 Think about the ramp on POPS and the radial position of the beam during the ramping of POPS

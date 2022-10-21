@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "air scattering",
+                "query": "bump 23",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +172,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,7 +255,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "67051c6e0e9fcfcc",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Other/EAST slow extraction.md",
