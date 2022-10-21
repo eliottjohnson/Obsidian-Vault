@@ -30,6 +30,9 @@ No protons on Wednesday (such as a spare EAST in old super cycle)
 
 * **MWPC Quad scan**
 	* in IRRAD/CHARM
+	* two last quads
+	* minimum
+	* 
 
 ## Access
 

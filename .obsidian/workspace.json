@@ -123,8 +123,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -254,8 +253,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c826cbafa45a4f13",
+  "active": "3efa4917056a590d",
   "lastOpenFiles": [
+    "Short term.md",
     "Fellowship/CHIMERA/Weekly beam reports.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CHIMERA/SRAM.md",
@@ -264,7 +264,6 @@
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Other/EAST slow extraction.md",
     "Other/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
-    "Other/East Slow Extraction Eliott.md",
-    "Other/IPAC 2023.md"
+    "Other/East Slow Extraction Eliott.md"
   ]
 }
