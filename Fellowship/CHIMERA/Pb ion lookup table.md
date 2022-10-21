@@ -18,11 +18,11 @@ Low energy
 
 ## 1900 Gauss
 
-![[kinetic_energy_lookup_table_zoom_B_field.png|1075]]
+![[kinetic_energy_lookup_table_zoom_B_field.png|825]]
 
-
+![[Fellowship/CHIMERA/Attachments/kinetic_energy_lookup_table_zoom_B_field.png]]
 
 The ramp on POPS [[Cern Control Center Tips and Tricks#Change the B-field of the PS]] changes the energy of the ions
 [Logbook entry](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3635313)
 
-![[Pasted image 20221018111720.png]]
+![[Pasted image 20221018111720.png|725]]
