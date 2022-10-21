@@ -1,14 +1,12 @@
 
-Plot beam enveloppe, beam size along the line
+Plot beam envelope, beam size along the line
 
 Heatmap / contour plot 
 
 Provide the aperture to Andreas
 
 Plot rms dp/p
-distribution of the enveloppe would go into the lower side, on the negative
-
-
+distribution of the envelope would go into the lower side, on the negative
 
 
 plot loss due to inelastic scattering along the line
