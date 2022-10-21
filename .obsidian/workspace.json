@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Other/EAST slow extraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xsec",
+                "query": "pr.bct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Other/EAST slow extraction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Other/EAST slow extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
+                "file": "Other/EAST slow extraction.md"
               }
             }
           },
@@ -267,11 +267,11 @@
   },
   "active": "c8becf9628a68010",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/XSECs in East Area.md",
     "FLUKA continuation.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Short term.md",
     "Fellowship/CHIMERA/Weekly beam reports.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CHIMERA/SRAM.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
