@@ -20,6 +20,8 @@ Low energy
 
 ![[kinetic_energy_lookup_table_zoom_B_field.png|1075]]
 
+
+
 The ramp on POPS [[Cern Control Center Tips and Tricks#Change the B-field of the PS]] changes the energy of the ions
 [Logbook entry](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3635313)
 

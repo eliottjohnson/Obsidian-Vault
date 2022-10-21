@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
               }
             }
           },
@@ -255,8 +255,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "c826cbafa45a4f13",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Other/EAST slow extraction.md",
     "Other/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
@@ -265,7 +266,6 @@
     "Other/IPAC 2023.md",
     "Short term.md",
     "Theory/Linear Energy Transfer (LET).md",
-    "Theory/Attachments/Pasted image 20221020144418.png",
-    "Theory/Ion kinetic energy.md"
+    "Theory/Attachments/Pasted image 20221020144418.png"
   ]
 }
