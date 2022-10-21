@@ -15,6 +15,7 @@ No protons on Wednesday (such as a spare EAST in old super cycle)
 * Simulated **nominal slow extracted beam** we will use on the 23-28 November run
 	* Low energy **750 MeV/u** (20 min)
 	* Low intensity
+
 * Several minutes with fixed beam settings
 	* Perform characterization with **solid-state detector**
 	* One beam configuration will be broken down with **degrader**
