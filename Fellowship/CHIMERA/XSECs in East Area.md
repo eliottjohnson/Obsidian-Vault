@@ -59,6 +59,7 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 		* Several intensities
 		* ![[xsec_intensity.png|500]]
 		* `PR.BCT/HotspotIntensity#dcBefEje2`
+		* `F61.BCT01/Acquisition#totalIntensityAutoCh1`
 	2) Fast ions (the fBCT signal might be low with ions)
 3) Record 100 shots ~ 1h with protons and 100 shots with ions
 * Data saved onboard scope
