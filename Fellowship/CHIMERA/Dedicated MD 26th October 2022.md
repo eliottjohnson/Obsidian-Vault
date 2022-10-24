@@ -1,11 +1,11 @@
 ## Beam settings
 
-* We will use during the whole MD the 750 MeV/u Pb ion beam
+* We will use during the whole MD the **750 MeV/u Pb ion beam**
 	* Trade-off between lower energies and intensities
 	* We won't be "at the limit" but rather keep some **margin** to have better visibility on the instruments
 
 ```ad-warning
-**No protons on Wednesday** (such as a spare EAST in old super cycle)
+**No protons on Wednesday** (such as a spare EAST in old super cycle) as this would break the plastic scintillator
 ```
 
 ## High priority
@@ -23,7 +23,7 @@
 	* MWPC
 	* Gas scintillator spill monitor
 	* R2E
-		* counting scintillator (plastic scintillator) - only use ions because protons would damage it
+		* [[counting scintillator (plastic scintillator)]] - only use ions because protons would damage it
 		* solid-state silicon detector
 		* [[SRAM]]s
 

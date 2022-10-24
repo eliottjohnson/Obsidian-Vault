@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3efa4917056a590d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31748cd1f70aeb2f",
             "type": "leaf",
             "state": {
@@ -50,18 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "Fellowship/CHIMERA/XSECs in East Area.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c826cbafa45a4f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5df210e321fafd63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BPM nxcals",
+                "query": "26th",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
+                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
+                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md"
+                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md"
               }
             }
           },
@@ -257,17 +245,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dbf3e4df5afc6261",
+  "active": "5df210e321fafd63",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Fellowship/Quadrupole scan/BTV filters.md",
+    "Other/EAST slow extraction.md",
+    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
     "Other/BPMs in T8.md",
     "Other/IPAC 2023.md",
-    "Short term.md",
-    "Programming/Python codes and hacks.md",
-    "Programming/Powerpoint.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/EAST transfer lines/Request change in calibration curves.md",
-    "Theory/Current scaling for Ions.md",
-    "Programming/Linux + Technical.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+    "Short term.md"
   ]
 }
