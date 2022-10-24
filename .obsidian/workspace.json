@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/VLC video stream.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/VLC video stream.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/VLC video stream.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -209,8 +208,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d7afd4793c43c3d2",
+  "active": "3efa4917056a590d",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/VLC video stream.md",
     "Fellowship/Quadrupole scan/Time dependant optics.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Other/EAST slow extraction.md",
@@ -219,7 +219,6 @@
     "Short term.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/SRAM.md",
-    "Theory/Linear Energy Transfer (LET).md",
-    "Fellowship/Quadrupole scan/Emittance blow-up.md"
+    "Theory/Linear Energy Transfer (LET).md"
   ]
 }
