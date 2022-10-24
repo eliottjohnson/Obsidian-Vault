@@ -23,8 +23,23 @@
 #### Single Event Transients (SETs)
 * Occurs when an energetic ion traverses an electronic device (if it has enough energy to reach the semiconductor substrate where the active device is place)
 * The ion leaves a high density of ionized excess **electron-hole (e-h) pairs** (charge carriers) in its wake
-* Restorative mechanisms
+* **Restorative mechanisms**
 	1) Carrier recombination
+		* Process that eliminates excess charge when electrons recombine with holes
+		* If e-h at immobile
+			* The hole will capture the electron (the e- and h+ charge will cancel out)
+			* Each recombination event removes charge incrementally
+		* In real material, carriers move (are **transported**) in two ways:
+			1) **Diffusion**
+				* Local concentration gradient (ion produces excess charge distribution) pushes away the high excess concentration of charge carriers
+				* Drop of ink in clear water analogy
+				* The charge disperse throughout the volume of water
+			2) **Drift**
+				* Force of transport is the **local electric field**
+				* Anode (-) attracts positively charged holes
+				* Cathode (+) attracts electrons
+		* If the ion passes near an active device, the generated charge can be collect and wreak havoc with the operation of microelectronics
+	2) Carrier transport
 #### Single Event Upsets (SEUs)
 #### Single Event functional interrupts (SEFIs)
 #### Single Event Latchups (SELs)
