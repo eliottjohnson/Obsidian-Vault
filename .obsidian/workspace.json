@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87d56aa67cfd3662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pb ion",
+                "query": "smh57",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
               }
             }
           },
@@ -233,8 +245,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "df6c8724b51f9982",
+  "active": "87d56aa67cfd3662",
   "lastOpenFiles": [
+    "Fellowship/EAST transfer lines/Request change in calibration curves.md",
+    "Theory/Current scaling for Ions.md",
     "Programming/Powerpoint.md",
     "Programming/Python codes and hacks.md",
     "Programming/Linux + Technical.md",
@@ -242,8 +256,6 @@
     "Fellowship/Quadrupole scan/VLC video stream.md",
     "Fellowship/Quadrupole scan/Time dependant optics.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Other/EAST slow extraction.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+    "Other/EAST slow extraction.md"
   ]
 }

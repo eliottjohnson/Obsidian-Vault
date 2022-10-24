@@ -1,6 +1,6 @@
 # Cern Control Center Tips and Tricks
 
-## How to find the calibration curve
+## How to find the calibration curve / transfer function
 
 Many elements, dipole, quadrupole have calibration curves from current in A to Testla or integrated Field. Do find them:
 
