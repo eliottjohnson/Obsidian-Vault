@@ -26,3 +26,9 @@ japc.getParam("PS-LOG-BPM-IRRAD-UCAP_BPM_01/Positions")
 
 * Even if no beam, the BPM will trigger every 2 min
 * The UCAP device does a different fit than the IRRAD Vistar (Irrad vistar fits only the center lines)
+
+## BPM data logged on the IRRAD website
+
+https://ps-irrad.web.cern.ch/ps-irrad/results.php
+
+![[Pasted image 20221024115049.png|875]]
