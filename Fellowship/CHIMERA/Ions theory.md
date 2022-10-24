@@ -1,8 +1,8 @@
 # Ions theory
 
 ## Lead Pb
-![[Pasted image 20220919103331.png]]
 
+![[Pasted image 20221024154239.png|650]]
 Atomic number (Z), proton number ($n_{p}$) or charge number = 82
 
 Pb 80+ means you almost fully stripped the lead atom from its electron (2 $e^{-}$ left)

@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "850aed4cfe259158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Ions theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Linear Energy Transfer (LET).md",
+                "file": "Fellowship/CHIMERA/Ions theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Linear Energy Transfer (LET).md",
+                "file": "Fellowship/CHIMERA/Ions theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Linear Energy Transfer (LET).md"
+                "file": "Fellowship/CHIMERA/Ions theory.md"
               }
             }
           },
@@ -270,11 +282,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5df210e321fafd63",
+  "active": "850aed4cfe259158",
   "lastOpenFiles": [
+    "Theory/Linear Energy Transfer (LET).md",
     "Theory/Radiation effects in electronics-single-event effects.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Theory/Linear Energy Transfer (LET).md",
     "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
     "Fellowship/CHIMERA/SRAM.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
