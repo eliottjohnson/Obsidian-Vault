@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Programming/Python codes and hacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4826d76ad40f47ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Powerpoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df6c8724b51f9982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Current scaling for Ions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vlc",
+                "query": "pb ion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+                "file": "Theory/Current scaling for Ions.md"
               }
             }
           },
@@ -208,17 +233,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3efa4917056a590d",
+  "active": "df6c8724b51f9982",
   "lastOpenFiles": [
+    "Programming/Powerpoint.md",
+    "Programming/Python codes and hacks.md",
+    "Programming/Linux + Technical.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/VLC video stream.md",
     "Fellowship/Quadrupole scan/Time dependant optics.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Other/EAST slow extraction.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Short term.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/SRAM.md",
-    "Theory/Linear Energy Transfer (LET).md"
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
   ]
 }
