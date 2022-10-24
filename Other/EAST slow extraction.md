@@ -349,7 +349,7 @@ See [[East Slow Extraction Eliott]] for my notes.
  | 
 | ![](https://codimd.web.cern.ch/uploads/upload_86bb018c457d8495ae86b287611e507d.png)| ![](https://codimd.web.cern.ch/uploads/upload_516317576e8531c1553b28e3f96e4502.png)
  | 
-| ![](https://codimd.web.cern.ch/uploads/upload_84825afc6b3f1d8a6b30cd0faf0f57bd.png)| ![](https://codimd.web.cern.ch/uploads/upload_ed69232086788ef228efaad7f102141a.png)
+| ![](https://codimd.web.cern.ch/uploads/upload_84825afc6b3f1d8a6b30cd0faf0f57bd.png)| ![|1000](https://codimd.web.cern.ch/uploads/upload_ed69232086788ef228efaad7f102141a.png)
  | 
 | ![](https://codimd.web.cern.ch/uploads/upload_e69d03aed4d18d867dc774fb3336f4d9.png)| ![](https://codimd.web.cern.ch/uploads/upload_951e84a9319d5e983569f32f6b50f5fa.png)
  | 
@@ -460,8 +460,8 @@ Immediately upstream of Q74:
 ![](https://codimd.web.cern.ch/uploads/upload_e23c8e37a425a72287d20bb8f2edfa4a.png)
 
 * Post meeting correspondance with Felix: `Please find attached the plot (Picture 1) showing the charge state distribution for lead ions (starting at Pb54+) colliding with an Al foil at 5900 MeV/u. As discussed the scarce experimental data in this energy range lets us expect a probable shift of the charge state distribution to the left (see Picture 2 showing 2 variants of calculations taking into account the experimental findings), which however can only be determined better the more experimental data is available.`
-* ![](https://codimd.web.cern.ch/uploads/upload_9a65215cd0d233c721a40951a81a4eb0.jpg)
-* ![](https://codimd.web.cern.ch/uploads/upload_91a6032cd7567c06dbd11b486f3b4c0b.jpg)
+* ![|875](https://codimd.web.cern.ch/uploads/upload_9a65215cd0d233c721a40951a81a4eb0.jpg)
+* ![|950](https://codimd.web.cern.ch/uploads/upload_91a6032cd7567c06dbd11b486f3b4c0b.jpg)
 
 **Clearly the ions will be almost fully stripped in SEH23**
 
@@ -479,11 +479,11 @@ Immediately upstream of Q74:
 * Even the loss of a single electron in passing the SEH23 would lead to beam loss on the PS aperture between the SEH23 and SMH57
     * DELTAP = $1 - 54/55$ = 1.8 %
     * Initial conditions shown by the markers, launched downstream of SEH23:
-    ![](https://codimd.web.cern.ch/uploads/upload_a9f8a28982e66df751460bbdad1231ff.png)
+    ![|1000](https://codimd.web.cern.ch/uploads/upload_a9f8a28982e66df751460bbdad1231ff.png)
 
-![](https://codimd.web.cern.ch/uploads/upload_d98ca9f05f3998637e5323940b18a689.png)
+![|1000](https://codimd.web.cern.ch/uploads/upload_d98ca9f05f3998637e5323940b18a689.png)
 
-![](https://codimd.web.cern.ch/uploads/upload_57719e072d1a677292b6b74d226c0267.png)
+![|1000](https://codimd.web.cern.ch/uploads/upload_57719e072d1a677292b6b74d226c0267.png)
 
 
 
@@ -494,14 +494,14 @@ Immediately upstream of Q74:
 * Using pycollimate `Collimator` object with protons (Al with 25 $\mu$m thickness)
 * Check pycollimate routine (all scattering processes vs. multiple Coulomb scattering):
     * Source term is generated at SEH23 and at 24 GeV/c (used for all $p_0$ in plots below). MCS becomes important below about 5 GeV/c 
-    * ![](https://codimd.web.cern.ch/uploads/upload_57f8dbd2ec8712b8c8e9dfbdf69bfe8a.png)
-    * ![](https://codimd.web.cern.ch/uploads/upload_957eac2dfe2512bb0136bd9dcd30e294.png)
+    * ![|950](https://codimd.web.cern.ch/uploads/upload_57f8dbd2ec8712b8c8e9dfbdf69bfe8a.png)
+    * ![|950](https://codimd.web.cern.ch/uploads/upload_957eac2dfe2512bb0136bd9dcd30e294.png)
     * Rare events (large-angle scattering etc.) introduce noise. 
-    * ![](https://codimd.web.cern.ch/uploads/upload_30ef1707d163347d3d871c4bfa54aa41.png)
+    * ![|925](https://codimd.web.cern.ch/uploads/upload_30ef1707d163347d3d871c4bfa54aa41.png)
 
 * Compute emittance growth through 2 foils:
     * Impact of foils is small at all energies (scaled intial source distribution by $1/(\beta_{rel}\gamma_{rel}$):
-    * ![](https://codimd.web.cern.ch/uploads/upload_628065e9e861612bc18e97aa3c6ece9c.png)
+    * ![|900](https://codimd.web.cern.ch/uploads/upload_628065e9e861612bc18e97aa3c6ece9c.png)
 
 # Maximum spill length (example from DIRAC in T8 from 2011
 
@@ -521,19 +521,19 @@ Immediately upstream of Q74:
 
 * Comment: Dispersion vector at the SEH23 is in the wrong direction (D,D') = (+,-) **We need to flip the sign of the chromaticity to achieve the Hardt condition at the SEH23!**
 
-![](https://codimd.web.cern.ch/uploads/upload_79b8bdfebbd9c312e38b0c244ee3beec.png)
+![|950](https://codimd.web.cern.ch/uploads/upload_79b8bdfebbd9c312e38b0c244ee3beec.png)
 
 * Standard theory (explained nicely by M. Benedikt):
 
-![](https://codimd.web.cern.ch/uploads/upload_19768a434f67ecbb0df7a360cb64745e.png)
+![|850](https://codimd.web.cern.ch/uploads/upload_19768a434f67ecbb0df7a360cb64745e.png)
 
 
-![](https://codimd.web.cern.ch/uploads/upload_e5df1c06920821168593674a3340bb27.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_e5df1c06920821168593674a3340bb27.png)
 
-![](https://codimd.web.cern.ch/uploads/upload_41670faf1718c6ce23bfcce46b01f4fc.png)
+![|825](https://codimd.web.cern.ch/uploads/upload_41670faf1718c6ce23bfcce46b01f4fc.png)
 
 
-![](https://codimd.web.cern.ch/uploads/upload_5b289f88c9087cff12acb4fb82cc237e.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_5b289f88c9087cff12acb4fb82cc237e.png)
 
 * In the PS case separatrix arm C is cut, $\alpha_0 = 420$ deg and $\Delta\mu = 140$ deg: 
     * $\alpha_0 - \Delta\mu = 280$ deg
@@ -542,7 +542,7 @@ Immediately upstream of Q74:
 
 * Imagining that I could adjust the virtual sextupole location and change $\Delta\mu$:
 
-![](https://codimd.web.cern.ch/uploads/upload_0c35d20ad200a7774bfaacc6e62ea414.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_0c35d20ad200a7774bfaacc6e62ea414.png)
 
 **It looks like I am missing a phase of $\pi$ or a minus sign (related to the polarity at which particles approach resonance and the flip of the stable triangle at the virtual sextupole)**
 
@@ -558,7 +558,7 @@ Immediately upstream of Q74:
 
 Driving term from XSE's only | Driving term from all sextpole components (inc. main units SBEND and MULTIPOLE elements)
 - | -
-![](https://codimd.web.cern.ch/uploads/upload_9592efd3302574144794241fec818082.png) | ![](https://codimd.web.cern.ch/uploads/upload_385ff2365db0560c9262da56adc6c9e8.png)
+![|975](https://codimd.web.cern.ch/uploads/upload_9592efd3302574144794241fec818082.png) | ![](https://codimd.web.cern.ch/uploads/upload_385ff2365db0560c9262da56adc6c9e8.png)
 
 ### Flipped chromaticity ($Q' > 0 = +2.5$): strong sextupole components in PFW
 
@@ -643,14 +643,14 @@ $Q' > 0= 2.5$ | ![](https://codimd.web.cern.ch/uploads/upload_16f18868e813e9a04c
 
 * No apparent closure of the bump created by an equal and opposite misalignments of the QSE magnets (SEG23 and SMH57 locations shown with  black lines):
 
-![](https://codimd.web.cern.ch/uploads/upload_e510d8ef42bc7d798e6753e7784789dd.png)
+![|1000](https://codimd.web.cern.ch/uploads/upload_e510d8ef42bc7d798e6753e7784789dd.png)
 
 * Actually, misaligning both quads makes the closed-orbit oscillation worse: large oscillations of 5 - 8 mm
 * The offsets were probably implemented emprically and I would guess evolved over time as the closed-orbit changed and aperture bottlenecks appeared
 
 * Check with misalignement in the same direction:
 
-![](https://codimd.web.cern.ch/uploads/upload_51900377cd0a95cf8ce139fbc662048a.png)
+![|1000](https://codimd.web.cern.ch/uploads/upload_51900377cd0a95cf8ce139fbc662048a.png)
 
 # Aperture
 
@@ -666,19 +666,19 @@ $Q' > 0= 2.5$ | ![](https://codimd.web.cern.ch/uploads/upload_16f18868e813e9a04c
 
 ## QSE29 -15 mm
 
-![](https://codimd.web.cern.ch/uploads/upload_e946fe2fdc21d879e6121f1de7bccea2.png)
+![|975](https://codimd.web.cern.ch/uploads/upload_e946fe2fdc21d879e6121f1de7bccea2.png)
 
 * Makes the bottleneck in SS09 slightly worse
 
 ## QSE87 +15 mm
 
-![](https://codimd.web.cern.ch/uploads/upload_63f8dd22e5f6babe2ca8f74aa717cee8.png)
+![|975](https://codimd.web.cern.ch/uploads/upload_63f8dd22e5f6babe2ca8f74aa717cee8.png)
 
 * Makes the bottleneck in SS09 slightly worse
 
 ## QSE29 and 87 +-15 mm
 
-![](https://codimd.web.cern.ch/uploads/upload_04fc5070408ab6dac8ea7ba50a5cdb48.png)
+![|975](https://codimd.web.cern.ch/uploads/upload_04fc5070408ab6dac8ea7ba50a5cdb48.png)
 
 # Implementation of AutoSPILL
 
@@ -696,7 +696,7 @@ $Q' > 0= 2.5$ | ![](https://codimd.web.cern.ch/uploads/upload_16f18868e813e9a04c
 
 * Post-meeting follow-up, Alex noticed that in an old drawing of SS01, an air-quadrupole (element number 3) was used for 50 Hz compensation. This part of the SS is still empty, so the space could be re-used, if required.
 
-![](https://codimd.web.cern.ch/uploads/upload_937c069627dd557f8e1ac4558385dee1.png)
+![|975](https://codimd.web.cern.ch/uploads/upload_937c069627dd557f8e1ac4558385dee1.png)
 
 
 # Optics checks
