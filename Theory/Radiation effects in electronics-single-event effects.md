@@ -23,6 +23,8 @@
 #### Single Event Transients (SETs)
 * Occurs when an energetic ion traverses an electronic device (if it has enough energy to reach the semiconductor substrate where the active device is place)
 * The ion leaves a high density of ionized excess **electron-hole (e-h) pairs** (charge carriers) in its wake
+* Restorative mechanisms
+	1) Carrier recombination
 #### Single Event Upsets (SEUs)
 #### Single Event functional interrupts (SEFIs)
 #### Single Event Latchups (SELs)

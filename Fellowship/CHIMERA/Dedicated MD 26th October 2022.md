@@ -59,7 +59,11 @@ Call Andreas and Natalia before and after beam modification to inform them when 
 
 ## Access
 
-Scintillator installation with irrad 
+IRRAD access is planned from 09:00 to 12:00. The cryostat needs an hour to move plus some additional time for the entry and exit of the zone. They'll stop the beam between 00:00 and 01:00 the night before.
+
+Andreas and Natalia will install the plastic scintillator also during the 09:00 to 12:00 access and will require much less time
+
+3h PS shutdown overlaps with the access
 
 * Access person from RP
 	* Arnaud Devienne

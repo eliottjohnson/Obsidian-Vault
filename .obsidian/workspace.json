@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Theory/Radiation effects in electronics-single-event effects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Theory/Radiation effects in electronics-single-event effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+                "file": "Theory/Radiation effects in electronics-single-event effects.md"
               }
             }
           },
@@ -270,12 +270,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d11d0f0ccac22b1e",
+  "active": "1de153e7443d2c76",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Theory/Radiation effects in electronics-single-event effects.md",
     "Theory/Linear Energy Transfer (LET).md",
     "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/SRAM.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
