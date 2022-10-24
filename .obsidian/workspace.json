@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Radiation effects in electronics-single-event effects.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Radiation effects in electronics-single-event effects.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Radiation effects in electronics-single-event effects.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -270,10 +270,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1de153e7443d2c76",
+  "active": "d11d0f0ccac22b1e",
   "lastOpenFiles": [
-    "Theory/Linear Energy Transfer (LET).md",
     "Theory/Radiation effects in electronics-single-event effects.md",
+    "Theory/Linear Energy Transfer (LET).md",
     "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/SRAM.md",

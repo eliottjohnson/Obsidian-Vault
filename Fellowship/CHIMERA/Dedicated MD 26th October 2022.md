@@ -59,7 +59,7 @@ Call Andreas and Natalia before and after beam modification to inform them when 
 
 ## Access
 
-Scintillator installation
+Scintillator installation with irrad 
 
 * Access person from RP
 	* Arnaud Devienne
