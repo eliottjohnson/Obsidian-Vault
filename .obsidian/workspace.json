@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "4826d76ad40f47ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Powerpoint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31748cd1f70aeb2f",
             "type": "leaf",
             "state": {
@@ -114,6 +102,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3f1a6764a476e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/IPAC 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 8
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smh57",
+                "query": "IPAC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Other/IPAC 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Other/IPAC 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+                "file": "Other/IPAC 2023.md"
               }
             }
           },
@@ -245,17 +245,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "87d56aa67cfd3662",
+  "active": "a3f1a6764a476e8f",
   "lastOpenFiles": [
+    "Short term.md",
+    "Programming/Python codes and hacks.md",
+    "Programming/Powerpoint.md",
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/EAST transfer lines/Request change in calibration curves.md",
     "Theory/Current scaling for Ions.md",
-    "Programming/Powerpoint.md",
-    "Programming/Python codes and hacks.md",
     "Programming/Linux + Technical.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/VLC video stream.md",
-    "Fellowship/Quadrupole scan/Time dependant optics.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Other/EAST slow extraction.md"
+    "Fellowship/Quadrupole scan/Time dependant optics.md"
   ]
 }
