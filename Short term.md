@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [ ] Picoscope test
 - [x] Send Andreas BPM values from NXCALS for the parallel optics and follow up with his FLUKA simulation.
 - [ ] Check Dispersion at BPM1
+- [ ] Correlation between XSEC and scintillator during the 750 and 500 MeV spill test
 
 
 ## [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
