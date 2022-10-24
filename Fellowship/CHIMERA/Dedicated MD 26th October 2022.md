@@ -36,9 +36,14 @@ Test spill length
 
 ## Schedule
 
+```ad-important
+
+Call Andreas and Natalia before and after beam modification to inform them when they can start logging data. They will separate the data logging into separate files.
+
+```
+
 * Beam setup
 	* Keep a note of the LEQ settings for afternoon degrader test
-* Call Andreas and Natalia for them to start a new logging file
 * High intensity data taking (~20 min)
 * Low intensity setup (~ 20 min)
 	* Keep a note of the LEQ settings + Bump23 height for afternoon degrader test
