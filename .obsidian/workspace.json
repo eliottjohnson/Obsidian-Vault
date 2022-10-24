@@ -59,9 +59,11 @@
             "id": "c826cbafa45a4f13",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Short term.md"
+                "file": "Fellowship/Quadrupole scan/BTV filters.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xsec",
+                "query": "slow extraction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Fellowship/Quadrupole scan/BTV filters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Fellowship/Quadrupole scan/BTV filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Fellowship/Quadrupole scan/BTV filters.md"
               }
             }
           },
@@ -198,12 +199,12 @@
   },
   "active": "c826cbafa45a4f13",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Short term.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/SRAM.md",
     "Other/EAST slow extraction.md",
     "Theory/Linear Energy Transfer (LET).md",
-    "Short term.md",
     "Fellowship/Quadrupole scan/Emittance blow-up.md",
     "Other/IPAC 2023.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
