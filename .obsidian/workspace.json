@@ -109,6 +109,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17d0379a627beefd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
                 "mode": "source",
                 "source": false
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -247,6 +259,7 @@
   },
   "active": "5df210e321fafd63",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
@@ -255,7 +268,6 @@
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
     "Other/BPMs in T8.md",
-    "Other/IPAC 2023.md",
-    "Short term.md"
+    "Other/IPAC 2023.md"
   ]
 }

@@ -34,6 +34,8 @@
 All the intensity would be at SE flat-top
 Test spill length
 
+![[Pasted image 20221024130702.png|975]]
+
 ## Schedule
 
 ```ad-important
@@ -65,6 +67,7 @@ Call Andreas and Natalia before and after beam modification to inform them when 
 * One access at **18:30**
 	* Remove the scintillator (IRRAD)
 	* Remove the diode and SRAM (CHARM)
+
 
 ## Low priority
 * **MWPC Quadrupole scan**, (30-60 min)
