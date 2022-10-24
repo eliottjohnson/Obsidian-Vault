@@ -109,7 +109,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Theory/Linear Energy Transfer (LET).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de153e7443d2c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Radiation effects in electronics-single-event effects.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "26th",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +186,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Theory/Radiation effects in electronics-single-event effects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Theory/Radiation effects in electronics-single-event effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+                "file": "Theory/Radiation effects in electronics-single-event effects.md"
               }
             }
           },
@@ -257,17 +270,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5df210e321fafd63",
+  "active": "1de153e7443d2c76",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
+    "Theory/Linear Energy Transfer (LET).md",
+    "Fellowship/CHIMERA/SRAM.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
     "Other/EAST slow extraction.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
-    "Other/BPMs in T8.md",
-    "Other/IPAC 2023.md"
+    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md"
   ]
 }
