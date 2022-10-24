@@ -128,12 +128,12 @@
             }
           },
           {
-            "id": "17d0379a627beefd",
+            "id": "d11d0f0ccac22b1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -273,14 +273,14 @@
   "active": "1de153e7443d2c76",
   "lastOpenFiles": [
     "Theory/Linear Energy Transfer (LET).md",
-    "Fellowship/CHIMERA/SRAM.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Theory/Radiation effects in electronics-single-event effects.md",
     "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/SRAM.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
     "Other/EAST slow extraction.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md"
+    "Programming/Python codes and hacks.md"
   ]
 }
