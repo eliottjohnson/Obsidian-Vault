@@ -6,7 +6,7 @@
 
 
 ```ad-warning
-No protons on Wednesday (such as a spare EAST in old super cycle)
+**No protons on Wednesday** (such as a spare EAST in old super cycle)
 ```
 
 
