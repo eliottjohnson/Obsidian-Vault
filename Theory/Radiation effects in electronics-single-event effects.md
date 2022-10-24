@@ -1,3 +1,4 @@
+[Source TI Handbook](https://www.ti.com/seclit/eb/sgzy002a/sgzy002a.pdf)
 
 * Radiation impacts semiconductor in three ways:
 	1) Single-event effects (SEEs)
@@ -16,13 +17,21 @@
 	* Circuit functionality returns after a short duration once the excess charge in the struck junctions has been removed
 * In memory component
 	* Radiation event can change the data state of the erroneous state
-	* Data is erroneous and persistant until the subsequent overwrite of the data
+	* Data is erroneous and persistent until the subsequent overwrite of the data
 	* No damage to the device, only the **data is corrupted**
 
-* Single Event Transients (SETs)
-* Single Event Upsets (SEUs)
-* Single Event functional interrupts (SEFIs)
-* Single Event Latchups (SELs)
+#### Single Event Transients (SETs)
+* Occurs when an energetic ion traverse 
+#### Single Event Upsets (SEUs)
+#### Single Event functional interrupts (SEFIs)
+#### Single Event Latchups (SELs)
 	* Max current is limited such as permanent damage does not occur
 
-### Destructive SEEs
+### Destructive SEEs (hard errors)
+
+* Can be the same effects as from soft errors but the device is permanently damaged or destroyed
+
+Power electronics errors (higher operating currents and voltages)
+#### Single Event Latchups (SELs)
+#### Single Event Gate Rupture (SEGR)
+#### Single Event Burnout (SEB)

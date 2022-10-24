@@ -1,4 +1,5 @@
 {
   "things-style@@strong-color": "#D61F65",
-  "things-style@@em-color": "#DE1260"
+  "things-style@@em-color": "#DE1260",
+  "things-style@@h3-color": "#7B2EF2"
 }
