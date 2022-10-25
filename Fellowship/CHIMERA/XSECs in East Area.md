@@ -65,3 +65,5 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 * Data saved onboard scope
 PSB MD1
 PS MD2
+
+Can't do the whole intensity scan because we are using the East Dump
