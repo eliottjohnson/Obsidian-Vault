@@ -48,5 +48,6 @@ Good tip is that it trims the momentum and all the makerules associated with it 
 * Put on scope 1
 * For waterfall, open the analysis tool
 
-For several traces
-Scope1 -> 
+* For several traces
+* Scope1 -> Show scope options -> Number of traces: 20
+
