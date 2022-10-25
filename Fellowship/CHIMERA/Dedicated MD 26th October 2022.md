@@ -44,7 +44,8 @@ Call Andreas and Natalia before and after beam modification to inform them when 
 
 ```
 
-PS Shutdown 
+**PS Shutdown from 08:00 to 12:00**
+Access from 09:00 to 12:00
 
 * Beam setup
 	* Keep a note of the LEQ settings for afternoon degrader test
