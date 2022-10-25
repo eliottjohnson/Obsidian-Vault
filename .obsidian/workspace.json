@@ -150,57 +150,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "23d17f168c87c76c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ee44194d09b5175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b2ae6055b4b9d24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57acc080d21e3ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -219,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stray field",
+                "query": "Romain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,8 +198,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
               }
             }
           },
@@ -330,17 +281,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "57acc080d21e3ce8",
+  "active": "850aed4cfe259158",
   "lastOpenFiles": [
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+    "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
+    "Untitled.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/Stray Fields/Field map visualization.md",
     "Fellowship/Stray Fields/PS Stray field.md",
     "Other/IPAC 2023.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md",
     "Theory/Current scaling for Ions.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
-    "Short term.md",
-    "Other/EAST slow extraction.md"
+    "Short term.md"
   ]
 }
