@@ -63,3 +63,5 @@ Continuation of the discussion on [[SEC calibration EAST]] and e-mail thread fro
 	2) Fast ions (the fBCT signal might be low with ions)
 3) Record 100 shots ~ 1h with protons and 100 shots with ions
 * Data saved onboard scope
+PSB MD1
+PS MD2
