@@ -44,6 +44,8 @@ Call Andreas and Natalia before and after beam modification to inform them when 
 
 ```
 
+PS Shutdown 
+
 * Beam setup
 	* Keep a note of the LEQ settings for afternoon degrader test
 * High intensity data taking (~20 min)
