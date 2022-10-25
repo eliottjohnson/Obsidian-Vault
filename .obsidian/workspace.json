@@ -174,9 +174,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62d963f4d803f675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LEIR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -243,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
+                "file": "LEIR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
+                "file": "LEIR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/Stitching two sequences together.md"
+                "file": "LEIR.md"
               }
             }
           },
@@ -306,15 +318,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e8272dc04a690eb5",
+  "active": "62d963f4d803f675",
   "lastOpenFiles": [
-    "Fellowship/Stray Fields/Multipole field component in MU62.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
+    "Fellowship/Stray Fields/Multipole field component in MU62.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
-    "Untitled.md",
+    "LEIR.md",
     "Fellowship/Stray Fields/Field map visualization.md",
     "Fellowship/Stray Fields/PS Stray field.md",
     "Other/IPAC 2023.md"
