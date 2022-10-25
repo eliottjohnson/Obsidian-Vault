@@ -40,3 +40,13 @@ Good tip is that it trims the momentum and all the makerules associated with it 
 1) Select USER cycle
 2) Do a GET each time
 3) Trajectory or Orbit
+
+## OASIS show traces like Jean-Michel
+
+* Connect signal
+* Search for spill (bottom left)
+* Put on scope 1
+* For waterfall, open the analysis tool
+
+For several traces
+Scope1 -> 

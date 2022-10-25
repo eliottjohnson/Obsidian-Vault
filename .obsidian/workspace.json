@@ -150,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d985b051f2c60e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Romain",
+                "query": "CCC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
               }
             }
           },
@@ -281,13 +293,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "850aed4cfe259158",
+  "active": "d985b051f2c60e7e",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
     "Untitled.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/Stray Fields/Field map visualization.md",
     "Fellowship/Stray Fields/PS Stray field.md",
     "Other/IPAC 2023.md",
