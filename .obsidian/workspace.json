@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/IPAC 2023.md",
+                "file": "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IPAC",
+                "query": "BTV timing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/IPAC 2023.md",
+                "file": "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/IPAC 2023.md",
+                "file": "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/IPAC 2023.md"
+                "file": "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md"
               }
             }
           },
@@ -319,6 +319,7 @@
   },
   "active": "1ee44194d09b5175",
   "lastOpenFiles": [
+    "Other/IPAC 2023.md",
     "Short term.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
@@ -327,7 +328,6 @@
     "Other/Conversation with Matthew 22.09.2022.md",
     "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
     "Fellowship/CHIMERA/Ions theory.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Theory/Linear Energy Transfer (LET).md"
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
   ]
 }
