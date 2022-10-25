@@ -71,4 +71,4 @@ Can't do the whole intensity scan because we are using the East Dump
 [PS Logbook](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3639633)
 
 
-![[Pasted image 20221025101903.png]]
+![[Pasted image 20221025101903.png|975]]

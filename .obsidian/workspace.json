@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
               }
             }
           },
@@ -330,8 +330,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d11d0f0ccac22b1e",
+  "active": "850aed4cfe259158",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Octupoles with Rebecca.md",
     "LEIR.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
@@ -340,7 +341,6 @@
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
-    "Fellowship/Stray Fields/Field map visualization.md",
-    "Fellowship/Stray Fields/PS Stray field.md"
+    "Fellowship/Stray Fields/Field map visualization.md"
   ]
 }
