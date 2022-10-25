@@ -1,4 +1,3 @@
-# Ions theory
 
 ## Lead Pb
 
