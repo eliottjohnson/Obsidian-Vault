@@ -57,6 +57,8 @@ WorkingSets -> Ring -> Normal quadrupoles -> PSBEAM BSW42 POS INJ1 -> Small func
 
 LSA App Suite -> Applications -> Settings Management -> Select MD user cycle -> Working Set Select All -> Property Select All -> Device/Property = PSBEAM/QX_LEQ
 
+![[Pasted image 20221026145621.png]]
+
 ## BSW23
 
 WorkingSet -> EXTRACTION-61 -> CPS:EJ61 -> logical.PE.BSW23
