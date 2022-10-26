@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/What is CHIMERA.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "739eec2b8fe3b4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run preparation 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,6 +122,18 @@
               "type": "markdown",
               "state": {
                 "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "438a8e5c0781b292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/MD Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +186,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/What is CHIMERA.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/What is CHIMERA.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/What is CHIMERA.md"
+                "file": "Fellowship/CHIMERA/CHIMERA.md"
               }
             }
           },
@@ -247,15 +272,15 @@
   },
   "active": "3a043f26a61f81da",
   "lastOpenFiles": [
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/CHIMERA/What is CHIMERA.md",
-    "Fellowship/Quadrupole scan/Optics F61 T8.md",
-    "Fellowship/Quadrupole scan/MWPC.md",
+    "Fellowship/CHIMERA/CHIMERA 2022 run preparation 2.md",
     "Fellowship/CHIMERA/MD Planning.md",
-    "Fellowship/IPAC 2023.md",
-    "Fellowship/Quadrupole scan/Initial parameter validation.md",
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md"
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+    "Fellowship/Quadrupole scan/Optics F61 T8.md",
+    "Fellowship/Quadrupole scan/MWPC.md"
   ]
 }
