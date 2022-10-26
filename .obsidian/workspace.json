@@ -13,91 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8becf9628a68010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/EAST slow extraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "801509d6c9587a0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7afd4793c43c3d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/VLC video stream.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df6c8724b51f9982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Current scaling for Ions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87d56aa67cfd3662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3f1a6764a476e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/IPAC 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbf3e4df5afc6261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,55 +68,18 @@
             }
           },
           {
-            "id": "d985b051f2c60e7e",
+            "id": "270b0a213395cd91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8272dc04a690eb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62d963f4d803f675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LEIR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2fdc3c6728b04f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Octupoles with Rebecca.md",
+                "file": "Intensity control for CHIMERA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stray field",
+                "query": "intensity control",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,8 +125,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
               }
             }
           },
@@ -330,17 +208,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "850aed4cfe259158",
+  "active": "31748cd1f70aeb2f",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Octupoles with Rebecca.md",
-    "LEIR.md",
-    "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Fellowship/Stray Fields/Multipole field component in MU62.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md",
-    "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
-    "Fellowship/Stray Fields/Field map visualization.md"
+    "Intensity control for CHIMERA.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/PTC_TRACK.md",
+    "Fellowship/BPMs in T8.md",
+    "Fellowship/EAST slow extraction.md",
+    "Fellowship/IPAC 2023.md",
+    "Fellowship/Attachments/heatmap_computation_time_ptc_tracking (1).png",
+    "Fellowship/Attachments/heatmap_computation_time_ptc_tracking.png",
+    "Fellowship/Attachments/Pasted image 20220912112042.png",
+    "Fellowship/Attachments/Pasted image 20220818170204.png"
   ]
 }

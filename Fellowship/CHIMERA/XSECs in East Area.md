@@ -70,5 +70,8 @@ Can't do the whole intensity scan because we are using the East Dump
 
 [PS Logbook](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3639633)
 
+Oscilloscope on the XSEC:
+![[Pasted image 20221025101903.png|750]]
 
-![[Pasted image 20221025101903.png|975]]
+Intensity scan:
+![[Pasted image 20221026083935.png|750]]
