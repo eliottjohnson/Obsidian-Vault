@@ -7,7 +7,8 @@ Three techniques are available to control the intensity of the spill during slow
 3) TFB
 	* The transverse damper might help reduce the effect as we blow-up in betatronic amplitude and that should dominate over the dispersion part of the beam when scraping
 	* See [[Cern Control Center Tips and Tricks#TFB]]
-	* 
+
+![[Pasted image 20221026151804.png]]
 
 ## Experiment and MDs
 
