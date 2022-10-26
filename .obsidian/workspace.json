@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md"
               }
             }
           },
@@ -270,9 +270,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "044ca42b0054ab84",
+  "active": "4f7d5aa991d791cc",
   "lastOpenFiles": [
     "Fellowship/Quadrupole scan/MWPC.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
     "Fellowship/CHIMERA/CHIMERA.md",
@@ -280,7 +281,6 @@
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run preparation meeting 2.md",
     "Fellowship/CHIMERA/Run preparation meeting 1.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/CHIMERA/Intensity control for CHIMERA.md"
+    "Fellowship/Quadrupole scan/Quadrupole Scan.md"
   ]
 }
