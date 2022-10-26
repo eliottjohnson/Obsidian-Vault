@@ -59,7 +59,8 @@ LSA App Suite -> Applications -> Settings Management -> Select MD user cycle -> 
 
 ## BSW23
 
-WorkingSet -> EXTRACTION-61 -> CPS:EJ61 -> logical.PE.BSW
+WorkingSet -> EXTRACTION-61 -> CPS:EJ61 -> logical.PE.BSW23
+![[Pasted image 20221026145518.png]]
 
 ## TFB
 
@@ -67,3 +68,7 @@ TFB -> Working -> DUMP + TFB -> CPS:TRANSV-FEEDBACK -> PA.TFB-DSPU-H -> Right ar
 Start BLU - End BLU 455 - 520
 Exce DDS1harmonic should be close to the tune
 Exc DDS1gain: ampltitude of the excitation
+
+![[Pasted image 20221026145429.png]]
+
+![[Pasted image 20221026145438.png]]
