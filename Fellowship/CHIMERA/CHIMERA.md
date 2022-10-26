@@ -8,7 +8,8 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 
 #### Run preparation meetings:
 
-[[CHIMERA 2022 run preparation 2]]
+[CHIMERA 2022 run preparation meeting #1](https://indico.cern.ch/event/1193614/)
+[[CHIMERA 2022 run preparation meeting 2]]
 [CHIMERA 2022 run preparation meeting #3](https://indico.cern.ch/event/1199838/)
 [CHIMERA 2022 run preparation meeting #4]([https://indico.cern.ch/event/1211404/](https://indico.cern.ch/event/1211404/))
 [CHIMERA 2022 run preparation meeting #5](https://indico.cern.ch/event/1212178/)
@@ -32,3 +33,4 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 
 [[counting scintillator (plastic scintillator)]]
 [[SRAM]]
+[[Picoscope]]

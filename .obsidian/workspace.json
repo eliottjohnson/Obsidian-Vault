@@ -73,19 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "739eec2b8fe3b4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run preparation 2.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,14 +121,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/MD Planning.md",
+                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -159,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dummy septum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md"
+                "file": "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md"
               }
             }
           },
@@ -270,17 +258,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3a043f26a61f81da",
+  "active": "438a8e5c0781b292",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/CHIMERA 2022 run preparation 2.md",
     "Fellowship/CHIMERA/MD Planning.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/CHIMERA/CHIMERA 2022 run preparation meeting 2.md",
+    "Fellowship/CHIMERA/Run preparation meeting 1.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/Quadrupole scan/Optics F61 T8.md",
-    "Fellowship/Quadrupole scan/MWPC.md"
+    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md"
   ]
 }
