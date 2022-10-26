@@ -7,4 +7,6 @@ Three techniques are available to control the intensity of the spill during slow
 
 ## Experiment and MDs
 
-[[750 and 400 MeV per nucleon]]
+Success and details of all three techniques were achieved:
+[[750 and 400 MeV per nucleon#Spill optimisation (intensity reduction and length increase) Tuesday 18.10.22]]
+

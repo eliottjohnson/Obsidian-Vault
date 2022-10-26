@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31748cd1f70aeb2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5df210e321fafd63",
             "type": "leaf",
             "state": {
@@ -73,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intensity control for CHIMERA.md",
+                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intensity control",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -145,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md"
               }
             }
           },
@@ -208,17 +198,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "31748cd1f70aeb2f",
+  "active": "270b0a213395cd91",
   "lastOpenFiles": [
-    "Intensity control for CHIMERA.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/PTC_TRACK.md",
-    "Fellowship/BPMs in T8.md",
-    "Fellowship/EAST slow extraction.md",
+    "Fellowship/CHIMERA/What is CHIMERA.md",
+    "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
+    "Fellowship/CHIMERA/SEC calibration EAST.md",
     "Fellowship/IPAC 2023.md",
-    "Fellowship/Attachments/heatmap_computation_time_ptc_tracking (1).png",
-    "Fellowship/Attachments/heatmap_computation_time_ptc_tracking.png",
-    "Fellowship/Attachments/Pasted image 20220912112042.png",
-    "Fellowship/Attachments/Pasted image 20220818170204.png"
+    "Theory/Radiation effects in electronics-single-event effects.md",
+    "Programming/Tutorial application development.md",
+    "Programming/MAD-X codes and hacks.md",
+    "Programming/Linux + Technical.md",
+    "Programming/Python codes and hacks.md",
+    "Programming/Powerpoint tips and hacks.md"
   ]
 }
