@@ -20,3 +20,8 @@ WorkingSets -> Ring -> Normal quadrupoles -> PSBEAM BSW42 POS INJ1 -> Small func
 
 LSA App Suite -> Applications -> Settings Management -> Select MD user cycle -> Working Set Select All -> Property Select All -> Device/Property = PSBEAM/QX_LEQ
 
+
+TFB -> Working -> DUMP + TFB -> CPS:TRANSV-FEEDBACK -> PA.TFB-DSPU-H -> Right arrow (top right) 3rd window.
+Start BLU - End BLU 455 - 520
+Exce DDS1harmonic should be close to the tune
+Exc DDS1gain: ampltitude of the excitation
