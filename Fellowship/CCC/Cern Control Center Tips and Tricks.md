@@ -51,3 +51,19 @@ Good tip is that it trims the momentum and all the makerules associated with it 
 * For several traces
 * Scope1 -> Show scope options -> Number of traces: 20
 
+## LEQ
+
+WorkingSets -> Ring -> Normal quadrupoles -> PSBEAM BSW42 POS INJ1 -> Small function editor -> PSBEAM/QX_LEW
+
+LSA App Suite -> Applications -> Settings Management -> Select MD user cycle -> Working Set Select All -> Property Select All -> Device/Property = PSBEAM/QX_LEQ
+
+## BSW23
+
+WorkingSet -> EXTRACTION-61 -> CPS:EJ61 -> logical.PE.BSW
+
+## TFB
+
+TFB -> Working -> DUMP + TFB -> CPS:TRANSV-FEEDBACK -> PA.TFB-DSPU-H -> Right arrow (top right) 3rd window.
+Start BLU - End BLU 455 - 520
+Exce DDS1harmonic should be close to the tune
+Exc DDS1gain: ampltitude of the excitation
