@@ -20,7 +20,7 @@
 * Instruments:
 	* SECs
 	* XIONs
-	* MWPC
+	* [[MWPC]]
 	* Gas scintillator spill monitor
 	* R2E
 		* [[counting scintillator (plastic scintillator)]] - only use ions because protons would damage it
@@ -91,6 +91,7 @@ Andreas and Natalia will install the plastic scintillator also during the 09:00 
 
 ## Intensity degradation
 
+See [[Intensity control for CHIMERA]]
 * LEQ tune sweep adjustment
 * Bump technique on 23
 * TFB blow-up
