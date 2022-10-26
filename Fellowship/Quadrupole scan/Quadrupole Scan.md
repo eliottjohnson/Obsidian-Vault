@@ -616,8 +616,6 @@ BPM01
 
 
 
-
-
 # Radial steering for Dispersion measurement
 To untangle the dispersion from the optimiser, a dispersion measurement has been tried out: [[Dispersion measurement]].
 

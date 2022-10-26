@@ -79,9 +79,11 @@ Andreas and Natalia will install the plastic scintillator also during the 09:00 
 
 
 ## Low priority
-* **MWPC Quadrupole scan**, (30-60 min)
+* **[[MWPC Quadrupole scan#Low energy]]**, (30-60 min)
 	* in IRRAD/CHARM
 	* two last quads
+		* k7 scan = -0.04, -0.1
+		* k8 scan = 0.07, 0.08
 	* find minimum
 	* before degrader installation
 	* high intensity
