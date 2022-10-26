@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "26th",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+                "file": "Fellowship/CHIMERA/What is CHIMERA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+                "file": "Fellowship/CHIMERA/What is CHIMERA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md"
+                "file": "Fellowship/CHIMERA/What is CHIMERA.md"
               }
             }
           },
@@ -245,11 +245,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4f7d5aa991d791cc",
+  "active": "3a043f26a61f81da",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/CHIMERA/What is CHIMERA.md",
     "Fellowship/Quadrupole scan/Optics F61 T8.md",
     "Fellowship/Quadrupole scan/MWPC.md",
