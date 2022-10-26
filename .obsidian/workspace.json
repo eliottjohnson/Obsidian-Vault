@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/Quadrupole scan/Focal point MWPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e19844f41e467786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "What is CHIMERA",
+                "query": "MWPC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/What is CHIMERA.md",
+                "file": "Fellowship/Quadrupole scan/Focal point MWPC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/What is CHIMERA.md",
+                "file": "Fellowship/Quadrupole scan/Focal point MWPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/What is CHIMERA.md"
+                "file": "Fellowship/Quadrupole scan/Focal point MWPC.md"
               }
             }
           },
@@ -209,17 +221,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3a043f26a61f81da",
+  "active": "d11d0f0ccac22b1e",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/What is CHIMERA.md",
-    "Fellowship/Quadrupole scan/MWPC.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-    "Fellowship/Quadrupole scan/Initial parameter slider tool.md",
-    "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
-    "Fellowship/CHIMERA/SEC calibration EAST.md",
+    "Fellowship/CHIMERA/What is CHIMERA.md",
+    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+    "Fellowship/Quadrupole scan/Optics F61 T8.md",
+    "Fellowship/Quadrupole scan/MWPC.md",
+    "Fellowship/CHIMERA/MD Planning.md",
     "Fellowship/IPAC 2023.md",
-    "Theory/Radiation effects in electronics-single-event effects.md",
-    "Programming/Tutorial application development.md"
+    "Fellowship/Quadrupole scan/Initial parameter validation.md",
+    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
+    "Fellowship/Quadrupole scan/Initial parameter slider tool.md"
   ]
 }

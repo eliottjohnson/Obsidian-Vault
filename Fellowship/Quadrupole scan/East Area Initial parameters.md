@@ -43,7 +43,7 @@ This set uses the simulation from Matthew.
 |  ![](https://codimd.web.cern.ch/uploads/upload_d545e51f434b866fae9bc60d80e0fb57.png)  |  ![](https://codimd.web.cern.ch/uploads/upload_4f0e16238c8a6e1bbb9c4f857fe5eb4e.png)   |
 
 BTV96
-![](https://codimd.web.cern.ch/uploads/upload_9cc71f6079f5504326d17adbfff326c3.png)
+![|1000](https://codimd.web.cern.ch/uploads/upload_9cc71f6079f5504326d17adbfff326c3.png)
 
 
 ## Method to find initial parameters
@@ -64,10 +64,10 @@ Three optics were tested:
 
 ## Other initial parameters (trial and error)
 
-![](https://codimd.web.cern.ch/uploads/upload_f632d212e93025cf56a99b224199c9af.png)
-![](https://codimd.web.cern.ch/uploads/upload_a3da50ed4b35cc209f6f7252415219fc.png)
-![](https://codimd.web.cern.ch/uploads/upload_8776ea16e116d189f17c38ac71184bea.png)
-![](https://codimd.web.cern.ch/uploads/upload_3fbef44fe5613f3dd683495fcb23d03e.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_f632d212e93025cf56a99b224199c9af.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_a3da50ed4b35cc209f6f7252415219fc.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_8776ea16e116d189f17c38ac71184bea.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_3fbef44fe5613f3dd683495fcb23d03e.png)
 
-![](https://codimd.web.cern.ch/uploads/upload_0dd77196763a075d30cd4b8063b68139.png)
-![](https://codimd.web.cern.ch/uploads/upload_14985a5736710f7b2ee2dbaa6b0b6166.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_0dd77196763a075d30cd4b8063b68139.png)
+![|925](https://codimd.web.cern.ch/uploads/upload_14985a5736710f7b2ee2dbaa6b0b6166.png)
