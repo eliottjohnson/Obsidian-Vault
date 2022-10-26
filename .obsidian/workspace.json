@@ -193,14 +193,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/IPAC 2023.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -219,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CHIMERA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+                "file": "Fellowship/CHIMERA/CHIMERA.md"
               }
             }
           },
@@ -329,17 +329,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e7882eb2e3480b10",
+  "active": "837a08352c0a6384",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Short term.md",
     "Fellowship/IPAC 2023.md",
-    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
     "Theory/Slow extraction theory.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/MD Planning.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Short term.md",
     "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md"
   ]
 }
