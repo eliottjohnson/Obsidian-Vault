@@ -6,3 +6,4 @@ Read theory on Single Event Effects [[Radiation effects in electronics-single-ev
 Past Indico:
 [# CHIMERA project proposal kick-off meeting](https://indico.cern.ch/event/1032120/) 
 
+[# Technical preparation of ESA 2022 campaign in CHARM/CHIMERA](https://indico.cern.ch/event/1200518/)
