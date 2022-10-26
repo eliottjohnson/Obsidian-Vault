@@ -150,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80b06d9fe6d22ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spill",
+                "query": "mwpc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md"
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
               }
             }
           },
@@ -281,17 +293,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c4564a8c3cb81ec8",
+  "active": "f748be8bc7dec2bb",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/MD Planning.md",
+    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+    "Short term.md",
+    "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
+    "Fellowship/Quadrupole scan/MWPC.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
-    "Fellowship/Quadrupole scan/MWPC.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/MD Planning.md",
-    "Fellowship/CHIMERA/CHIMERA 2022 run preparation meeting 2.md",
-    "Fellowship/CHIMERA/Run preparation meeting 1.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md"
+    "Fellowship/CHIMERA/CHIMERA.md"
   ]
 }
