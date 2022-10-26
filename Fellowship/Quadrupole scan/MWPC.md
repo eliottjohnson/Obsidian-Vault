@@ -1,6 +1,7 @@
-# MWPC
 
 ### In the CCC open with CESAR application
+
+Control -> CESAR T8 -> 
 
 Horizontal: XBZT8.ZT8.BXMWPC103:PROFILE
 Vertical: XBZT8.ZT8.BXMWPC104:PROFILE
