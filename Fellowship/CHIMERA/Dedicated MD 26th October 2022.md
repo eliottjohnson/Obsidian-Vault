@@ -102,6 +102,9 @@ See [[Intensity control for CHIMERA]]
 
 ## During the MD
 
+We pushed the bump from 0.00321 (barely touching) to high around 0.00334 (completely kills the beam)
 
-
-0.003319
+Then we used the TFB
+Start - End BLU: 505 - 795
+Exc DDS1harmonic 6.26000 (we scanned 6.25500 to 6.26500)
+and the gain to 0.1200 works well

@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -219,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IPAC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
               }
             }
           },
@@ -329,13 +329,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "044ca42b0054ab84",
+  "active": "e7882eb2e3480b10",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/IPAC 2023.md",
     "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Theory/Slow extraction theory.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/MD Planning.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
