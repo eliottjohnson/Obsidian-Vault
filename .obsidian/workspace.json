@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -270,8 +270,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c4564a8c3cb81ec8",
+  "active": "044ca42b0054ab84",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/MWPC.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
     "Fellowship/CHIMERA/CHIMERA.md",
@@ -280,7 +281,6 @@
     "Fellowship/CHIMERA/CHIMERA 2022 run preparation meeting 2.md",
     "Fellowship/CHIMERA/Run preparation meeting 1.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md"
+    "Fellowship/CHIMERA/Intensity control for CHIMERA.md"
   ]
 }
