@@ -100,5 +100,8 @@ See [[Intensity control for CHIMERA]]
 * Marc tried on the 20.11.22 to degrade the intensity with a bump on [[TPS15 Dummy septum]] with bumpers 12-20 at the start of flat top
 
 
+## During the MD
+
+
 
 0.003319
