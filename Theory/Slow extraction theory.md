@@ -17,4 +17,9 @@ The tune can be controlled with different quadrupolar elements such as:
 
 ## Transit time
 
-Transit time is the average time a particle takes to escape the triangle and get extracted. If you push all particles at the resonant tune then they will all start with different initial conditions. Some of them will take 100 turns to escape de triangle and some of them will take 
+Transit time is the average time a particle takes to escape the triangle and get extracted. If you push all particles at the resonant tune then they will all start with different initial conditions. Some of them will take 100 turns to escape de triangle and some of them will take 1000 turns for example. Particles that are close to the fixed point will take a very long time to move to the separatrices.
+
+[[]]
+
+
+[**TFB driven SX on EAST4**](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3605176)
