@@ -148,4 +148,4 @@ Some **jitter** during the blow-up:
 
 ### Spill monitor
 
-![[Pasted image 20221027091617.png]]
+![[Pasted image 20221027091617.png|675]]
