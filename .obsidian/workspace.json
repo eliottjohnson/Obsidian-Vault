@@ -194,7 +194,7 @@
               "type": "markdown",
               "state": {
                 "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -341,9 +341,9 @@
   },
   "active": "837a08352c0a6384",
   "lastOpenFiles": [
-    "Intensity control MD Week 44.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Intensity control MD Week 44.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Stray Fields/Multipole component model from injection.md",
     "Short term.md",

@@ -1,3 +1,4 @@
+
 ## Beam settings
 
 * We will use during the whole MD the **750 MeV/u Pb ion beam**
@@ -112,7 +113,12 @@ No beam from 13-16 because of a faulty extraction kicker magnet from LEIR (great
 The LEQ were kept fixed.
 ![[Pasted image 20221027085416.png|525]]
 
+### Bump23
+![[Pasted image 20221027091122.png|525]]
+
 We pushed the bump from 0.00321 (barely touching) to high around 0.00334 (completely kills the beam)
+
+### TFB
 
 ![[Pasted image 20221027085050.png|450]]
 
@@ -123,7 +129,23 @@ Start - End BLU: 505 - 795
 Exc DDS1harmonic 6.26000 (we scanned 6.25500 to 6.26500)
 and the gain to 0.1200 works well
 
+![[Pasted image 20221027091016.png|450]]
+
 Some **jitter** during the blow-up:
 * The jitter we saw might be due to the radial loop still being active when we make the bump in 23 to reduce the intensity.
 * At low intensity the radial loop will be perturbed, also we also have a radial loop pick-up inside.
 * Next time we need to do the intensity reduction **after** loop has been turned off
+
+### MWPC
+
+![[Pasted image 20221027090857.png|775]]
+![[Pasted image 20221027090928.png|775]]
+![[Pasted image 20221027090948.png|775]]
+
+### XSEC70
+
+![[Pasted image 20221027091100.png|775]]
+
+### Spill monitor
+
+![[Pasted image 20221027091617.png]]
