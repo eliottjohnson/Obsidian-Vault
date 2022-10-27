@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gif",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Slow extraction theory.md",
+                "file": "Intensity control MD Week 44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Slow extraction theory.md",
+                "file": "Intensity control MD Week 44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Slow extraction theory.md"
+                "file": "Intensity control MD Week 44.md"
               }
             }
           },
@@ -338,11 +338,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "837a08352c0a6384",
+  "active": "2d72cd5eba0f4cac",
   "lastOpenFiles": [
+    "Theory/Slow extraction theory.md",
     "Intensity control MD Week 44.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Theory/Slow extraction theory.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
     "Theory/Fast extraction tracking in MU62.md",
     "Fellowship/Stray Fields/Excursion in Main units during a slow extraction.md",
