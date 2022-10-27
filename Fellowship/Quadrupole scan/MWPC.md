@@ -6,6 +6,10 @@ Control -> CESAR T8 -> Analog Wire Chambers Profile
 Horizontal: XBZT8.ZT8.BXMWPC103:PROFILE
 Vertical: XBZT8.ZT8.BXMWPC104:PROFILE
 
+CESAR shows the **filtered signal**. Filtered signal is the signal minus the noise floor taken (1s for North Area, 100ms for East Area) before the acquisition window.
+
+Inaki said that the voltage can be increased until the signal goes up to 6-8 (max on the y-axis is 10).
+
 [Timber: MWPC](https://timber.cern.ch/query?tab=Variables)
 ![|1025](https://codimd.web.cern.ch/uploads/upload_d4a65fbcd544f8f4eec3269fcfcda36f.png)
 

@@ -365,6 +365,8 @@
   },
   "active": "673b6fcbe36233cb",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/MWPC.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Programming/Python codes and hacks.md",
     "Theory/Slow extraction theory.md",
     "RFKO MD8923 Week 44.md",
@@ -372,8 +374,6 @@
     "Fellowship/Quadrupole scan/BTV filters.md",
     "Theory/Fast extraction tracking in MU62.md",
     "Fellowship/Stray Fields/Excursion in Main units during a slow extraction.md",
-    "Fellowship/East Slow Extraction Eliott.md",
-    "Fellowship/EAST slow extraction.md",
-    "Fellowship/Damper extraction.md"
+    "Fellowship/East Slow Extraction Eliott.md"
   ]
 }
