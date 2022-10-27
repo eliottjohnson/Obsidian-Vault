@@ -55,9 +55,9 @@ An example of a particle in the resonance experiencing transit time: [[Creating 
 
 Of course, the transit time is a distribution and if you plot the number of turns when the particle was lost then you'll see a gaussian.
 
-## TFB extraction
+## TFB extraction (RFKO)
 
-Another method of slow extracting is with the Transverse Feedback Blowup.
+Another method of slow extracting is with the Transverse Feedback Blowup (RFKO).
 
 You have to **not** ramp the B-field (COSE) and then chirp with the Q-meter. The beam has a range of tunes and you have to excite all the tunes for them to be extracted. You need to sweep multiple times (chirp) through these frequencies because every time you pass through it extracts particles that are close in tune and approaches particles that are far away. With a fixed frequency (no chirp) you might extract a small portion of particles.
 
@@ -69,4 +69,4 @@ In this plot you can see the the frequency of the chirping.
 
 In this plot you can see how it becomes harder and harder to extract particles that are in the core. This is because with a certain gain, you increase the size of the triangle but particles in the centre are hard to extract. You would need to increase the gain as a function of time during the spill to have a constant rate.
 
-![[Pasted image 20221027113837.png]]
+![[Pasted image 20221027113837.png|1000]]
