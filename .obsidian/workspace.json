@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "BXSCINT_1000",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,8 +270,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/XSECs in East Area.md"
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md"
               }
             }
           },
@@ -353,6 +352,7 @@
   },
   "active": "99a67030a7a8cdfb",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/XSECs in East Area.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/MWPC.md",
@@ -361,7 +361,6 @@
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
     "Theory/Fast extraction tracking in MU62.md",
-    "Fellowship/Stray Fields/Excursion in Main units during a slow extraction.md",
-    "Fellowship/East Slow Extraction Eliott.md"
+    "Fellowship/Stray Fields/Excursion in Main units during a slow extraction.md"
   ]
 }
