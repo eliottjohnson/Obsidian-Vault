@@ -14,12 +14,18 @@ The tune can be controlled with different quadrupolar elements such as:
 
 [[PS Tune control explanation]] from Marc Delrieux
 
-
 ## Transit time
 
 Transit time is the average time a particle takes to escape the triangle and get extracted. If you push all particles at the resonant tune then they will all start with different initial conditions. Some of them will take 100 turns to escape de triangle and some of them will take 1000 turns for example. Particles that are close to the fixed point will take a very long time to move to the separatrices.
 
-[[]]
+An example of a particle in the resonance experiencing transit time: [[Creating a third integer resonance triangle with PTC#Gif of transit time]]
 
+Of course, the transit time is a distribution and if you plot the number of turns when the particle was lost then you'll see a gaussian.
+
+## TFB extraction
+
+Another method of slow extracting is with the Transverse Feedback Blowup.
+
+You have to **not** ramp the B-field 
 
 [**TFB driven SX on EAST4**](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3605176)

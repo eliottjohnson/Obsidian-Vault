@@ -210,21 +210,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0443a0d6a67207c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/EAST slow extraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -243,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slow extraction",
+                "query": "gif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST slow extraction.md",
+                "file": "Theory/Slow extraction theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST slow extraction.md",
+                "file": "Theory/Slow extraction theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST slow extraction.md"
+                "file": "Theory/Slow extraction theory.md"
               }
             }
           },
@@ -350,17 +338,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0443a0d6a67207c8",
+  "active": "837a08352c0a6384",
   "lastOpenFiles": [
-    "Fellowship/Damper extraction.md",
-    "Fellowship/EAST slow extraction.md",
-    "Theory/Slow extraction theory.md",
     "Intensity control MD Week 44.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/Stray Fields/Multipole component model from injection.md",
-    "Short term.md",
-    "Fellowship/IPAC 2023.md"
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+    "Theory/Slow extraction theory.md",
+    "Fellowship/Quadrupole scan/BTV filters.md",
+    "Theory/Fast extraction tracking in MU62.md",
+    "Fellowship/Stray Fields/Excursion in Main units during a slow extraction.md",
+    "Fellowship/East Slow Extraction Eliott.md",
+    "Fellowship/EAST slow extraction.md",
+    "Fellowship/Damper extraction.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
   ]
 }
