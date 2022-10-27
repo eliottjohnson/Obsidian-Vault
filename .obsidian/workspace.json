@@ -198,9 +198,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9a0c9ae7973c4c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -326,10 +336,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "837a08352c0a6384",
+  "active": "c9a0c9ae7973c4c9",
   "lastOpenFiles": [
     "Short term.md",
     "Fellowship/IPAC 2023.md",
