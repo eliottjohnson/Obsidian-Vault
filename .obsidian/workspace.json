@@ -193,24 +193,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c9a0c9ae7973c4c9",
+            "id": "2d72cd5eba0f4cac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Intensity control MD Week 44.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -256,7 +258,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -276,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -336,17 +339,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9a0c9ae7973c4c9",
+  "active": "837a08352c0a6384",
   "lastOpenFiles": [
+    "Intensity control MD Week 44.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/Stray Fields/Multipole component model from injection.md",
     "Short term.md",
     "Fellowship/IPAC 2023.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
-    "Theory/Slow extraction theory.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/CHIMERA/MD Planning.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md"
+    "Theory/Slow extraction theory.md"
   ]
 }

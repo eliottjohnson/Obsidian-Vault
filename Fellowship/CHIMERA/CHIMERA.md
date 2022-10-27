@@ -24,10 +24,10 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 
 ## MDs
 
-[[Dedicated MD 26th October 2022]]
 [[Spill monitor]]
 [[750 and 400 MeV per nucleon]]
 [[XSECs in East Area]]
+[[Dedicated MD 26th October 2022]]
 
 ## Instruments
 

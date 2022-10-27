@@ -12,6 +12,11 @@
     },
     {
       "type": "file",
+      "title": "CHIMERA",
+      "path": "Fellowship/CHIMERA/CHIMERA.md"
+    },
+    {
+      "type": "file",
       "title": "Python codes and hacks",
       "path": "Programming/Python codes and hacks.md"
     }

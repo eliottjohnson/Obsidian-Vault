@@ -100,7 +100,12 @@ See [[Intensity control for CHIMERA]]
 * Marc tried on the 20.11.22 to degrade the intensity with a bump on [[TPS15 Dummy septum]] with bumpers 12-20 at the start of flat top
 
 
-## During the MD
+## Summary of the MD
+
+No beam from 12-13 because of IRRAD access
+No beam from 13-16 because of a faulty extraction kicker magnet from LEIR (great help from Nico Madysa)
+
+
 
 We pushed the bump from 0.00321 (barely touching) to high around 0.00334 (completely kills the beam)
 
@@ -108,3 +113,8 @@ Then we used the TFB
 Start - End BLU: 505 - 795
 Exc DDS1harmonic 6.26000 (we scanned 6.25500 to 6.26500)
 and the gain to 0.1200 works well
+
+Some **jitter** during the blow-up:
+* The jitter we saw might be due to the radial loop still being active when we make the bump in 23 to reduce the intensity.
+* At low intensity the radial loop will be perturbed, also we also have a radial loop pick-up inside.
+* Next time we need to do the intensity reduction **after** loop has been turned off
