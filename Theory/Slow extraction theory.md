@@ -1,6 +1,8 @@
 
 ## Slow extraction
 
+[Chiara's ABTEF Talk](https://indico.cern.ch/event/1198785/)
+
 Slow extraction requires a mechanism to move the beam into the resonance:
 * Sextupoles to excite the resonance Q = 1/3
 * Particles are slowly pushed into the resonance and gain amplitude
