@@ -102,12 +102,21 @@ See [[Intensity control for CHIMERA]]
 
 ## Summary of the MD
 
+[Logbook entry](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3641009)
+
 No beam from 12-13 because of IRRAD access
 No beam from 13-16 because of a faulty extraction kicker magnet from LEIR (great help from Nico Madysa)
 
+### LEQ
 
+The LEQ were kept fixed.
+![[Pasted image 20221027085416.png|525]]
 
 We pushed the bump from 0.00321 (barely touching) to high around 0.00334 (completely kills the beam)
+
+![[Pasted image 20221027085050.png|450]]
+
+![[Pasted image 20221027085113.png|450]]
 
 Then we used the TFB
 Start - End BLU: 505 - 795
