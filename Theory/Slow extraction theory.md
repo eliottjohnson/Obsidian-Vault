@@ -26,6 +26,13 @@ Of course, the transit time is a distribution and if you plot the number of turn
 
 Another method of slow extracting is with the Transverse Feedback Blowup.
 
-You have to **not** ramp the B-field 
+You have to **not** ramp the B-field (COSE) and then chirp with the Q-meter. The beam has a range of tunes and you have to excite all the tunes for them to be extracted. You need to sweep multiple times (chirp) through these frequencies because every time you pass through it extracts particles that are close in tune and approaches particles that are far away. With a fixed frequency (no chirp) you might extract a small portion of particles.
 
 [**TFB driven SX on EAST4**](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3605176)
+
+In this plot you can see the the frequency of the chirping.
+![[Pasted image 20221027113708.png|1000]]
+
+
+In this plot you can see how it becomes harder and harder to extract particles that are in the core. This is because with a certain gain, you increase the size of the triangle but particles in the center 
+![[Pasted image 20221027113837.png]]
