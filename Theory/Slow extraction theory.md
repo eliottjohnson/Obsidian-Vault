@@ -14,3 +14,7 @@ The tune can be controlled with different quadrupolar elements such as:
 
 [[PS Tune control explanation]] from Marc Delrieux
 
+
+## Transit time
+
+Transit time is the average time a particle takes to escape the triangle and get extracted. If you push all particles at the resonant tune then they will all start with different initial conditions. Some of them will take 100 turns to escape de triangle and some of them will take 
