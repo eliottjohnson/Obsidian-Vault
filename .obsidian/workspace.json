@@ -194,7 +194,7 @@
               "type": "markdown",
               "state": {
                 "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -336,7 +336,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "837a08352c0a6384",
   "lastOpenFiles": [
