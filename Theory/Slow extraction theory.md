@@ -26,7 +26,8 @@ The **Steinbach diagram** shows the beam and resonance in amplitude-momentum spa
 1) The motion of the beam into the resonance
 2) The outward movement of the unstable particles that form the spill
 
-* The resonance appears as a "V"-shaped region
+* The resonance appears as a "V"-shaped region centred on the resonant tune.
+* A particle will be stable if its emittance is smaller than the acceptance of the stable triangle.
 ![[Pasted image 20221027115722.png]]
 
 ## Spiral step
