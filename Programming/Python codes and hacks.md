@@ -51,6 +51,17 @@ ax.set_ylabel("Amplitude [arb.]")
 
 ## Plotting
 
+### Second y-axis
+
+```python
+fig, ax = plt.subplots()
+
+ax2 = ax.twinx()
+ax.plot(df.t, df.signal_1000, color="b", label="Scint")
+ax2.plot(df_xsec.t-200, -df_xsec.signal_23_I1, color="r", label="XSEC")
+
+```
+
 ### Save a figure
 
 ```python
@@ -67,7 +78,7 @@ T=np.linspace(0,1,np.size(x))
             
 ```
 
-## Change fontsize of all plots
+### Change fontsize of all plots
 
 ```python
 import matplotlib
