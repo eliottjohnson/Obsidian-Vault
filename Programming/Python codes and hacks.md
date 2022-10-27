@@ -1,7 +1,6 @@
-# Python codes and hacks
 
 
-Mask matrices of several dimensions
+## Mask matrices of several dimensions
 ```python
 mat1 = np.array([[1,2],
       [3,4]])
@@ -52,7 +51,7 @@ ax.set_ylabel("Amplitude [arb.]")
 
 ## Plotting
 
-## Save a figure
+### Save a figure
 
 ```python
 plt.savefig("filename.png", facecolor='white', transparent=False, dpi = 150, bbox_inches='tight')
