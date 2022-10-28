@@ -16,7 +16,7 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 
 ## Documents
 
-[contrat Européen sur un nouveau Accélérateur Ions lourds haute Energie codésigné par CERN et GSI](https://edms.cern.ch/ui/file/2755988/1/Proposal-SEP-210814619.pdf)
+[HEARTS proposal](https://edms.cern.ch/ui/file/2755988/1/Proposal-SEP-210814619.pdf)
 
 
 ## Theory
