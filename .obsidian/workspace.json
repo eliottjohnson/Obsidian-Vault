@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
+                "file": "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
                 "mode": "source",
                 "source": false
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
+                "file": "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
+                "file": "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md"
+                "file": "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md"
               }
             }
           },
@@ -353,6 +353,7 @@
   },
   "active": "99a67030a7a8cdfb",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
@@ -361,7 +362,6 @@
     "Short term.md",
     "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
     "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md",
-    "Programming/Python codes and hacks.md"
+    "Fellowship/CHIMERA/XSECs in East Area.md"
   ]
 }
