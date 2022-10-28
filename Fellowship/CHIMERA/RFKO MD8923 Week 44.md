@@ -42,5 +42,18 @@ Plane & Strength: 0.2 and we can increase the gain to 1
 #### Chirp Frequency range
 0.3 - 0.33
 
+#### Accuracy (turns)
+
+Lowest chirps is 512 turns
+1 turn = 2.1 $\mu s$
+5.12e2 * 2.1e-6 = 1.752e-3 s = 1.8 ms
+
+#### Bounds
+
+Start extraction at 1200 to 1599
+interval 1 ms
+Nb of Acq (nb of chirps)
+
+
 
 ![[Pasted image 20221028150919.png]]
