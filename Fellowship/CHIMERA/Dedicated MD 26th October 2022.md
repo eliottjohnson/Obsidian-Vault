@@ -25,7 +25,7 @@
 	* Gas scintillator spill monitor
 	* R2E
 		* [[counting scintillator (plastic scintillator)]] - only use ions because protons would damage it
-		* solid-state silicon detector
+		* solid-state silicon detector (diode)
 		* [[SRAM]]s
 
 * **Intensity scan**, test three techniques :
