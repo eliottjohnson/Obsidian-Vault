@@ -26,3 +26,21 @@ This would be a good start to looking at what tune excitation functions would be
 ### Thursday 3/11/2022
 
 14:00 - 20:00
+
+### Plan
+
+Go close to the tune with the radial loop GRPOS
+Turn of the loop
+Increase RF
+Steering
+Scan
+
+Some settings we could try:
+#### Chirp in H Plane
+Plane & Strength: 0.2 and we can increase the gain to 1
+
+#### Chirp Frequency range
+0.3 - 0.33
+
+
+![[Pasted image 20221028150919.png]]
