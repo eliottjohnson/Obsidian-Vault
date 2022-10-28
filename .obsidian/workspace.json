@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RFKO MD8923 Week 44.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,7 +270,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -290,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md"
+                "file": "Fellowship/CHIMERA/CHIMERA.md"
               }
             }
           },
@@ -352,15 +353,15 @@
   },
   "active": "99a67030a7a8cdfb",
   "lastOpenFiles": [
+    "Short term.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/MWPC.md",
-    "Theory/Slow extraction theory.md",
-    "RFKO MD8923 Week 44.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "Theory/Fast extraction tracking in MU62.md",
-    "Fellowship/Stray Fields/Excursion in Main units during a slow extraction.md"
+    "Theory/Slow extraction theory.md"
   ]
 }

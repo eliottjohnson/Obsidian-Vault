@@ -1,5 +1,5 @@
 
-## Talks
+## Presentations
 See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 
 ### Past Indico:
@@ -13,6 +13,11 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 [CHIMERA 2022 run preparation meeting #3](https://indico.cern.ch/event/1199838/)
 [CHIMERA 2022 run preparation meeting #4]([https://indico.cern.ch/event/1211404/](https://indico.cern.ch/event/1211404/))
 [CHIMERA 2022 run preparation meeting #5](https://indico.cern.ch/event/1212178/)
+
+## Documents
+
+[contrat Européen sur un nouveau Accélérateur Ions lourds haute Energie codésigné par CERN et GSI](https://edms.cern.ch/ui/file/2755988/1/Proposal-SEP-210814619.pdf)
+
 
 ## Theory
 
@@ -28,6 +33,7 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 [[750 and 400 MeV per nucleon]]
 [[XSECs in East Area]]
 [[Dedicated MD 26th October 2022]]
+[[RFKO MD8923 Week 44]]
 
 ## Instruments
 

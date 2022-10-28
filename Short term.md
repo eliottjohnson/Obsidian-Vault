@@ -42,18 +42,13 @@ kanban-plugin: basic
 - [ ] Track twiss from fast extraction and compare with measurement
 
 
-## MWPC Timing issue
-
-- [ ] Contact Stephen Jackson in charge of the BI-SW section
-
-
 ## [[Emittance blow-up]]
 
 - [ ] Calculate the new beta, beta1=bet0*pi/4
 - [ ] The change in Beta is only if you want to rematch your beam to the scatterer.
 - [ ] Maybe you could track distributions kick with a thin kick after the air, recalculate the distribution and continue tracking
-- [ ] Meeting with Ruben, Andreas, Luigi and Matthew
 - [ ] Calculate a monte carlo dipole kicks (c.f. pycollimate)
+- [ ] Scattering in the vertical plane
 
 
 ## Other
@@ -85,6 +80,7 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] Contact Stephen Jackson in charge of the BI-SW section
 - [x] Wednesday 28 MD with ions
 - [x] Prepare the excel sheet I had to convert to ions
 - [x] Quad scan for initial parameters with ions
@@ -123,6 +119,7 @@ kanban-plugin: basic
 - [x] Plot ellipse of stray field model
 - [x] Track single particles from Matt's distribution (non-linear can't do twiss)
 - [x] Perform quadrupole scans at 750 and 400 MeV/u
+- [x] Meeting with Ruben, Andreas, Luigi and Matthew
 
 %% kanban:settings
 ```
