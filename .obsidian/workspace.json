@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,11 +85,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Slow extraction theory.md",
+                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "115ab490d557b8ff"
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "5c11fe7060cf2ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c1ebb545086c4da",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "115ab490d557b8ff"
           }
         ]
       }
@@ -110,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jean michel",
+                "query": "template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +181,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,17 +262,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f748be8bc7dec2bb",
+  "active": "2d72cd5eba0f4cac",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+    "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
+    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+    "Short term.md",
+    "Theory/Slow extraction theory.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
-    "Fellowship/Quadrupole scan/MWPC.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
-    "Theory/Linear Energy Transfer (LET).md",
-    "Theory/Radiation effects in electronics-single-event effects.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md",
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Theory/Slow extraction theory.md"
+    "Fellowship/Quadrupole scan/MWPC.md"
   ]
 }

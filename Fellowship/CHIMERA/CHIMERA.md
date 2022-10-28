@@ -1,6 +1,7 @@
 
 ## Presentations
 See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
+[[Weekly CHIMERA beam reports]]
 
 ### Past Indico:
 [# CHIMERA project proposal kick-off meeting](https://indico.cern.ch/event/1032120/) 
