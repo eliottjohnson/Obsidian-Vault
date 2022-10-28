@@ -43,6 +43,8 @@ Good tip is that it trims the momentum and all the makerules associated with it 
 
 ## OASIS show traces like Jean-Michel
 
+![[Pasted image 20221028152413.png]]
+
 * Connect signal
 * Search for spill (bottom left)
 * Put on scope 1
