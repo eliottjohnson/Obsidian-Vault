@@ -22,7 +22,7 @@
 	* SECs
 	* XIONs
 	* [[MWPC]]
-	* Gas scintillator spill monitor
+	* [[Gas scintillator spill monitor]]
 	* R2E
 		* [[counting scintillator (plastic scintillator)]] - only use ions because protons would damage it
 		* solid-state silicon detector (diode)

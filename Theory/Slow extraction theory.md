@@ -66,6 +66,7 @@ You have to **not** ramp the B-field (COSE) and then chirp with the Q-meter. The
 In this plot you can see the the frequency of the chirping.
 ![[Pasted image 20221027113708.png|1000]]
 
+![[Pasted image 20221028165400.png|1000]]
 
 In this plot you can see how it becomes harder and harder to extract particles that are in the core. This is because with a certain gain, you increase the size of the triangle but particles in the centre are hard to extract. You would need to increase the gain as a function of time during the spill to have a constant rate.
 
