@@ -1,3 +1,9 @@
+> [!warning]
+> Send a message to Federico Ravotti when we send ions to the Dump.
+> No ions to T8 !
+> 
+
+
 ### TFB blow up (RFKO)
 
 Do TFB **after** the radial loop has been turned off. (see [[Dedicated MD 26th October 2022#Summary of the MD]])
