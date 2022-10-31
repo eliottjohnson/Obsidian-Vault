@@ -153,3 +153,8 @@ s for summarize
 ``` console
 ls -sh
 ```
+
+## Py-BOBYQA
+
+[Py-BOBYQA documentation](https://numericalalgorithmsgroup.github.io/pybobyqa/build/html/index.html)
+
