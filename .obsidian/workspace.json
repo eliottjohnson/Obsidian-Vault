@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
+                "file": "Fellowship/EAST transfer lines/BLM008.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "initial parameters",
+                "query": "blm008",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
+                "file": "Fellowship/EAST transfer lines/BLM008.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
+                "file": "Fellowship/EAST transfer lines/BLM008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md"
+                "file": "Fellowship/EAST transfer lines/BLM008.md"
               }
             }
           },
@@ -230,15 +230,15 @@
   },
   "active": "321ea2bd4315b143",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/Quadrupole scan/Optics F61 T8.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
-    "Fellowship/CHIMERA/CHIMERA.md"
+    "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md"
   ]
 }
