@@ -25,6 +25,9 @@ This would be a good start to looking at what tune excitation functions would be
 
 14:00 - 20:00
 
+1)
+	First try the same techniques as we did for CHIMERA during [[Dedicated MD 26th October 2022]] but we bump23 after the RF loop is turned off (you'll see on the MRP when the signal is n)
+
 * The plan is to **remove the ramp** on the B-field and **touch the resonance** with the GRPOS (LEQ would also change the tune but change the optics).
 * Then we'll *chirp* with the Q-meter. Perhaps we can try **faster chirps** to remove the spikes during the spill.
 * We probably won't be able to use the spill monitor (scintillator) with ions at low intensities, only the XSEC23 which has 20 ms between data points.
