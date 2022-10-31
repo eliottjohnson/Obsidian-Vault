@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7fb30a954b8c650b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "$\\mu s$",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
               }
             }
           },
@@ -204,10 +216,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e4c26d4e6689581",
+  "active": "7fb30a954b8c650b",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
