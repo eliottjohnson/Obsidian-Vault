@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rematch",
+                "query": "initial parameters",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md"
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md"
               }
             }
           },
@@ -230,6 +230,7 @@
   },
   "active": "321ea2bd4315b143",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/Quadrupole scan/Optics F61 T8.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
@@ -238,7 +239,6 @@
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/Gas scintillator spill monitor.md"
+    "Fellowship/CHIMERA/CHIMERA.md"
   ]
 }

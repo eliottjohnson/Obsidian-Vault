@@ -10,14 +10,14 @@ This set is matched to the 4 East Dump measurements.
 | -------- | -------- | --- | --- | --- | --- | --- | --- | --- | --- | -------- |
 |154.1|5.22|-36.9|0.25|0.13|0.0|0.02|0.0|7.64e-06|3.53e-06|6.79e-4|
 
-![](https://codimd.web.cern.ch/uploads/upload_67023da774f6a292a503c633e904ac57.png)
-![](https://codimd.web.cern.ch/uploads/upload_d0a659b386f9c653d14929212c9729ba.png)
-![](https://codimd.web.cern.ch/uploads/upload_d947fd81bf1ed8a7c2f56d6ff3a7c9dc.png)
-![](https://codimd.web.cern.ch/uploads/upload_8f7643b017207a814c581347e7814211.png)
+![|775](https://codimd.web.cern.ch/uploads/upload_67023da774f6a292a503c633e904ac57.png)
+![|775](https://codimd.web.cern.ch/uploads/upload_d0a659b386f9c653d14929212c9729ba.png)
+![|775](https://codimd.web.cern.ch/uploads/upload_d947fd81bf1ed8a7c2f56d6ff3a7c9dc.png)
+![|775](https://codimd.web.cern.ch/uploads/upload_8f7643b017207a814c581347e7814211.png)
 
 
 BTV96
-![](https://codimd.web.cern.ch/uploads/upload_3397bd13cd74db333c8643923e03b50f.png)
+![|775](https://codimd.web.cern.ch/uploads/upload_3397bd13cd74db333c8643923e03b50f.png)
 
 ### Ellipse plot
 
