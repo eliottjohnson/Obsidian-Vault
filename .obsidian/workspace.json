@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "QX_LEQ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
               }
             }
           },
@@ -204,12 +204,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc914d4c6caaca6c",
+  "active": "3e4c26d4e6689581",
   "lastOpenFiles": [
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
