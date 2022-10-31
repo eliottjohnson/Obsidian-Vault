@@ -1,8 +1,7 @@
 > [!warning]
-> Send a message to Federico Ravotti when we send ions to the Dump.
+> Send a message to Federico Ravotti on mattermost when we send ions to the Dump.
 > No ions to T8 !
 > 
-
 
 ### TFB blow up (RFKO)
 
@@ -25,12 +24,14 @@ This would be a good start to looking at what tune excitation functions would be
 
 14:00 - 20:00
 
-1)
-	First try the same techniques as we did for CHIMERA during [[Dedicated MD 26th October 2022]] but we bump23 after the RF loop is turned off (you'll see on the MRP when the signal is n)
+1) Bump23
+	First try the same techniques as we did for CHIMERA during [[Dedicated MD 26th October 2022]] but we bump23 after the RF loop is turned off (you'll see on the MRP when the signal is noisy - which means the beam is debunched)
+	We should place the bump23 when the bump57 is stable
 
-* The plan is to **remove the ramp** on the B-field and **touch the resonance** with the GRPOS (LEQ would also change the tune but change the optics).
-* Then we'll *chirp* with the Q-meter. Perhaps we can try **faster chirps** to remove the spikes during the spill.
-* We probably won't be able to use the spill monitor (scintillator) with ions at low intensities, only the XSEC23 which has 20 ms between data points.
+2) RFKO
+	* The plan is to **remove the ramp** on the B-field and **touch the resonance** with the GRPOS (LEQ would also change the tune but change the optics).
+	* Then we'll *chirp* with the Q-meter. Perhaps we can try **faster chirps** to remove the spikes during the spill.
+	* We probably won't be able to use the spill monitor (scintillator) with ions at low intensities, only the XSEC23 which has 20 ms between data points.
 
 ### Thursday 3/11/2022
 
