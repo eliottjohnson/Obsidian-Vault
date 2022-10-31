@@ -93,8 +93,12 @@
             "id": "321ea2bd4315b143",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -164,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fellowship/EAST transfer lines/Spill monitor XSEC.md"
+              }
             }
           },
           {
@@ -220,7 +228,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "321ea2bd4315b143",
   "lastOpenFiles": [
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
