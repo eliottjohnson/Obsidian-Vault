@@ -176,24 +176,25 @@ No significant spill shape change at different intensities
 
 Integral of the spill data
 
-![[xsec_spill_750_MeV_MD_26th_intensities_sorted.png|875]]
+![[xsec_spill_750_MeV_MD_26th_intensities.png|800]]
 
-![[xsec_spill_750_MeV_MD_26th_intensities.png]]
+
+![[xsec_spill_750_MeV_MD_26th_intensities_sorted.png|800]]
 
 ### Scintillator
 
 The instrument is the [[Gas scintillator spill monitor]] in F61
 
-![[scint_750_MeV_MD_26th_comparison_with_xsec_time.png]]
+![[scint_750_MeV_MD_26th_comparison_with_xsec_time.png|800]]
 
 Scintillator doesn’t have enough **gain** to see well enough the ion spill
 * Hard to distinguish between the two cycles
 
-![[scint_vs_xsec_750_MeV_MD_26th.png]]
+![[scint_vs_xsec_750_MeV_MD_26th.png|800]]
 
 * Weak correlation between the XSEC and gas Scintillator
 * Next week:
 	* Inaki increase the voltage of the gas scintillator by 50 V
 	* Look at BXSCINT_1001 instead of BXSCINT_1000
 	* Maybe change scintillator gas from N2 to Ar+N2 mix
-![[scint_750_MeV_MD_26th_comparison_with_xsec.png]]
+![[scint_750_MeV_MD_26th_comparison_with_xsec.png|800]]
