@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f748be8bc7dec2bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5e479ef2bb70324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Slow extraction theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80b06d9fe6d22ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7882eb2e3480b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "837a08352c0a6384",
             "type": "leaf",
             "state": {
@@ -68,7 +20,29 @@
             }
           },
           {
-            "id": "2d72cd5eba0f4cac",
+            "id": "cc914d4c6caaca6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59bbb0d78548488e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Short term.md"
+              }
+            }
+          },
+          {
+            "id": "626dd696acf63e52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,64 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c79dc458bea1f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "115ab490d557b8ff"
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "5c11fe7060cf2ee0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1c1ebb545086c4da",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "115ab490d557b8ff"
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "template",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -262,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d72cd5eba0f4cac",
+  "active": "626dd696acf63e52",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
-    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Short term.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Theory/Slow extraction theory.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
-    "Fellowship/Quadrupole scan/MWPC.md"
+    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
   ]
 }

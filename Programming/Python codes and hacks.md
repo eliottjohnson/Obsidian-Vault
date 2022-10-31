@@ -1,6 +1,8 @@
 
 
-## Mask matrices of several dimensions
+## Numpy
+
+### Mask matrices of several dimensions
 ```python
 mat1 = np.array([[1,2],
       [3,4]])
@@ -25,7 +27,7 @@ d = {'number_of_particle': [], 'number_of_turns': [], 'time': []}
 df = pd.DataFrame(data=d)
 ```
 
-## Concatenate two dataframes
+### Concatenate two dataframes
 
 ```python
 d = {'number_of_particle': [1], 'number_of_turns': [2], 'time': [3]}
@@ -142,3 +144,12 @@ with open('filename.p', 'rb') as f:
     data = pickle.load(f)
 ```
 
+
+## Linux
+### Terminal commands
+Read the size of folder
+h for human readable
+s for summarize
+``` console
+ls -sh
+```

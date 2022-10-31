@@ -6,7 +6,7 @@ See [[Slow extraction theory#Transit time]] and [[Slow extraction theory#TFB ext
 
 [Logbook entry: TFB driven SX on EAST4](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3605176) with protons
 
-We can set-up the extraction as we did for protons where we touch the resonance and then back off in tune, using the TFB to push the particles into resonance. The machine is static (nothing ramping). We might need to steer through the extraction channel.
+We can set-up the extraction as we did for protons where we touch the resonance  (with GRPOS) and then back off in tune, using the TFB to push the particles into resonance. The machine is static (nothing ramping). We might need to steer through the extraction channel.
 
 Thomas can then get acquainted with the different modes of operation of the TFB excitation and look into scripting it whilst grabbing the spill intensity and beam loss. This will be an important step to benchmark time dependent effects in simulation. At the same time we can see how well we can control the extracted flux for CHIMERA.
 
@@ -19,8 +19,8 @@ This would be a good start to looking at what tune excitation functions would be
 
 14:00 - 20:00
 
-* The plan is to remove the ramp on the B-field and touch the resonance with the LEQ.
-* Then we'll chirp with the Q-meter. Perhaps we can try faster chirps to remove the spikes during the spill.
+* The plan is to **remove the ramp** on the B-field and **touch the resonance** with the GRPOS (LEQ would also change the tune but change the optics).
+* Then we'll *chirp* with the Q-meter. Perhaps we can try **faster chirps** to remove the spikes during the spill.
 * We probably won't be able to use the spill monitor (scintillator) with ions at low intensities, only the XSEC23 which has 20 ms between data points.
 
 ### Thursday 3/11/2022
@@ -29,7 +29,7 @@ This would be a good start to looking at what tune excitation functions would be
 
 ### Plan
 
-Go close to the tune with the radial loop GRPOS
+Go close to the tune with the radial loop **GRPOS**
 Turn of the loop
 Increase RF
 Steering
