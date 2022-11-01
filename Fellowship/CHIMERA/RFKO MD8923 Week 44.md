@@ -97,3 +97,4 @@ Injection oscillation to follow up with YASP
 On a mis le XSE, QSE and LEQ to 1090 ms before extraction to remove the spike
 16:52 LT
 
+Intensity scan at 16:59
