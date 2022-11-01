@@ -98,3 +98,9 @@ On a mis le XSE, QSE and LEQ to 1090 ms before extraction to remove the spike
 16:52 LT
 
 Intensity scan at 16:59
+
+No bump
+Spike is lost in the machine
+Pulsed close to khz for now
+
+Amplitude, repetition rate
