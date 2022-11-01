@@ -93,3 +93,7 @@ XSEC23 set to HIGH at 16:02 LT
 XSEC23I2 set to HIGH at 16:12
 
 Injection oscillation to follow up with YASP
+
+On a mis le XSE, QSE and LEQ to 1090 ms before extraction to remove the spike
+16:52 LT
+
