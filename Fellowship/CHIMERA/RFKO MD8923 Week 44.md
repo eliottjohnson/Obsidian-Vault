@@ -3,6 +3,8 @@
 > No ions to T8 !
 > 
 
+SEC23 to HIGH during MD of the 26th
+
 ### TFB blow up (RFKO)
 
 Do TFB **after** the radial loop has been turned off. (see [[Dedicated MD 26th October 2022#Summary of the MD]])

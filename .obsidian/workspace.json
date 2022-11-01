@@ -84,7 +84,7 @@
               "type": "markdown",
               "state": {
                 "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
               }
             }
           },
@@ -253,8 +253,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "41403477e6e288eb",
+  "active": "7fb30a954b8c650b",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/EAST transfer lines/BLM008.md",
@@ -263,7 +264,6 @@
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/Quadrupole scan/Optics F61 T8.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Programming/Python codes and hacks.md"
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
   ]
 }
