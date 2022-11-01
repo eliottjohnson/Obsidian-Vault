@@ -100,9 +100,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccceebb8036718a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,13 +232,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "321ea2bd4315b143",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
+    "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/Quadrupole scan/Optics F61 T8.md",
-    "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
