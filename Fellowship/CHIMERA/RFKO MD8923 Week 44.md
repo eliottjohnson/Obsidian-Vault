@@ -83,3 +83,6 @@ GRPOS increase to slow extract then retract to be just below the resonance 14:43
 2581 POPS ramp plateau
 
 Start chirping at 15:35 LT
+
+GRPOS set back to zero
+Bump23 after RF to trim the halo of the beam
