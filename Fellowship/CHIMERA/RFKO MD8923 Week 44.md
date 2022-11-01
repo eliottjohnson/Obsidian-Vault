@@ -77,4 +77,6 @@ Retracted the bump23
 Flatten the ramp on POPS
 Removed the LEQ function
 Inserted the internal dump 14:22
+Put the LEQ flat 
 GRPOS increase to slow extract then retract to be just below the resonance 14:43
+* We went negative
