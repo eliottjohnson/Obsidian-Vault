@@ -91,3 +91,5 @@ Bump23 after RF to trim the halo of the beam
 XSEC23 set to HIGH at 16:02 LT
 
 XSEC23I2 set to HIGH at 16:12
+
+Injection oscillation to follow up with YASP
