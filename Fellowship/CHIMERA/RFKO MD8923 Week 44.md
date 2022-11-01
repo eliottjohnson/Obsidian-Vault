@@ -75,3 +75,6 @@ Nb of Acq (nb of chirps)
 
 Retracted the bump23
 Flatten the ramp on POPS
+Removed the LEQ function
+Inserted the internal dump 14:22
+GRPOS increase to slow extract then retract to be just below the resonance 14:
