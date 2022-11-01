@@ -86,3 +86,7 @@ Start chirping at 15:35 LT
 
 GRPOS set back to zero
 Bump23 after RF to trim the halo of the beam
+
+
+XSEC23 set to HIGH at 16:02 LT
+
