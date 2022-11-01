@@ -73,3 +73,5 @@ Nb of Acq (nb of chirps)
 
 ## MD
 
+Retracted the bump23
+Flatten the ramp on POPS
