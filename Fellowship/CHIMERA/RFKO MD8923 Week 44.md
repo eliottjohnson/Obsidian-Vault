@@ -80,3 +80,4 @@ Inserted the internal dump 14:22
 Put the LEQ flat 
 GRPOS increase to slow extract then retract to be just below the resonance 14:43
 * We went negative
+2581 POPS ramp plateau
