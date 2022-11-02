@@ -18,11 +18,6 @@ kanban-plugin: basic
 - [ ] Correlation between XSEC and scintillator during the 750 and 500 MeV spill test
 
 
-## [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
-
-- [ ] Prepare presentation for ABTEF
-
-
 ## [[IPAC 2023]]
 
 - [ ] Write an Abtract<br>* Stray fields<br>* East Area ion beams
@@ -80,6 +75,7 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] Prepare presentation for ABTEF
 - [x] Contact Stephen Jackson in charge of the BI-SW section
 - [x] Wednesday 28 MD with ions
 - [x] Prepare the excel sheet I had to convert to ions

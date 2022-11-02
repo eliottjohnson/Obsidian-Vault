@@ -112,9 +112,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abc17f3d1d402f67",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Short term.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Short term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Short term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+                "file": "Short term.md"
               }
             }
           },
@@ -240,13 +251,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ccceebb8036718a6",
+  "active": "abc17f3d1d402f67",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/MWPC.md",
