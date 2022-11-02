@@ -73,6 +73,8 @@ Nb of Acq (nb of chirps)
 
 ## MD
 
+[PS Logbook Event](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3643633)
+
 Retracted the bump23
 Flatten the ramp on POPS
 Removed the LEQ function
@@ -105,3 +107,10 @@ Pulsed close to khz for now
 
 Amplitude, repetition rate
 Grab the raw data for the function on the plates, we need the raw voltage (ask Tom in charge of instrument)
+
+[PSMD Logbook Entry #1](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3643689)
+
+[PSMD Logbook Entry #2](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3643684)
+
+[PSMD Logbook Entry #3](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3643681)
+
