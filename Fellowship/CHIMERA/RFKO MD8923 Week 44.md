@@ -58,7 +58,9 @@ Plane & Strength: 0.2 and we can increase the gain to 1
 #### Accuracy (turns)
 
 Lowest chirps is 512 turns
-1 turn = 2.1 $\mu s$
+Time it takes for one turn in the PS = **2.1 $\mu s$**
+* $t = \frac{circumference}{c} = \frac{628}{3e8} = 2.1e-6 [s]$
+
 5.12e2 * 2.1e-6 = 1.752e-3 s = 1.8 ms
 
 #### Bounds

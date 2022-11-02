@@ -1,4 +1,11 @@
 
+Displaying a number in scientific notation
+
+``` python
+'{:.2e}'.format(0.0002)
+```
+
+'2.00e-04'
 
 ## Numpy
 
