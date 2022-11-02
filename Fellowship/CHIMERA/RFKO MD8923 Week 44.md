@@ -188,7 +188,7 @@ Gain scan at several frequency of chirp
 [Repository for MD8923](https://gitlab.cern.ch/tbass/md-8923/-/blob/master/script.ipynb)
 
 ```python
-QMETER_DEVICE = 'PR.BQL72/Setting'
+QMETER_DEVICE = 'B'
 
 QMETER_SETTINGS = { 'ex_mode': ('#exMode', 1), 'acq_on': ('#acqState', 1), 'acq_mode': ('#acqMode', 0), 'det_fft_window': ('#fftWindowFunction', 2), 'n_measurements': ('#nbOfMeas', 12), 'n_turns': ('#nbOfTurns', 1024), 'interval': ('#acqPeriod', 6), 'from': ('#acqOffset', 482+170), 'ex_h_amplitude': ('#exAmplitudeH', 0.06), 'ex_v_amplitude': ('#exAmplitudeV', 0.06), 'ex_h_enable': ('#exEnableH', 'True'), 'ex_v_enable': ('#exEnableV', 'False'), 'chirp_h_start': ('#chirpStartFreqH', 0.23), 'chirp_h_stop': ('#chirpStopFreqH', 0.27), 'chirp_v_start': ('#chirpStartFreqV', 0.25), 'chirp_v_stop': ('#chirpStopFreqV', 0.40), 'bias_h': ('#biasH', 0), 'bias_v': ('#biasV', 0), 'time_const_1h': ('#timeConstant1H', 1), 'time_const_2h': ('#timeConstant2H', 1), 'time_const_1v': ('#timeConstant1V', 1), 'time_const_2v': ('#timeConstant2V', 1), 'DC_det_1': ('#DCdet1', 0), 'DC_det_2': ('#DCdet2', 0), 'ex_pattern': ('#exPattern', 1), }
 

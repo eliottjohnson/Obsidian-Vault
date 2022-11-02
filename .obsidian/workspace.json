@@ -102,18 +102,6 @@
             }
           },
           {
-            "id": "7fb30a954b8c650b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7629ce031aebe26",
             "type": "leaf",
             "state": {
@@ -138,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -157,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2.1 ",
+                "query": "venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,8 +172,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,13 +254,13 @@
   },
   "active": "c7629ce031aebe26",
   "lastOpenFiles": [
-    "Programming/Python codes and hacks.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/Quadrupole scan/MWPC.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md"
