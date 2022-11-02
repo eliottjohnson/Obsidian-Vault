@@ -110,7 +110,67 @@ Grab the raw data for the function on the plates, we need the raw voltage (ask T
 
 [PSMD Logbook Entry #1](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3643689)
 
+**Qmeter2 BBQ Settings**  
+Pickup: Long  
+Accuracy: 256  
+From: 1260ms  
+To: 1759ms  
+**Interval: 4ms / 0.25 kHz**  
+n Acq: 250  
+H plane strength: 0.35  
+Chirp Freq Range H: 0.3 to 0.35 Hz
+
+![[Pasted image 20221102092655.png|575]]
+
+![[Pasted image 20221102092711.png|575]]
+
+![[Pasted image 20221102092721.png|375]]
+
+![[Pasted image 20221102092729.png|525]]
+
 [PSMD Logbook Entry #2](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3643684)
+
+**Qmeter2 BBQ Settings**  
+Pickup: Long  
+Accuracy: 256  
+From: 1260ms  
+To: 1759ms  
+**Interval: 2ms / 0.5 kHz**
+n Acq: 250  
+H plane strength: 0.35  
+Chirp Freq Range H: 0.3 to 0.35 Hz  
+
+![[Pasted image 20221102092741.png|550]]
+
+![[Pasted image 20221102092749.png|625]]
+
+![[Pasted image 20221102092800.png|325]]
+
+![[Pasted image 20221102092808.png|500]]
 
 [PSMD Logbook Entry #3](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3643681)
 
+**Qmeter2 BBQ Settings**  
+Pickup: Long  
+Accuracy: 256  
+From: 1260ms  
+To: 1759ms  
+**Interval: 1ms / 1kHz**
+n Acq: 500  
+H plane strength: 0.35  
+Chirp Freq Range H: 0.3 to 0.35 Hz
+
+![[Pasted image 20221102093008.png]]
+![[Pasted image 20221102093021.png|575]]
+
+![[Pasted image 20221102093049.png|225]]
+
+![[Pasted image 20221102093030.png|375]]
+
+![[Pasted image 20221102093042.png|400]]
+
+
+
+Long /Short length of physical thing in RF
+
+Accuracy (turns) 
