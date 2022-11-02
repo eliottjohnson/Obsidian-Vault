@@ -162,10 +162,10 @@ n Acq: 500
 H plane strength: 0.35  
 Chirp Freq Range H: 0.3 to 0.35 Hz
 
-![[Pasted image 20221102093008.png]]
+![[Pasted image 20221102093008.png|675]]
 ![[Pasted image 20221102093021.png|575]]
 
-![[Pasted image 20221102093049.png|225]]
+![[Pasted image 20221102093049.png|425]]
 
 ![[Pasted image 20221102093030.png|375]]
 
