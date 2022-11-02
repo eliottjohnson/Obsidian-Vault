@@ -13,6 +13,8 @@ Two devices:
 Concerning the pressure, no, we can’t change the pressure. It’s always slightly higher than atmospheric.
 However, we could try another scintillator gas. At the moment, we have N2 (100%), but I have a bottle of  Ar (96%) + N2 (4%) ready to be swapped, which should have a higher light yield. Changing the bottles would take less than 1 hour.
 
+[Image source](https://edms.cern.ch/ui/#!master/navigator/document?D:100567405:100567405:subDocs)
+![[Pasted image 20221102085152.png|750]]
 
 ## Documentation
 

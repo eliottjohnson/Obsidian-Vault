@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CCC",
+                "query": "gas scintil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md"
               }
             }
           },
@@ -254,15 +254,15 @@
   },
   "active": "c7629ce031aebe26",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/Quadrupole scan/MWPC.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/Quadrupole scan/Optics F61 T8.md"
+    "Fellowship/Quadrupole scan/Quadrupole Scan.md"
   ]
 }
