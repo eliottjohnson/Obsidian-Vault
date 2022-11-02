@@ -104,3 +104,4 @@ Spike is lost in the machine
 Pulsed close to khz for now
 
 Amplitude, repetition rate
+Grab the raw data for the function on the plates, we need the raw voltage (ask Tom in charge of instrument)
