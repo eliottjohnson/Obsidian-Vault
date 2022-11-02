@@ -173,4 +173,11 @@ Chirp Freq Range H: 0.3 to 0.35 Hz
 
 Long /Short length of physical thing in RF
 
-Accuracy (turns) 
+Accuracy (turns) how many turns your measure for 256
+
+Gain 0.01
+
+Plan
+
+Gain scan at several frequency of chirp
+
