@@ -78,24 +78,12 @@
             }
           },
           {
-            "id": "321ea2bd4315b143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ccceebb8036718a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -192,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md"
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
               }
             }
           },
@@ -252,17 +240,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7629ce031aebe26",
+  "active": "ccceebb8036718a6",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+    "Fellowship/EAST transfer lines/BLM008.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/Quadrupole scan/MWPC.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md"
   ]
 }

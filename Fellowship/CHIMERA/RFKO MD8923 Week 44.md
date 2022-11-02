@@ -103,9 +103,35 @@ On a mis le XSE, QSE and LEQ to 1090 ms before extraction to remove the spike
 
 Intensity scan at 16:59
 
-No bump
-Spike is lost in the machine
+**No bump**
+
+![[Pasted image 20221102171718.png|600]]
+
+![[Pasted image 20221102171645.png|825]]
+
+The septum start pulsing at 1090
+![[Pasted image 20221102171605.png|500]]
+
+Spike is lost in the machine because we rise the XSE, QSE and LEQ earlier at 1090 ms so they crash into the septum as it's not pulsing yet.
 Pulsed close to khz for now
+
+QSE set flat
+![[Pasted image 20221102171431.png|750]]
+
+XSE before 1090
+![[Pasted image 20221102171629.png|725]]
+
+LEQ
+
+![[Pasted image 20221102171702.png|625]]
+
+Very flat spill with spike removed
+
+![[Pasted image 20221102171752.png|875]]
+
+Low intensity on the XSEC23
+
+![[Pasted image 20221102171820.png|775]]
 
 Amplitude, repetition rate
 Grab the raw data for the function on the plates, we need the raw voltage (ask Tom in charge of instrument)
