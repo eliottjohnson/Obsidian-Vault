@@ -185,6 +185,30 @@ Gain scan at several frequency of chirp
 
 # Analysis of Tuesday
 
+![[Pasted image 20221102145843.png]]
+
+![[Pasted image 20221102145849.png]]
+
+![[Pasted image 20221102145853.png]]
+
+![[Pasted image 20221102145859.png]]
+
+![[Pasted image 20221102145904.png]]
+
+![[Pasted image 20221102145911.png]]
+
+![[Pasted image 20221102145916.png]]
+
+![[Pasted image 20221102145921.png]]
+
+![[Pasted image 20221102145929.png]]
+
+![[Pasted image 20221102145935.png]]
+
+![[Pasted image 20221102145940.png]]
+
+![[Pasted image 20221102145947.png]]
+
 # Thursday
 
 [Repository for MD8923](https://gitlab.cern.ch/tbass/md-8923/-/blob/master/script.ipynb)
