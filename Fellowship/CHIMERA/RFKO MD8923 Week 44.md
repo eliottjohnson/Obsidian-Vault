@@ -211,17 +211,27 @@ Gain scan at several frequency of chirp
 
 # Thursday
 
-Some info on fourier transform
+Some info on Fourier transform
 
 We should as much as possible overlap the chirp boxes not to have frequency in the spill
 
 Even if the chirp box overlap perfectly, it doesn't mean you won't have a frequency in your spill. Because the chirp frequency range will extract particles close to the resonance and move the other so you'll see square boxes.
 A solution would be to chirp the frequency with a very small range and a very small gain (you would never extract the frequency that you don't chirp and they would be lost in the machine but it's good for low intensities)
 
+![[IMG_4804 (002).jpg|475]]
+
 There is a convolution between the box frequency (sinc in time domain) and the dirac at 1ms of the chirp. A measurement would be to increase the time between chirps to 1 ms and then scan the acq in turns.
 
 
+![[Pasted image 20221102161151.png]]
 
+![[Pasted image 20221102161156.png|425]]
+
+![[IMG_4806 (002).jpg|450]]
+
+Look at BXSCAL_1100, BXSCAL_1101
+
+The sampling rate can be changed via the counterSampling
 
 [Repository for MD8923](https://gitlab.cern.ch/tbass/md-8923/-/blob/master/script.ipynb)
 
