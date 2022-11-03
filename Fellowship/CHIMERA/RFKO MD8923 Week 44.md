@@ -324,3 +324,10 @@ Ended at 16:38
 
 
 CHIMERA BEAM
+Started at 16:41
+0.32 - 0.34
+Gain from 0.01 - 0.1
+1ms
+256 turns
+Acquisition 500
+data start at 16:46
