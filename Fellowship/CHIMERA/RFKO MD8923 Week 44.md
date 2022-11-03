@@ -277,7 +277,25 @@ japc.getParamInfo('PR.BQL72/Setting#exAmplitudeV')
 * We notice that Acq Offset needs an -240 offset
 * ended at 15:10
 
+
+![[Pasted image 20221103154627.png]]
+
+![[Pasted image 20221103154639.png]]
+
+![[Pasted image 20221103154647.png]]
+
+![[Pasted image 20221103154654.png]]
+![[Pasted image 20221103154722.png]]
+
 * Started at 15:14
 * Chirp from from 0.2-0.35
 * Injection Timing is 235 ms so you have to add it to Acq Offset
 * ended at 15:35
+
+![[Pasted image 20221103154729.png]]
+
+![[Pasted image 20221103154735.png]]
+
+* Started at 15:40
+* Chirp from 0.32-0.35
+* 
