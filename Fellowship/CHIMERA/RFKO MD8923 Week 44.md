@@ -298,4 +298,9 @@ japc.getParamInfo('PR.BQL72/Setting#exAmplitudeV')
 
 * Started at 15:40
 * Chirp from 0.32-0.35
-* 
+* ended at 16.02
+* Careful last point will be freq scan
+
+Frequency scan started at 16:04
+* Freq scan from 1 ms to 20 ms
+* At 25 acquisition
