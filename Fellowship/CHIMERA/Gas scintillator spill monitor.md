@@ -28,3 +28,10 @@ During the [[Dedicated MD 26th October 2022]] where the spill was very low
 Compared to normal proton spill
 
 Also used during the [[RFKO MD8923 Week 44]] and the [[Slow extraction theory#TFB extraction (RFKO)]]
+
+
+# BXSCAL1100
+
+Fast acquisition
+
+![[Pasted image 20221103104023.png|1075]]

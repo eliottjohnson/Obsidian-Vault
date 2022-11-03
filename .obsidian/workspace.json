@@ -134,9 +134,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8643acb12a8a2169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "694e92f5a27e69cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -155,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "steinbach",
+                "query": "gas scinti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Slow extraction theory.md",
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Slow extraction theory.md",
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Slow extraction theory.md"
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md"
               }
             }
           },
@@ -262,17 +286,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d714cb4a923ea697",
+  "active": "694e92f5a27e69cc",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Theory/Slow extraction theory.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Short term.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/Quadrupole scan/MWPC.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+    "Fellowship/Quadrupole scan/MWPC.md"
   ]
 }
