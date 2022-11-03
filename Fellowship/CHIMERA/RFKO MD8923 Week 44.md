@@ -349,6 +349,10 @@ Start extracting at 0.05 gain
 
 Scan from 0.04 - 0.05 with 0.32-0.33 
 Started at 17:09
+XSEC23 measurement restarted at 17:15
+Gain changed to high at 17:18 on XSEC23
 
 
 High sampling period for ten shots
+At gain 0.041
+chirp range from 0.32-0.34
