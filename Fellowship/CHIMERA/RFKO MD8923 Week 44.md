@@ -280,3 +280,4 @@ japc.getParamInfo('PR.BQL72/Setting#exAmplitudeV')
 * Started at 15:14
 * Chirp from from 0.2-0.35
 * Injection Timing is 235 ms so you have to add it to Acq Offset
+* ended at 15:35
