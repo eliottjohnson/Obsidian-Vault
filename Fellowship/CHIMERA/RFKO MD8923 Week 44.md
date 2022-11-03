@@ -275,3 +275,8 @@ japc.getParamInfo('PR.BQL72/Setting#exAmplitudeV')
 * Started at 14:37
 * Chirp freq from 0.3 - 0.35
 * We notice that Acq Offset needs an -240 offset
+* ended at 15:10
+
+* Started at 15:14
+* Chirp from from 0.2-0.35
+* 
