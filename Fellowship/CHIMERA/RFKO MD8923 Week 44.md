@@ -271,6 +271,7 @@ QMETER_SETTINGS = { 'ex_mode': ('#exMode', 1), 'acq_on': ('#acqState', 1), 'acq_
 japc.getParamInfo('PR.BQL72/Setting#exAmplitudeV')
 ```
 
-Automatic gain scan
-
-Started at 14:37
+1) Automatic gain scan
+* Started at 14:37
+* Chirp freq from 0.3 - 0.35
+* We notice that Acq Offset needs an -240 offset
