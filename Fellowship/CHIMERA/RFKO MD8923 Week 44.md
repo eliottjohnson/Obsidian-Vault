@@ -272,3 +272,5 @@ japc.getParamInfo('PR.BQL72/Setting#exAmplitudeV')
 ```
 
 Automatic gain scan
+
+Started at 14:37
