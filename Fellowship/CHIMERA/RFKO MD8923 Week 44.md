@@ -359,3 +359,4 @@ At gain 0.041
 chirp range from 0.32-0.34
 sampling of bxcals set to 10
 At 17:26 (same file) we went to 0.042
+10 shots at that intensity
