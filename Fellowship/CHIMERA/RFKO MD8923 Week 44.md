@@ -322,6 +322,11 @@ Ended at 16:38
 
 ![[Pasted image 20221103163227.png]]
 
+![[Pasted image 20221103170212.png]]
+
+![[Pasted image 20221103170225.png]]
+
+![[Pasted image 20221103170232.png]]
 
 CHIMERA BEAM
 Started at 16:41
@@ -333,9 +338,17 @@ Acquisition 500
 data start at 16:46
 Start extracting at 0.05 gain
 
+![[Pasted image 20221103170300.png]]
 
-Scan from 0.04 - 0.05 with 0.32-0.33
+![[Pasted image 20221103170320.png]]
 
+![[Pasted image 20221103170328.png]]
+
+![[Pasted image 20221103170337.png]]
+
+
+Scan from 0.04 - 0.05 with 0.32-0.33 
+Started at 17:09
 
 
 High sampling period for ten shots
