@@ -364,3 +364,5 @@ At 17:26 (same file) we went to 0.042
 At 18:13 XSEC23 intensity. I've added the gain saving to the XSEC python script
 gain 0.041 no beam
 gain 0.0415 little beam
+You get a nicer spill if you don't overshoot the resonance (0.32 to 0.3333 instead of going to 0.34)
+Started 10 points at 18:29:39 for statistics
