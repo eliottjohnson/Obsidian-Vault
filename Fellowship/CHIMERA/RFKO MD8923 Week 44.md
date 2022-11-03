@@ -360,3 +360,7 @@ chirp range from 0.32-0.34
 sampling of bxcals set to 10
 At 17:26 (same file) we went to 0.042
 10 shots at that intensity
+
+At 18:13 XSEC23 intensity. I've added the gain saving to the XSEC python script
+gain 0.041 no beam
+gain 0.0415 little beam
