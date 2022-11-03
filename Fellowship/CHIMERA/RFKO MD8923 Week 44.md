@@ -331,3 +331,11 @@ Gain from 0.01 - 0.1
 256 turns
 Acquisition 500
 data start at 16:46
+Start extracting at 0.05 gain
+
+
+Scan from 0.04 - 0.05 with 0.32-0.33
+
+
+
+High sampling period for ten shots
