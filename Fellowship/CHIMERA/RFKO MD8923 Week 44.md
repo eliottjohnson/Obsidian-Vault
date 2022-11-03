@@ -314,5 +314,13 @@ Frequency scan started at 16:04
 
 ![[Pasted image 20221103162755.png]]
 
-Scan of acquisition with chirp every 50 ms
+Scan of acquisition with chirp every 50 ms, we increase the red boxes
+Started at 16:31
+Ended at 16:38
 
+
+
+![[Pasted image 20221103163227.png]]
+
+
+CHIMERA BEAM
