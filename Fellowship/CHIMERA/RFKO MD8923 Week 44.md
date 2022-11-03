@@ -304,3 +304,15 @@ japc.getParamInfo('PR.BQL72/Setting#exAmplitudeV')
 Frequency scan started at 16:04
 * Freq scan from 1 ms to 20 ms
 * At 25 acquisition
+* ended at 16:27
+
+![[Pasted image 20221103162701.png]]
+
+![[Pasted image 20221103162708.png]]
+
+![[Pasted image 20221103162716.png]]
+
+![[Pasted image 20221103162755.png]]
+
+Scan of acquisition with chirp every 50 ms
+
