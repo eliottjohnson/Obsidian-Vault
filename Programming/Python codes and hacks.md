@@ -78,6 +78,12 @@ ax.plot(w/2/np.pi, pgram) # we convert back to normal frequency
 ax.set_xlabel("Frequency [Hz]")
 ```
 
+#### Find peaks
+```
+peaks = find_peaks(pgram, height=0.3e6, distance = 100)
+```
+
+![[Pasted image 20221104125954.png|800]]
 
 ## Plotting
 
