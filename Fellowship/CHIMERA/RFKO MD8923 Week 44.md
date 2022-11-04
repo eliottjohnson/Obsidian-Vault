@@ -127,11 +127,11 @@ LEQ
 
 Very flat spill with spike removed
 
-![[Pasted image 20221102171752.png|875]]
+![[Pasted image 20221102171752.png|625]]
 
 Low intensity on the XSEC23
 
-![[Pasted image 20221102171820.png|775]]
+![[Pasted image 20221102171820.png|625]]
 
 Amplitude, repetition rate
 Grab the raw data for the function on the plates, we need the raw voltage (ask Tom in charge of instrument)
@@ -154,7 +154,7 @@ Chirp Freq Range H: 0.3 to 0.35 Hz
 
 ![[Pasted image 20221102092721.png|375]]
 
-![[Pasted image 20221102092729.png|525]]
+![[Pasted image 20221102092729.png|500]]
 
 [PSMD Logbook Entry #2](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3643684)
 
@@ -170,7 +170,7 @@ Chirp Freq Range H: 0.3 to 0.35 Hz
 
 ![[Pasted image 20221102092741.png|550]]
 
-![[Pasted image 20221102092749.png|625]]
+![[Pasted image 20221102092749.png|550]]
 
 ![[Pasted image 20221102092800.png|325]]
 
