@@ -25,6 +25,12 @@ print(mat1[iy,ix])
 print(mat2[iy,ix])
 ```
 
+### Take sub-array by passing an array of indexes
+
+```python
+np.take(numpy_array, list_indexes)
+```
+
 ## Fourier Transform
 
 
