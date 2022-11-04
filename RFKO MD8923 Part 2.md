@@ -68,32 +68,13 @@ japc.getParamInfo('PR.BQL72/Setting#exAmplitudeV')
 * ended at 16.02
 * Careful last point will be freq scan
 
-Frequency scan started at 16:04
-* Freq scan from 1 ms to 20 ms
-* At 25 acquisition
-* ended at 16:27
 
-![[Pasted image 20221103162701.png|675]]
+[[RFKO frequency scan]]
+Started at 16:04 ended at 16:27
 
-![[Pasted image 20221103162708.png|675]]
+[[RFKO acquisition scan]]
+Started at 16:31 ended at 16:38
 
-![[Pasted image 20221103162716.png|675]]
-
-![[Pasted image 20221103162755.png|675]]
-
-Scan of acquisition with chirp every 50 ms, we increase the red boxes
-Started at 16:31
-Ended at 16:38
-
-
-
-![[Pasted image 20221103163227.png|675]]
-
-![[Pasted image 20221103170212.png|675]]
-
-![[Pasted image 20221103170225.png|675]]
-
-![[Pasted image 20221103170232.png|675]]
 
 CHIMERA BEAM
 Started at 16:41
