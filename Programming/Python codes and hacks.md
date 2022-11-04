@@ -25,6 +25,9 @@ print(mat1[iy,ix])
 print(mat2[iy,ix])
 ```
 
+## Fourier Transform
+
+
 ## Pandas Dataframe
 
 ### Create a dataframe
@@ -57,6 +60,16 @@ ax.set_xlabel("freq [Hz]")
 ax.set_ylabel("Amplitude [arb.]")
 ```
 
+### Non-uniform Fourier transform
+
+```python
+w = np.linspace(1/sampling_period/2/len(signal_np), 1/sampling_period/2, 100000)*2*np.pi # This is in angular frequency w=2*pi*f, the lowest frequency is sampling_frequency/Number_of_FFT_point
+pgram = scipy.signal.lombscargle(df.timeArray[bound_min:bound_max], df.BXSCAL_signal[bound_min:bound_max], w)
+
+fig, ax = plt.subplots(tight_layout=True, figsize=(20,5))
+ax.plot(w/2/np.pi, pgram) # we convert back to normal frequency
+ax.set_xlabel("Frequency [Hz]")
+```
 
 ## Plotting
 

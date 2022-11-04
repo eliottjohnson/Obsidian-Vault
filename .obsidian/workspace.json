@@ -76,6 +76,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "999f23d5b8ee2a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f184c512d2458889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -97,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open data pickle",
+                "query": "fourier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,16 +228,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3013d8c86f73977",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
-    "RFKO MD8923 Part 2.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Programming/Python codes and hacks.md",
+    "RFKO MD8923 Part 2.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Theory/Slow extraction theory.md",
     "Short term.md",
-    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/East Slow Extraction Eliott.md"
   ]
