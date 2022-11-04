@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6077cb39ead7962f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RFKO MD8923 Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "afs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +112,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "RFKO MD8923 Part 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "RFKO MD8923 Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+                "file": "RFKO MD8923 Part 2.md"
               }
             }
           },
@@ -180,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc914d4c6caaca6c",
+  "active": "6077cb39ead7962f",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "RFKO MD8923 Part 2.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Theory/Slow extraction theory.md",
     "Short term.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/East Slow Extraction Eliott.md",
-    "Fellowship/EAST transfer lines/BLM008.md"
+    "Fellowship/East Slow Extraction Eliott.md"
   ]
 }
