@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -253,17 +253,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc914d4c6caaca6c",
+  "active": "626dd696acf63e52",
   "lastOpenFiles": [
     "RFKO MD8923 Part 2.md",
+    "RFKO frequency scan.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "RFKO acquisition scan.md",
     "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
     "Fellowship/CHIMERA/CHIMERA.md",
-    "RFKO frequency scan.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
   ]
 }
