@@ -1,3 +1,4 @@
+Started at 16:31 ended at 16:38
 Scan of acquisition with chirp every 50 ms, we increase the red boxes
 15 aqcisitions, varying nturns from 256 to 16384
 
