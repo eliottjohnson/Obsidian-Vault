@@ -61,12 +61,13 @@ They will attach the doc to the correct place in EDMS, assign relevant reference
 
 Thomas Birtwistle takes care of the PS Complex primary lines (Booster, PS Ring, etc...)
 
-## Silvia
+## Silvia Schuh-Erhard
 
-Put the appendix in the text
+We had a brief discussion on Monday 07.11.2022
+Did a great job correcting the document.
 
+Suggested to put the appendix in the text (maybe no need for this time).
 
-3:30
+Read her comments before 3:30.
 
-
-Wednesday next week deadline
+Wednesday next week deadline for document circulation
