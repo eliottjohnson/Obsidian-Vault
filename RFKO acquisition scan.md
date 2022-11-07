@@ -11,3 +11,5 @@ https://gitlab.cern.ch/tbass/md-8923/-/blob/master/results_2022-11-03T16%3A40%3A
 ![[Pasted image 20221103170225.png|675]]
 
 ![[Pasted image 20221103170232.png|675]]
+
+![[RFKO_acquisition_scan.gif|1100]]
