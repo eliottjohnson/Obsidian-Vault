@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Fellowship/CHIMERA/CHIMERA.md"
               }
             }
           },
@@ -267,6 +267,7 @@
   },
   "active": "c153791ead20836e",
   "lastOpenFiles": [
+    "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/EDMS document East Dump.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
@@ -275,7 +276,6 @@
     "RFKO frequency scan.md",
     "RFKO acquisition scan.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Programming/Python codes and hacks.md"
+    "Fellowship/CHIMERA/CHIMERA.md"
   ]
 }
