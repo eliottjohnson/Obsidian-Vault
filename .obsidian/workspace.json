@@ -114,15 +114,23 @@
             }
           },
           {
-            "id": "df009f035461a16d",
+            "id": "631dca84c74d528f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c153791ead20836e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -145,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fourier",
+                "query": "EDMS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +180,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md"
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md"
               }
             }
           },
@@ -253,17 +260,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df009f035461a16d",
+  "active": "631dca84c74d528f",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+    "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
     "RFKO MD8923 Part 2.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "RFKO frequency scan.md",
     "RFKO acquisition scan.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
     "Fellowship/CHIMERA/CHIMERA.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+    "Programming/Python codes and hacks.md"
   ]
 }
