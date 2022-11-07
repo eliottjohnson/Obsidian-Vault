@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Theory/Radiation effects in electronics-single-event effects.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Theory/Radiation effects in electronics-single-event effects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Theory/Radiation effects in electronics-single-event effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md"
+                "file": "Theory/Radiation effects in electronics-single-event effects.md"
               }
             }
           },
@@ -267,6 +267,7 @@
   },
   "active": "c153791ead20836e",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/CHIMERA.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/EDMS document East Dump.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
@@ -275,7 +276,6 @@
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "RFKO frequency scan.md",
     "RFKO acquisition scan.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/CHIMERA.md"
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
   ]
 }
