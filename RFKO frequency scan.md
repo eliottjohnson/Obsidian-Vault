@@ -1,7 +1,6 @@
-Frequency scan started at 16:04
-* Freq scan from 1 ms to 20 ms
+Frequency scan started at 16:04, ended at 16:27
+* Frequency scan from 1 ms to 20 ms
 * At 25 acquisition
-* ended at 16:27
 
 ![[Pasted image 20221103162701.png|675]]
 
