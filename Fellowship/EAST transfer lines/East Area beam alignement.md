@@ -1,5 +1,7 @@
 https://indico.cern.ch/event/1219916/
 
+
+[Source code mwpc_and_bpm_analysis_third_measurement.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/mwpc_and_bpms_quad_scan/mwpc_and_bpm_analysis_third_measurement.ipynb)
 Problem: the beam moves vertically when we do optics changes
 
 ![[Fellowship/EAST transfer lines/Attachments/quad_scan_focal_mwpc_no_screen_in_with_beam_following.gif|950]]

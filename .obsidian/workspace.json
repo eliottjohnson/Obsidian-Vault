@@ -100,69 +100,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "846898d7beb14f52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e96616d884780aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/Find the centre of the Q74 quadrupole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8eb460e31fd04c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "874991d98b258726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98b39bdb5f343a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -229,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
+                "file": "RFKO acquisition scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
+                "file": "RFKO acquisition scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md"
+                "file": "RFKO acquisition scan.md"
               }
             }
           },
@@ -289,14 +229,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8eb460e31fd04c81",
+  "active": "77ef65ec2ce5a8df",
   "lastOpenFiles": [
-    "Fellowship/EAST transfer lines/East Area beam alignement.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
-    "RFKO acquisition scan.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/Quadrupole scan/Find the centre of the Q74 quadrupole.md",
+    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
+    "Fellowship/EAST transfer lines/East Area beam alignement.md",
+    "RFKO acquisition scan.md",
     "Programming/MAD-X codes and hacks.md",
     "Fellowship/Quadrupole scan/Attachments/quad_scan_focal_mwpc_no_screen_in_with_beam_following.gif",
     "Fellowship/Quadrupole scan/MWPC.md",
