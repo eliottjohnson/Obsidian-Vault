@@ -112,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e96616d884780aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Quadrupole scan/Find the centre of the Q74 quadrupole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EDMS",
+                "query": "quadrupole error",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +172,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/Quadrupole scan/Find the centre of the Q74 quadrupole.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/Quadrupole scan/Find the centre of the Q74 quadrupole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Fellowship/Quadrupole scan/Find the centre of the Q74 quadrupole.md"
               }
             }
           },
@@ -241,8 +252,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f14a3fc0f4b75da",
+  "active": "6e96616d884780aa",
   "lastOpenFiles": [
+    "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/Quadrupole scan/Attachments/quad_scan_focal_mwpc_no_screen_in_with_beam_following.gif",
     "Fellowship/Quadrupole scan/MWPC.md",
@@ -251,7 +263,6 @@
     "Fellowship/EAST transfer lines/YASP.md",
     "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md",
     "Fellowship/EAST transfer lines/Request change in calibration curves.md",
-    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
-    "Fellowship/EAST transfer lines/EAST Flux limit.md"
+    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
   ]
 }
