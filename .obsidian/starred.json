@@ -19,6 +19,11 @@
       "type": "file",
       "title": "Python codes and hacks",
       "path": "Programming/Python codes and hacks.md"
+    },
+    {
+      "type": "file",
+      "title": "MAD-X codes and hacks",
+      "path": "Programming/MAD-X codes and hacks.md"
     }
   ]
 }
