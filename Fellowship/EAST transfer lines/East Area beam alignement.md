@@ -27,4 +27,4 @@ The vertical corrector also explain this and it would mean that the IRRAD BPMs a
 Test for Wednesday the 16th of November
 * Remove the vertical correctors
 * quad scan of QDN7 on MWPC
-	* If the V
+	* If the Vertical centroid does not move then this means the beam is well aligned in the quadrupole and that the BPMs are misaligned
