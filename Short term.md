@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## CHIMERA
 
-- [ ] Finish the CHIMERA doc
+- [x] Finish the CHIMERA doc
 - [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
 - [ ] Look at the BPM readout and MWPC readout at different energies
 - [ ] Analysis quadrupole scan data at 750 and 500 MeV/u
@@ -14,13 +14,15 @@ kanban-plugin: basic
 - [x] Create a savedata script
 - [ ] Picoscope test
 - [x] Send Andreas BPM values from NXCALS for the parallel optics and follow up with his FLUKA simulation.
-- [ ] Check Dispersion at BPM1
+- [x] Check Dispersion at BPM1
 - [ ] Correlation between XSEC and scintillator during the 750 and 500 MeV spill test
 
 
 ## [[IPAC 2023]]
 
-- [ ] Write an Abtract<br>* Stray fields<br>* East Area ion beams
+- [x] Write an Abtract<br>* Stray fields<br>* East Area ion beams
+- [ ] Analysis on octupoles
+- [ ] Analysis on magnetic rastering
 
 
 ## Stray Field
