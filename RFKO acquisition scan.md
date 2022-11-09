@@ -13,19 +13,16 @@ https://gitlab.cern.ch/tbass/md-8923/-/blob/master/spill_data_bxscal/analysis_ac
 
 ![[Pasted image 20221103170232.png|675]]
 
-![[RFKO_acquisition_scan.gif|1100]]
+![[rfko_acquisition_scan_bxscal_fourier_transform_1.png]]
 
+![[rfko_acquisition_scan_bxscal_fourier_transform_2.png]]
 
-![[Figure 4.png|975]]
+![[rfko_acquisition_scan_bxscal_fourier_transform_3.png]]
 
-![[Figure 5.png|975]]
+![[rfko_acquisition_scan_bxscal_fourier_transform_4.png]]
 
-![[Figure 6.png|975]]
+![[rfko_acquisition_scan_bxscal_fourier_transform_5.png]]
 
-![[Figure 7.png|975]]
+![[rfko_acquisition_scan_bxscal_fourier_transform_6.png]]
 
-![[Figure 8.png|975]]
-
-![[Figure 9.png|975]]
-
-![[Figure 10.png|975]]
+![[rfko_acquisition_scan_bxscal_fourier_transform_7.png]]
