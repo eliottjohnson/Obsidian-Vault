@@ -117,3 +117,13 @@ gain 0.0415 little beam
 You get a nicer spill if you don't overshoot the resonance (0.32 to 0.3333 instead of going to 0.34)
 Started 10 points at 18:29:39 for statistics
 ended at 18:44
+
+[Source code: analysis_chimera_beam.ipynb](https://gitlab.cern.ch/tbass/md-8923/-/blob/master/spill_data_bxscal/analysis_chimera_beam.ipynb)
+
+![[xsec_spill_rfko_rescaled_750.png|675]]
+
+![[xsec_gain_vs_intensity_rfko.png|550]]
+
+![[xsec_spill_history_750_MeV_RFKO.png|675]]
+
+![[xsec_spill_rfko_750_MeV.png|800]]
