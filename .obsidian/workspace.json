@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RFKO MD8923 Part 2.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RFKO MD8923 Part 2.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RFKO MD8923 Part 2.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -204,8 +204,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6077cb39ead7962f",
+  "active": "626dd696acf63e52",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "RFKO MD8923 Part 2.md",
     "RFKO frequency scan.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/EAST transfer lines/BLM008.md",
@@ -213,8 +215,6 @@
     "RFKO acquisition scan.md",
     "Short term.md",
     "Theory/Slow extraction theory.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
-    "Fellowship/Quadrupole scan/Find the centre of the Q74 quadrupole.md",
-    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md"
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md"
   ]
 }
