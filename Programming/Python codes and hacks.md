@@ -97,6 +97,12 @@ ax2.plot(df_xsec.t-200, -df_xsec.signal_23_I1, color="r", label="XSEC")
 
 ```
 
+#### multiple labels with twinx
+
+``` python
+fig.legend(loc="upper right", bbox_to_anchor=(1,1), bbox_transform=ax.transAxes)
+```
+
 ### Save a figure
 
 ```python
