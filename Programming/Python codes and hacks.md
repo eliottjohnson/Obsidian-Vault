@@ -7,6 +7,18 @@ Displaying a number in scientific notation
 
 '2.00e-04'
 
+## Datetime
+
+```python
+from datetime import datetime
+
+datetime.fromtimestamp(1666793774.451).strftime('%d-%m-%y')
+```
+
+```python
+dates = [datetime.fromtimestamp(ts) for ts in timestamp_list]
+```
+
 ## Numpy
 
 ### Mask matrices of several dimensions
