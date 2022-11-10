@@ -65,6 +65,11 @@ df = pd.concat([df1,df2])
 ```
 
 
+### Sort by column
+```python
+df.sort_values(by=['col1'])
+```
+
 ### Non-uniform Fourier transform
 
 [Source code: lombscargle_test.ipynb](https://gitlab.cern.ch/tbass/md-8923/-/blob/master/spill_data_bxscal/lombscargle_test.ipynb)
@@ -242,4 +247,6 @@ df = DevicePropertyDataQuery.builder(spark).system("CMW").startTime(start).endTi
 df.head(1)
 
 df.selector.unique()
+
+df.loc[df.selector == "CPS.USER.MD4"]
 ```
