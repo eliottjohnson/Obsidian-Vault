@@ -178,6 +178,16 @@ ax.tricontourf(df.number_of_particle, df.number_of_turns, df.time, cmap="magma")
 
 ![[Pasted image 20221012152504.png]]
 
+### Colors
+
+```python
+c1 = plt.cm.Dark2(0)
+c2 = plt.cm.Dark2(1)
+c3 = plt.cm.Dark2(2)
+```
+
+https://matplotlib.org/stable/gallery/color/colormap_reference.html
+![[Pasted image 20221110150056.png]]
 
 ### How to make a gif
 
