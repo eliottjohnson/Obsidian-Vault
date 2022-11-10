@@ -222,3 +222,24 @@ ls -sh
 
 [Py-BOBYQA documentation](https://numericalalgorithmsgroup.github.io/pybobyqa/build/html/index.html)
 
+## NXCALS
+
+See [[MWPC#Simple SWAN python script for NXCALS]]
+
+``` python
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+from nxcals.api.extraction.data.builders import *
+from scipy.optimize import curve_fit
+from datetime import datetime
+
+# build the query and load data into spark dataframe UTC Time
+start = "2022-09-28 11:00:00.000"
+end = "2022-09-28 17:00:00.000"
+df = DevicePropertyDataQuery.builder(spark).system("CMW").startTime(start).endTime(end).entity().parameter("F61.BLM008-ST/Samples").build().toPandas()
+
+df.head(1)
+
+df.selector.unique()
+```
