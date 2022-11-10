@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "res = np.lin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "RFKO MD8923 Part 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "RFKO MD8923 Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "RFKO MD8923 Part 2.md"
               }
             }
           },
@@ -216,17 +216,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "6077cb39ead7962f",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "RFKO MD8923 Part 2.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
     "Programming/Python codes and hacks.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Quadrupole scan/MWPC.md",
     "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
     "Fellowship/CHIMERA/Picoscope.md",
     "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "RFKO frequency scan.md"
   ]
 }
