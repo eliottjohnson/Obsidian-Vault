@@ -150,13 +150,13 @@ matplotlib.rc('font', **font)
 ### Plot a square
 
 ```python
-```python
+import matplotlib.patches as patches
+
 # Create a Rectangle patch
 rect = patches.Rectangle((50, 100), 40, 30, linewidth=1, edgecolor='r', facecolor='none')
 
 # Add the patch to the Axes
 ax.add_patch(rect)
-```
 ```
 
 ### Heatmaps
