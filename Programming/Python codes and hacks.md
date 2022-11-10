@@ -147,6 +147,22 @@ font = {'family' : 'DejaVu Sans',
 matplotlib.rc('font', **font)
 ```
 
+### Change ticks size for all plots
+
+```python
+# set tick width
+import matplotlib as mpl
+mpl.rcParams['xtick.major.size'] = 12
+mpl.rcParams['xtick.major.width'] = 4
+mpl.rcParams['xtick.minor.size'] = 8
+mpl.rcParams['xtick.minor.width'] = 2
+
+mpl.rcParams['ytick.major.size'] = 12
+mpl.rcParams['ytick.major.width'] = 4
+mpl.rcParams['ytick.minor.size'] = 6
+mpl.rcParams['ytick.minor.width'] = 2
+```
+
 ### Plot a square
 
 ```python
