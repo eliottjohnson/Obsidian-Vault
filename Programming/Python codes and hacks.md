@@ -262,3 +262,11 @@ df.selector.unique()
 
 df.loc[df.selector == "CPS.USER.MD4"]
 ```
+
+## Scipy
+
+``` python
+from scipy import stats
+res = stats.linregress(x, y)
+ax.plot(x, res.intercept + res.slope*x, 'r', label='fitted line')
+```

@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lingress",
+                "query": "res = np.lin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
