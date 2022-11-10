@@ -270,3 +270,12 @@ from scipy import stats
 res = stats.linregress(x, y)
 ax.plot(x, res.intercept + res.slope*x, 'r', label='fitted line')
 ```
+
+### Integral of a curve
+
+``` python
+from scipy.interpolate import InterpolatedUnivariateSpline
+
+f = InterpolatedUnivariateSpline(df.t, -df.signal_23_I1, k=1)
+    intensity = f.integral(200,800)
+```
