@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
+                "file": "Programming/Tutorial application development.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "run madx file",
+                "query": "alias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
+                "file": "Programming/Tutorial application development.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
+                "file": "Programming/Tutorial application development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md"
+                "file": "Programming/Tutorial application development.md"
               }
             }
           },
@@ -216,10 +216,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "f7bd095fd23b0946",
   "lastOpenFiles": [
-    "Programming/Computer Vision with OpenCV/Image processing.md",
     "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
+    "Programming/Computer Vision with OpenCV/Image processing.md",
     "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
     "FLUKA continuation.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
