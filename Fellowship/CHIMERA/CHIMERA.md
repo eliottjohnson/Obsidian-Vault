@@ -15,6 +15,8 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 [CHIMERA 2022 run preparation meeting #4]([https://indico.cern.ch/event/1211404/](https://indico.cern.ch/event/1211404/))
 [CHIMERA 2022 run preparation meeting #5](https://indico.cern.ch/event/1212178/)
 [CHIMERA 2022 run preparation meeting #6](https://indico.cern.ch/event/1215588/)
+[CHIMERA 2022 run preparation meeting #7](https://indico.cern.ch/event/1217487/)
+
 
 ## Documents
 
