@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "look up table",
+                "query": "run madx file",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +136,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7bd095fd23b0946",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
     "Programming/Computer Vision with OpenCV/Image processing.md",
     "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
