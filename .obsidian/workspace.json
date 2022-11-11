@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
+                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md"
               }
             }
           },
@@ -218,15 +219,15 @@
   },
   "active": "f7bd095fd23b0946",
   "lastOpenFiles": [
+    "Programming/Computer Vision with OpenCV/Image processing.md",
+    "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
+    "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
+    "FLUKA continuation.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Theory/Slow extraction theory.md",
     "Short term.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/SEC calibration EAST.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "RFKO MD8923 Part 2.md",
-    "Fellowship/East Area optics measurements.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/Quadrupole scan/Parallel beam.md"
+    "Fellowship/CHIMERA/SEC calibration EAST.md"
   ]
 }
