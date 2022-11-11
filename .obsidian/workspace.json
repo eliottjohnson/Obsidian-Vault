@@ -93,8 +93,12 @@
             "id": "e17b541e8a56ff79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -117,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fellowship/CHIMERA/SEC calibration EAST.md"
+              }
             }
           },
           {
@@ -222,15 +230,15 @@
   },
   "active": "e17b541e8a56ff79",
   "lastOpenFiles": [
-    "RFKO MD8923 Part 2.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/Quadrupole scan/Parallel beam.md",
+    "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
+    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+    "Fellowship/CHIMERA/counting scintillator (plastic scintillator).md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Fellowship/EAST slow extraction.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/Quadrupole scan/MWPC.md",
-    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
-    "Fellowship/CHIMERA/Picoscope.md",
-    "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md",
-    "RFKO frequency scan.md"
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "RFKO MD8923 Part 2.md",
+    "Programming/Python codes and hacks.md"
   ]
 }

@@ -54,4 +54,3 @@ Split signal from XSEC (in F61) and acquire raw signal on **picoscope**
 	-   r coefficient, (to be computed for Pb ion beams)
 	-   NSEC Number of SEC count
 -   Work for both slow and fast extraction
-- 
