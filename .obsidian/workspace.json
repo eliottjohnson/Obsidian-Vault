@@ -88,9 +88,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e17b541e8a56ff79",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RFKO MD8923 Part 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RFKO MD8923 Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RFKO MD8923 Part 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,10 +220,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6077cb39ead7962f",
+  "active": "e17b541e8a56ff79",
   "lastOpenFiles": [
-    "Programming/Python codes and hacks.md",
     "RFKO MD8923 Part 2.md",
+    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
