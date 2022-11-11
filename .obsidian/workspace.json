@@ -64,8 +64,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56c173f8592be034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7bd095fd23b0946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -84,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://codimd.web.cern.ch/uploads/upload_16d5cded53cd302983af1ae9050a9856.png",
+                "query": "look up table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Slow extraction theory.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Slow extraction theory.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Slow extraction theory.md"
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
               }
             }
           },
@@ -191,17 +216,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "837a08352c0a6384",
+  "active": "f7bd095fd23b0946",
   "lastOpenFiles": [
-    "Short term.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
     "Theory/Slow extraction theory.md",
+    "Short term.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/SEC calibration EAST.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "RFKO MD8923 Part 2.md",
     "Fellowship/East Area optics measurements.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/Quadrupole scan/Parallel beam.md",
-    "Programming/Computer Vision with OpenCV/OpenCV Basic.md"
+    "Fellowship/Quadrupole scan/Parallel beam.md"
   ]
 }

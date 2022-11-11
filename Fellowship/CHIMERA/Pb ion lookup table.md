@@ -26,3 +26,6 @@ The ramp on POPS [[Cern Control Center Tips and Tricks#Change the B-field of the
 [Logbook entry](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3635313)
 
 ![[Pasted image 20221018111720.png|725]]
+
+
+![[Pasted image 20221111115854.png]]
