@@ -61,4 +61,4 @@ I use this time to review what I have done earlier in the day and complete any t
 - [ ] 17:20 Prep for tomorrow's meetings
 - [ ] 18:00 END
 ---
-
+[![](https://mermaid.ink/img/pako:eNpdUD1rxDAM_StCcwJxepO3g9BOma5LwYuIlatpYhdHGcpx_71ynXK0wmD5ffDwu-GUPKPFK0URF0FHgiwMZ3gpEAyBrpnWSnkSfk55JQF402nHsR2Gym08SUgRLvWu4BmEtg94jCXTQN-ZU9sZPQ08df6QxiTvnB8GS7PomwxAsfi_MYe8gq_FE2Ihj5jfCNMXt-kPN_0PAQv9yWODK-u3gtcqbkXqUHUrO7S6ep5pX8Shi3eV0i7p8hUntJJ3bnD_LL0cRaGdadkUZR8k5bHW-9Py_Rv7FWwr?type=png)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpdUD1rxDAM_StCcwJxepO3g9BOma5LwYuIlatpYhdHGcpx_71ynXK0wmD5ffDwu-GUPKPFK0URF0FHgiwMZ3gpEAyBrpnWSnkSfk55JQF402nHsR2Gym08SUgRLvWu4BmEtg94jCXTQN-ZU9sZPQ08df6QxiTvnB8GS7PomwxAsfi_MYe8gq_FE2Ihj5jfCNMXt-kPN_0PAQv9yWODK-u3gtcqbkXqUHUrO7S6ep5pX8Shi3eV0i7p8hUntJJ3bnD_LL0cRaGdadkUZR8k5bHW-9Py_Rv7FWwr)

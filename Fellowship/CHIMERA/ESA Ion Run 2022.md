@@ -93,17 +93,17 @@ Acess
 
 
 ## Day Planner
-
 ```mermaid
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 11:24:14 AM
+    %% Current Time: 11:34:14 AM
     section Tasks
     Setup     :09-30, 270mm
     Changing beam energy and intensity     :14-00, 210mm
     Move Montrac with DUT and scan     :17-30, 210mm
-    Access to place degrader     :21-00, 0mm
+    Access to place degrader     :21-00, 60mm
+    Test     :22-00, 0mm
     section Breaks
 
 ```
@@ -111,9 +111,11 @@ gantt
 ### Morning
 
 - [ ] 09:30 Setup
-
-### Task
-
 - [ ] 14:00 Changing beam energy and intensity
 - [ ] 17:30 Move Montrac with DUT and scan
 - [ ] 21:00 Access to place degrader
+- [ ] 22:00 Test
+
+### Test
+- [ ] test
+- [ ] 
