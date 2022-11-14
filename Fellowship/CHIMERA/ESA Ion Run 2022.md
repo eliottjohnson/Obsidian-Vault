@@ -77,7 +77,7 @@ Access
 * Another set of DUT
 * Degrader scan:
 	* Progressively adding thickness up to the point where we fully stop the primary ions (= measurement of beam energy)
-* Compare degraded 
+* Compare degraded energy with primary energy (energy spread, fragmentation)
 
 ### Friday 25
 
