@@ -76,7 +76,6 @@ Acess
 * Another set of DUT
 * Degrader scan:
 	* Progressively adding thickness up to the point where we fully stop the primary ions (= measurement of beam energy)
-	* 
 
 ### Friday 25
 
@@ -99,16 +98,22 @@ Acess
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 11:14:27 AM
+    %% Current Time: 11:24:14 AM
     section Tasks
-    Setup     :09-30, 0mm
+    Setup     :09-30, 270mm
+    Changing beam energy and intensity     :14-00, 210mm
+    Move Montrac with DUT and scan     :17-30, 210mm
+    Access to place degrader     :21-00, 0mm
     section Breaks
 
 ```
 
 ### Morning
 
-- [x] 09:30 Setup
-- [ ] 14:00
-- [ ] 17:30
-- [ ] 21:00
+- [ ] 09:30 Setup
+
+### Task
+
+- [ ] 14:00 Changing beam energy and intensity
+- [ ] 17:30 Move Montrac with DUT and scan
+- [ ] 21:00 Access to place degrader

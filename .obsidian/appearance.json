@@ -4,5 +4,7 @@
   "cssTheme": "Things",
   "baseFontSize": 13,
   "accentColor": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "mermaid-gant"
+  ]
 }
