@@ -41,10 +41,53 @@ Looking forward to your feedback and extra ideas!!
 	* Beam size = not altered
 	* Spill length = not altered
 
+14:00 - 17:30:
+* Characterization of the beam energy and varying intensity
+* Make sure instruments are logging
+* Set the gain to correct values
+	* XSEC (gain = HIGH)
+	* MWPC (voltage)
+* DUT:
+	* Empty (no diode, no 3 SRAMS to spare fluence)
+
+17:30 - 21:00:
+* Move the MONTRAC with DUT:
+	* Diode
+	* 3 SRAMs
+* Test all 4 equipment sequentially
+	* For all 3 energy
+	* 2-3 intensities
+	* 3 energies x 2 intensities x 4 DUTs is already = to 24 runs
+
+* 21:00 - 02:00:
+	* Access to place a degrader of specific thickness:
+		* This will create three new energies
+	* Repeat all measurements
+
+
 ### Thursday 24
+
+02:00 - 08:00:
+* Long run during the night to accumulate statistics on the Renesas memory
+
+Acess
+08:00:
+* Change degrader thickness
+* Another set of DUT
+* Degrader scan:
+	* Progressively adding thickness up to the point where we fully stop the primary ions (= measurement of beam energy)
+	* 
 
 ### Friday 25
 
+* ESA Test
+* Nights:
+  * Available for our own measurements
+
 ### Saturday 26
+
+* ESA Test
+* Nights:
+  * Available for our own measurements
 
 ### Sunday 27
