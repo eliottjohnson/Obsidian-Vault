@@ -47,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "preview",
+                "file": "Programming/Linux + Technical.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md",
+                "file": "Programming/Linux + Technical.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md",
+                "file": "Programming/Linux + Technical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md"
+                "file": "Programming/Linux + Technical.md"
               }
             }
           },
@@ -217,8 +217,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed1c97c5edfd205d",
+  "active": "67c49e03a58299b6",
   "lastOpenFiles": [
+    "Programming/Python codes and hacks.md",
+    "Fellowship/EAST transfer lines/East Area beam alignement.md",
     "RFKO MD8923 Part 2.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Day Planners/Day Planner-20221114.md",
@@ -226,8 +228,6 @@
     "Theory/Slow extraction theory.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Fellowship/EAST transfer lines/East Area beam alignement.md",
-    "Fellowship/EAST slow extraction.md"
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
   ]
 }

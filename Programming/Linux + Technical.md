@@ -1,4 +1,4 @@
-##  How to reboot the TN:
+## How to reboot the TN:
 
 in the TN terminal
 
@@ -11,6 +11,13 @@ ssh -4 -J eljohnso@lxplus7.cern.ch eljohnso@cwe-513-vpl305
 k5reauth -x -i 3600 -f -- vncserver
 
 Connect as usual with mobaxterm
+
+## JAVA issue
+
+You need to set up the environment variables
+
+![[Pasted image 20221114162037.png]]
+
 
 ## Technical network status on Grafana
 
