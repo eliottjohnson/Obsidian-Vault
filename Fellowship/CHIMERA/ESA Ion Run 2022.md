@@ -58,6 +58,7 @@ Looking forward to your feedback and extra ideas!!
 	* For all 3 energy
 	* 2-3 intensities
 	* 3 energies x 2 intensities x 4 DUTs is already = to 24 runs
+	* placed in different spots on the frame (i.e., not stacked as it was during the 26th of oct) and that we would move the frame in the x, y remotely
 
 * 21:00 - 02:00:
 	* Access to place a degrader of specific thickness:
@@ -76,6 +77,7 @@ Access
 * Another set of DUT
 * Degrader scan:
 	* Progressively adding thickness up to the point where we fully stop the primary ions (= measurement of beam energy)
+* Compare degraded 
 
 ### Friday 25
 
