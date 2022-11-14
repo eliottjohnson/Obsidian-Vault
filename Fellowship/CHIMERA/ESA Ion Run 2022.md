@@ -70,7 +70,7 @@ Looking forward to your feedback and extra ideas!!
 02:00 - 08:00:
 * Long run during the night to accumulate statistics on the Renesas memory
 
-Acess
+Access
 08:00:
 * Change degrader thickness
 * Another set of DUT
@@ -92,30 +92,5 @@ Acess
 ### Sunday 27
 
 
-## Day Planner
-```mermaid
-gantt
-    dateFormat  HH-mm
-    axisFormat %H:%M
-    %% Current Time: 11:34:14 AM
-    section Tasks
-    Setup     :09-30, 270mm
-    Changing beam energy and intensity     :14-00, 210mm
-    Move Montrac with DUT and scan     :17-30, 210mm
-    Access to place degrader     :21-00, 60mm
-    Test     :22-00, 0mm
-    section Breaks
 
-```
 
-### Morning
-
-- [ ] 09:30 Setup
-- [ ] 14:00 Changing beam energy and intensity
-- [ ] 17:30 Move Montrac with DUT and scan
-- [ ] 21:00 Access to place degrader
-- [ ] 22:00 Test
-
-### Test
-- [ ] test
-- [ ] 
