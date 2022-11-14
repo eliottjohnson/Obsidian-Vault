@@ -91,3 +91,24 @@ Acess
   * Available for our own measurements
 
 ### Sunday 27
+
+
+## Day Planner
+
+```mermaid
+gantt
+    dateFormat  HH-mm
+    axisFormat %H:%M
+    %% Current Time: 11:14:27 AM
+    section Tasks
+    Setup     :09-30, 0mm
+    section Breaks
+
+```
+
+### Morning
+
+- [x] 09:30 Setup
+- [ ] 14:00
+- [ ] 17:30
+- [ ] 21:00

@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "59d93730aa54a197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20221114.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b91dfcb26f3a895a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20221114.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed1c97c5edfd205d",
             "type": "leaf",
             "state": {
@@ -114,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59d93730aa54a197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20221114.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RFKO",
+                "query": "tag:#article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,6 +164,7 @@
       {
         "id": "a6214e1e12c2a510",
         "type": "tabs",
+        "dimension": 15.642857142857142,
         "children": [
           {
             "id": "58e5bfeb61f06e7d",
@@ -183,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20221114.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20221114.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20221114.md"
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
               }
             }
           },
@@ -237,14 +226,29 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "ed3bd96d94172f59",
+        "type": "tabs",
+        "dimension": 84.35714285714285,
+        "children": [
+          {
+            "id": "f25fe34f38ffa18e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b91dfcb26f3a895a",
+  "active": "f25fe34f38ffa18e",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20221114.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "RFKO MD8923 Part 2.md",
@@ -253,7 +257,6 @@
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/EAST transfer lines/East Area beam alignement.md",
     "Fellowship/EAST slow extraction.md",
-    "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
-    "Programming/Tutorial application development.md"
+    "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md"
   ]
 }
