@@ -88,9 +88,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "adc18cb42825bf6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Quadrupole scan/Initial parameter validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a6fe8a56922482b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Quadrupole scan/Optics F61 T8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -109,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "mwpc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +160,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/Quadrupole scan/Optics F61 T8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/Quadrupole scan/Optics F61 T8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Linux + Technical.md"
+                "file": "Fellowship/Quadrupole scan/Optics F61 T8.md"
               }
             }
           },
@@ -217,17 +240,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67c49e03a58299b6",
+  "active": "7a6fe8a56922482b",
   "lastOpenFiles": [
-    "Programming/Python codes and hacks.md",
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+    "Fellowship/Quadrupole scan/Initial parameter validation.md",
     "Fellowship/EAST transfer lines/East Area beam alignement.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Programming/Linux + Technical.md",
+    "Programming/Python codes and hacks.md",
     "RFKO MD8923 Part 2.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Day Planners/Day Planner-20221114.md",
-    "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Theory/Slow extraction theory.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
+    "Fellowship/Stray Fields/Stitching two sequences together.md"
   ]
 }

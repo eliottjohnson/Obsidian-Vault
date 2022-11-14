@@ -67,7 +67,7 @@ Simulation show that for a minimum in the vertical plane, scanning QFN8 from **0
 title: Code
 collapse: closed
 
-	```python
+	``` python
 	%matplotlib inline
 	fig, ax = plt.subplots(1,7, tight_layout=True, figsize=(20,3))
 	
