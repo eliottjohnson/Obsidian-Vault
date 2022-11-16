@@ -35,3 +35,5 @@ The vertical corrector also explain this and it would mean that the IRRAD BPMs a
 
 13:10 started with zero vertical correctors
 
+Scan Quad8 at 13:19
+
