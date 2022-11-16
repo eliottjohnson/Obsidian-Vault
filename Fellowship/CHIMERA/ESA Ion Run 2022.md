@@ -27,6 +27,10 @@ Nominal:
 **Pb54_3BP_2021_06_09_NOMINAL_3600ms_V1**
 
 
+Bending values:
+1 GeV/u F61.BHZ01.DUMP -80
+
+
 ### Wednesday 23
 
 * Set up the three energies
