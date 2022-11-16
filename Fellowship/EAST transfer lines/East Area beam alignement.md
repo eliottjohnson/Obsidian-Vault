@@ -37,3 +37,6 @@ The vertical corrector also explain this and it would mean that the IRRAD BPMs a
 
 Scan Quad8 at 13:19
 
+Scan QD6 at 13:27
+
+Scan QF5 at 13:31
