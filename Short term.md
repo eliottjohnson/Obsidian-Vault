@@ -6,21 +6,14 @@ kanban-plugin: basic
 
 ## CHIMERA
 
-- [x] Finish the CHIMERA doc
-- [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
 - [ ] Look at the BPM readout and MWPC readout at different energies
-- [ ] Analysis quadrupole scan data at 750 and 500 MeV/u
-- [ ] Save data from spill monitor and XSEC
-- [x] Create a savedata script
 - [ ] Picoscope test
-- [x] Send Andreas BPM values from NXCALS for the parallel optics and follow up with his FLUKA simulation.
-- [x] Check Dispersion at BPM1
 - [ ] Correlation between XSEC and scintillator during the 750 and 500 MeV spill test
+- [ ] Transfer map of RFKO extraction intensity as a function of gain with the 650, 750 and 1000 MeV beams.
 
 
 ## [[IPAC 2023]]
 
-- [x] Write an Abtract<br>* Stray fields<br>* East Area ion beams
 - [ ] Analysis on octupoles
 - [ ] Analysis on magnetic rastering
 
@@ -31,6 +24,11 @@ kanban-plugin: basic
 - [ ] Continue with code ps_extraction/east-fast-extraction/stitched_slow_extraction_east_PTC_single_turn.ipynb
 - [ ] Continue with code ps_extraction/east-fast-extraction/stitched_slow_extraction_east-PTC.ipynb
 - [ ] Continue with code east-fast-extraction/ptc_track_in_ps.ipynb
+
+
+## Quadrupole alignement
+
+- [ ] Look at the data taken on the 16-Nov-22
 
 
 ## [[Multipole field component in MU62]]
@@ -54,7 +52,6 @@ kanban-plugin: basic
 - [ ] Write in the codilog the marche à suivre to perform a quadrupole scan and find init params
 - [ ] Check BPM UCAP and logging if I get the same values
 - [ ] First moment, second moment
-- [ ] Fill out Topics for 2023 before next section meeting
 
 
 ## [[YASP]]
@@ -66,7 +63,8 @@ kanban-plugin: basic
 
 ## [[EDMS document East Dump]]
 
-- [ ] Add Reference from Giulia for the Dump
+- [x] Add Reference from Giulia for the Dump
+- [ ] Look at Arnaud's correction
 
 
 ## [[Octupoles with Rebecca Taylor]]
@@ -118,6 +116,15 @@ kanban-plugin: basic
 - [x] Track single particles from Matt's distribution (non-linear can't do twiss)
 - [x] Perform quadrupole scans at 750 and 400 MeV/u
 - [x] Meeting with Ruben, Andreas, Luigi and Matthew
+- [x] Check Dispersion at BPM1
+- [x] Write an Abtract<br>* Stray fields<br>* East Area ion beams
+- [x] Finish the CHIMERA doc
+- [x] Create a savedata script
+- [x] Send Andreas BPM values from NXCALS for the parallel optics and follow up with his FLUKA simulation.
+- [ ] Read the data from TIMBER of the ion run on the 28th of september including beam size on BTVs and MWPC
+- [ ] Analysis quadrupole scan data at 750 and 500 MeV/u
+- [ ] Save data from spill monitor and XSEC
+- [x] Fill out Topics for 2023 before next section meeting
 
 %% kanban:settings
 ```
