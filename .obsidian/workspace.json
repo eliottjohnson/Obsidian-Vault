@@ -124,9 +124,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74de3713c2d36e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb4e9580c04a2e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2622c509e9dd56e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -145,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rfko",
+                "query": "pb lookup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
               }
             }
           },
@@ -252,17 +288,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33d521cb5532c649",
+  "active": "2622c509e9dd56e9",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/Quadrupole scan/Optics F61 T8.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/Quadrupole scan/Initial parameter validation.md",
     "Fellowship/EAST transfer lines/East Area beam alignement.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Programming/Linux + Technical.md",
-    "Programming/Python codes and hacks.md",
-    "RFKO MD8923 Part 2.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+    "Programming/Linux + Technical.md"
   ]
 }
