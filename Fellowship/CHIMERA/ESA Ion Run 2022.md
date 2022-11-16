@@ -22,6 +22,10 @@ After that, Friday would of course be fully devoted to the ESA tests, and possib
 
 Looking forward to your feedback and extra ideas!!
 
+Nominal:
+
+**Pb54_3BP_2021_06_09_NOMINAL_3600ms_V1**
+
 
 ### Wednesday 23
 
