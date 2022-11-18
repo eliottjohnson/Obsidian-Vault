@@ -281,3 +281,7 @@ Add quad scan during Saturday for optics measurements
 
 
 Measurement dp/p just before debunching for three energies with the tomoscope on monday tuesday
+Stays same moment spread
+
+
+Week-end collimator plexiglas test from Nataliaon the diode
