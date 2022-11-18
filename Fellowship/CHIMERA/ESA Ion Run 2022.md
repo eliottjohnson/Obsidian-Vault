@@ -286,3 +286,6 @@ Stays same moment spread
 
 
 Week-end collimator plexiglas test from Nataliaon the diode
+
+
+Send script for pyjapc
