@@ -268,3 +268,11 @@ One energie and move table
 
 Degrader scan:
 One access, scan all three energies
+
+ESA test: no degrader
+
+Monday 6 AM
+
+LEIR/LINAC 3 Edgar Mahir, Rheyes
+
+Bi: Inaki, Stephane, Joe, Ana 
