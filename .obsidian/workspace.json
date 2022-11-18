@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "626dd696acf63e52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67c49e03a58299b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Linux + Technical.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56c173f8592be034",
             "type": "leaf",
             "state": {
@@ -215,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
+                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
+                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md"
+                "file": "Fellowship/Stray Fields/Stitching two sequences together.md"
               }
             }
           },
@@ -275,8 +251,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "626dd696acf63e52",
+  "active": "56c173f8592be034",
   "lastOpenFiles": [
+    "Programming/Linux + Technical.md",
+    "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Fellowship/Quadrupole scan/EDMS document East Dump.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Theory/Slow extraction theory.md",
@@ -284,8 +262,6 @@
     "Fellowship/EAST transfer lines/East Area beam alignement.md",
     "RFKO MD8923 Part 2.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/CHIMERA/CHIMERA.md"
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
   ]
 }
