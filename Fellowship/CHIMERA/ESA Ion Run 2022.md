@@ -254,3 +254,13 @@ gantt
     TBD: 00-00, 24h
 ```
 
+three energies
+
+2 on one spare on energies single user
+
+1 chimera cycle per 30 sec
+
+One energie and move table
+
+2 order of magnitude higher Lower and lower intensity
+
