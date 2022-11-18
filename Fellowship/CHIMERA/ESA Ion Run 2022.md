@@ -27,17 +27,7 @@ Nominal:
 **Pb54_3BP_2021_06_09_NOMINAL_3600ms_V1**
 
 
-Bending values:
-1 GeV/u F61.BHZ01.DUMP -80
-
-
-### Wednesday 23
-
-* Set up the three energies
-	* 1 GeV/n
-	* 750 MeV/n
-	* 650 MeV/n
-* Vary the intensity (RFKO)
+### General rule:
 
 * Changing elements:
 	* Energy
@@ -48,6 +38,14 @@ Bending values:
 * Not changing:
 	* Beam size = not altered
 	* Spill length = not altered
+
+### Wednesday 23
+
+* Set up the three energies
+	* 1 GeV/n
+	* 750 MeV/n
+	* 650 MeV/n
+* Vary the intensity (RFKO)
 
 14:00 - 17:30:
 * Characterization of the beam energy and varying intensity
@@ -101,10 +99,7 @@ Access
 
 ### Sunday 27
 
-
-
-
-``` mermaid
+```mermaid
 gantt
 
     title ESA Run
@@ -133,15 +128,72 @@ gantt
 
   
 
-%%    Montrac movements: 17-30, 210m
+    Montrac movements: 17-30, 210m
 
-    Diode: 18-15, 45min
+  
 
-    SRAM 1: 19-00, 45min
+    Diode: 17-30, 45m
 
-    SRAM 2: 19-45, 45min
+    1000 MeV/u HIGH: 17-30, 7m
 
-    SRAM 3: 20-30, 45min
+    1000 MeV/u LOW: 17-37, 7m
+
+    750 MeV/u HIGH: 17-45, 7m
+
+    750 MeV/u LOW: 17-52, 7m
+
+    650 MeV/u HIGH: 18-00, 7m
+
+    650 MeV/u LOW: 18-07, 7m
+
+  
+  
+
+    SRAM 1: 18-15, 45m
+
+    1000 MeV/u HIGH: 18-15, 7m
+
+    1000 MeV/u LOW: 18-22, 7m
+
+    750 MeV/u HIGH: 18-30, 7m
+
+    750 MeV/u LOW: 18-37, 7m
+
+    650 MeV/u HIGH: 18-45, 7m
+
+    650 MeV/u LOW: 18-52, 7m
+
+  
+
+    SRAM 2: 19-00, 45m
+
+    1000 MeV/u HIGH: 19-00, 7m
+
+    1000 MeV/u LOW: 19-07, 7m
+
+    750 MeV/u HIGH: 19-15, 7m
+
+    750 MeV/u LOW: 19-22, 7m
+
+    650 MeV/u HIGH: 19-30, 7m
+
+    650 MeV/u LOW: 19-37, 7m
+
+  
+
+    SRAM 3: 19-45, 45m
+
+    1000 MeV/u HIGH: 19-45, 7m
+
+    1000 MeV/u LOW: 19-52, 7m
+
+    750 MeV/u HIGH: 20-00, 7m
+
+    750 MeV/u LOW: 20-07, 7m
+
+    650 MeV/u HIGH: 20-15, 7m
+
+    650 MeV/u LOW: 20-22, 7m
 
   
 
@@ -159,7 +211,23 @@ gantt
 
   
 
-    Access. Change degrader thickness. Another set of DUT. Degrader scan. : 08-00, 1h
+    Degrader scan: 08-00, 12h
+
+    Access degrader: 08-00, 1h
+
+    Another set of DUT, compare degraded energy: 09-00, 3h
+
+  
+
+    Access degrader: 12-00, 1h
+
+  
+
+    Access degrader: 15-00, 1h
+
+  
+
+    Access degrader: 18-00, 1h
 
   
 
