@@ -259,8 +259,12 @@ three energies
 2 on one spare on energies single user
 
 1 chimera cycle per 30 sec
+! Alwaays play cycle (low energy) after a high energy one
+! No MD to the dump, beam might be perturbed by hysteris
 
 One energie and move table
 
 2 order of magnitude higher Lower and lower intensity
 
+Degrader scan:
+One access, scan all three energies
