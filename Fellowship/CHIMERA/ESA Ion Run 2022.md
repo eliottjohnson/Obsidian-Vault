@@ -104,35 +104,58 @@ Access
 
 
 
-
-```mermaid  
-gantt
-    title A Gantt Diagram
-    dateFormat  YYYY-MM-DD
-    section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
-    section Another
-    Task in sec      :2014-01-12  , 12d
-    another task      : 24d
-```
-
 ``` mermaid
 gantt
 
-    title A Gantt Diagram
+    title ESA Run
+    dateFormat  HH-mm
+    axisFormat %H:%M  
 
-    dateFormat  YYYY-MM-DD
+    section Wednesday
 
-    section Section
+    Setup three energies, characterization of the beam energy and varying intensity with RFKO: 14-00, 3h
 
-    A task           :a1, 2014-01-01, 30d
+    1000 MeV/u HIGH :14-00, 30m
+    1000 MeV/u LOW :14-30, 30m
+    750 MeV/u HIGH :15-00, 30m
+    750 MeV/u LOW :15-30, 30m
+    650 MeV/u HIGH : 16-00, 30m
+    650 MeV/u LOW : 16-30, 30m  
 
-    Another task     :after a1  , 20d
+    Montrac (diode + SRAMs) : 17-30, 3h30m
+    Degrader installation : 21-00, 3h
+ 
+    section Thursday
+    Degrader installation: 00-00, 2h
 
-    section Another
+    Long run during the night to accumulate statistics on the Renesas memory: 02-00, 6h
+ 
 
-    Task in sec      :2014-01-12  , 12d
+    Access. Change degrader thickness. Another set of DUT. Degrader scan. : 08-00, 1h
 
-    another task      : 24d
+  
+
+    section Friday
+
+    ESA Test: 08-00, 10h
+
+    CHIMERA MD: 18-00, 6h
+
+  
+
+    section Saturday
+
+    CHIMERA MD: 00-00, 8h
+
+    ESA Test: 08-00, 10h
+
+    CHIMERA MD: 18-00, 6h
+
+  
+
+    section Sunday
+
+  
+
+    TBD: 00-00, 24h
 ```
