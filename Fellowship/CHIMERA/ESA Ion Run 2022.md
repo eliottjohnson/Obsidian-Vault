@@ -51,6 +51,7 @@ Nominal:
 * Set the gain to correct values
 	* XSEC (gain = HIGH)
 	* MWPC (voltage)
+* Use XION to see how low we can go
 * DUT:
 	* Empty (no diode, no 3 SRAMS to spare fluence)
 
