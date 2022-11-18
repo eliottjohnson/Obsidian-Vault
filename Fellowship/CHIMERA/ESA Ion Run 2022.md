@@ -111,6 +111,8 @@ gantt
 
     axisFormat %H:%M
 
+    todayMarker off
+
   
 
     section Wednesday
@@ -131,72 +133,25 @@ gantt
 
   
 
-    Montrac movements: 17-30, 210m
+    Montrac movements (cycle through Diode and SRAMS1/2/3): 17-30, 210m
 
   
 
-    Diode: 17-30, 45m
+    1000 MeV/u High: 17-30, 30m
 
-    1000 MeV/u HIGH: 17-30, 7m
-
-    1000 MeV/u LOW: 17-37, 7m
-
-    750 MeV/u HIGH: 17-45, 7m
-
-    750 MeV/u LOW: 17-52, 7m
-
-    650 MeV/u HIGH: 18-00, 7m
-
-    650 MeV/u LOW: 18-07, 7m
-
-  
-  
-
-    SRAM 1: 18-15, 45m
-
-    1000 MeV/u HIGH: 18-15, 7m
-
-    1000 MeV/u LOW: 18-22, 7m
-
-    750 MeV/u HIGH: 18-30, 7m
-
-    750 MeV/u LOW: 18-37, 7m
-
-    650 MeV/u HIGH: 18-45, 7m
-
-    650 MeV/u LOW: 18-52, 7m
+    1000 MeV/u Low: 18-00, 30m
 
   
 
-    SRAM 2: 19-00, 45m
+    750 MeV/u High: 18-30, 30m
 
-    1000 MeV/u HIGH: 19-00, 7m
-
-    1000 MeV/u LOW: 19-07, 7m
-
-    750 MeV/u HIGH: 19-15, 7m
-
-    750 MeV/u LOW: 19-22, 7m
-
-    650 MeV/u HIGH: 19-30, 7m
-
-    650 MeV/u LOW: 19-37, 7m
+    750 MeV/u Low: 19-00, 30m
 
   
 
-    SRAM 3: 19-45, 45m
+    650 MeV/u High: 19-30, 30m
 
-    1000 MeV/u HIGH: 19-45, 7m
-
-    1000 MeV/u LOW: 19-52, 7m
-
-    750 MeV/u HIGH: 20-00, 7m
-
-    750 MeV/u LOW: 20-07, 7m
-
-    650 MeV/u HIGH: 20-15, 7m
-
-    650 MeV/u LOW: 20-22, 7m
+    650 MeV/u Low: 20-00, 30m
 
   
 
@@ -214,27 +169,15 @@ gantt
 
   
 
-    Degrader scan: 08-00, 12h
-
-    Access degrader: 08-00, 1h
-
-    Another set of DUT, compare degraded energy: 09-00, 3h
+    Degrader scan (multiple accesses): 08-00, 12h
 
   
-
-    Access degrader: 12-00, 1h
-
   
-
-    Access degrader: 15-00, 1h
-
-  
-
-    Access degrader: 18-00, 1h
-
   
 
     section Friday
+
+    Access to remove degrader: 06-00, 2h
 
     ESA Test: 08-00, 10h
 
@@ -256,16 +199,21 @@ gantt
 
   
 
-    TBD: 00-00, 24h
+    CHIMERA MD / additional time for ESA Test: 00-00, 24h
+
+  
+
+    RFKO with signal generator a higher frequency: 08-00, 8h
+
+    MWPC quad scan: 08-00, 8h
+
+    Collimator plexiglas test (Natalia): 08-00, 8h
 ```
 
 3 energies
 
 * 2 on one spare on energies single user
 * 1 chimera cycle per 30 sec
-
-
-One energy and move table
 
 2 order of magnitude higher Lower and lower intensity
 
@@ -282,10 +230,8 @@ Bi: Inaki, Stephane, Joe, Ana e-mail to remind them we do CHIMERA run next week.
 
 Add quad scan during Saturday for optics measurements
 
-
-Measurement dp/p just before debunching for three energies with the tomoscope on monday tuesday
-Stays same moment spread
-
+**Measurement dp/p just before debunching for three energies with the tomoscope on monday tuesday
+Stays same moment spread**
 
 Week-end collimator plexiglas test from Natalia the diode
 
