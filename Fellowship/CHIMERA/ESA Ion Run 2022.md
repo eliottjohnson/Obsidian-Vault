@@ -275,4 +275,9 @@ Monday 6 AM
 
 LEIR/LINAC 3 Edgar Mahir, Rheyes
 
-Bi: Inaki, Stephane, Joe, Ana 
+Bi: Inaki, Stephane, Joe, Ana e-mail to remind them we do CHIMERA run next week. Voltage limit.
+
+Add quad scan during Saturday for optics measurements
+
+
+Measurement dp/p just before debunching for three energies with the tomoscope on monday tuesday
