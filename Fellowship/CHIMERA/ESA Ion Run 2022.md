@@ -260,8 +260,10 @@ three energies
 2 on one spare on energies single user
 
 1 chimera cycle per 30 sec
-! Alwaays play cycle (low energy) after a high energy one
+! Always play cycle (low energy) after a high energy one
 ! No MD to the dump, beam might be perturbed by hysteris
+
+
 
 One energie and move table
 
@@ -285,7 +287,7 @@ Measurement dp/p just before debunching for three energies with the tomoscope on
 Stays same moment spread
 
 
-Week-end collimator plexiglas test from Nataliaon the diode
+Week-end collimator plexiglas test from Natalia the diode
 
 
 Send script for pyjapc

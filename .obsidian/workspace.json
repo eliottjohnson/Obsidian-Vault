@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+                "file": "Fellowship/CHIMERA/CHIMERA.md"
               }
             }
           },
@@ -252,8 +253,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb4e9580c04a2e6b",
+  "active": "74de3713c2d36e91",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Programming/Linux + Technical.md",
     "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
@@ -262,7 +264,6 @@
     "Theory/Slow extraction theory.md",
     "Short term.md",
     "Fellowship/EAST transfer lines/East Area beam alignement.md",
-    "RFKO MD8923 Part 2.md",
-    "Fellowship/CHIMERA/Pb ion lookup table.md"
+    "RFKO MD8923 Part 2.md"
   ]
 }
