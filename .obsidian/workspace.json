@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56c173f8592be034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed1c97c5edfd205d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f14a3fc0f4b75da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adc18cb42825bf6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/Initial parameter validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a6fe8a56922482b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33d521cb5532c649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RFKO MD8923 Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74de3713c2d36e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bb4e9580c04a2e6b",
             "type": "leaf",
             "state": {
@@ -104,53 +20,19 @@
             }
           },
           {
-            "id": "2622c509e9dd56e9",
+            "id": "5fa28c92c21d0eb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28b89051358f6fab",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Short term.md"
-              }
-            }
-          },
-          {
-            "id": "4802453493d56691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "260d7eabd13430e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gas scinti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -216,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md"
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md"
               }
             }
           },
@@ -276,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "260d7eabd13430e7",
+  "active": "5fa28c92c21d0eb8",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-    "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Programming/Linux + Technical.md",
-    "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
-    "Theory/Slow extraction theory.md",
-    "Short term.md",
-    "Fellowship/EAST transfer lines/East Area beam alignement.md"
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+    "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md",
+    "Fellowship/EAST transfer lines/Request change in calibration curves.md",
+    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
+    "Fellowship/EAST transfer lines/EAST Flux limit.md",
+    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
+    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
+    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
+    "Fellowship/EAST transfer lines/East Area beam alignement.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
   ]
 }
