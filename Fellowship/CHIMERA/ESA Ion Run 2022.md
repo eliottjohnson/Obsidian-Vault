@@ -24,6 +24,10 @@ Nominal:
 
 **Pb54_3BP_2021_06_09_NOMINAL_3600ms_V1**
 
+```ad-warning
+* Always play cycle (low energy) after a high energy one
+* No MD to the dump, beam might be perturbed by hysteris
+```
 
 ### General rule:
 
@@ -255,17 +259,13 @@ gantt
     TBD: 00-00, 24h
 ```
 
-three energies
+3 energies
 
-2 on one spare on energies single user
-
-1 chimera cycle per 30 sec
-! Always play cycle (low energy) after a high energy one
-! No MD to the dump, beam might be perturbed by hysteris
+* 2 on one spare on energies single user
+* 1 chimera cycle per 30 sec
 
 
-
-One energie and move table
+One energy and move table
 
 2 order of magnitude higher Lower and lower intensity
 
