@@ -108,28 +108,56 @@ Access
 gantt
 
     title ESA Run
+
     dateFormat  HH-mm
-    axisFormat %H:%M  
+
+    axisFormat %H:%M
+
+  
 
     section Wednesday
 
     Setup three energies, characterization of the beam energy and varying intensity with RFKO: 14-00, 3h
 
     1000 MeV/u HIGH :14-00, 30m
-    1000 MeV/u LOW :14-30, 30m
-    750 MeV/u HIGH :15-00, 30m
-    750 MeV/u LOW :15-30, 30m
-    650 MeV/u HIGH : 16-00, 30m
-    650 MeV/u LOW : 16-30, 30m  
 
-    Montrac (diode + SRAMs) : 17-30, 3h30m
+    1000 MeV/u LOW :14-30, 30m
+
+    750 MeV/u HIGH :15-00, 30m
+
+    750 MeV/u LOW :15-30, 30m
+
+    650 MeV/u HIGH : 16-00, 30m
+
+    650 MeV/u LOW : 16-30, 30m
+
+  
+
+%%    Montrac movements: 17-30, 210m
+
+    Diode: 18-15, 45min
+
+    SRAM 1: 19-00, 45min
+
+    SRAM 2: 19-45, 45min
+
+    SRAM 3: 20-30, 45min
+
+  
+
     Degrader installation : 21-00, 3h
- 
+
+  
+
     section Thursday
+
     Degrader installation: 00-00, 2h
 
+  
+
     Long run during the night to accumulate statistics on the Renesas memory: 02-00, 6h
- 
+
+  
 
     Access. Change degrader thickness. Another set of DUT. Degrader scan. : 08-00, 1h
 
