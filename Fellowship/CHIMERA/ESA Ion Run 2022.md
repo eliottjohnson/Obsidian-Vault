@@ -115,6 +115,25 @@ gantt
 
   
 
+    section Monday
+
+  
+
+    Gain correlation with energy: 13-30, 5h
+
+  
+
+    section Tuesday
+
+  
+
+    Gain correlation with energy: 13-30, 2h
+
+    Tomoscope dp/p measurement: 15-30, 3h
+
+  
+  
+
     section Wednesday
 
     Setup three energies, characterization of the beam energy and varying intensity with RFKO: 14-00, 3h
@@ -171,8 +190,6 @@ gantt
 
     Degrader scan (multiple accesses): 08-00, 12h
 
-  
-  
   
 
     section Friday

@@ -2,7 +2,7 @@
   "theme": "system",
   "translucency": false,
   "cssTheme": "Things",
-  "baseFontSize": 25,
+  "baseFontSize": 14,
   "accentColor": "",
   "enabledCssSnippets": []
 }
