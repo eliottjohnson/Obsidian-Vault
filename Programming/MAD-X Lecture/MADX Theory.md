@@ -67,3 +67,19 @@ Special constructs;
 
 The dot "." is part of the identifier, in the LHC it is a separator.
 
+
+numerical instabitiy when converting 60 deg to radian (with raddeg)
+
+Only number can go into a variable, (not a=True;) while not work
+
+different operator <>
+
+Operators only have one argument
+
+* random distribution ranf()
+* gauss()
+
+deferred expresssion is like a lambda function is python
+
+If you store a number, use "="
+If you store an expression, use ":="
