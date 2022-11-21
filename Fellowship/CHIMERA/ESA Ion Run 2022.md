@@ -4,6 +4,11 @@
 
 Tomoscope to measure dp/p
 
+Enlever la tesnsion RF
+PA.GSV10GLOBAL
+On change et on met tout a 200
+
+
 PR.MPC/REF.PPPL Ref4 (first value) to see the plateau field
 
 Gil shift:
