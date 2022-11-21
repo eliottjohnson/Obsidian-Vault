@@ -13,6 +13,12 @@ PR.MPC/REF.PPPL Ref4 (first value) to see the plateau field
 
 * We use a early
 
+ContinousAcquisition:
+*exdataH
+*frevFreq
+
+BQL72  L is for Long
+
 ## Plan for 5-day ion run
 
 Concerning the 5-day CHIMERA ion run, we need to start getting specific about the related test plan. My proposal for the first ~12h would be the following. We can use this email thread (and, of course, this week’s CHIMERA meeting) to continue discussing about it and extend the schedule further.
