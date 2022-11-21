@@ -42,3 +42,4 @@ regex
 
 Maximum 46 characters for a variable name
 
+Denormal number makes the cpu go into a special mode and takes the calculation way longer
