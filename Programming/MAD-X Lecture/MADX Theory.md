@@ -27,3 +27,18 @@ case insenstive (no difference between upper case and lower case)
 
 Variable by default set to zero
 
+### Lexemes
+
+comments:
+!
+//
+/* */
+
+Numbers:
+Only double precision floating point
++3.5e5
+
+regex
+
+Maximum 46 characters for a variable name
+
