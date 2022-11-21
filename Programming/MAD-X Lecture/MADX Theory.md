@@ -9,3 +9,16 @@ Symplectic, conserve energy (no energy drift)
 
 To save the output to a file:
 .\madx-win64-gnu.exe madx_test.madx > my_script.out
+
+
+### Show command
+
+show a;
+show sbend;
+show twiss;
+
+Tell you all the variable the commands take.
+
+Re matrix = First order matrix
+
+Xsuite
