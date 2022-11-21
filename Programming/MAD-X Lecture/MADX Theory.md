@@ -43,3 +43,27 @@ regex
 Maximum 46 characters for a variable name
 
 Denormal number makes the cpu go into a special mode and takes the calculation way longer
+
+## deferred expersionn
+
+If you change a value, everything is calculated from it
+
+c :=3*b 
+
+command:
+	drift
+	return
+factories:
+	sequence
+	drift
+
+Special constructs;
+	if
+	elseif
+	else
+	while
+	line
+	macro
+
+The dot "." is part of the identifier, in the LHC it is a separator.
+
