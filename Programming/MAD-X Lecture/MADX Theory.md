@@ -120,3 +120,12 @@ dumpsequ to see the negative drift
 
 kmin, kmax
 
+focusing: +
+defocusing: -
+
+Optic file: strength file
+Working point of the machine
+
+Define the errors last because any use will remove the errors
+
+Add length around magnets with l.de
