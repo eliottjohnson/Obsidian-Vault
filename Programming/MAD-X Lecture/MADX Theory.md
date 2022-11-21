@@ -83,3 +83,8 @@ deferred expresssion is like a lambda function is python
 
 If you store a number, use "="
 If you store an expression, use ":="
+
+### Changes the seed:
+eption, seed=123456789;
+
+the global seed is 1234567
