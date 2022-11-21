@@ -2,8 +2,9 @@
 
 21 Nov 2022
 
+Tomoscope to measure dp/p
 
-Gil
+Gil shift:
 
 Vendredi matin 06:00 13:00
 samedi aprèm 13:00 21:00
