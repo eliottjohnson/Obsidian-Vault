@@ -22,3 +22,8 @@ Tell you all the variable the commands take.
 Re matrix = First order matrix
 
 Xsuite
+
+case insenstive (no difference between upper case and lower case)
+
+Variable by default set to zero
+
