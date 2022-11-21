@@ -6,7 +6,9 @@ Tomoscope to measure dp/p
 
 Enlever la tesnsion RF
 PA.GSV10GLOBAL
-On change et on met tout a 200
+On change et on met tout a 200 to not have a big dp/p
+
+Also we change the PA.GSV10GLOBAL to ramp down very quickly
 
 
 PR.MPC/REF.PPPL Ref4 (first value) to see the plateau field
@@ -18,6 +20,7 @@ ContinousAcquisition:
 *frevFreq
 
 BQL72  L is for Long
+
 
 Data:
 
