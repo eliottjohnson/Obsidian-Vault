@@ -110,3 +110,13 @@ bvflag, reverse the direction of the beam
 
 use, computes the position of the elements
 
+tfs tabular field separated
+
+Use places the implicits drifts DRIFT_0, DRIFT_1
+
+dumpsequ to see the negative drift
+
+# Sequences
+
+kmin, kmax
+
