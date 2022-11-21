@@ -87,4 +87,22 @@ If you store an expression, use ":="
 ### Changes the seed:
 eption, seed=123456789;
 
-the global seed is 1234567
+the global seed is 123456789
+
+### Commands
+
+option -info # False
+option info # True
+
+(option +info is wrong)
+
+value, option->info
+
+### Factories
+
+context:
+
+sequence ... endsequence
+
+You cannot create subsequences inside the sequence (not reetrant)
+
