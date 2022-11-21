@@ -19,6 +19,18 @@ ContinousAcquisition:
 
 BQL72  L is for Long
 
+Data:
+
+### 1000 MeV
+Scan at 15:30
+417 turns
+0, 0.5,10
+
+Scan at 15:35
+0, 0.1, 10
+
+
+
 ## Plan for 5-day ion run
 
 Concerning the 5-day CHIMERA ion run, we need to start getting specific about the related test plan. My proposal for the first ~12h would be the following. We can use this email thread (and, of course, this week’s CHIMERA meeting) to continue discussing about it and extend the schedule further.
