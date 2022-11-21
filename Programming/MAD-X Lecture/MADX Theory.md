@@ -129,3 +129,10 @@ Working point of the machine
 Define the errors last because any use will remove the errors
 
 Add length around magnets with l.de
+
+
+From the top, going right is positive
+
+
+In survey, the crosses are the **end** of the element. We always dump at the end of the element.
+
