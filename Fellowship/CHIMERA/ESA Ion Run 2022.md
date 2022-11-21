@@ -3,6 +3,12 @@
 21 Nov 2022
 
 
+Gil
+
+Vendredi matin 06:00 13:00
+samedi aprèm 13:00 21:00
+dimanche matin 06:00 13:00
+
 ## Plan for 5-day ion run
 
 Concerning the 5-day CHIMERA ion run, we need to start getting specific about the related test plan. My proposal for the first ~12h would be the following. We can use this email thread (and, of course, this week’s CHIMERA meeting) to continue discussing about it and extend the schedule further.

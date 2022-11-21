@@ -78,9 +78,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8091e8cbc87a5914",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RFKO MD8923 Part 2.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RFKO MD8923 Part 2.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RFKO MD8923 Part 2.md"
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
               }
             }
           },
@@ -206,8 +214,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f76523e3a91f324a",
+  "active": "3416c6effe106253",
   "lastOpenFiles": [
+    "RFKO MD8923 Part 2.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
@@ -216,7 +225,6 @@
     "Programming/Python codes and hacks.md",
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
-    "Fellowship/EAST transfer lines/Read BTV images from NXCALS.md"
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md"
   ]
 }
