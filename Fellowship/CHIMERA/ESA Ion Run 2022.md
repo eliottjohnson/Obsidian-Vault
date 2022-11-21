@@ -39,6 +39,10 @@ Scan at 15:45
 Scan at 16:14
 0.03, 0.05, 10
 
+Scan at 16:25
+0.04 0.0475, 10
+
+
 
 
 ## Plan for 5-day ion run
