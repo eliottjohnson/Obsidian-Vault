@@ -4,6 +4,8 @@
 
 Tomoscope to measure dp/p
 
+PR.MPC/REF.PPPL Ref4 (first value) to see the plateau field
+
 Gil shift:
 
 Vendredi matin 06:00 13:00

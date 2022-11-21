@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
               }
             }
           },
@@ -218,8 +218,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8091e8cbc87a5914",
+  "active": "3416c6effe106253",
   "lastOpenFiles": [
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "RFKO MD8923 Part 2.md",
@@ -228,7 +229,6 @@
     "Programming/Linux + Technical.md",
     "Programming/MAD-X codes and hacks.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/Stray Fields/PS Magnetic Shims.md",
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md"
+    "Fellowship/Stray Fields/PS Magnetic Shims.md"
   ]
 }
