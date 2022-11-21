@@ -32,6 +32,10 @@ Scan at 15:35
 Scan at 15:45
 0.03, 0.05, 10
 
+### 750 MeV
+Scan at 16:14
+0.03, 0.05, 10
+
 
 
 ## Plan for 5-day ion run
