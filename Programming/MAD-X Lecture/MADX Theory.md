@@ -11,7 +11,7 @@ To save the output to a file:
 .\madx-win64-gnu.exe madx_test.madx > my_script.out
 
 
-### Show command
+### **Show** command
 
 show a;
 show sbend;
@@ -105,4 +105,8 @@ context:
 sequence ... endsequence
 
 You cannot create subsequences inside the sequence (not reetrant)
+
+bvflag, reverse the direction of the beam
+
+use, computes the position of the elements
 
