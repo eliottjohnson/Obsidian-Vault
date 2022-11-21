@@ -11,11 +11,7 @@ On change et on met tout a 200
 
 PR.MPC/REF.PPPL Ref4 (first value) to see the plateau field
 
-Gil shift:
-
-Vendredi matin 06:00 13:00
-samedi aprèm 13:00 21:00
-dimanche matin 06:00 13:00
+* We use a early
 
 ## Plan for 5-day ion run
 
@@ -38,6 +34,12 @@ What do you think about this initial proposal?
 After that, Friday would of course be fully devoted to the ESA tests, and possibly at least a part of Saturday as well, in case they need to collect more data. But, depending on whether ESA are interested in long runs, we could still have the night for “ourselves”. And, this would anyway leave us at least Saturday night and Sunday as backup (e.g. for extra tests) and for the optics measurements by Eliott, of course.
 
 Looking forward to your feedback and extra ideas!!
+
+### Gil shift:
+
+Vendredi matin 06:00 13:00
+samedi aprèm 13:00 21:00
+dimanche matin 06:00 13:00
 
 Nominal:
 
