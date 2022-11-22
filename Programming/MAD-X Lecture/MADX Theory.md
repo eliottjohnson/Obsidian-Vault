@@ -231,3 +231,12 @@ in the starting condition you can specify the time, this is useful for the RF
 
 You can do something that changes after each turns
 simulate a ripple, tr$turni x 50Hz in the deferred strength of your ripple
+
+Never go below 3 slices
+
+**simsumrule**  (to lookup online) correction on the boundary teapot
+
+slices: teapot 4-5-6
+continuous is a waster of calculation except if:
+	injecting fields errors inside a quadrupole it's a good idea to slice the magnet and insert a multipole
+
