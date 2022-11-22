@@ -200,3 +200,9 @@ lmdif calls = 20 is the name of the algorithm
 
 tolerance is the square of the constraint
 
+First we match the quadrupole, for the linear part and the transport
+Then we match the sextupole to correct the chroma (change of tune with respect to energy)
+
+global parameter of the sequence dq1
+
+You can combine 5 sextupoles to correct 4 order, octopolar term
