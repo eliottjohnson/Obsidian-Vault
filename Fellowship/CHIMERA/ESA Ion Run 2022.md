@@ -274,3 +274,10 @@ Check if the gain is logged log
 
 Calibration curve:
 Intensity (SEC, XION) vs flux
+
+Ion flux: ion/cm^2/spill
+
+
+### Self-Logging:
+Create logging script:
+Datetime, MWPC voltage, RFKO gain knob logging
