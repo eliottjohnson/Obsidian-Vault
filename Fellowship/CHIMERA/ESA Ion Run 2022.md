@@ -269,3 +269,8 @@ Objectives:
 
 
 Keep track on the voltage logging, 2kV
+
+Check if the gain is logged log
+
+Calibration curve:
+Intensity (SEC, XION) vs flux
