@@ -217,3 +217,11 @@ Corrects horizontal plane and then vertical plane
 
 mlist list of monitor
 
+kick strength is the sum of the kick and svkick
+
+## Tracking
+
+Thin lenses
+
+makethin converts your sequence in thin lenses
+
