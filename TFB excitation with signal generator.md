@@ -1,6 +1,6 @@
 
-![[Pasted image 20221122143457.png|825]]
-![[Pasted image 20221122143533.png|825]]
+![[Pasted image 20221122143457.png|525]]
+![[Pasted image 20221122143533.png|525]]
 
 Remote app
 http://128.141.184.20/remote.asp

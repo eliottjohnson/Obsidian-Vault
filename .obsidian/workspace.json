@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mid-Long term.md",
+                "file": "TFB excitation with signal generator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mid-Long term.md",
+                "file": "TFB excitation with signal generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mid-Long term.md"
+                "file": "TFB excitation with signal generator.md"
               }
             }
           },
@@ -205,8 +205,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fca143a5ae468f7",
+  "active": "bb345c5a0c0da217",
   "lastOpenFiles": [
+    "Mid-Long term.md",
     "Short term.md",
     "Programming/Linux + Technical.md",
     "RFKO MD8923 Part 2.md",
@@ -215,7 +216,6 @@
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Programming/MAD-X codes and hacks.md"
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
   ]
 }
