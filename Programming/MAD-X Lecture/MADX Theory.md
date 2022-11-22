@@ -185,3 +185,6 @@ Low tune, machine is stable but not reactive.
 
 We try to maximise the length of bending magnets because the longer the magnet, the less the bending and the less the sychrotron radiation.
 
+Dipole has focusing effect on horizontal plane
+
+Interpolate when you plot slice the elements and recalculates the twiss
