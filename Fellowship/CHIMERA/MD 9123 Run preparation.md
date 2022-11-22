@@ -18,16 +18,16 @@ Also we change the PA.GSV10GLOBAL to ramp down very quickly
 
 PR.MPC/REF.PPPL Ref4 (first value) to see the plateau field
 
-* We use a early
+* We use a early beam from LEIR
 
 ContinousAcquisition:
-*exdataH
-*frevFreq
+* exdataH
+* frevFreq
 
 BQL72  L is for Long
 
 
-Data:
+## Data:
 
 ### 1000 MeV
 Scan at 15:30
