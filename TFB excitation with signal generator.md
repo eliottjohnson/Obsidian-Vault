@@ -1,13 +1,13 @@
 
-![[Pasted image 20221122143457.png|525]]
-![[Pasted image 20221122143533.png|525]]
+![[Pasted image 20221122143457.png|600]]
+![[Pasted image 20221122143533.png|600]]
 
 Remote app
 http://128.141.184.20/remote.asp
 
-![[Pasted image 20221122140302.png|800]]
+![[Pasted image 20221122140302.png|600]]
 
-![[Pasted image 20221122140310.png|800]]
+![[Pasted image 20221122140310.png|600]]
 
 Installed in 355/R-017
 
