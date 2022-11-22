@@ -178,3 +178,10 @@ q1 horizontal tune
 q2 vertical tune
 
 tune is expressed in unit of 2pi
+
+One cell is a FODO cell
+A high tune, your machine is reactive but unstable
+Low tune, machine is stable but not reactive.
+
+We try to maximise the length of bending magnets because the longer the magnet, the less the bending and the less the sychrotron radiation.
+
