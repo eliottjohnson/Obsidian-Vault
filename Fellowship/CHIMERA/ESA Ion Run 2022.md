@@ -282,6 +282,8 @@ Week-end collimator plexiglas test from Natalia the diode
 Objectives:
 
 
+Degrader used to calibrate the energy
+
 Keep track on the voltage logging, 2kV
 
 Check if the gain is logged log
@@ -291,8 +293,9 @@ Intensity (SEC, XION) vs flux
 
 Ion flux: ion/cm^2/spill
 
-Intensity vs gain plot
+**Intensity vs gain plot**
 
 ### Self-Logging:
-Create logging script:
+**Create logging script:**
+Keep track on the voltage logging, 2kV
 Datetime, MWPC voltage, RFKO gain knob logging
