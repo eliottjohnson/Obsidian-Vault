@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TFB excitation with signal generator.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "b-field",
+                "query": "spill",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
               }
             }
           },
@@ -197,15 +197,15 @@
   },
   "active": "0204189ba95d410d",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-    "TFB excitation with signal generator.md",
-    "RFKO acquisition scan.md",
-    "RFKO MD8923 Part 2.md",
-    "Fellowship/Quadrupole scan/Ion quadrupole scan.md",
-    "Programming/MAD-X Lecture/MADX Theory.md",
-    "Fellowship/Quadrupole scan/Focal point BPM01.md",
-    "Fellowship/Quadrupole scan/Parallel beam.md",
-    "Fellowship/Quadrupole scan/Initial parameter validation.md"
+    "Fellowship/EAST transfer lines/Request change in calibration curves.md",
+    "Fellowship/EAST transfer lines/BPMs in T8.md",
+    "Fellowship/EAST transfer lines/EAST Flux limit.md",
+    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
+    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
+    "Fellowship/EAST transfer lines/BLM008.md",
+    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
+    "Fellowship/East Slow Extraction Eliott.md",
+    "Fellowship/East Area optics measurements.md",
+    "Fellowship/PS transfer functions.md"
   ]
 }

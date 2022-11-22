@@ -1,5 +1,3 @@
-# EAST Transfer Lines beam sizes
-
 Dipanwita would like twiss files using the measured initial conditions for each line
 
 Beam size at three bending magnets: MBXHD005, MBXHD001 and MBXHD005
