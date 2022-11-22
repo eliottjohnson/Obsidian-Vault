@@ -145,3 +145,4 @@ but you can refer = entry.
 
 Length of sequence is the position of the end marker
 
+Drifts shorter than 1 $\mu m$ are discarded
