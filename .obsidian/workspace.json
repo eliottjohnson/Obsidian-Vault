@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TFB excitation with signal generator.md",
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TFB excitation with signal generator.md",
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TFB excitation with signal generator.md",
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TFB excitation with signal generator.md"
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "bb345c5a0c0da217",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "TFB excitation with signal generator.md",
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
     "Mid-Long term.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
