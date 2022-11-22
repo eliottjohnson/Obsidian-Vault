@@ -40,9 +40,9 @@ kanban-plugin: basic
 - [ ] CHIMERA<br>Discuss tasks to advance with the CHIMERA run in mind at the end of the year<br><br>Later<br>Do Radiation Protection Refresher<br>Import North Optics for T9, T10 for Denis, same procedure as I did for T8<br>Change the values at injection with the ones I found<br>SWAN_projects/btp_stray_elements/multiple_field_component_injection<br>SWAN_projects/acc-models-tls-eliott-fork/ps_injection/bt3btp_lhcindiv/stitched/jmad/kick_response_new_tracking_MFC_model<br>Gil + Marc<br>Optimiser sur les high-level knob (bump en [cm])<br>Fix the tail on the BPM, sweep ?<br>The beam gets smaller on the BPM1-4, it gets focused horizontally and defocused vertically we would like parallel
 
 
-## IRRAD
+## Lectures
 
-- [ ] No dedicated MD possible week of 5th to 19th oct because of cryostat
+- [ ] Do the Apache Spark APIs lecture: https://sparktraining.web.cern.ch/
 
 
 

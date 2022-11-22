@@ -59,35 +59,9 @@
             "id": "0fca143a5ae468f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/Linux + Technical.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f76523e3a91f324a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RFKO MD8923 Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8091e8cbc87a5914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-                "mode": "source",
-                "source": false
+                "file": "Mid-Long term.md"
               }
             }
           },
@@ -104,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TFB excitation with signal generator.md",
+                "file": "Mid-Long term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TFB excitation with signal generator.md",
+                "file": "Mid-Long term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TFB excitation with signal generator.md"
+                "file": "Mid-Long term.md"
               }
             }
           },
@@ -231,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb345c5a0c0da217",
+  "active": "0fca143a5ae468f7",
   "lastOpenFiles": [
+    "Short term.md",
+    "Programming/Linux + Technical.md",
     "RFKO MD8923 Part 2.md",
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+    "TFB excitation with signal generator.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Programming/Linux + Technical.md",
-    "Programming/MAD-X codes and hacks.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/Stray Fields/PS Magnetic Shims.md"
+    "Programming/MAD-X codes and hacks.md"
   ]
 }
