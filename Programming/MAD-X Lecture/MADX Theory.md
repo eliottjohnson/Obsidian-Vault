@@ -169,3 +169,12 @@ optics is 5D, tracking is 6D
 
 Dispersion is variation of orbit vs varation of energy
 
+At pi there is no phase advance, no solution. So pi/2 you should not use even number of cells.
+
+FODO cell, focus the beam
+sbend, bend the beam
+
+q1 horizontal tune
+q2 vertical tune
+
+tune is expressed in unit of 2pi
