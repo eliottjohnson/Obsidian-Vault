@@ -188,3 +188,15 @@ We try to maximise the length of bending magnets because the longer the magnet, 
 Dipole has focusing effect on horizontal plane
 
 Interpolate when you plot slice the elements and recalculates the twiss
+
+## Matching
+
+Matching the phase advance of the cells
+
+step is only the initial step. After it'scomputed by the jacobian
+
+units of 2 pi
+lmdif calls = 20 is the name of the algorithm
+
+tolerance is the square of the constraint
+
