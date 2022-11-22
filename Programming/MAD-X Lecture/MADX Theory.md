@@ -136,3 +136,6 @@ From the top, going right is positive
 
 In survey, the crosses are the **end** of the element. We always dump at the end of the element.
 
+Survey plots the machine from below
+
+Angle convention is positive move to the right
