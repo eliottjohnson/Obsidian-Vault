@@ -262,4 +262,10 @@ Stays same moment spread**
 
 Week-end collimator plexiglas test from Natalia the diode
 
-Send script for pyjapc
+
+## Meeting 22 nov
+
+Objectives:
+
+
+Keep track on the voltage logging, 2kV
