@@ -139,3 +139,9 @@ In survey, the crosses are the **end** of the element. We always dump at the end
 Survey plots the machine from below
 
 Angle convention is positive move to the right
+
+When you install a element in a sequence and you place it with from. Default is center.
+but you can refer = entry.
+
+Length of sequence is the position of the end marker
+
