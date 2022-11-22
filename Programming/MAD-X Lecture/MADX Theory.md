@@ -151,4 +151,14 @@ Drifts shorter than 1 $\mu m$ are discarded
 
 Transfer line need initial parameters. Closed machine tries to find a closed solution.
 
-Field 
+Field which is a potential can be expressed as a series.
+
+Magnetic rigidity, $B\rho = P_{0} / q$ related to the radius of curvature
+
+Strength (k) means the optics scales with the machine momentum (high and low energy)
+
+sbend: k = theta/L
+If you want a dipole turned off, put 10e-12 not zero otherwise it replaces it with k0=angle/l
+
+quadrupoles:
+if the beam is off centered, the taylor expansion might be inacurate and you shouldn't 
