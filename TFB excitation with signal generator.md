@@ -9,3 +9,8 @@ Installed in 355/R-017
 
 ![[Pasted image 20221122140726.png|425]]
 
+![[Pasted image 20221122143057.png]]
+
+
+397 kHz
+Third order resonance = 397/3 = 132 kHz
