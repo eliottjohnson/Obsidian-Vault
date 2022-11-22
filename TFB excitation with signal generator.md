@@ -57,3 +57,7 @@ PA.TFBH-BU-SD is the signal from the signal generator
 
 PA.TFBH-FB_ES-SD is the signal from the blow up
 ![[Pasted image 20221122143339.png|825]]
+
+![[Pasted image 20221122152114.png|825]]
+
+![[Pasted image 20221122152131.png]]
