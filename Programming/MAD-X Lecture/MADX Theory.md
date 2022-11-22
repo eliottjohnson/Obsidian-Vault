@@ -206,3 +206,8 @@ Then we match the sextupole to correct the chroma (change of tune with respect t
 global parameter of the sequence dq1
 
 You can combine 5 sextupoles to correct 4 order, octopolar term
+
+Touching the sextupole is fully orthogonal to the linear part (the quadrupol to change the tune)
+
+## Errors
+
