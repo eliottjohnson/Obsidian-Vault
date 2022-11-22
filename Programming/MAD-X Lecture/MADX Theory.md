@@ -211,3 +211,9 @@ Touching the sextupole is fully orthogonal to the linear part (the quadrupol to 
 
 ## Errors
 
+Micado optimises the numbers of kickers
+
+Corrects horizontal plane and then vertical plane
+
+mlist list of monitor
+
