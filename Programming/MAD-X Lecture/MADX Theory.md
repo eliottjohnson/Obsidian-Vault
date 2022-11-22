@@ -161,4 +161,11 @@ sbend: k = theta/L
 If you want a dipole turned off, put 10e-12 not zero otherwise it replaces it with k0=angle/l
 
 quadrupoles:
-if the beam is off centered, the taylor expansion might be inacurate and you shouldn't 
+if the beam is off centered, the taylor expansion might be inacurate and you shouldn't eoffset the quadrupole but rather recompute the expansion.
+
+$\Delta pt$ momentum deviation
+
+optics is 5D, tracking is 6D
+
+Dispersion is variation of orbit vs varation of energy
+
