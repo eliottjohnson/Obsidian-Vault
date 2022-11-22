@@ -51,7 +51,7 @@ current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149
 current3 = np.linspace(0.1, 0.16, number_of_k_to_scan)  # init 0.134
 ```
 
-![[quadrupole_scanquad_scan_east_slow_ions_low_energy_2022_09_27_11h28m57s.png]]
+![[quadrupole_scanquad_scan_east_slow_ions_low_energy_2022_09_27_11h28m57s.png|400]]
 
 2)  
 ``` python
@@ -60,7 +60,7 @@ current2 = np.linspace(-0.16, -0.08, number_of_k_to_scan)  # init -0.1149
 current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
 ```
 
-![[quadrupole_scanquad_scan_east_slow_ions_low_energy_2022_09_27_13h10m38s.png]]
+![[quadrupole_scanquad_scan_east_slow_ions_low_energy_2022_09_27_13h10m38s.png|975]]
 
 3)  
 ``` python
@@ -69,7 +69,7 @@ current2 = np.linspace(-0.1149, -0.1149, number_of_k_to_scan)  # init -0.1149
 current3 = np.linspace(0.134, 0.134, number_of_k_to_scan)  # init 0.134
 ```
 
-![[quadrupole_scanquad_scan_east_slow_ions_low_energy_2022_09_27_12h40m58s.png]]
+![[quadrupole_scanquad_scan_east_slow_ions_low_energy_2022_09_27_12h40m58s.png|1000]]
 
 Perhaps the stray field will change at 2 GeV which would change the beta and alpha. That would be bad if we can't scale by 54/82 with energy.
 It will be interesting to see the difference at low energy for a few different reasons: (I) different QSE strength? (II) different stray field effect of MU in saturation?
@@ -78,14 +78,14 @@ Same in the vertical plane but not in the horizontal plane.
 
 ## Comparison of the measurements
 
-![[quadrupole_scan_Pb_ions_qfn01.png]]
+![[quadrupole_scan_Pb_ions_qfn01.png|975]]
 
-![[quadrupole_scan_Pb_ions_qdn02.png]]
+![[quadrupole_scan_Pb_ions_qdn02.png|975]]
 
-![[quadrupole_scan_Pb_ions_qfn03.png]]
+![[quadrupole_scan_Pb_ions_qfn03.png|950]]
 
 Big difference in the QSE
-![[Pasted image 20220929161005.png]]
+![[Pasted image 20220929161005.png|900]]
 
 ## 750 MeV/u
 
