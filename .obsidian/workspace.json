@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md"
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md"
               }
             }
           },
@@ -209,6 +209,8 @@
   },
   "active": "bb345c5a0c0da217",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "TFB excitation with signal generator.md",
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
@@ -216,8 +218,6 @@
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Short term.md",
     "Programming/Linux + Technical.md",
-    "RFKO MD8923 Part 2.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md"
+    "RFKO MD8923 Part 2.md"
   ]
 }

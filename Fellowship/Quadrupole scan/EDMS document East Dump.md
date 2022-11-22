@@ -1,4 +1,3 @@
-# EDMS document East Dump
 
 Matthew requested an EDMS document with specifications on the East Dump line.
 
@@ -56,7 +55,7 @@ For two cycles per SC, 4.2E+10 p/s
 
 Giulia Romagnoli will add the dumps in the lines and position them in Layout.
 
-Giulia Romagnoli & Silvia Schu-Erhard take care of experimental areas (incl. East Area), configuratoin management and hardware baseline documentation.
+Giulia Romagnoli & Silvia Schu-Erhard take care of experimental areas (incl. East Area), configuration management and hardware baseline documentation.
 They will attach the doc to the correct place in EDMS, assign relevant reference and advise you on the reviewers too. They will also launch the approval process of the document afterwards.
 
 Thomas Birtwistle takes care of the PS Complex primary lines (Booster, PS Ring, etc...)
