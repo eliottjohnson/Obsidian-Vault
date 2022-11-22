@@ -182,6 +182,8 @@ gantt
 
     650 MeV/u Low: 20-00, 30m
 
+    RP access: crit, 21-00, 1h
+
   
 
     Degrader installation : 21-00, 3h
@@ -212,6 +214,10 @@ gantt
 
   
 
+    RP access: crit, 19-30, 1h
+
+  
+
     section Saturday
 
     CHIMERA MD: 00-00, 8h
@@ -219,6 +225,10 @@ gantt
     ESA Test: 08-00, 10h
 
     CHIMERA MD: 18-00, 6h
+
+  
+
+    RP access: crit, 15-00, 1h
 
   
 
@@ -235,6 +245,10 @@ gantt
     MWPC quad scan: 08-00, 8h
 
     Collimator plexiglas test (Natalia): 08-00, 8h
+
+  
+
+     RP access: crit, 15-00, 1h
 ```
 
 3 energies
@@ -277,6 +291,7 @@ Intensity (SEC, XION) vs flux
 
 Ion flux: ion/cm^2/spill
 
+Intensity vs gain plot
 
 ### Self-Logging:
 Create logging script:
