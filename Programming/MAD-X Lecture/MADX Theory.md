@@ -225,3 +225,9 @@ Thin lenses
 
 makethin converts your sequence in thin lenses
 
+start position depends if onepass or not onepass (around design orbit or not)
+
+in the starting condition you can specify the time, this is useful for the RF
+
+You can do something that changes after each turns
+simulate a ripple, tr$turni x 50Hz in the deferred strength of your ripple
