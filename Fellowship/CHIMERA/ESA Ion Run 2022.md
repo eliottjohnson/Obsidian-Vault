@@ -162,3 +162,9 @@ Ion flux: ion/cm^2/spill
 **Create logging script:**
 Keep track on the voltage logging, 2kV
 Datetime, MWPC voltage, RFKO gain knob logging
+
+## Wednesday 23
+
+![[Pasted image 20221123111318.png|875]]
+
+![[Pasted image 20221123111332.png|1000]]
