@@ -168,3 +168,9 @@ Datetime, MWPC voltage, RFKO gain knob logging
 ![[Pasted image 20221123111318.png|875]]
 
 ![[Pasted image 20221123111332.png|1000]]
+
+
+750 MeV
+gain 0.0414
+Xion
+gain = low
