@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f4fddffe37d3c14",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Mid-Long term.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -103,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Mid-Long term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Mid-Long term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Mid-Long term.md"
               }
             }
           },
@@ -183,8 +193,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6e0b71dbf56709c",
+  "active": "3f4fddffe37d3c14",
   "lastOpenFiles": [
+    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "ESA Run Schedule.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
@@ -193,7 +204,6 @@
     "Programming/Spill monitor.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
-    "Fellowship/EAST transfer lines/Request change in calibration curves.md"
+    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
   ]
 }

@@ -43,6 +43,9 @@ kanban-plugin: basic
 ## Lectures
 
 - [ ] Do the Apache Spark APIs lecture: https://sparktraining.web.cern.ch/
+- [ ] https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ch01.html#what_is_machine_learning
+- [ ] https://realpython.com/primer-on-python-decorators/
+- [ ] https://indico.cern.ch/event/1198785/contributions/5040267/attachments/2507351/4308700/A%20probabilistic%20model%20of%20SPS%20slow%20extraction%20-%20Chiara%20Mignacco.pdf
 
 
 
