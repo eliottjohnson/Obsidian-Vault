@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "bb4e9580c04a2e6b",
+            "id": "c75ef9b47efbf432",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae8cf274e90ad617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,43 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e6e0b71dbf56709c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f4fddffe37d3c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74fa4c657a962b3f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Short term.md"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saturation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md",
+                "file": "ESA Run Schedule.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md",
+                "file": "ESA Run Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md"
+                "file": "ESA Run Schedule.md"
               }
             }
           },
@@ -216,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f4fddffe37d3c14",
+  "active": "09b7c59164990f6d",
   "lastOpenFiles": [
-    "Programming/Computer Vision with OpenCV/Image processing.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
-    "Programming/Linux + Technical.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "ESA Run Schedule.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Theory/Current scaling for Ions.md"
+    "ESA Run Schedule.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/Quadrupole scan/BTV filters.md",
+    "Programming/Computer Vision with OpenCV/Image processing.md",
+    "Fellowship/Quadrupole scan/BTV timing with Ana in the East Area.md",
+    "Programming/Linux + Technical.md"
   ]
 }
