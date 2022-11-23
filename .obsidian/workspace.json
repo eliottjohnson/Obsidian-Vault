@@ -61,14 +61,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
+                "file": "Programming/Python codes and hacks.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5f1163db730d3eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sec23",
+                "query": "legend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f7ae9820898e8cd",
+  "active": "c5f1163db730d3eb",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Programming/Python codes and hacks.md",
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+    "Programming/MAD-X codes and hacks.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/Stray Fields/GEODE points.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/Quadrupole scan/MWPC.md",
     "Programming/Linux + Technical.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
-    "ESA Run Schedule.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
+    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
   ]
 }
