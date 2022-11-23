@@ -2,6 +2,7 @@
 
 See [[MD 9123 Run preparation]]
 
+
 ## Plan for 5-day ion run
 
 Concerning the 5-day CHIMERA ion run, we need to start getting specific about the related test plan. My proposal for the first ~12h would be the following. We can use this email thread (and, of course, this week’s CHIMERA meeting) to continue discussing about it and extend the schedule further.
@@ -50,6 +51,8 @@ Nominal:
 * Not changing:
 	* Beam size = not altered
 	* Spill length = not altered
+
+## [[ESA Run Schedule]]
 
 ### Wednesday 23
 
@@ -112,6 +115,8 @@ Access
 
 ### Sunday 27
 
+
+
 3 energies
 
 * 2 on one spare on energies single user
@@ -138,10 +143,9 @@ Stays same moment spread**
 Week-end collimator plexiglas test from Natalia the diode
 
 
-## Meeting 22 nov
+## Meeting 22 nov briefing
 
 Objectives:
-
 
 Degrader used to calibrate the energy
 
