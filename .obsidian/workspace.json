@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timestamp",
+                "query": "pandas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +194,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f7ae9820898e8cd",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
     "Fellowship/Stray Fields/GEODE points.md",
     "Programming/Python codes and hacks.md",
