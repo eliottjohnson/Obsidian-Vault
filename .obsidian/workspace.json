@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pandas",
+                "query": "sec23",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md"
               }
             }
           },
@@ -194,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "9f7ae9820898e8cd",
   "lastOpenFiles": [
-    "Fellowship/Stray Fields/GEODE points.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Programming/Python codes and hacks.md",
+    "Fellowship/Stray Fields/GEODE points.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/Quadrupole scan/MWPC.md",
     "Programming/Linux + Technical.md",
     "Fellowship/CHIMERA/TFB excitation with signal generator.md",
     "ESA Run Schedule.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md"
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
   ]
 }
