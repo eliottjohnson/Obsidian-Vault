@@ -149,8 +149,6 @@ Objectives:
 
 Degrader used to calibrate the energy
 
-Keep track on the voltage logging, 2kV
-
 Check if the gain is logged log
 
 Calibration curve:
