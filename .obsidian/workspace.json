@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae8cf274e90ad617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Current scaling for Ions.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cwe-",
+                "query": "ion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Theory/Current scaling for Ions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+                "file": "Theory/Current scaling for Ions.md"
               }
             }
           },
@@ -216,17 +228,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "ae8cf274e90ad617",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Short term.md",
     "Theory/Slow extraction theory.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/RFKO acquisition scan.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "ESA Run Schedule.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/EAST transfer lines/EAST slow extraction.md",
-    "Programming/Python codes and hacks.md"
+    "Fellowship/EAST transfer lines/EAST slow extraction.md"
   ]
 }
