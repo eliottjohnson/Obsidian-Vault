@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nxcals",
+                "query": "datetime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/MWPC.md"
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "9f7ae9820898e8cd",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/MWPC.md",
     "Programming/Python codes and hacks.md",
     "Programming/Linux + Technical.md",
     "Fellowship/CHIMERA/TFB excitation with signal generator.md",
@@ -204,7 +205,6 @@
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
   ]
 }
