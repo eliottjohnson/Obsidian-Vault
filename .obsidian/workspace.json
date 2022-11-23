@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rfko",
+                "query": "cwe-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,7 +216,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bb4e9580c04a2e6b",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
     "Short term.md",
     "Theory/Slow extraction theory.md",
