@@ -9,6 +9,8 @@ http://128.141.184.20/remote.asp
 
 ![[Pasted image 20221122140310.png|600]]
 
+Freq Dev should be +/- xkHz from the center frequency
+
 Installed in 355/R-017
 
 ![[Pasted image 20221122140726.png|425]]

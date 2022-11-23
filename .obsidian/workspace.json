@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md"
               }
             }
           },
@@ -195,8 +195,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0204189ba95d410d",
+  "active": "3416c6effe106253",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
     "Fellowship/EAST transfer lines/Request change in calibration curves.md",
     "Fellowship/EAST transfer lines/BPMs in T8.md",
     "Fellowship/EAST transfer lines/EAST Flux limit.md",
@@ -204,8 +206,6 @@
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
-    "Fellowship/East Slow Extraction Eliott.md",
-    "Fellowship/East Area optics measurements.md",
-    "Fellowship/PS transfer functions.md"
+    "Fellowship/East Slow Extraction Eliott.md"
   ]
 }
