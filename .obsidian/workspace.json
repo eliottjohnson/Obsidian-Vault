@@ -71,12 +71,28 @@
             "id": "c5f1163db730d3eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "854ba435d2e23fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "legend",
+                "query": "lookup table",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
+              }
             }
           },
           {
@@ -198,8 +218,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5f1163db730d3eb",
+  "active": "854ba435d2e23fb0",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/CHIMERA.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Programming/MAD-X codes and hacks.md",
@@ -208,7 +229,6 @@
     "Fellowship/Stray Fields/GEODE points.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/Quadrupole scan/MWPC.md",
-    "Programming/Linux + Technical.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
+    "Programming/Linux + Technical.md"
   ]
 }
