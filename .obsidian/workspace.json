@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
+                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md"
               }
             }
           },
@@ -228,8 +227,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae8cf274e90ad617",
+  "active": "3cc5572ce7e9285a",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Theory/Current scaling for Ions.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
@@ -238,7 +238,6 @@
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/RFKO acquisition scan.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
-    "ESA Run Schedule.md",
-    "Fellowship/CHIMERA/CHIMERA.md"
+    "ESA Run Schedule.md"
   ]
 }
