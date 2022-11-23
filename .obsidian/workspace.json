@@ -59,9 +59,11 @@
             "id": "3f4fddffe37d3c14",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Mid-Long term.md"
+                "file": "Programming/Linux + Technical.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mid-Long term.md",
+                "file": "Programming/Linux + Technical.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mid-Long term.md",
+                "file": "Programming/Linux + Technical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mid-Long term.md"
+                "file": "Programming/Linux + Technical.md"
               }
             }
           },
@@ -195,6 +197,7 @@
   },
   "active": "3f4fddffe37d3c14",
   "lastOpenFiles": [
+    "Mid-Long term.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "ESA Run Schedule.md",
@@ -203,7 +206,6 @@
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "Programming/Spill monitor.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
   ]
 }
