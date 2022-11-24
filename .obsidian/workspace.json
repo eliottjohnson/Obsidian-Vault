@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
               }
             }
           },
@@ -219,17 +219,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5f1163db730d3eb",
+  "active": "854ba435d2e23fb0",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+    "My notes.md",
     "ESA Run Schedule.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
-    "Programming/MAD-X codes and hacks.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Part 2.md"
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
+    "Theory/Ion kinetic energy.md",
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+    "Fellowship/CHIMERA/Magnetic Rastering.md",
+    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+    "Fellowship/CHIMERA/CHIMERA.md"
   ]
 }

@@ -1,4 +1,3 @@
-# Ion kinetic energy
 
 using Chao's formulas [[Accelerator Physics Theory]]
 
