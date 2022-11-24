@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sort",
+                "query": "scipy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,15 +220,15 @@
   },
   "active": "c75ef9b47efbf432",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/BTV filters.md",
+    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "ESA Run Schedule.md",
-    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Programming/MAD-X codes and hacks.md",
     "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/Stray Fields/GEODE points.md"
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
   ]
 }
