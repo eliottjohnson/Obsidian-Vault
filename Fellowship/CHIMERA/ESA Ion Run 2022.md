@@ -152,7 +152,7 @@ Degrader used to calibrate the energy
 Check if the gain is logged log
 
 Calibration curve:
-Intensity (SEC, XION) vs flux
+**Intensity (SEC, XION) vs flux**
 
 Ion flux: ion/cm^2/spill
 
