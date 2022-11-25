@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scipy",
+                "query": "generator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md"
               }
             }
           },
@@ -219,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c75ef9b47efbf432",
+  "active": "c5f1163db730d3eb",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
     "ESA Run Schedule.md",
-    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "My notes.md",
     "Theory/Ion kinetic energy.md",
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "Fellowship/CHIMERA/Magnetic Rastering.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
   ]
 }

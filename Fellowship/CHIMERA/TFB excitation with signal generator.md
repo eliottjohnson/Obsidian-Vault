@@ -63,3 +63,9 @@ PA.TFBH-FB_ES-SD is the signal from the blow up
 ![[Pasted image 20221122152114.png|825]]
 
 ![[Pasted image 20221122152131.png]]
+
+OASIS plates
+
+![[Pasted image 20221125082613.png|725]]
+
+![[Pasted image 20221125082638.png|725]]
