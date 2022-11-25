@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Programming/Python codes and hacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Linux + Technical.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -220,6 +221,7 @@
   },
   "active": "9f7ae9820898e8cd",
   "lastOpenFiles": [
+    "Programming/Linux + Technical.md",
     "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
@@ -228,7 +230,6 @@
     "Fellowship/Quadrupole scan/BTV filters.md",
     "ESA Run Schedule.md",
     "My notes.md",
-    "Theory/Ion kinetic energy.md",
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md"
+    "Theory/Ion kinetic energy.md"
   ]
 }
