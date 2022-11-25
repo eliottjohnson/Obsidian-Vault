@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
+                "file": "Programming/Linux + Technical.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "air scattering",
+                "query": "technical network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
+                "file": "Programming/Linux + Technical.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
+                "file": "Programming/Linux + Technical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md"
+                "file": "Programming/Linux + Technical.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "9f7ae9820898e8cd",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/TFB excitation with signal generator.md",
@@ -228,7 +229,6 @@
     "ESA Run Schedule.md",
     "My notes.md",
     "Theory/Ion kinetic energy.md",
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
-    "Fellowship/CHIMERA/Magnetic Rastering.md"
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md"
   ]
 }
