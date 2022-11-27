@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md",
+                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "integrated field",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md",
+                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md",
+                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md"
+                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md"
               }
             }
           },
@@ -231,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aad8aab2cd5aea9f",
+  "active": "aceea13055763bb4",
   "lastOpenFiles": [
-    "Theory/Radioprotection.md",
-    "Theory/Fast extraction tracking in MU62.md",
-    "Short term.md",
-    "ESA Run Schedule.md",
-    "Mid-Long term.md",
+    "Theory/MU current scaling with momentum.md",
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
+    "Fellowship/Bumper BSW57.md",
+    "Theory/Accelerator Physics Theory.md",
+    "Theory/FODO cell simple example.md",
     "Theory/Current scaling for Ions.md",
-    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
-    "Theory/Ion kinetic energy.md",
-    "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Programming/Python codes and hacks.md"
+    "Theory/Linear Energy Transfer (LET).md",
+    "Theory/PS Tune control explanation.md",
+    "Theory/Radioprotection.md",
+    "Theory/Fast extraction tracking in MU62.md"
   ]
 }
