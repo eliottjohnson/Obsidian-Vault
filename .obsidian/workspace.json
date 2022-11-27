@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Parallel beam.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PR.MPC",
+                "query": "RFKO plate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +198,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md"
+                "file": "Fellowship/CHIMERA/TFB excitation with signal generator.md"
               }
             }
           },
@@ -278,17 +279,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aad8aab2cd5aea9f",
+  "active": "b6c5443fc49c7dbb",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+    "Fellowship/CHIMERA/RFKO acquisition scan.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
-    "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/Quadrupole scan/Parallel beam.md",
-    "Fellowship/Quadrupole scan/Initial parameter validation.md",
-    "Fellowship/Quadrupole scan/Focal point BPM01.md"
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
+    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
+    "Fellowship/Quadrupole scan/Initial parameter validation.md"
   ]
 }
