@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Parallel beam.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Parallel beam.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Parallel beam.md"
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
               }
             }
           },
@@ -242,8 +242,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0dfe9ec1498ee6d0",
+  "active": "854ba435d2e23fb0",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/Parallel beam.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
@@ -252,7 +253,6 @@
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Theory/MU current scaling with momentum.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/Bumper BSW57.md"
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
   ]
 }
