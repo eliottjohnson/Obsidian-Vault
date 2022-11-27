@@ -97,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Ion kinetic energy.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RFKO plate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Theory/MU current scaling with momentum.md"
               }
             }
           },
@@ -231,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f7ae9820898e8cd",
+  "active": "aad8aab2cd5aea9f",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
+    "Theory/Radioprotection.md",
+    "Theory/Fast extraction tracking in MU62.md",
+    "Short term.md",
+    "ESA Run Schedule.md",
+    "Mid-Long term.md",
+    "Theory/Current scaling for Ions.md",
+    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
     "Theory/Ion kinetic energy.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
-    "Fellowship/Quadrupole scan/Initial parameter validation.md",
-    "Theory/Slow extraction theory.md",
-    "Theory/Linear Energy Transfer (LET).md",
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+    "Programming/Python codes and hacks.md"
   ]
 }
