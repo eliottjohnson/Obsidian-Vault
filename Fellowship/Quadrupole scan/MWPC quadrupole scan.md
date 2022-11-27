@@ -105,3 +105,13 @@ collapse: closed
 ```
 
 ![[Pasted image 20221026101936.png]]
+
+
+# CHIMERA Quadrupole scan 27 Nov 2022
+
+
+QFN08
+
+Quadrupole scan with the 1 GeV Pb ion beam
+at quad_scan_t8_ion_data/quad_scan_t8_ion_2022_11_27_13h10m52
+
