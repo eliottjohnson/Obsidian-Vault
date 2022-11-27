@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -231,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "854ba435d2e23fb0",
+  "active": "9f7ae9820898e8cd",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
+    "Theory/Ion kinetic energy.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/Quadrupole scan/Initial parameter validation.md",
-    "Theory/Ion kinetic energy.md",
     "Theory/Slow extraction theory.md",
     "Theory/Linear Energy Transfer (LET).md",
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/CHIMERA/Gas scintillator spill monitor.md"
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
   ]
 }
