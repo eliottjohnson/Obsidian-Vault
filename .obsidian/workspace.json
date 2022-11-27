@@ -92,19 +92,31 @@
             }
           },
           {
-            "id": "ee7f681d68045cd2",
+            "id": "e85cf5770889d156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ca41488c5c2eebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MWPC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +162,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md",
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md",
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/Multipole field component in MU62.md"
+                "file": "Fellowship/Quadrupole scan/MWPC quadrupole scan.md"
               }
             }
           },
@@ -231,8 +242,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee7f681d68045cd2",
+  "active": "8ca41488c5c2eebb",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/Stray Fields/Multipole field component in MU62.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/Stray Fields/Magnetic measurement of SMH57.md",
@@ -240,8 +253,6 @@
     "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
     "Fellowship/East Slow Extraction Eliott.md",
     "Fellowship/East Area optics measurements.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
-    "Programming/Python codes and hacks.md",
-    "Programming/Linux + Technical.md"
+    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
   ]
 }
