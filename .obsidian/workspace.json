@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PR.MPC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,8 +198,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md"
               }
             }
           },
@@ -281,6 +280,7 @@
   },
   "active": "aad8aab2cd5aea9f",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
@@ -289,7 +289,6 @@
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/Quadrupole scan/Parallel beam.md",
     "Fellowship/Quadrupole scan/Initial parameter validation.md",
-    "Fellowship/Quadrupole scan/Focal point BPM01.md",
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md"
+    "Fellowship/Quadrupole scan/Focal point BPM01.md"
   ]
 }

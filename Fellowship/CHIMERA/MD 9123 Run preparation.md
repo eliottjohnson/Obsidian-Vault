@@ -16,6 +16,8 @@ Also we change the PA.GSV10GLOBAL to ramp down very quickly
 
 ![[Pasted image 20221122152202.png|800]]
 
+Change POPS with LSA FESA
+
 PR.MPC/REF.PPPL Ref4 (first value) to see the plateau field
 
 * We use a early beam from LEIR
