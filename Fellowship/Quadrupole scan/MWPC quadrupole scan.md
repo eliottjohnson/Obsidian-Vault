@@ -117,7 +117,7 @@ Quadrupole scan with the 1 GeV Pb ion beam
 
 ![[Pasted image 20221127133603.png|875]]
 
-### at 14h11m16s
+### at 14h12m06s
 
 With vertical correctors removed
 
@@ -141,3 +141,7 @@ At 13:43 I **remove the vertical correctors** to centre the beam vertically on t
 -0.06 to -0.03
 
 ![[Pasted image 20221127141539.png]]
+
+## QDN05
+
+### at 14h26m21s
