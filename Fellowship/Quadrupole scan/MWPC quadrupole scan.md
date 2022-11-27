@@ -128,3 +128,10 @@ Quadrupole scan with the 1 GeV Pb ion beam
 At 13:43 I remove the vertical correctors to center the beam vertically on the MWPC
 
 ### at 13h45m29s
+
+![[Pasted image 20221127135307.png|825]]
+
+### at 13h56m20
+
+-0.06 to -0.03
+
