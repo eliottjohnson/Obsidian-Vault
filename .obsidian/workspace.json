@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/PS Magnetic Shims.md"
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
               }
             }
           },
@@ -231,8 +231,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aceea13055763bb4",
+  "active": "854ba435d2e23fb0",
   "lastOpenFiles": [
+    "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Theory/MU current scaling with momentum.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/Bumper BSW57.md",
@@ -241,7 +242,6 @@
     "Theory/Current scaling for Ions.md",
     "Theory/Linear Energy Transfer (LET).md",
     "Theory/PS Tune control explanation.md",
-    "Theory/Radioprotection.md",
-    "Theory/Fast extraction tracking in MU62.md"
+    "Theory/Radioprotection.md"
   ]
 }
