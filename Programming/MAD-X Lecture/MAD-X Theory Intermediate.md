@@ -36,3 +36,7 @@ multipole don't have length so you can't specify a length
 
 50Hz ripple of the power converters
 qf k1 := k1.qf + k1ripple.qf * sin(k1freq.qf * tr$turni) ;
+
+To check if an element is already sliced, you can check the length of the elements
+
+rbarc True/False is to specify if it's a sbend of rbend and you specify the length of the arc
