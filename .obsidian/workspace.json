@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md",
+                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parall",
+                "query": "edms template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md",
+                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md",
+                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md"
+                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md"
               }
             }
           },
@@ -173,6 +172,7 @@
   },
   "active": "bb374b0ad8706c6f",
   "lastOpenFiles": [
+    "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md",
     "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
@@ -181,7 +181,6 @@
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
     "ESA Run Schedule.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-    "Fellowship/Quadrupole scan/Parallel beam.md"
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
   ]
 }

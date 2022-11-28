@@ -2,7 +2,7 @@ Following Yann’s suggestion, here is a quick email and some pictures about the
 
 Here is a link to their website : [https://fondazionecnao.it/en/.](https://fondazionecnao.it/en/)
 
-An electrostatic septum is used to extract the beam from the accelerator towards the treatment area. This septum is 860mm long and is made of molybdenum foils (0.1mm thick). The cathode is made of titanium.
+An **electrostatic septum** is used to extract the beam from the accelerator towards the treatment area. This septum is 860mm long and is made of molybdenum foils (0.1mm thick). The cathode is made of titanium.
 
 We designed this septum in 2020. We tried to reuse and mix all the good things we have in our electrostatic septa at CERN. For example, the foil tensioning system is the same as the SEH10 used in LEIR.
 
