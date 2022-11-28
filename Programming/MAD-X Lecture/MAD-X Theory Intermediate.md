@@ -31,3 +31,8 @@ Exec is the only way to use line in a loop (it doesn't work in a while loop)
 Memorize commands
 tw : twiss betx=1, bety=1;
 exec tw; ! rerun the twiss command
+
+multipole don't have length so you can't specify a length
+
+50Hz ripple of the power converters
+qf k1 := k1.qf + k1ripple.qf * sin(k1freq.qf * tr$turni) ;
