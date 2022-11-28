@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
+                "file": "Programming/Python codes and hacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -172,6 +173,7 @@
   },
   "active": "bb374b0ad8706c6f",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
     "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md",
     "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
@@ -180,7 +182,6 @@
     "Fellowship/CHIMERA/TFB excitation with signal generator.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
-    "ESA Run Schedule.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+    "ESA Run Schedule.md"
   ]
 }
