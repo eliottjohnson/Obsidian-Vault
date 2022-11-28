@@ -23,4 +23,6 @@ Naming convention (because everything is global): macroname.__varname
 Exec is the only way to use line in a loop (it doesn't work in a while loop)
 
 
+%g to output a float as an integer if it's an integer
+
 
