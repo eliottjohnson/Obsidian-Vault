@@ -53,3 +53,6 @@ save.beta(): macro to save the beta block
 
 ## Tables
 
+Calculate the size of the beam
+
+copytable
