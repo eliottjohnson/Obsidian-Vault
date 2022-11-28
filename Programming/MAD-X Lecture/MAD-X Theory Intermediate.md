@@ -56,3 +56,6 @@ save.beta(): macro to save the beta block
 Calculate the size of the beam
 
 copytable
+
+# Lattice Intermediate
+
