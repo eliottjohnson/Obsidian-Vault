@@ -12,8 +12,13 @@ Careful with **cases**. Identifier are converted to lower case but strings are n
 
 Careful with **pair brackets**
 
-**$** signes are converted to integer literals
+**$** signes are converted to integer **literals**
 
 option echomacro (This will show the substitution of the macro)
 
 If you have mutlitple variable the substitution runs left to right and you might substitute *multiple times* things and erase variables
+
+Naming convention (because everything is global): macroname.__varname
+
+
+
