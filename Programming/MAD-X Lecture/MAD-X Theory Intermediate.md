@@ -8,7 +8,7 @@ they are **text substitution** in your code
 
 LISP and FORTAN are the oldest codes
 
-when you pa
+when you pass stuff into a macro it takes it as a string so if you pass -3.5 it will take 
 
 Careful with **cases**. Identifier are converted to lower case but strings are not converted.
 
