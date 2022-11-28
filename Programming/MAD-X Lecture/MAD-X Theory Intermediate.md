@@ -20,5 +20,7 @@ If you have mutlitple variable the substitution runs left to right and you might
 
 Naming convention (because everything is global): macroname.__varname
 
+Exec is the only way to use line in a loop (it doesn't work in a while loop)
+
 
 
