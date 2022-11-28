@@ -40,3 +40,16 @@ qf k1 := k1.qf + k1ripple.qf * sin(k1freq.qf * tr$turni) ;
 To check if an element is already sliced, you can check the length of the elements
 
 rbarc True/False is to specify if it's a sbend of rbend and you specify the length of the arc
+
+## Generative
+
+option echo, everything in my script will be replicated in the terminal
+
+Redirect option, you can echo to a file and then load the echo
+
+beta block: optics condition of the beam at this place
+
+save.beta(): macro to save the beta block
+
+## Tables
+
