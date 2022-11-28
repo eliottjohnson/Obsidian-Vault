@@ -26,3 +26,8 @@ Exec is the only way to use line in a loop (it doesn't work in a while loop)
 %g to output a float as an integer if it's an integer
 
 
+## Special
+
+Memorize commands
+tw : twiss betx=1, bety=1;
+exec tw; ! rerun the twiss command
