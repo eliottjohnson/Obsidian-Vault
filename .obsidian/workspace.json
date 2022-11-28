@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb374b0ad8706c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
+                "file": "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
+                "file": "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md"
+                "file": "Programming/MAD-X Lecture/Electrostatic septum built at CERN for CNAO.md"
               }
             }
           },
@@ -159,10 +171,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aad8aab2cd5aea9f",
+  "active": "bb374b0ad8706c6f",
   "lastOpenFiles": [
-    "Programming/MAD-X Lecture/MADX Theory.md",
     "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
+    "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/CHIMERA/TFB excitation with signal generator.md",
