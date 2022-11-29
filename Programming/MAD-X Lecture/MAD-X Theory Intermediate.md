@@ -113,3 +113,5 @@ if you want to check the aperture in a bend not only at the begining you can sli
 
 You use **thick** not to have to rematch the optics
 
+The physics is only true in the middle of the drift
+
