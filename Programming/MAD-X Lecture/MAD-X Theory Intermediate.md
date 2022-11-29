@@ -131,4 +131,6 @@ no = number of analysis (2 to have chroma, 3 to have Q'')
 select_ptc_normal q1 = 1, q2 = 1, dq1 = 1, dq2 = 1 ;
 First order tune
 
+relative error
+absolute error
 
