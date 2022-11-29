@@ -125,3 +125,10 @@ model 2 is the best: M-K-M Matrix, Kick, Matrix
 
 ptc_create_universe = convert the sequence to elements into PTC
 nst = number of slices
+
+no = number of analysis (2 to have chroma, 3 to have Q'')
+
+select_ptc_normal q1 = 1, q2 = 1, dq1 = 1, dq2 = 1 ;
+First order tune
+
+
