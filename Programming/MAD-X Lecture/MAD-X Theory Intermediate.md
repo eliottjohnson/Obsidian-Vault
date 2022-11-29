@@ -107,3 +107,9 @@ use chrom option to calculate chrome if you think that your planes are coupled.
 (otherwise it uses the non nomrlizde phase space ellipse which is wrong to compute the chroma if planes are tangled)
 
 vlength = True, does a use before every twiss during a match
+
+Check of aperture is only at the begining, you can use monitor to check aperture
+if you want to check the aperture in a bend not only at the begining you can slice it to check multiple time inside
+
+You use **thick** not to have to rematch the optics
+
