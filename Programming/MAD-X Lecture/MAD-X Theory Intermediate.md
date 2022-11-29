@@ -92,3 +92,8 @@ symmetric, doublets
 asymmetric, triplets
 
 matching and changing the length of the drift (position of the magnets)
+
+# Miscellaneous
+
+Save the seed
+
