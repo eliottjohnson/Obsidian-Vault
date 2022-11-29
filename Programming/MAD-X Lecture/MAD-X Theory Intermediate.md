@@ -78,3 +78,8 @@ write phase advance in terms of angles
 
 When you do a twiss on a range, you need to specify the initial conditions (beta0)
 
+Important when matching is to put lower and upper limits
+
+You can do the heavy calculation once and save all the output of MAD-X in a file
+truncate erase the content of a file
+.4g you specify that the power supply has a limit in the precision
