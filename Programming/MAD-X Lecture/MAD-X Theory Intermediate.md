@@ -121,4 +121,7 @@ For optics it's best to use thick = True
 
 ## PTC
 
+model 2 is the best: M-K-M Matrix, Kick, Matrix
 
+ptc_create_universe = convert the sequence to elements into PTC
+nst = number of slices
