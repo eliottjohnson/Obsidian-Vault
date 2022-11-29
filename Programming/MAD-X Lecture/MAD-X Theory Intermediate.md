@@ -61,5 +61,7 @@ copytable
 
 # Lattice Intermediate
 
-Dispersion suppresor (DSS)
+Dispersion suppressor (DSS)
+
+# Optics Intermediate
 
