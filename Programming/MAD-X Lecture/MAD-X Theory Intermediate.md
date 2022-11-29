@@ -65,3 +65,7 @@ Dispersion suppressor (DSS)
 
 # Optics Intermediate
 
+Note: there is a bug if the phase advance inside a magnet is more than pi/2, because the code converts things more then pi/2 by trigonometric rules. The solution is to slice.
+
+beta* is the beta at the location of the IP
+L* is the length from the IP at which we can start to add elements
