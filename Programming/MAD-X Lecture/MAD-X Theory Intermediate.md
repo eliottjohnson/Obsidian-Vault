@@ -115,3 +115,10 @@ You use **thick** not to have to rematch the optics
 
 The physics is only true in the middle of the drift
 
+makeendmarkers = True, nice to have a marker at the same place as a thick element
+
+For optics it's best to use thick = True
+
+## PTC
+
+
