@@ -83,3 +83,8 @@ Important when matching is to put lower and upper limits
 You can do the heavy calculation once and save all the output of MAD-X in a file
 truncate erase the content of a file
 .4g you specify that the power supply has a limit in the precision
+
+assign echo = terminal; means you close the previous file were you wrote your output and start rewritting to the terminal
+
+## IP design
+
