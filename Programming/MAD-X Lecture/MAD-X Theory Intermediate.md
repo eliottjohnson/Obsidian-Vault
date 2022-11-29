@@ -90,3 +90,5 @@ assign echo = terminal; means you close the previous file were you wrote your ou
 
 symmetric, doublets
 asymmetric, triplets
+
+matching and changing the length of the drift (position of the magnets)
