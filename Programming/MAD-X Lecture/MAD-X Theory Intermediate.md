@@ -88,3 +88,5 @@ assign echo = terminal; means you close the previous file were you wrote your ou
 
 ## IP design
 
+symmetric, doublets
+asymmetric, triplets
