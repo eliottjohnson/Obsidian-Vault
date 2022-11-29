@@ -69,3 +69,12 @@ Note: there is a bug if the phase advance inside a magnet is more than pi/2, bec
 
 beta* is the beta at the location of the IP
 L* is the length from the IP at which we can start to add elements
+
+LHC superconductive magnets has strong hysteresis (switch branch of histeresis with changing dI/dt direction)
+
+beta block is a data structure
+
+write phase advance in terms of angles
+
+When you do a twiss on a range, you need to specify the initial conditions (beta0)
+
