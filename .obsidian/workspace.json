@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "eaeb0b4814132ebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Current scaling for Ions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3703393f9294dfc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Optimiser for septum angle and strength GeOFF.md"
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
               }
             }
           },
@@ -182,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "3703393f9294dfc1",
   "lastOpenFiles": [
+    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "Programming/Python codes and hacks.md",
+    "Theory/Current scaling for Ions.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
     "Fellowship/CHIMERA/RFKO acquisition scan.md",
     "Short term.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
-    "Theory/Current scaling for Ions.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md"
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
   ]
 }
