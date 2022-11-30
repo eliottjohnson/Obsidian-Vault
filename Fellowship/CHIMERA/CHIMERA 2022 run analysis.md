@@ -32,3 +32,4 @@
 
 -   Independence of beam profile with beam intensity, impact of energy on the beam shape, “explanation” of the dips (i.e. comparison with and without Montract), etc.
 
+* make a plot of the MWPC beam size before and after my quadrupole scan to see if there is a change in beam size to confirm.
