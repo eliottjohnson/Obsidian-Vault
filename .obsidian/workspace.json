@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+                "file": "Programming/Python codes and hacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transfer function",
+                "query": "fft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -185,15 +184,15 @@
   },
   "active": "1b973ee511625b50",
   "lastOpenFiles": [
-    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+    "Fellowship/EAST transfer lines/BLM008.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
+    "Fellowship/CHIMERA/RFKO acquisition scan.md",
+    "Programming/Python codes and hacks.md",
+    "Short term.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
     "Theory/Current scaling for Ions.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
-    "Programming/MAD-X Lecture/MADX Theory.md",
-    "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
-    "Fellowship/Electrostatic septum built at CERN for CNAO.md",
-    "Programming/Tutorial application development.md",
-    "Programming/MAD-X codes and hacks.md"
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md"
   ]
 }
