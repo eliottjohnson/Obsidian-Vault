@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edms template",
+                "query": "optimiser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md"
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md"
               }
             }
           },
@@ -173,15 +172,15 @@
   },
   "active": "bb374b0ad8706c6f",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/BTV filters.md",
+    "Theory/Current scaling for Ions.md",
+    "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
     "Fellowship/Electrostatic septum built at CERN for CNAO.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Weekly CHIMERA beam reports.md",
-    "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "ESA Run Schedule.md"
+    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
   ]
 }
