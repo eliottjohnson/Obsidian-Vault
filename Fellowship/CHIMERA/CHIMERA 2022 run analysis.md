@@ -30,6 +30,15 @@ See [[Pb ion lookup table]]
 
 ![[Pasted image 20221130110629.png]]
 
+
+## RFKO
+
+Time structure
+
+[PS logbook entry: RFKO time structure](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3657771)
+
+![[Pasted image 20221130111711.png]]
+
 # Spill time profile
 
 ## Gas scintillator, SEC, XION, etc.
@@ -37,13 +46,24 @@ See [[Pb ion lookup table]]
 [Source code: gain_vs_xion.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/gain_vs_xion.ipynb)
 ![[Pasted image 20221130110602.png]]
 
+[PS logbook entry: spill and rfko gain changes](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3656662)
+
+![[Pasted image 20221130111829.png|700]]
+
+### How does the spill shape change with gain setting ?
+
+
+
 # Beam spatial profile
 
 ## MWPC
 
 -   Independence of beam profile with beam intensity, impact of energy on the beam shape, “explanation” of the dips (i.e. comparison with and without Montract), etc.
 
+![[Pasted image 20221130111920.png|800]]
+
 * make a plot of the MWPC beam size before and after my quadrupole scan to see if there is a change in beam size to confirm.
+
 
 ### CHIMERA quadrupole scan
 
