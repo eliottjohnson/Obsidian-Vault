@@ -317,3 +317,19 @@ from scipy.interpolate import InterpolatedUnivariateSpline
 f = InterpolatedUnivariateSpline(df.t, -df.signal_23_I1, k=1)
     intensity = f.integral(200,800)
 ```
+
+## Fit a gaussian
+
+```python
+from scipy.optimize import curve_fit
+
+def gaussian_function(x, a, I, mu, sig):
+    return a + I / np.sqrt(2 * np.pi * sig ** 2) * np.exp(-(x - mu) ** 2 / 2. / sig ** 2)
+
+def do_gaussian_fit(x,y):
+    mu = np.average(x, weights=np.abs(y - np.min(y)))
+    sigma = np.sqrt(np.average(x**2, weights=np.abs(y - np.min(y))) - mu**2)
+    p0 = [y.min(), (np.max(y) - np.min(y)) * np.sqrt(2 * np.pi * sigma**2), mu, sigma]
+    popt, pcov = curve_fit(gaussian_function, x, y, p0=p0, maxfev=1000) # maxfev is the number of tries it does the fit
+    return popt, pcov
+```
