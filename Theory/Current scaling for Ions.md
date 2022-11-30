@@ -100,3 +100,13 @@ Some info [here](https://gitlab.cern.ch/search?search=+PARTICLE%3Dlead&nav_sourc
 
 ### See also the [[Pb ion lookup table]]
 
+## For dipoles
+
+$Kick = \frac{I_{corrector}\cdot TF}{B\dot\rho}$
+
+
+![[Pasted image 20221130094624.png]]
+
+## For quadrupoles
+
+![[Pasted image 20221130094636.png]]
