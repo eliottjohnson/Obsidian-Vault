@@ -109,4 +109,5 @@ $Kick = \frac{I_{corrector}\cdot TF}{B\dot\rho}$
 
 ## For quadrupoles
 
+$Kick = \frac{I_{quad}\cdot TF}{L_{quad}\cdot B\cdot\rho}$
 ![[Pasted image 20221130094636.png]]
