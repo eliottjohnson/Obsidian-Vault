@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
               }
             }
           },
@@ -170,8 +170,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eaeb0b4814132ebd",
+  "active": "1b973ee511625b50",
   "lastOpenFiles": [
+    "Theory/Current scaling for Ions.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
@@ -180,7 +181,6 @@
     "Fellowship/Electrostatic septum built at CERN for CNAO.md",
     "Fellowship/Optimiser for septum angle and strength GeOFF.md",
     "Programming/Tutorial application development.md",
-    "Programming/MAD-X codes and hacks.md",
-    "Programming/Powerpoint tips and hacks.md"
+    "Programming/MAD-X codes and hacks.md"
   ]
 }

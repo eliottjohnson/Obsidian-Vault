@@ -1,11 +1,25 @@
 # PS beam energy
 
 ## Some intro about how it is defined, including the lookup tables
+
+
+
+
+
 ## The nice colour showing which energy was used during each moment of the test
+
+
 
 # Beam intensity
 
 ## RFKO and gain settings throughout the test
+
+[Source code: rfko_gain_analysis](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/rfko_gain_analysis.ipynb)
+
+![[Pasted image 20221130103506.png]]
+
+![[Pasted image 20221130103511.png]]
+
 ## Intensity measurements on SEC and XION, including intensity vs. gain
 
 # Spill time profile

@@ -102,12 +102,12 @@ Some info [here](https://gitlab.cern.ch/search?search=+PARTICLE%3Dlead&nav_sourc
 
 ## For dipoles
 
-$Kick = \frac{I_{corrector}\cdot TF}{B\dot\rho}$
+$$Kick = \frac{I_{corrector}\cdot TF}{B\dot\rho}$$
 
 
 ![[Pasted image 20221130094624.png]]
 
 ## For quadrupoles
 
-$Kick = \frac{I_{quad}\cdot TF}{L_{quad}\cdot B\cdot\rho}$
+$$Kick = \frac{I_{quad}\cdot TF}{L_{quad}\cdot B\cdot\rho}$$
 ![[Pasted image 20221130094636.png]]
