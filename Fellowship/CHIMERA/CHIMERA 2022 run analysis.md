@@ -10,6 +10,7 @@ See [[Pb ion lookup table]]
 
 ## The nice colour showing which energy was used during each moment of the test
 
+[Source code: gain_vs_xion.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/gain_vs_xion.ipynb)
 ![[Pasted image 20221130110611.png]]
 
 # Beam intensity
@@ -24,6 +25,7 @@ See [[Pb ion lookup table]]
 
 ## Intensity measurements on SEC and XION, including intensity vs. gain
 
+[Source code: gain_vs_xion.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/gain_vs_xion.ipynb)
 ![[Pasted image 20221130110549.png]]
 
 ![[Pasted image 20221130110629.png]]
@@ -32,6 +34,7 @@ See [[Pb ion lookup table]]
 
 ## Gas scintillator, SEC, XION, etc.
 
+[Source code: gain_vs_xion.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/gain_vs_xion.ipynb)
 ![[Pasted image 20221130110602.png]]
 
 # Beam spatial profile
@@ -41,3 +44,7 @@ See [[Pb ion lookup table]]
 -   Independence of beam profile with beam intensity, impact of energy on the beam shape, “explanation” of the dips (i.e. comparison with and without Montract), etc.
 
 * make a plot of the MWPC beam size before and after my quadrupole scan to see if there is a change in beam size to confirm.
+
+### CHIMERA quadrupole scan
+
+[PS logbook entry: CHIMERA quadrupole scan](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3659020)
