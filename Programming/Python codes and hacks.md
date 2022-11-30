@@ -19,6 +19,11 @@ datetime.fromtimestamp(1666793774.451).strftime('%d-%m-%y')
 dates = [datetime.fromtimestamp(ts) for ts in timestamp_list]
 ```
 
+```python
+df_xsec["timestamp"] = df_xsec["timestamp"]/1000000000
+df_xsec["timestamp"] = [datetime.fromtimestamp(x) for x in df_xsec["timestamp"]]
+```
+
 ## Numpy
 
 ### Mask matrices of several dimensions
