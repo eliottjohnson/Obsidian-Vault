@@ -3,12 +3,14 @@
 ## Some intro about how it is defined, including the lookup tables
 
 
+See [[Pb ion lookup table]]
+
 
 
 
 ## The nice colour showing which energy was used during each moment of the test
 
-
+![[Pasted image 20221130110611.png]]
 
 # Beam intensity
 
@@ -22,9 +24,15 @@
 
 ## Intensity measurements on SEC and XION, including intensity vs. gain
 
+![[Pasted image 20221130110549.png]]
+
+![[Pasted image 20221130110629.png]]
+
 # Spill time profile
 
 ## Gas scintillator, SEC, XION, etc.
+
+![[Pasted image 20221130110602.png]]
 
 # Beam spatial profile
 

@@ -1,5 +1,9 @@
 
-[PS logbook entry: optimiser](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3529788)
+[PS logbook entry: slow beam optimiser](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3530140)
+
+![[Pasted image 20221130105848.png|975]]
+
+[PS logbook entry: fast beam optimiser](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3529788)
 
 ![[Pasted image 20221130091828.png|975]]
 
