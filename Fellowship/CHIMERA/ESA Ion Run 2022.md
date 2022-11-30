@@ -172,4 +172,4 @@ Datetime, MWPC voltage, RFKO gain knob logging
 
 ![[Pasted image 20221124100049.png]]
 
-![[4E9C3306-A345-4B49-BB11-C2D87163FA73.jpeg]]
+![[4E9C3306-A345-4B49-BB11-C2D87163FA73.jpeg|500]]

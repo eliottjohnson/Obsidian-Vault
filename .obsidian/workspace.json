@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b973ee511625b50",
+            "id": "a11b6f37c977a115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fit gaussian",
+                "query": "next",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03b2962306b1d024",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/Quadrupole scan/BTV filters.md",
+    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
     "Theory/Current scaling for Ions.md",
-    "Fellowship/EAST transfer lines/BLM008.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
-    "Fellowship/CHIMERA/RFKO acquisition scan.md"
+    "Fellowship/EAST transfer lines/BLM008.md"
   ]
 }
