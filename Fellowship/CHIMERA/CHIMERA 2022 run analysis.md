@@ -1,0 +1,20 @@
+# PS beam energy
+
+## Some intro about how it is defined, including the lookup tables
+## The nice colour showing which energy was used during each moment of the test
+
+# Beam intensity
+
+## RFKO and gain settings throughout the test
+## Intensity measurements on SEC and XION, including intensity vs. gain
+
+# Spill time profile
+
+## Gas scintillator, SEC, XION, etc.
+
+# Beam spatial profile
+
+## MWPC
+
+-   Independence of beam profile with beam intensity, impact of energy on the beam shape, “explanation” of the dips (i.e. comparison with and without Montract), etc.
+

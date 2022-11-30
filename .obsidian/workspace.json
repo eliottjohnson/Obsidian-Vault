@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8fdffe8a619b4ce1",
+        "id": "3a83712fd4d61716",
         "type": "tabs",
         "children": [
           {
-            "id": "ca7986ddc0b3d7cc",
+            "id": "5f1bfb17301b5260",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MAD-X Lecture/MADX Theory.md",
+                "file": "Fellowship/CHIMERA/MD 9123 Run preparation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aad8aab2cd5aea9f",
+            "id": "1b973ee511625b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb374b0ad8706c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Electrostatic septum built at CERN for CNAO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e9658c6d3a05ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Optimiser for septum angle and strength GeOFF.md"
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
               }
             }
           },
@@ -183,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03e9658c6d3a05ae",
+  "active": "1b973ee511625b50",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
+    "Programming/MAD-X Lecture/MADX Theory.md",
+    "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
     "Fellowship/Electrostatic septum built at CERN for CNAO.md",
+    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
     "Programming/Tutorial application development.md",
     "Programming/MAD-X codes and hacks.md",
     "Programming/Powerpoint tips and hacks.md",
     "Programming/Linux + Technical.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/Spill monitor.md",
-    "Fellowship/EAST transfer lines/EAST slow extraction.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "Theory/Current scaling for Ions.md"
+    "Programming/Python codes and hacks.md"
   ]
 }
