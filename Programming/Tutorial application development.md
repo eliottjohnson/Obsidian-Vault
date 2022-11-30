@@ -1,5 +1,3 @@
-# Tutorial application development 
-
  - Get [technical network trusted virtual machine](https://wikis.cern.ch/display/ACCADM/VPC+Virtual+Machines+BE-CO)  sending an email to: acc-adm-support@cern.ch
 
  - ssh into your virtual machine 
