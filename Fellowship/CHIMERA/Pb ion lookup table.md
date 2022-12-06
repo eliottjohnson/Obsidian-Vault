@@ -28,4 +28,4 @@ The ramp on POPS [[Cern Control Center Tips and Tricks#Change the B-field of the
 ![[Pasted image 20221018111720.png|725]]
 
 
-![[Pasted image 20221111115854.png]]
+![[kinetic_energy_lookup_table_zoom_B_field 1.png|1425]]
