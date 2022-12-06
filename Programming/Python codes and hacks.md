@@ -210,6 +210,15 @@ c3 = plt.cm.Dark2(2)
 https://matplotlib.org/stable/gallery/color/colormap_reference.html
 ![[Pasted image 20221110150056.png]]
 
+### Iterate on color
+```python
+color = iter(cm.rainbow(np.linspace(0, 1, n)))
+for i in range(n):
+   c = next(color)
+   plt.plot(x, y, c=c)
+```
+
+
 ### How to make a gif
 
 ```python
