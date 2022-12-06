@@ -5,8 +5,19 @@
 
 See [[Pb ion lookup table]]
 
+[Source code: ](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/read_bfield_pickles.ipynb)
+
+![[energy_scan_chimera.png|600]]
+
+![[energy_scan_timestamp_chimera.png|600]]
 
 
+![[average_b_field_chimera.png|650]]
+
+![[hist_b_field_chimera 1.png|475]]
+![[variation_b_field_chimera 1.png]]
+
+![[chimera_rfko_gain.png]]
 
 ## The nice colour showing which energy was used during each moment of the test
 

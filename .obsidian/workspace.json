@@ -20,48 +20,12 @@
             }
           },
           {
-            "id": "a11b6f37c977a115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3703393f9294dfc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6e6f50960b51a320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce7368a8f147d04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
               }
             }
           },
@@ -208,12 +173,12 @@
   },
   "active": "6e6f50960b51a320",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Programming/Python codes and hacks.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Programming/Computer Vision with OpenCV/Image processing.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md",
     "Theory/Slow extraction theory.md",
     "Fellowship/Slow extraction spill duration.md",
