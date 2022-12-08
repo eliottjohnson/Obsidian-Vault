@@ -2,7 +2,6 @@
 
 ## Some intro about how it is defined, including the lookup tables
 
-
 See [[Pb ion lookup table]]
 
 [Source code: read_bfield_pickles.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/read_bfield_pickles.ipynb)
@@ -10,19 +9,19 @@ See [[Pb ion lookup table]]
 
 ![[variation_b_field_chimera 2.png|1300]]
 
-![[average_b_field_chimera 1.png|950]]
+![[average_b_field_chimera 1.png|500]]
 
-![[hist_b_field_chimera 2.png|625]]
+![[hist_b_field_chimera 2.png|375]]
 
-![[energy_scan_chimera 1.png|675]]
+![[energy_scan_chimera 1.png|475]]
 
-![[energy_scan_timestamp_chimera 1.png|725]]
+![[energy_scan_timestamp_chimera 1.png|475]]
 
 
 ## The nice colour showing which energy was used during each moment of the test
 
 [Source code: gain_vs_xion.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/gain_vs_xion.ipynb)
-![[Pasted image 20221130110611.png]]
+![[Pasted image 20221130110611.png|775]]
 
 # Beam intensity
 
@@ -30,16 +29,15 @@ See [[Pb ion lookup table]]
 
 [Source code: rfko_gain_analysis](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/rfko_gain_analysis.ipynb)
 
-![[Pasted image 20221130103506.png]]
+![[Pasted image 20221130103506.png|950]]
 
-![[Pasted image 20221130103511.png]]
+![[Pasted image 20221130103511.png|350]]
 
 ## Intensity measurements on SEC and XION, including intensity vs. gain
 
 [Source code: gain_vs_xion.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/gain_vs_xion.ipynb)
-![[Pasted image 20221130110549.png]]
 
-![[Pasted image 20221130110629.png]]
+![[Pasted image 20221130110629.png|825]]
 
 
 ## RFKO
@@ -48,18 +46,18 @@ Time structure
 
 [PS logbook entry: RFKO time structure](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3657771)
 
-![[Pasted image 20221130111711.png]]
+![[Pasted image 20221130111711.png|375]]
 
 # Spill time profile
 
 ## Gas scintillator, SEC, XION, etc.
 
 [Source code: gain_vs_xion.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/gain_vs_xion.ipynb)
-![[Pasted image 20221130110602.png]]
+![[Pasted image 20221130110602.png|400]]
 
 [PS logbook entry: spill and rfko gain changes](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3656662)
 
-![[Pasted image 20221130111829.png|700]]
+![[Pasted image 20221130111829.png|425]]
 
 ### How does the spill shape change with gain setting ?
 
@@ -71,7 +69,7 @@ Time structure
 
 -   Independence of beam profile with beam intensity, impact of energy on the beam shape, “explanation” of the dips (i.e. comparison with and without Montract), etc.
 
-![[Pasted image 20221130111920.png|800]]
+![[Pasted image 20221130111920.png|600]]
 
 * make a plot of the MWPC beam size before and after my quadrupole scan to see if there is a change in beam size to confirm.
 
