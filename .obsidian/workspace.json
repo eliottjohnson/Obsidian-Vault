@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b28f061a9c546b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quad scan pb ions",
+                "query": "mwpc quad scan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md"
               }
             }
           },
@@ -194,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9e56e6d9ccfcaf71",
+  "active": "b28f061a9c546b74",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+    "Theory/Current scaling for Ions.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Fellowship/CHIMERA/CHIMERA.md",
-    "Programming/Computer Vision with OpenCV/Image processing.md",
-    "Fellowship/CHIMERA/ABTEF on CHIMERA Tuesday 25th from 16h to 17h.md"
+    "Programming/Computer Vision with OpenCV/Image processing.md"
   ]
 }
