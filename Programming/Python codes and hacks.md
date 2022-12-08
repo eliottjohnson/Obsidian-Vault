@@ -352,4 +352,11 @@ def do_gaussian_fit(x,y):
     p0 = [y.min(), (np.max(y) - np.min(y)) * np.sqrt(2 * np.pi * sigma**2), mu, sigma]
     popt, pcov = curve_fit(gaussian_function, x, y, p0=p0, maxfev=1000) # maxfev is the number of tries it does the fit
     return popt, pcov
+
+x = [1,2,3]
+y = [1,2,1]
+
+popt, pcov = do_gaussian_fit(x,y)
+ax.plot(x, gaussian_function(x, popt[0], popt[1], popt[2], popt[3]))
+
 ```
