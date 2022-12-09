@@ -77,3 +77,5 @@ Time structure
 ### CHIMERA quadrupole scan
 
 [PS logbook entry: CHIMERA quadrupole scan](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3659020)
+
+[[MWPC ion quadrupole scan]]

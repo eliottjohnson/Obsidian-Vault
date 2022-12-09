@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ea993237cf27938e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d6bfd9ea70c0db08",
             "type": "leaf",
             "state": {
@@ -78,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "369c51eb3d11c950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python codes and hacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -206,17 +231,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6bfd9ea70c0db08",
+  "active": "369c51eb3d11c950",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
+    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Theory/Current scaling for Ions.md",
     "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/Quadrupole scan/Emittance blow-up.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Fellowship/EAST transfer lines/East Area beam alignement.md",
-    "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
+    "Theory/Accelerator Physics Theory.md"
   ]
 }
