@@ -1,0 +1,1 @@
+During the CHIMERA nov 2022 run we did some quadrupole scan on the MWPC located in CHARM
