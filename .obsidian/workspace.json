@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md"
+                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
               }
             }
           },
@@ -205,8 +206,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f1bfb17301b5260",
+  "active": "d6bfd9ea70c0db08",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/EAST transfer lines/East Area beam alignement.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Theory/Current scaling for Ions.md",
@@ -215,7 +217,6 @@
     "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-    "Fellowship/CHIMERA/CHIMERA.md"
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
   ]
 }
