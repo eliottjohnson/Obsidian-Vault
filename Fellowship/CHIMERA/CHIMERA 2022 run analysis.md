@@ -84,8 +84,9 @@ Time structure
 
 During the CHIMERA nov run 2022 we changed the B-field from 2500 to 2600 G and we observed the shift in position of the beam.
 
-It moves to the left by ~20 mm. We see the beam movement because the bending magnet to the east dump do not scale with momentum. Also the beam size $\sigma$ shrink from 9.58 to 8.47 mm.
+It moves to the left by ~20 mm. We see the beam movement because the bending magnet to the east dump do not scale with momentum. Also the beam size $\sigma$ shrink, as expect at higher energy, from 9.58 to 8.47 mm.
 
+[PS logbook entry: CHIMERA quadrupole scan](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3659020)
 2500 G
 ![[Pasted image 20221209160140.png|475]]
 

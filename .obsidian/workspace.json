@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+                "file": "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+                "file": "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
+                "file": "Fellowship/CHIMERA/MWPC ion quadrupole scan.md"
               }
             }
           },
@@ -216,19 +216,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6e6f50960b51a320",
+  "active": "ea993237cf27938e",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Theory/Current scaling for Ions.md",
-    "Fellowship/EAST transfer lines/BLM008.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+    "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
+    "Fellowship/EAST transfer lines/BLM008.md",
     "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
     "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/Quadrupole scan/Emittance blow-up.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md"
   ]
