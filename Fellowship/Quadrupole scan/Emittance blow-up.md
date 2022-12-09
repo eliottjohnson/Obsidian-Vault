@@ -36,14 +36,14 @@ $L_{rad}=\frac{L_{rad0}}{P/760}$
 -   4.11m upstream of "T08.BPM080" to "T08.BPM092"
 -   From 15cm upstream of "T08.XION94" all the way until the CHARM dump
 
-![[emittance_blow_up.png]]
+![[emittance_blow_up.png|975]]
 
 Some other things to try:
 * [ ] recalculate the $\beta$ after the scattering as $\beta=\frac{<x^{2}>}{\epsilon_{x}}$ 
 * [ ] Calculate $\beta$ at every tiny length, maybe 10 cm
 
 Maybe look again into these two formulas for analytical results
-![[Pasted image 20220816143143.png]]
+![[Pasted image 20220816143143.png|700]]
 
 
 ### Dipole kicks

@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/EAST transfer lines/East Area beam alignement.md",
+                "file": "Fellowship/EAST transfer lines/BLM008.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mwpc quad scan",
+                "query": "quad scan ion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Fellowship/EAST transfer lines/BLM008.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
+                "file": "Fellowship/EAST transfer lines/BLM008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md"
+                "file": "Fellowship/EAST transfer lines/BLM008.md"
               }
             }
           },
@@ -206,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6bfd9ea70c0db08",
+  "active": "b28f061a9c546b74",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/Quadrupole scan/Emittance blow-up.md",
+    "Fellowship/EAST transfer lines/EAST slow extraction.md",
+    "Theory/Accelerator Physics Theory.md",
     "Fellowship/EAST transfer lines/East Area beam alignement.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Theory/Current scaling for Ions.md",
-    "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/CCC/Cern Control Center Tips and Tricks.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+    "Fellowship/CCC/Cern Control Center Tips and Tricks.md"
   ]
 }
