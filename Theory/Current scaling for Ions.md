@@ -1,5 +1,10 @@
-# Current scaling for Ions
 
+### Script for ion scaling
+[T8_ion_scaling.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/f61t8/T8_ion_scaling.ipynb)
+
+![[Pasted image 20221209163815.png]]
+
+### Spreadsheet
 Otherwise you can take the currents for protons, convert to k with the non-linear magnetic curve, scale down the k by a factor 54/82 and then recompute the current which gives very close results to what Marc and Matthew found.
 
 ![|1100](https://codimd.web.cern.ch/uploads/upload_5619938e20ef9b23cde7a035f030ba02.png)
@@ -93,8 +98,7 @@ dipole k
 216 MCB :  0.022444564829506044
 ```
 
-Script for ion scaling
-[T8_ion_scaling.ipynb](https://gitlab.cern.ch/eljohnso/acc-models-tls-eliott-fork/-/blob/EliottBranch/ps_extraction/f61t8/T8_ion_scaling.ipynb)
+
 
 Some info [here](https://gitlab.cern.ch/search?search=+PARTICLE%3Dlead&nav_source=navbar&project_id=126483&search_code=true&repository_ref=2021) on how to change beam parameter for ion: `Beam, particle=lead, pc=0.08856*A, ex=2.5E-6, ey=2.5E-6, charge=54, mass=A*0.9315, BUNCHED;`
 

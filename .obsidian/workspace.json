@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,18 +86,6 @@
               "type": "markdown",
               "state": {
                 "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f79d93026d89dc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "high low quad scan",
+                "query": "current scaling for ion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Current scaling for Ions.md",
+                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Current scaling for Ions.md"
+                "file": "Fellowship/Stray Fields/Stitching two sequences together.md"
               }
             }
           },
@@ -235,13 +222,13 @@
   "lastOpenFiles": [
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Theory/Current scaling for Ions.md",
+    "Fellowship/Stray Fields/Stitching two sequences together.md",
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
-    "Theory/Current scaling for Ions.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Fellowship/EAST transfer lines/BLM008.md",
-    "Fellowship/Quadrupole scan/MWPC quadrupole scan.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/Quadrupole scan/Emittance blow-up.md"
+    "Fellowship/EAST transfer lines/BLM008.md"
   ]
 }
