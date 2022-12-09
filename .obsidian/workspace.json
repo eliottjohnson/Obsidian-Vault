@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
+                "file": "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
+                "file": "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md"
+                "file": "Fellowship/CHIMERA/MWPC ion quadrupole scan.md"
               }
             }
           },
@@ -230,12 +230,12 @@
     "width": 331.5,
     "collapsed": true
   },
-  "active": "78186e392d694d35",
+  "active": "ea993237cf27938e",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
     "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Theory/Current scaling for Ions.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",

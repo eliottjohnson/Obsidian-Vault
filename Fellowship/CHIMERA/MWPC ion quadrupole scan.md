@@ -43,3 +43,6 @@ In these plots I've scaled the emittance in the vertical plane but didn't touch 
 
 This is actually something that I've observed before on the East Dump where it's matches pretty closely in the vertical plane but not so well in the horizontal plane, see [[Ion quadrupole scan east dump#Comparison of the measurements]]. My guess is that the initial conditions are different now for the ions because the extraction scheme is different. We don't go through SEH23, we don't use the PFW and we use RFKO.
 
+Matthew said initial parameter would be different so we need to rematch.
+
+The solution would be to add think multipole kicks every 10 cm / 1m. You would have to stop the twiss at a location, calculate the kick as a function of beta and continue the twiss calculation.
