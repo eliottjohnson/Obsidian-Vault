@@ -84,6 +84,8 @@ Same in the vertical plane but not in the horizontal plane.
 Big difference in the QSE
 ![[Pasted image 20220929161005.png|875]]
 
+See [[MWPC ion quadrupole scan]] for some quadrupole scan with ions in T8 on the MWPC.
+
 ## 750 MeV/u
 
 Measurement on the Monday 17.10.2022
