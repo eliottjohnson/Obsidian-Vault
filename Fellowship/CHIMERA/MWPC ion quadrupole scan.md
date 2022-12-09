@@ -24,5 +24,22 @@ Some images of the MWPC quad scan raw measurement:
 
 ![[quad_scan_t8_ion_2022_11_27_14h26m22s_raw_measurement 1.png|375]]
 
-Then I try to fit to MAD-X
+Then I try to fit to MAD-X. I notice that the minimum in the vertical plane match pretty well (altough the slope is not correct) and that the horizontal is completly off.
+In these plots I've scaled the emittance in the vertical plane but didn't touch the one in the horizontal plane (it's still the one fitted from the matching).
+
+![[quad_scan_t8_ion_2022_11_27_13h10m52s_madx_comparison.png|375]]
+
+![[quad_scan_t8_ion_2022_11_27_13h25m53s_madx_comparison.png|375]]
+
+![[quad_scan_t8_ion_2022_11_27_13h32m53s_madx_comparison.png|375]]
+
+![[quad_scan_t8_ion_2022_11_27_13h45m31s_madx_comparison.png|375]]
+
+![[quad_scan_t8_ion_2022_11_27_13h56m20s_madx_comparison.png|375]]
+
+![[quad_scan_t8_ion_2022_11_27_14h12m07s_madx_comparison.png|375]]
+
+![[quad_scan_t8_ion_2022_11_27_14h26m22s_madx_comparison.png|375]]
+
+This is actually something that I've observed before on the East Dump where it's matches pretty closely in the vertical plane but not so well in the horizontal plane, see [[Ion quadrupole scan east dump#Comparison of the measurements]]. My guess is that the initial conditions are different now for the ions because the extraction scheme is different. We don't go through SEH23, we don't use the PFW and we use RFKO.
 
