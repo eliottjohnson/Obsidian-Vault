@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "78186e392d694d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d6bfd9ea70c0db08",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/Stitching two sequences together.md"
+                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md"
               }
             }
           },
@@ -218,16 +230,16 @@
     "width": 331.5,
     "collapsed": true
   },
-  "active": "9e56e6d9ccfcaf71",
+  "active": "78186e392d694d35",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
+    "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Theory/Current scaling for Ions.md",
-    "Fellowship/Stray Fields/Stitching two sequences together.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
-    "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/EAST transfer lines/BLM008.md"
   ]

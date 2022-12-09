@@ -1,5 +1,3 @@
-# Stitching two sequences together
-
 To stitch two sequence together:
 
 https://gitlab.cern.ch/acc-models/acc-models-tls/-/blob/2021/ps_extraction/tt2tt10_lhc_q20/stitched/load_lhc_q20_extraction.madx
