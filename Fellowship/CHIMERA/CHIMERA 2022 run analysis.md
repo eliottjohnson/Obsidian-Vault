@@ -6,10 +6,7 @@ See [[Pb ion lookup table]]
 
 [Source code: read_bfield_pickles.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/read_bfield_pickles.ipynb)
 
-
-
 This plot shows the variation around the mean magnetic field
-
 
 
 ![[variation_b_field_chimera 2.png|1300]]
