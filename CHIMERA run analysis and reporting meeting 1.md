@@ -12,3 +12,5 @@ Send Andreas the data of the timestamp of the B-field
 Check the 950 MeV if it ran
 You could build LET as a function of energy
 ![[Pasted image 20221212105039.png|500]]
+
+Can you compare LET of Pb with theory
