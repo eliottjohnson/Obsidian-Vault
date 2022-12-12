@@ -1,0 +1,20 @@
+{
+  "api_key": "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",
+  "engine": "text-davinci-003",
+  "max_tokens": 160,
+  "temperature": 0.7,
+  "frequency_penalty": 0.5,
+  "prompt": "",
+  "showStatusBar": true,
+  "promptsPath": "textgenerator/prompts",
+  "context": {
+    "includeTitle": false,
+    "includeStaredBlocks": true,
+    "includeFrontmatter": true,
+    "includeHeadings": true,
+    "includeChildren": false,
+    "includeMentions": false,
+    "includeHighlights": true
+  },
+  "models": {}
+}

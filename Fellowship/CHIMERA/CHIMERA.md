@@ -22,7 +22,6 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 
 [HEARTS proposal](https://edms.cern.ch/ui/file/2755988/1/Proposal-SEP-210814619.pdf)
 
-
 ## Theory
 
 [[Radiation effects in electronics-single-event effects]]
@@ -38,11 +37,18 @@ See [[ABTEF on CHIMERA Tuesday 25th from 16h to 17h]]
 [[XSECs in East Area]]
 [[Dedicated MD 26th October 2022]]
 [[RFKO MD8923 Week 44]]
+[[RFKO MD8923 Part 2]]
+[[RFKO acquisition scan]]
+[[RFKO frequency scan]]
+[[Ion quadrupole scan east dump]]
+[[TFB excitation with signal generator]]
 
 ## Runs
 
 [[ESA Ion Run 2022]]
-
+* [[CHIMERA 2022 run analysis]]
+* [[MWPC ion quadrupole scan]]
+* 
 ## Instruments
 
 [[counting scintillator (plastic scintillator)]]

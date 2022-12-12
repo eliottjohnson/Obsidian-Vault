@@ -10,6 +10,12 @@ Three techniques are available to control the intensity of the spill during slow
 
 ![[Pasted image 20221026151804.png]]
 
+# RFKO
+
+[[TFB excitation with signal generator]]
+[[RFKO MD8923 Week 44]]
+[[RFKO MD8923 Part 2]]
+
 ## Experiment and MDs
 
 Success and details of all three techniques were achieved:
