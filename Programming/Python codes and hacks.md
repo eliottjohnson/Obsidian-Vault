@@ -280,7 +280,7 @@ with open('filename.p', 'rb') as f:
 
 ``` python
 with open('filename.pickle', 'wb') as handle:
-	pickle.dump(a, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    pickle.dump(a, handle, protocol=pickle.HIGHEST_PROTOCOL)
 ```
 
 
