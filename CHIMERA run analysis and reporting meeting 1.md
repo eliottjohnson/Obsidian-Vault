@@ -17,3 +17,9 @@ Can you compare LET of Pb with theory
 
 New magic number from Kacper
 ![[Pasted image 20221212112054.png]]
+
+## Pictures of the Run
+
+
+
+[https://cds.cern.ch/record/2842356?ln=en](https://cds.cern.ch/record/2842356?ln=en)
