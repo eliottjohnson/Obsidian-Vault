@@ -14,3 +14,6 @@ You could build LET as a function of energy
 ![[Pasted image 20221212105039.png|500]]
 
 Can you compare LET of Pb with theory
+
+New magic number from Kacper
+![[Pasted image 20221212112054.png]]
