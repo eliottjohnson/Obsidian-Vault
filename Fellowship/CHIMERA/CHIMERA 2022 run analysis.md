@@ -1,5 +1,27 @@
 # PS beam energy
 
+Introduction:
+
+-   Briefly explain what an accelerator is and its importance in scientific research
+	- An accelerator is a type of machine that uses electromagnetic fields to accelerate charged particles, such as protons or electrons, to high energies. These particles are then directed through a beamline and used for various scientific and industrial purposes, such as colliding with other particles to study their properties, or producing medical isotopes for imaging and cancer treatment. Accelerators are important tools for advancing our understanding of the fundamental nature of matter and the universe. They are also used in a wide range of applications, from nuclear physics and high-energy particle physics to materials science and medical research.
+-   Introduce the concept of beam energy and its significance in the operation of an accelerator
+	- Beam energy refers to the kinetic energy of the charged particles in the accelerator beam. This energy is directly related to the speed of the particles, and it determines their ability to perform a given task, such as colliding with a target to produce new particles or reaching a certain depth in a material to be studied. The beam energy is an important parameter in the operation of an accelerator, as it must be carefully controlled to achieve the desired results in a given experiment or application. For example, in particle physics experiments, the beam energy must be precisely tuned to produce the desired particle collisions and allow for accurate measurement of the resulting particles. In medical applications, the beam energy must be carefully controlled to ensure that the particles deposit their energy in the right location and with the right dose to produce the desired effect.
+
+Body:
+
+-   Discuss the various methods used to control beam energy in an accelerator, such as:
+    -   RF cavities
+	    - The principle behind RF cavities is that an oscillating electromagnetic field can transfer energy to charged particles as they pass through the cavity. By carefully controlling the frequency and amplitude of the RF field, the beam energy can be increased or decreased. This is achieved by using a high-power RF amplifier to generate the electromagnetic field, and by adjusting the phase and frequency of the RF signal to match the phase and velocity of the particles in the beam. The beam energy can be increased by applying a RF field that is in phase with the particles, and decreased by applying a field that is out of phase with the particles.
+    -   Magnetic fields
+	    - The principle behind using magnetic fields to control beam energy is that a charged particle moving in a magnetic field will experience a force that is perpendicular to its direction of motion. This force will cause the particle to change direction, and its kinetic energy will be conserved. By carefully arranging the magnets in the magnet lattice, the beam energy can be increased or decreased by changing the curvature of the particle's path. This is achieved by adjusting the strength and orientation of the magnets, as well as the particle's injection energy and trajectory.
+-   Explain the principles behind each of these methods and how they are used to control beam energy
+-   Discuss the challenges and limitations of these methods, and how they are addressed in the design and operation of accelerators
+
+Conclusion:
+
+-   Summarize the main points of the article and the significance of controlling beam energy in an accelerator
+-   Discuss potential future developments in this area, such as new methods or technologies for beam energy control.
+
 ## Some intro about how it is defined, including the lookup tables
 
 See [[Pb ion lookup table]]
@@ -26,6 +48,15 @@ This plot shows the variation around the mean magnetic field
 ![[Pasted image 20221130110611.png|775]]
 
 # Beam intensity
+
+The RFKO technique, or radio-frequency knockout, is a method used to control the beam energy in an accelerator by using RF cavities and magnetic fields in combination. This technique allows for greater precision and flexibility in controlling the beam energy, and it is commonly used in advanced accelerators.
+
+The RFKO technique involves using an RF cavity to accelerate the charged particles in the beam to a high energy, and then using a magnetic field to bend the trajectory of the particles and reduce their energy. This is achieved by carefully adjusting the RF field and the magnetic field to match the phase and velocity of the particles in the beam. The RF field is used to increase the beam energy, and the magnetic field is used to decrease the beam energy. By carefully controlling the strength and orientation of the magnetic field, the beam energy can be precisely controlled and fine-tuned to produce the desired results.
+
+The RFKO technique offers several advantages over other methods of beam energy control. It allows for greater precision and flexibility in controlling the beam energy, and it can be used to accelerate a wider range of particles. It also allows for a smoother transition between high and low beam energies, which is important for certain types of experiments or applications. Overall, the RFKO technique is a powerful tool for controlling the beam energy in an accelerator, and it is widely used in advanced accelerators around the world.
+
+
+Beam intensity, or the number of particles per unit time in an accelerator beam, is an important parameter in the operation of an accelerator. It determines the rate at which the beam can perform a given task, such as colliding with a target or delivering a dose of radiation. In this article, we will discuss how beam intensity is controlled using the RFKO technique, which combines the use of RF cavities and magnetic fields to achieve precise and flexible control of the beam energy. The RFKO technique offers several advantages over other methods of beam intensity control, and it is widely used in advanced accelerators around the world.
 
 ## RFKO and gain settings throughout the test
 
