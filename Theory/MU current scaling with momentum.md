@@ -22,7 +22,8 @@ $R=B\rho=pc/q$
 * p momentum
 * q charge
 
-if the particle momentum, p, is given in GeV/c, then the rigidity is in Tesla-metres $B\rho=3.3356pc/q$
+if the particle momentum, p, is given in GeV/c, then the rigidity is in Tesla-metres 
+$$B\rho=3.3356pc/q$$
 or
 $B\rho \text{ [T m]} = \frac{1}{0.29979}\cdot p \text{ [GeV/c]}$
 
@@ -51,6 +52,6 @@ $B=2060\cdot 2.5E-4=0.515 [T]$
 $p = \frac{0.515\cdot70.0789}{3.33564} = 10.82 [GeV/c]$ equivalent proton
 Kinetic energy per nucleon should be ~2 GeV/n
 
-see [[Ion kinetic energy]] for detailled calculation
+see [[Ion kinetic energy]] for detailed calculation
 
 ![[Pasted image 20220922171234.png]]
