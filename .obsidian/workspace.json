@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6bfd9ea70c0db08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/Pb ion lookup table.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,33 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f2b583747e7769e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8be7adbb5a815be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blm",
+                "query": "spike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/BLM008.md"
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
               }
             }
           },
@@ -266,17 +230,17 @@
     "width": 331.5,
     "collapsed": true
   },
-  "active": "c8be7adbb5a815be",
+  "active": "6e6f50960b51a320",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Fellowship/EAST transfer lines/East restart 2023.md",
-    "Programming/Python codes and hacks.md",
-    "Theory/Accelerator Physics Theory.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+    "Fellowship/CHIMERA/MD 9123 Run preparation.md",
     "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
-    "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md"
+    "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
+    "Fellowship/CHIMERA/Pb ion lookup table.md",
+    "Programming/Python codes and hacks.md",
+    "CHIMERA run analysis and reporting meeting 1.md",
+    "Theory/Accelerator Physics Theory.md"
   ]
 }
