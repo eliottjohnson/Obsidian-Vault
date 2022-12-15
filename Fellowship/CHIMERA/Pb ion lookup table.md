@@ -6,6 +6,16 @@ See [[Ion kinetic energy]] for the theory behind the Pb ion lookup table
 
 ![[kinetic_energy_lookup_table_zoom_B_field 1.png|1425]]
 
+
+### PS B-field in Gauss to Ekin/nucleon
+
+```python
+B = 3102
+Ekin = (193.737692/208)*(np.sqrt(((1/((3.3356/(70.0789*54)*10000)/B))/193.737692)**2+1)-1)
+print(Ekin)
+```
+
+
 The ramp on POPS [[Cern Control Center Tips and Tricks#Change the B-field of the PS]] changes the energy of the ions
 [Logbook entry](https://logbook.cern.ch/elogbook-server/GET/showEventInLogbook/3635313)
 
