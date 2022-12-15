@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -230,8 +230,9 @@
     "width": 331.5,
     "collapsed": true
   },
-  "active": "6e6f50960b51a320",
+  "active": "c121eb07131c1d11",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
@@ -240,7 +241,6 @@
     "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
     "Programming/Python codes and hacks.md",
-    "CHIMERA run analysis and reporting meeting 1.md",
-    "Theory/Accelerator Physics Theory.md"
+    "CHIMERA run analysis and reporting meeting 1.md"
   ]
 }

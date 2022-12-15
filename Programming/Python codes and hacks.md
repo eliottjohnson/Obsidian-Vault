@@ -144,12 +144,11 @@ T=np.linspace(0,1,np.size(x))
 ### Change fontsize of all plots
 
 ```python
-import matplotlib
 font = {'family' : 'DejaVu Sans',
         'weight' : 'normal',
         'size'   : 16}
-
 matplotlib.rc('font', **font)
+plt.rcParams['axes.prop_cycle'] = plt.cycler(color=plt.cm.Dark2.colors)
 ```
 
 ### Change ticks size for all plots
@@ -218,6 +217,11 @@ for i in range(n):
    plt.plot(x, y, c=c)
 ```
 
+### Overwrite the cycling of color 
+
+```python
+ax.set_prop_cycle('color',plt.cm.Dark2.colors)
+```
 
 ### How to make a gif
 
