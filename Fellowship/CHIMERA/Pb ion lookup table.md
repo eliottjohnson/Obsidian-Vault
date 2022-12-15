@@ -6,6 +6,8 @@ See [[Ion kinetic energy]] for the theory behind the Pb ion lookup table
 
 ![[kinetic_energy_lookup_table_zoom_B_field 1.png|1425]]
 
+Chimera
+![[Pasted image 20221215162111.png]]
 
 ### PS B-field in Gauss to Ekin/nucleon
 
