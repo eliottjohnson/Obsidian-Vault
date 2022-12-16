@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/Image processing.md",
+                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/Image processing.md",
+                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/Image processing.md",
+                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/Image processing.md"
+                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "db1a7cb641c1351b",
   "lastOpenFiles": [
+    "Programming/Computer Vision with OpenCV/Image processing.md",
     "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
     "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
     "Fellowship/CHIMERA/Pb ion lookup table.md",
@@ -253,7 +254,6 @@
     "Theory/Accelerator Physics Theory.md",
     "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
   ]
 }
