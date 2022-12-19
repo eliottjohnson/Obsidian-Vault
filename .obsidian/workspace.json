@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pybob",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +162,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,15 +244,15 @@
   },
   "active": "c121eb07131c1d11",
   "lastOpenFiles": [
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
+    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+    "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
+    "Fellowship/Quadrupole scan/BTV filters.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Programming/Computer Vision with OpenCV/Image processing.md"
+    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
   ]
 }

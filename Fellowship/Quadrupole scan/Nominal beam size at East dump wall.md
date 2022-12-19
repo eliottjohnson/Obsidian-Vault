@@ -4,11 +4,11 @@ Here's the beam size I expect at the East dump wall. I show on the left plot the
 
 [Source code: filter_wheel_analysis_clean.ipynb](https://gitlab.cern.ch/eljohnso/quad-scan-east/-/blob/master/filter_wheel_analysis_clean.ipynb)
 
-![[nominal_beam_size_at_east_dump.png]]
+![[nominal_beam_size_at_east_dump.png|625]]
 
 Optics of the East Dump line
 
-![[east_dump_optics 1.png]]
+![[east_dump_optics 1.png|675]]
 
 BTV profiles
-![[btv_profiles.png]]
+![[btv_profiles.png|475]]
