@@ -128,7 +128,7 @@ If you have focusing, defocusing (opposite focal lengths), $f_{1}=-f_{2}$, we ge
 * Master thesis interested in **position 16**
     * Ejection site in the LHC chain
     * Configuration having the greatest influence on the magnetic flux at the central orbit $\Rightarrow$ **affecting the central orbit**
-* Shims + ejection vacuum pipe is larger than normal vaccum pipe
+* Shims + ejection vacuum pipe is larger than normal vacuum pipe
     * A thinner figure of eight loop is installed to give more room
     
 #### Configurations

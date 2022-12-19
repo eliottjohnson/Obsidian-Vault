@@ -109,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pybob",
+                "query": "quadrupole scan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md"
               }
             }
           },
@@ -242,17 +243,17 @@
     "width": 331.5,
     "collapsed": true
   },
-  "active": "c121eb07131c1d11",
+  "active": "db1a7cb641c1351b",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/MWPC.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
-    "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
-    "Fellowship/CHIMERA/TFB excitation with signal generator.md"
+    "Fellowship/Stray Fields/Injection BTP.md",
+    "Fellowship/Quadrupole scan/Initial parameter slider tool.md",
+    "Fellowship/East Slow Extraction Eliott.md",
+    "Fellowship/EAST transfer lines/EAST slow extraction.md",
+    "Fellowship/Stray Fields/PS Magnetic Shims.md",
+    "Theory/Radiation effects in electronics-single-event effects.md",
+    "Short term.md",
+    "Fellowship/EAST transfer lines/EAST Flux limit.md"
   ]
 }
