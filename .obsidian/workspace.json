@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Quadrupole Scan.md"
+                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
               }
             }
           },
@@ -245,15 +245,15 @@
   },
   "active": "db1a7cb641c1351b",
   "lastOpenFiles": [
-    "Fellowship/Quadrupole scan/MWPC.md",
+    "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
+    "Fellowship/Quadrupole scan/MWPC.md",
     "Fellowship/Stray Fields/Injection BTP.md",
     "Fellowship/Quadrupole scan/Initial parameter slider tool.md",
     "Fellowship/East Slow Extraction Eliott.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Theory/Radiation effects in electronics-single-event effects.md",
-    "Short term.md",
-    "Fellowship/EAST transfer lines/EAST Flux limit.md"
+    "Short term.md"
   ]
 }
