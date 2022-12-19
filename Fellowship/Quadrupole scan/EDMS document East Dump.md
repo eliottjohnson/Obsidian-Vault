@@ -70,3 +70,23 @@ Suggested to put the appendix in the text (maybe no need for this time).
 Read her comments before 3:30.
 
 Wednesday next week deadline for document circulation
+
+## Smallest size on the beam dump wall
+
+![[Pasted image 20221219171941.png]]
+
+Beam dump wall beam size $1\sigma$:
+Horizontal : 0.50178 mm
+Vertical: 2.30663 mm
+
+Ellipse area: 3.636 $mm^{2}$
+
+K1
+QFN01: 0.32435110
+QDN02: -0.1590138
+QFN03: 0.11912984
+
+Current:
+408
+371
+223

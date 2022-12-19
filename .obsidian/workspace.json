@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
+                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "db1a7cb641c1351b",
   "lastOpenFiles": [
+    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
     "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Fellowship/Quadrupole scan/Quadrupole Scan.md",
     "Fellowship/Quadrupole scan/MWPC.md",
@@ -253,7 +254,6 @@
     "Fellowship/East Slow Extraction Eliott.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
-    "Theory/Radiation effects in electronics-single-event effects.md",
-    "Short term.md"
+    "Theory/Radiation effects in electronics-single-event effects.md"
   ]
 }
