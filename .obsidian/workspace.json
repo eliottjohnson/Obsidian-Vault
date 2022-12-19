@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EDMS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md"
+                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md"
               }
             }
           },
@@ -244,6 +245,7 @@
   },
   "active": "6e6f50960b51a320",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
     "Fellowship/Quadrupole scan/EDMS document East Dump.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/Intensity control for CHIMERA.md",
@@ -252,7 +254,6 @@
     "Programming/Computer Vision with OpenCV/OpenCV Basic.md",
     "Theory/Accelerator Physics Theory.md",
     "Programming/Computer Vision with OpenCV/Image processing.md",
-    "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md",
-    "Fellowship/CHIMERA/Pb ion lookup table.md"
+    "Programming/Computer Vision with OpenCV/Object Detection with OpenCV and Python.md"
   ]
 }
