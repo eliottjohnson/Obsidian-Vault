@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6095ad0df63b053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/MAD-X Lecture/MADX Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slow extraction",
+                "query": "lambda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+                "file": "Programming/MAD-X Lecture/MADX Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+                "file": "Programming/MAD-X Lecture/MADX Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
+                "file": "Programming/MAD-X Lecture/MADX Theory.md"
               }
             }
           },
@@ -243,8 +254,9 @@
     "width": 331.5,
     "collapsed": true
   },
-  "active": "db1a7cb641c1351b",
+  "active": "e6095ad0df63b053",
   "lastOpenFiles": [
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Attachments/Pasted image 20221122152114.png",
     "Attachments/Pasted image 20221122152131.png",
     "Attachments/Pasted image 20221212105039.png",
@@ -253,7 +265,6 @@
     "Theory/Ion kinetic energy.md",
     "Fellowship/East Slow Extraction Eliott.md",
     "Fellowship/Slow extraction spill duration.md",
-    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
-    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
+    "Fellowship/Quadrupole scan/EDMS document East Dump.md"
   ]
 }
