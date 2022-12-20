@@ -289,6 +289,20 @@ with open('filename.pickle', 'wb') as handle:
 ```
 
 
+## Loop through filenames in a directory
+
+```python
+start_path = "/eos/home-e/eljohnso/SWAN_projects/acc-models-tls-eliott-fork/ps_extraction/east-fast-extraction/pickle/"
+end_path = ""
+mypath = start_path+"/"+end_path
+
+f = []
+for (dirpath, dirnames, filenames) in walk(mypath):
+    f.extend(filenames)
+    break
+filenames
+```
+
 ## Linux
 ### Terminal commands
 Read the size of folder
