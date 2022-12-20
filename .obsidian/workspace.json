@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d26b3d1c53efb764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python codes and hacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lambda",
+                "query": "pickle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/MAD-X Lecture/MADX Theory.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/MAD-X Lecture/MADX Theory.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/MAD-X Lecture/MADX Theory.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -254,8 +266,9 @@
     "width": 331.5,
     "collapsed": true
   },
-  "active": "e6095ad0df63b053",
+  "active": "d26b3d1c53efb764",
   "lastOpenFiles": [
+    "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Attachments/Pasted image 20221122152114.png",
     "Attachments/Pasted image 20221122152131.png",
@@ -264,7 +277,6 @@
     "Theory/Slow extraction theory.md",
     "Theory/Ion kinetic energy.md",
     "Fellowship/East Slow Extraction Eliott.md",
-    "Fellowship/Slow extraction spill duration.md",
-    "Fellowship/Quadrupole scan/EDMS document East Dump.md"
+    "Fellowship/Slow extraction spill duration.md"
   ]
 }
