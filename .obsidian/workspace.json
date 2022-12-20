@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quadrupole scan",
+                "query": "slow extraction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/EDMS document East Dump.md"
+                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
               }
             }
           },
@@ -245,15 +245,15 @@
   },
   "active": "db1a7cb641c1351b",
   "lastOpenFiles": [
-    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md",
-    "Fellowship/Quadrupole scan/Nominal beam size at East dump wall.md",
-    "Fellowship/Quadrupole scan/Quadrupole Scan.md",
-    "Fellowship/Quadrupole scan/MWPC.md",
-    "Fellowship/Stray Fields/Injection BTP.md",
-    "Fellowship/Quadrupole scan/Initial parameter slider tool.md",
+    "Attachments/Pasted image 20221122152114.png",
+    "Attachments/Pasted image 20221122152131.png",
+    "Attachments/Pasted image 20221212105039.png",
+    "Attachments/Pasted image 20221212112054.png",
+    "Theory/Slow extraction theory.md",
+    "Theory/Ion kinetic energy.md",
     "Fellowship/East Slow Extraction Eliott.md",
-    "Fellowship/EAST transfer lines/EAST slow extraction.md",
-    "Fellowship/Stray Fields/PS Magnetic Shims.md",
-    "Theory/Radiation effects in electronics-single-event effects.md"
+    "Fellowship/Slow extraction spill duration.md",
+    "Fellowship/Quadrupole scan/EDMS document East Dump.md",
+    "Fellowship/EAST transfer lines/EAST Transfer Lines beam sizes.md"
   ]
 }
