@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
+                "file": "LEIR.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
+                "file": "LEIR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
+                "file": "LEIR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md"
+                "file": "LEIR.md"
               }
             }
           },
@@ -280,17 +280,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d26b3d1c53efb764",
+  "active": "3c97c9b21e815783",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/CHIMERA.md",
+    "CHIMERA run analysis and reporting meeting 1.md",
     "Theory/MU current scaling with momentum.md",
-    "Fellowship/Quadrupole scan/BTV filters.md",
+    "Fellowship/Spill monitor.md",
+    "Fellowship/Electrostatic septum built at CERN for CNAO.md",
+    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
+    "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Programming/Python codes and hacks.md",
-    "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Attachments/Pasted image 20221122152114.png",
-    "Attachments/Pasted image 20221122152131.png",
-    "Attachments/Pasted image 20221212105039.png",
-    "Attachments/Pasted image 20221212112054.png"
+    "Fellowship/EAST transfer lines/East restart 2023.md",
+    "Theory/Accelerator Physics Theory.md"
   ]
 }
