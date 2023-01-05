@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,14 +133,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spill",
+                "query": "chimera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
               }
             }
           },
@@ -279,17 +279,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c97c9b21e815783",
+  "active": "d26b3d1c53efb764",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "CHIMERA run analysis and reporting meeting 1.md",
+    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "LEIR.md",
-    "CHIMERA run analysis and reporting meeting 1.md",
     "Theory/MU current scaling with momentum.md",
     "Fellowship/Spill monitor.md",
-    "Fellowship/Electrostatic septum built at CERN for CNAO.md",
-    "Fellowship/Optimiser for septum angle and strength GeOFF.md",
-    "Fellowship/Stray Fields/PS Magnetic Shims.md",
-    "Programming/Python codes and hacks.md"
+    "Fellowship/Electrostatic septum built at CERN for CNAO.md"
   ]
 }
