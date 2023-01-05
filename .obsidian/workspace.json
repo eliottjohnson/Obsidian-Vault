@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/MAD-X Lecture/MADX Theory.md",
+                "file": "Programming/Python codes and hacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -292,17 +292,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5b6e0f3267ee9c7",
+  "active": "e6095ad0df63b053",
   "lastOpenFiles": [
+    "Programming/MAD-X Lecture/MADX Theory.md",
+    "CHIMERA run analysis and reporting meeting 1.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Programming/Python codes and hacks.md",
-    "CHIMERA run analysis and reporting meeting 1.md",
     "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "LEIR.md",
-    "Theory/MU current scaling with momentum.md"
+    "LEIR.md"
   ]
 }
