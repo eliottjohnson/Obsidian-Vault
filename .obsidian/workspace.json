@@ -133,24 +133,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "00ea29d24ebbd66b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -169,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3d plot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +186,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -216,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md",
+                "file": "Theory/MU current scaling with momentum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/Quadrupole scan/BTV filters.md"
+                "file": "Theory/MU current scaling with momentum.md"
               }
             }
           },
@@ -289,8 +280,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00ea29d24ebbd66b",
+  "active": "d26b3d1c53efb764",
   "lastOpenFiles": [
+    "Fellowship/Quadrupole scan/BTV filters.md",
     "Programming/Python codes and hacks.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
@@ -299,7 +291,6 @@
     "Attachments/Pasted image 20221212105039.png",
     "Attachments/Pasted image 20221212112054.png",
     "Theory/Slow extraction theory.md",
-    "Theory/Ion kinetic energy.md",
-    "Fellowship/East Slow Extraction Eliott.md"
+    "Theory/Ion kinetic energy.md"
   ]
 }
