@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md",
+                "file": "CHIMERA run analysis and reporting meeting 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md",
+                "file": "CHIMERA run analysis and reporting meeting 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md",
+                "file": "CHIMERA run analysis and reporting meeting 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/MU current scaling with momentum.md"
+                "file": "CHIMERA run analysis and reporting meeting 1.md"
               }
             }
           },
@@ -282,6 +282,8 @@
   },
   "active": "d26b3d1c53efb764",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Theory/MU current scaling with momentum.md",
     "Fellowship/Quadrupole scan/BTV filters.md",
     "Programming/Python codes and hacks.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
@@ -289,8 +291,6 @@
     "Attachments/Pasted image 20221122152114.png",
     "Attachments/Pasted image 20221122152131.png",
     "Attachments/Pasted image 20221212105039.png",
-    "Attachments/Pasted image 20221212112054.png",
-    "Theory/Slow extraction theory.md",
-    "Theory/Ion kinetic energy.md"
+    "Attachments/Pasted image 20221212112054.png"
   ]
 }
