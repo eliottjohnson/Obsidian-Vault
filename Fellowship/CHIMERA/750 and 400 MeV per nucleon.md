@@ -28,6 +28,7 @@ A quick update on the work we’ve done yesterday with Marc on the 750 and 500 M
   
 **Spill shape**
 
+
 -   We’ve doubled the length of each of these spills, they are now around 400 ms long.
 -   The homogeneity of the spill has been improved, we removed the large spikes, and it is now looking more like a rectangular spill. There’s still some variation spill to spill and noise during extraction but if we take tens of minutes of beam, we should see it average out.
 
