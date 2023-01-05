@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LEIR.md",
+                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LEIR.md",
+                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LEIR.md",
+                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LEIR.md"
+                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
               }
             }
           },
@@ -282,6 +282,7 @@
   },
   "active": "3c97c9b21e815783",
   "lastOpenFiles": [
+    "LEIR.md",
     "CHIMERA run analysis and reporting meeting 1.md",
     "Theory/MU current scaling with momentum.md",
     "Fellowship/Spill monitor.md",
@@ -290,7 +291,6 @@
     "Fellowship/Stray Fields/PS Magnetic Shims.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Fellowship/EAST transfer lines/East restart 2023.md",
-    "Theory/Accelerator Physics Theory.md"
+    "Fellowship/EAST transfer lines/East restart 2023.md"
   ]
 }
