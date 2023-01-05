@@ -94,6 +94,9 @@ Time structure
 
 ### How does the spill shape change with gain setting ?
 
+Most used gain
+![[Pasted image 20230105152806.png]]
+
 Code: https://swan005.cern.ch/user/eljohnso/notebooks/SWAN_projects/quad-scan-east/spill_time_profile_chimera.ipynb
 
 ![[Pasted image 20230105145930.png]]
