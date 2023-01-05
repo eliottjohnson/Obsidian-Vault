@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chimera",
+                "query": "RFKO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,8 +198,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
               }
             }
           },
@@ -294,15 +293,15 @@
   },
   "active": "e6095ad0df63b053",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Programming/Python codes and hacks.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
     "CHIMERA run analysis and reporting meeting 1.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Programming/Python codes and hacks.md",
     "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/Stray Fields/Multipole field component in MU62.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "LEIR.md"
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
   ]
 }
