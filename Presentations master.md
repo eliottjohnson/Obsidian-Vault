@@ -20,4 +20,12 @@
 * Mention the length of the talk
 * Reassure that we are in the middle of the talk
 * Vital to have an agenda (visual)
+* Say: "Feel free to ask question during the presentation"
+* Finish the introduction with a question
+
+## Conclusion
+
+* Never apologize
+* Don't say: "so... any questions..."
+* Say: "So there you have it"
 * 
