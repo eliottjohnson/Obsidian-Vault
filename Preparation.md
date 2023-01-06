@@ -37,3 +37,18 @@
 * Powerpoint (big audience or pictures)
 * Hand out
 * Flipchart (small audience)
+
+# Overcoming Nerves - Practical Advice and Techniques
+
+## Say it until it's true
+* Self talk
+	* Tell to yourself that you love giving talks
+	* I'm the expert
+	* It's going to be fine
+
+## Make yourself bulletproof
+* Back up plans for everything
+* Have spare leads for presentation
+* Bring own laptop
+* Spare projector
+* Bring spare notes
