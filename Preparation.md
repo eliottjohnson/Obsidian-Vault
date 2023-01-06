@@ -28,4 +28,12 @@
 * Never apologize
 * Don't say: "so... any questions..."
 * Say: "So there you have it"
-* 
+* Summary or recap
+* Finish with a call to action
+* Finish with a quiz
+
+## Know your audience
+
+* Powerpoint (big audience or pictures)
+* Hand out
+* Flipchart (small audience)
