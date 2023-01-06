@@ -15,3 +15,9 @@
 
 ## Practicalities to cover
 
+* Say who you are (give credibility and be modest). I've been doing this for years and I've done all the mistakes.
+* Audience is the most important
+* Mention the length of the talk
+* Reassure that we are in the middle of the talk
+* Vital to have an agenda (visual)
+* 
