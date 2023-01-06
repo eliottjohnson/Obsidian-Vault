@@ -128,6 +128,16 @@
             }
           },
           {
+            "id": "0bde7ce4e9035c60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "d26b3d1c53efb764",
             "type": "leaf",
             "state": {
@@ -152,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -291,7 +301,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6095ad0df63b053",
+  "active": "0bde7ce4e9035c60",
   "lastOpenFiles": [
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/CHIMERA/CHIMERA.md",
