@@ -51,4 +51,31 @@
 * Have spare leads for presentation
 * Bring own laptop
 * Spare projector
-* Bring spare notes
+* Bring spare notes (handouts)
+* Bring spare marker pens
+
+## Step off the stage
+* Chat to the audience
+	* They're just normal people
+	* Adjust your talk subtlety
+	* Friendly faces
+
+## The Early Bird
+* Get there really early
+
+## It's better once you're up
+* Stand up
+	* More authority
+	* Shows respect
+
+## Ask the audience
+* Ask the audience questions during your talk
+	* Prepare your questions
+	* What's my next point going to be
+	* Pick on people
+	* Just tell people to show of hands if they are shy
+* They will enjoy it more
+
+## Practise makes perfect
+* Have a run through to check the timing
+* 
