@@ -128,6 +128,18 @@
             }
           },
           {
+            "id": "2f9a64effe43a9e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentations master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d26b3d1c53efb764",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -231,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Presentations master.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Presentations master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+                "file": "Presentations master.md"
               }
             }
           },
@@ -304,12 +316,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e6095ad0df63b053",
+  "active": "aceea13055763bb4",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "CHIMERA run analysis and reporting meeting 1.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
