@@ -174,9 +174,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2114ee3d2270077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Find 3D models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RFKO",
+                "query": "3D model",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +234,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations master.md",
+                "file": "Fellowship/Find 3D models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentations master.md",
+                "file": "Fellowship/Find 3D models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentations master.md"
+                "file": "Fellowship/Find 3D models.md"
               }
             }
           },
@@ -316,8 +327,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "aceea13055763bb4",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
+    "Fellowship/Stray Fields/Distribution of particles through MU62.md",
+    "Presentations master.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "CHIMERA run analysis and reporting meeting 1.md",
@@ -325,8 +338,6 @@
     "Fellowship/CHIMERA/CHIMERA.md",
     "Programming/MAD-X Lecture/MADX Theory.md",
     "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/Stray Fields/Multipole field component in MU62.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
   ]
 }
