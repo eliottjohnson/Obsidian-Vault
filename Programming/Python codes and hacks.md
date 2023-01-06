@@ -81,6 +81,11 @@ df2 = pd.DataFrame(data=d)
 df = pd.concat([df1,df2])
 ```
 
+### Filter by multiple conditions
+
+```python
+df_mean.where( (df_mean.instrument == instrument) & (df_mean.gain == gain) )
+```
 
 ### Sort by column
 ```python
