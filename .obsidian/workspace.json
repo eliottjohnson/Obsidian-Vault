@@ -128,16 +128,6 @@
             }
           },
           {
-            "id": "0bde7ce4e9035c60",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
             "id": "d26b3d1c53efb764",
             "type": "leaf",
             "state": {
@@ -162,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -290,7 +280,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
@@ -298,10 +287,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bde7ce4e9035c60",
+  "active": "e6095ad0df63b053",
   "lastOpenFiles": [
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/CHIMERA/CHIMERA.md",
