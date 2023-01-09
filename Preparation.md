@@ -78,4 +78,4 @@
 
 ## Practise makes perfect
 * Have a run through to check the timing
-* 
+* Two run through at the most
