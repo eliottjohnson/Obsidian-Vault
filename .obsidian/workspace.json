@@ -59,9 +59,11 @@
             "id": "5ff1e3c34d698ea4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Short term.md"
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arnaud",
+                "query": "PR.BCT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Short term.md",
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Short term.md",
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Short term.md"
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md"
               }
             }
           },
@@ -205,8 +207,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f9b9c9a0a49b20c7",
+  "active": "5ff1e3c34d698ea4",
   "lastOpenFiles": [
+    "Short term.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
@@ -215,7 +218,6 @@
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "How to do a good Powerpoint presentation.md",
     "Programming/Linux + Technical.md",
-    "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Programming/Tutorial application development.md"
+    "Fellowship/Stray Fields/Stitching two sequences together.md"
   ]
 }
