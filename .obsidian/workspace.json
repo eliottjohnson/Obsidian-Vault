@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xsec23",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +150,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
               }
             }
           },
@@ -244,17 +243,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6a53c119129c8abe",
+  "active": "d26b3d1c53efb764",
   "lastOpenFiles": [
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "CHIMERA run analysis and reporting meeting 1.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Short term.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
-    "Programming/Python codes and hacks.md",
     "How to do a good Powerpoint presentation.md"
   ]
 }
