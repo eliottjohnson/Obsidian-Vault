@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b010d40364cfe80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PR.BCT",
+                "query": "xsec23",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md"
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md"
               }
             }
           },
@@ -208,8 +219,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a67e7bb3cf59bca9",
+  "active": "7b010d40364cfe80",
   "lastOpenFiles": [
+    "CHIMERA run analysis and reporting meeting 1.md",
     "Fellowship/CHIMERA/CHIMERA.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
@@ -218,7 +230,6 @@
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CHIMERA/ESA Ion Run 2022.md",
     "Programming/Python codes and hacks.md",
-    "How to do a good Powerpoint presentation.md",
-    "Programming/Linux + Technical.md"
+    "How to do a good Powerpoint presentation.md"
   ]
 }
