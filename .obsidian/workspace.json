@@ -59,11 +59,9 @@
             "id": "5ff1e3c34d698ea4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
+                "file": "Short term.md"
               }
             }
           }
@@ -87,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "technical network",
+                "query": "arnaud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +112,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Short term.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Python codes and hacks.md",
+                "file": "Short term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Python codes and hacks.md"
+                "file": "Short term.md"
               }
             }
           },
@@ -208,17 +205,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5ff1e3c34d698ea4",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/EAST transfer lines/EAST slow extraction.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+    "Programming/Python codes and hacks.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "How to do a good Powerpoint presentation.md",
     "Programming/Linux + Technical.md",
     "Fellowship/Stray Fields/Stitching two sequences together.md",
-    "Programming/Tutorial application development.md",
-    "Fellowship/East Slow Extraction Eliott.md",
-    "Fellowship/PTC_TRACK.md",
-    "Theory/Slow extraction theory.md",
-    "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+    "Programming/Tutorial application development.md"
   ]
 }
