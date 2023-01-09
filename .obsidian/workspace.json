@@ -8,120 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f1bfb17301b5260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e6f50960b51a320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/East Area Initial parameters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea993237cf27938e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/CHIMERA/MWPC ion quadrupole scan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78186e392d694d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c97c9b21e815783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c121eb07131c1d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05e0503a4adf825e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/EAST transfer lines/East restart 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8617144eda45d1a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Accelerator Physics Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db1a7cb641c1351b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6095ad0df63b053",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b780947a8d3ba5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,30 +56,6 @@
             }
           },
           {
-            "id": "b5b6e0f3267ee9c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHIMERA run analysis and reporting meeting 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4291c9ce9ff0211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python codes and hacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2114ee3d2270077",
             "type": "leaf",
             "state": {
@@ -188,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gas scinti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparation.md",
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preparation.md",
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparation.md"
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md"
               }
             }
           },
@@ -328,17 +207,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a2114ee3d2270077",
+  "active": "b780947a8d3ba5bc",
   "lastOpenFiles": [
-    "Fellowship/Find 3D models.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/Stray Fields/Distribution of particles through MU62.md",
-    "Preparation.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "CHIMERA run analysis and reporting meeting 1.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Programming/MAD-X Lecture/MADX Theory.md",
-    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md"
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+    "Theory/Accelerator Physics Theory.md",
+    "Fellowship/EAST transfer lines/East restart 2023.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md",
+    "Fellowship/Quadrupole scan/Ion quadrupole scan east dump.md",
+    "Fellowship/CHIMERA/MWPC ion quadrupole scan.md"
   ]
 }
