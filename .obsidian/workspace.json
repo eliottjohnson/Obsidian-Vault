@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Linux + Technical.md"
+                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
               }
             }
           },
@@ -219,17 +219,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "73c0a4bae96d8c57",
+  "active": "b780947a8d3ba5bc",
   "lastOpenFiles": [
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Programming/Linux + Technical.md",
     "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
-    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Theory/Slow extraction theory.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
     "Theory/Accelerator Physics Theory.md",
     "Fellowship/EAST transfer lines/East restart 2023.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/Quadrupole scan/NXCALS IRRAD BPM.md"
+    "Programming/Python codes and hacks.md"
   ]
 }
