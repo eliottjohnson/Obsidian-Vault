@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b92a99afaf82025b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/Stray Fields/Stitching two sequences together.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ad7a3d6c394a904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/East Slow Extraction Eliott.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "technical",
+                "query": "technical network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/East Slow Extraction Eliott.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
+                "file": "Fellowship/East Slow Extraction Eliott.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/RFKO MD8923 Week 44.md"
+                "file": "Fellowship/East Slow Extraction Eliott.md"
               }
             }
           },
@@ -219,17 +243,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b780947a8d3ba5bc",
+  "active": "f9b9c9a0a49b20c7",
   "lastOpenFiles": [
+    "Fellowship/PTC_TRACK.md",
+    "Fellowship/Stray Fields/Stitching two sequences together.md",
+    "Theory/Slow extraction theory.md",
+    "Programming/MAD-X Lecture/MAD-X Theory Intermediate.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Programming/Linux + Technical.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
     "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
-    "Theory/Slow extraction theory.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
-    "Theory/Accelerator Physics Theory.md",
-    "Fellowship/EAST transfer lines/East restart 2023.md",
-    "Programming/Python codes and hacks.md"
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md"
   ]
 }
