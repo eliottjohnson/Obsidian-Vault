@@ -145,4 +145,10 @@
 	* Discussion in pairs
 	* Shout things out and add them to the flip chart
 	* Post it note on the wall (for things that people are afraid of saying)
-	* Get them to present something
+	* Get them to present something (you four, present something)
+	* Have worked example and then show them the right answer
+	* Have a quiz (shout out the answer type quiz)
+
+## Three Insider Tips
+* Use examples for abstract ideas
+* Should you have jokes in your presentation ?
