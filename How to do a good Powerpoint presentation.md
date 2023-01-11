@@ -132,4 +132,17 @@
 * Write in pencil on your flip chart for a secret message to yourself
 * Be cued by your visual aid - add any prices or dates or facts which you are struggling to remember.
 	* Keep slides below about 20 words total if you can.
-* No paragraph of text, only bullet point
+* No paragraph of text, only bullet point (4-5)
+
+## Good and Bad Micro Sleeps
+* Say everything important twice
+	* In the intro, the main body and in the conclusion
+* Hammer that point in
+* Sum up every now and then so people can get back on the train (of your talk)
+
+## Talks longer than 15 minutes
+* Put activities
+	* Discussion in pairs
+	* Shout things out and add them to the flip chart
+	* Post it note on the wall (for things that people are afraid of saying)
+	* Get them to present something
