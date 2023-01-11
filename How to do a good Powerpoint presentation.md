@@ -85,4 +85,24 @@
 
 ## Looking the part
 * Similar to audience but a bit smarter
-* Nothing distrac
+* Nothing distracting
+* Professional and boring
+## How to plan the room
+* Where are you going to stand ?
+	* On the side of the screen
+	* Don't block the door
+* U-shape of tables
+* Cabaret (cafe) style
+* Classroom style
+* Theatre style
+* (Puts some chair away to fill up the first rank)
+
+## Give them a sign
+* You must have an agenda and have it visual
+* Sign post the progress (a presentation is like going in a tunnel, let them know you're on schedule)
+* Sign post that the ending is coming. "My final point is", "One more section and then we finished"
+
+## Body language
+* Be relaxed and be yourself
+* Stand up
+* 
