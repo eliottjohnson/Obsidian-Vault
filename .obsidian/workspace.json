@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xsec",
+                "query": "animation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,6 +269,8 @@
   },
   "active": "bbb0066e5670ad71",
   "lastOpenFiles": [
+    "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
+    "Programming/Python codes and hacks.md",
     "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
     "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
@@ -276,8 +278,6 @@
     "Fellowship/CHIMERA/CHIMERA 2022 run preparation meeting 2.md",
     "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
-    "Short term.md",
-    "Fellowship/CHIMERA/SEC calibration EAST.md",
-    "Fellowship/EAST transfer lines/East restart 2023.md"
+    "Short term.md"
   ]
 }
