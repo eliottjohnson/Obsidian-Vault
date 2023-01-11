@@ -125,4 +125,11 @@
 * Spotting a problem in a photo
 
 ## How to do a Talk without notes
-* 
+* Never read from a script (no eye contact)
+* Never learn a script of by heart
+* An A4 page of notes which summarises your whole talk (in very brief bullet points) works really well
+* Avoid cue cards - go for A4 instead so it’s all on one page
+* Write in pencil on your flip chart for a secret message to yourself
+* Be cued by your visual aid - add any prices or dates or facts which you are struggling to remember.
+	* Keep slides below about 20 words total if you can.
+* No paragraph of text, only bullet point
