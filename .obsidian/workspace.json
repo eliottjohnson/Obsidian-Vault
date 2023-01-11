@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f365ffd46c078ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbb0066e5670ad71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python codes and hacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fourier transform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+                "file": "Programming/Python codes and hacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+                "file": "Programming/Python codes and hacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md"
+                "file": "Programming/Python codes and hacks.md"
               }
             }
           },
@@ -219,17 +243,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d26b3d1c53efb764",
+  "active": "bbb0066e5670ad71",
   "lastOpenFiles": [
-    "CHIMERA run analysis and reporting meeting 1.md",
+    "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
+    "Fellowship/CHIMERA/RFKO acquisition scan.md",
+    "Programming/Python codes and hacks.md",
+    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
+    "CHIMERA run analysis and reporting meeting 1.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Fellowship/Find 3D models.md",
-    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md",
-    "Fellowship/Stray Fields/Q74L.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Short term.md"
+    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md"
   ]
 }
