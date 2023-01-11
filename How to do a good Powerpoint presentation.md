@@ -1,3 +1,4 @@
+# Preparation
 ## Preparation
 * Clear message
 * Mind map
@@ -79,3 +80,9 @@
 ## Practise makes perfect
 * Have a run through to check the timing
 * Two run through at the most
+
+# During the Presentation
+
+## Looking the part
+* Similar to audience but a bit smarter
+* Nothing distrac
