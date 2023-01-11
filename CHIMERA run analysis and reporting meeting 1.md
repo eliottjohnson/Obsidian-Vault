@@ -20,6 +20,4 @@ New magic number from Kacper
 
 ## Pictures of the Run
 
-
-
 [https://cds.cern.ch/record/2842356?ln=en](https://cds.cern.ch/record/2842356?ln=en)
