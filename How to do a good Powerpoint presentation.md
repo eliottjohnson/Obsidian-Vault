@@ -105,4 +105,24 @@
 ## Body language
 * Be relaxed and be yourself
 * Stand up
+* Use the visual aid as an excuse to point things up
+* Walk around a bit
+* Try to smile
+* Equal eye contact for everybody
+
+## Audience interaction
+* How to be interactive with the audience ?
+* That's what great talks are like
+* Prepare the question to ask the audience (allow time interaction)
+* If you're getting answer from the audience, you know they're understanding.
+* It gives you time to think
+* They have to answer it in their head (even if they are not saying it out loud)
+* Ask them a yes or no question
+* Ask them examples
+* Ask for an answer
+* Put them into pairs
+* Write answer on the flip chart
+* Spotting a problem in a photo
+
+## How to do a Talk without notes
 * 
