@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/CHIMERA/CHIMERA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2726661b4fe42494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "technical network",
+                "query": "xsec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Linux + Technical.md",
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Linux + Technical.md"
+                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md"
               }
             }
           },
@@ -255,17 +267,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6d47b42b53207ce7",
+  "active": "2726661b4fe42494",
   "lastOpenFiles": [
-    "CHIMERA run analysis and reporting meeting 1.md",
-    "Fellowship/CHIMERA/CHIMERA 2022 run analysis.md",
-    "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
-    "Fellowship/CHIMERA/RFKO acquisition scan.md",
-    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
-    "Fellowship/EAST transfer lines/EAST slow extraction.md",
-    "Fellowship/Find 3D models.md",
-    "Fellowship/EAST transfer lines/Aperture East lines from 3D models.md"
+    "Fellowship/CHIMERA/CHIMERA 2022 run preparation meeting 2.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/CHIMERA/XSECs in East Area.md",
+    "Short term.md",
+    "Fellowship/CHIMERA/SEC calibration EAST.md",
+    "Fellowship/EAST transfer lines/East restart 2023.md",
+    "Fellowship/CHIMERA/ESA Ion Run 2022.md",
+    "Fellowship/CHIMERA/CHIMERA.md",
+    "Programming/Linux + Technical.md"
   ]
 }
