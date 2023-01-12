@@ -126,21 +126,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6d3aead892106893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to do a good Powerpoint presentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -207,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to do a good Powerpoint presentation.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to do a good Powerpoint presentation.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to do a good Powerpoint presentation.md"
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md"
               }
             }
           },
@@ -280,8 +268,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6d3aead892106893",
+  "active": "2726661b4fe42494",
   "lastOpenFiles": [
+    "How to do a good Powerpoint presentation.md",
     "CHIMERA run analysis and reporting meeting 1.md",
     "Programming/Python codes and hacks.md",
     "Fellowship/Stray Fields/Creating a third integer resonance triangle with PTC.md",
@@ -290,7 +279,6 @@
     "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
     "Fellowship/CHIMERA/CHIMERA 2022 run preparation meeting 2.md",
-    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
-    "Fellowship/CHIMERA/XSECs in East Area.md"
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md"
   ]
 }
