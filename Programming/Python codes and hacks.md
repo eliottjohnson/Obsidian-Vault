@@ -51,8 +51,9 @@ np.take(numpy_array, list_indexes)
 ## Fourier Transform
 
 ``` python
+from scipy.fftpack import rfft, rfftfreq
 yf = rfft(signal)
-xf = rfftfreq(len(blm_signal), time_between_acquisition_in_seconds)
+xf= rfftfreq(len(blm_signal), time_between_acquisition_in_seconds)
 
 fig, ax = plt.subplots(figsize=(15,7))
 ax.plot(xf, np.abs(yf))
