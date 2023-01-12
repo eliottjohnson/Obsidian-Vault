@@ -115,8 +115,6 @@ Access
 
 ### Sunday 27
 
-
-
 3 energies
 
 * 2 on one spare on energies single user
