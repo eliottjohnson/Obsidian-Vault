@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sampling rate",
+                "query": "bxscint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md",
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fellowship/EAST transfer lines/EAST slow extraction.md"
+                "file": "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md"
               }
             }
           },
@@ -317,15 +317,15 @@
   },
   "active": "e480f7f7aa4e57a1",
   "lastOpenFiles": [
+    "Fellowship/EAST transfer lines/Spill monitor XSEC.md",
+    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
+    "Fellowship/CHIMERA/750 and 400 MeV per nucleon.md",
+    "Fellowship/EAST transfer lines/Spill monitor BXSCINT.md",
+    "Fellowship/CHIMERA/Dedicated MD 26th October 2022.md",
+    "Fellowship/EAST transfer lines/EAST slow extraction.md",
     "Fellowship/CHIMERA/XSECs in East Area.md",
     "Fellowship/CHIMERA/RFKO MD8923 Part 2.md",
     "Programming/Python codes and hacks.md",
-    "Fellowship/CHIMERA/Gas scintillator spill monitor.md",
-    "Fellowship/CHIMERA/CHIMERA.md",
-    "Fellowship/CHIMERA/RFKO MD8923 Week 44.md",
-    "Fellowship/CHIMERA/RFKO frequency scan.md",
-    "Fellowship/CHIMERA/RFKO acquisition scan.md",
-    "Programming/Linux + Technical.md",
-    "Fellowship/CHIMERA/ESA Ion Run 2022.md"
+    "Fellowship/CHIMERA/CHIMERA.md"
   ]
 }
